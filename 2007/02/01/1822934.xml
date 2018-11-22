@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A New Cordless Phone From Uniden. Just Add Water.</title>
+    <meta content="01phone" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/technology/01phone.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822934"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <org class="indexing_service">Uniden (Co)</org>
+        <person class="indexing_service">Furchgott, Roy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03EEDD153FF932A35751C0A9619C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A New Cordless Phone From Uniden. Just Add Water.</hl1>
+        <hl2 class="online_headline">A New Cordless Phone From Uniden. Just Add Water.</hl2>
+      </hedline>
+      <byline class="print_byline">By ROY FURCHGOTT</byline>
+      <byline class="normalized_byline">Furchgott, Roy</byline>
+      <abstract>
+        <p>Uniden introduces WX1477 cordless phone that is submersible for depths up to three feet; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If you wanted to place a call to Captain Nemo, Uniden has the phone you need. The new WXI477 comes in a yellow and black color scheme, and it's submersible -- at least for depths up to three feet.</p>
+        <p>The 5.8-gigahertz cordless phone is completely sealed, so you can safely make calls from the pool, or if you really feel the need, the shower. The handset's cradle recharges it by magnetic induction, so there are no exposed metal parts.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Uniden’s water resistant phone has a 100-name phone book, caller ID with a 100-number memory and 20 ring tones.</p>
+      </block>
+      <block class="full_text">
+        <p>If you wanted to place a call to Captain Nemo, Uniden has the phone you need. The new WXI477 comes in a yellow and black color scheme, and it's submersible -- at least for depths up to three feet.</p>
+        <p>The 5.8-gigahertz cordless phone is completely sealed, so you can safely make calls from the pool, or if you really feel the need, the shower. The handset's cradle recharges it by magnetic induction, so there are no exposed metal parts.</p>
+        <p>Water resistance isn't the phone's only feature. It has a 100-name phone book, caller ID with a 100-number memory and 20 ring tones that can be assigned to your contacts so you know right away who is calling.</p>
+        <p>A phone with a base unit is $90. Additional handsets and chargers are $100, and the system can accommodate up to 10 handsets. The phones will be available this month from www.unidendirect.com.</p>
+        <p>Oh, yes, the WXI477 also floats, so if it ends up in the water, you won't have to worry about it sinking 20,000 leagues under the sea.</p>
+        <p>ROY FURCHGOTT</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

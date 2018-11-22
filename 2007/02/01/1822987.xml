@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Thousands in Mexico City Protest Rising Food Prices</title>
+    <meta content="01mexico" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/world/americas/01mexico.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822987"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Demonstrations and Riots</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethanol</classifier>
+        <classifier class="indexing_service" type="descriptor">Grain</classifier>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <location class="indexing_service">Mexico</location>
+        <location class="indexing_service">Mexico City (Mexico)</location>
+        <person class="indexing_service">Malkin, Elisabeth</person>
+        <person class="indexing_service">Calderon, Felipe (Pres)</person>
+        <person class="indexing_service">Lopez Obrador, Andres Manuel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Mexico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Mexico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Mexico/Mexico City</classifier>
+        <classifier class="online_producer" type="descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Grain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethanol</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <location class="online_producer">Mexico</location>
+        <person class="online_producer">Calderon, Felipe</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E7DB153FF932A35751C0A9619C8B63" item-length="906" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Thousands in Mexico City Protest Rising Food Prices</hl1>
+        <hl2 class="online_headline">Thousands in Mexico City Protest Rising Food Prices</hl2>
+      </hedline>
+      <byline class="print_byline">By ELISABETH MALKIN; Antonio Betancourt contributed reporting.</byline>
+      <byline class="normalized_byline">Malkin, Elisabeth</byline>
+      <dateline>MEXICO CITY, Jan. 31</dateline>
+      <abstract>
+        <p>Tens of thousands of workers and farmers fill central square in Mexico City to protest spiraling food prices, problem that has dogged Pres Felipe Calderon in his first weeks in office; protest spills into ever-simmering debate in Mexico over its commitment to free-market economics; Calderon barely won bitterly contested election in July against Andres Manuel Lopez Obrador, who promised to roll back some free-market policies; most analysts agree that main cause of increase in price of tortillas has been spike in corn prices in United States as demand for corn to produce ethanol has jumped; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tens of thousands of workers and farmers filled this city's central square on Wednesday to protest spiraling food prices, ratcheting up the volume over a problem that has dogged President Felipe Calderón in his first weeks in office.</p>
+        <p>Left-wing parties joined the unions and peasant organizations that had called the protest. The protesters, some of whom handed out ears of corn, marched up Mexico City's main avenue to the Zócalo, the site of protests through much of the summer and fall against Mr. Calderón's election.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The high cost of tortillas and other food staples has consumed politics and spilled into the ever-simmering debate over Mexico’s commitment to free-market economics.</p>
+      </block>
+      <block class="full_text">
+        <p>Tens of thousands of workers and farmers filled this city's central square on Wednesday to protest spiraling food prices, ratcheting up the volume over a problem that has dogged President Felipe Calderón in his first weeks in office.</p>
+        <p>Left-wing parties joined the unions and peasant organizations that had called the protest. The protesters, some of whom handed out ears of corn, marched up Mexico City's main avenue to the Zócalo, the site of protests through much of the summer and fall against Mr. Calderón's election.</p>
+        <p>The high cost of tortillas and other food staples has consumed politics here over the past few weeks, posing a stubborn challenge to Mr. Calderón as he seeks to project an image as a take-charge leader. It has spilled into the ever-simmering debate here over the country's commitment to free-market economics.</p>
+        <p>As marchers gathered at dusk in the city's main square, a former television personality, Verónica Velasco, read a statement condemning the government's policies. ''While other countries are looking for alternatives to neoliberal policies, in Mexico, the government has lagged behind and insisted in applying a model that, after a quarter century, has shown its inefficiency and inequality,'' the statement said.</p>
+        <p>As night fell, Andrés Manuel López Obrador, the leftist candidate who narrowly lost to Mr. Calderón in July, spoke to the crowd. City officials would not give an estimate of the size of the protest.</p>
+        <p>To opponents of Mr. Calderón's government, the spike in the price of tortillas is further proof that the free-market policies he has pledged to continue benefit the wealthy at the expense of the poor. The high prices are new ammunition for those who have previously pressed to renegotiate the agricultural chapter of the North American Free Trade Agreement to provide more protection for Mexican farmers, and for Mexico to end its dependence on imports of American corn and recover what nationalists call food sovereignty.</p>
+        <p>Mr. Calderón barely won a bitterly contested election in July against Mr. López Obrador, who promised to roll back some of those policies. Aware that he would have to win over part of the population that has yet to see the benefits of free trade, Mr. Calderón quickly announced a series of social programs once he took office. He also cracked down on the drug trade, establishing an image as a decisive executive. He ordered the army into several cities to fight drug violence and summarily extradited 11 drug trafficking suspects to the United States.</p>
+        <p>But the tortilla price spiral appeared to come as a surprise. Although Mr. Calderón moved quickly, announcing a pact on Jan. 18 to freeze prices, the problem has not been resolved. Even with the pact, the news reports focused on the fact that the price ceiling for the tortillas of about 35 cents a pound was about 40 percent higher than the price three months earlier and contrasted that with the 4 percent increase in the minimum wage, which is still less than $5 a day.</p>
+        <p>But because fewer than 10 percent of tortilla producers signed on to the agreement, the government had little power over those who did not. In some areas, prices have risen to 45 cents a pound. There is little more that Mr. Calderón can do to contain prices without huge expenditures for subsidies. Most analysts agree that the main cause of the increase has been a spike in corn prices in the United States, as the demand for corn to produce ethanol has jumped.</p>
+        <p>But the uneven structure of Mexico's corn and tortilla industry has generated accusations -- none of them proved -- of hoarding and profiteering. Mexico's corn flour industry is controlled by two companies, Grupo Maseca and Minsa. Under the pact, Grupo Maseca agreed to keep prices for corn flour at 21 cents a pound. The government has promised to crack down on profiteers.</p>
+        <p>Ken Shwedel, an agricultural economist in Mexico City for the Dutch agribusiness bank Rabobank, said prices were likely to remain high in the United States, which supplies about 25 percent of Mexico's corn.</p>
+        <p>''This is the first time you've got a real agricultural shock to the economy,'' he said. ''The market economy isn't as benevolent as a state-run economy. The market is characterized by fluctuations. You have to live with it and know how to deal with it.''</p>
+        <p>The marchers directed their blame at the government. ''When they get involved in something as elemental as tortillas, well that's just irresponsible,'' said Francisco Ruiz, 48, a telephone worker. Carola Ortega, 64, a member of a peasant group, said: ''We're here because the government always takes advantage of the poor. First it was tortillas, but we're not stupid; if tortillas go up, everything else does too.''</p>
+        <p>Some analysts argue that the opposition has merely seized on a convenient issue and that it will blow over.</p>
+        <p>''For the unions, it is about much more than tortillas,'' said Vidal Romero, a political scientist at the Autonomous Technological Institute of Mexico, a Mexico City university. ''They want to make it clear to the president that they still have strength and not let the government do what it wants.''</p>
+        <p>For the left, the tortilla issue is a new rallying cry after months of postelectoral protests. Mr. Romero said the left hoped to use the march to position itself as the main opposition force to Mr. Calderón's presidency. ''They want to draw oxygen from it,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

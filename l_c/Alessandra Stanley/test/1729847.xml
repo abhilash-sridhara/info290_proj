@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fighting Crime, Setting Trends</title>
+    <meta content="06vice" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/06/arts/television/06vice.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1729847"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="TV WEEKEND"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television/Reviews</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">TV Land</org>
+        <org class="online_producer">National Broadcasting Co</org>
+        <person class="online_producer">Johnson, Don</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E3DD1E30F935A35752C0A9609C8B63" item-length="887" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fighting Crime, Setting Trends</hl1>
+        <hl2 class="online_headline">Fighting Crime, Setting Trends</hl2>
+      </hedline>
+      <byline class="print_byline">By ALESSANDRA STANLEY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's settled. The 80's were more fun.</p>
+        <p>Aerobics, unlike elliptical machines and Pilates, were inclusive. Madonna would sing and dance and not preach. Michael Jackson still had a nose and some of his right mind. Fashion was more innovative, and so was white-collar crime: Compared with Kenneth L. Lay or Jack Abramoff, Michael Milken was a visionary genius.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Television has lost an 80's attribute that "Miami Vice" epitomized: the ability to be serious and playful at the same time.</p>
+      </block>
+      <block class="full_text">
+        <p>It's settled. The 80's were more fun.</p>
+        <p>Aerobics, unlike elliptical machines and Pilates, were inclusive. Madonna would sing and dance and not preach. Michael Jackson still had a nose and some of his right mind. Fashion was more innovative, and so was white-collar crime: Compared with Kenneth L. Lay or Jack Abramoff, Michael Milken was a visionary genius.</p>
+        <p>And on television, cops were handsome, drove Ferrari convertibles and left autopsies and forensic technology to the lab nerds. Today's crime shows feel like homework; ''CSI: Miami'' is a buzz-kill version of ''Miami Vice.''</p>
+        <p>Why else would Michael Mann direct a movie remake of his landmark television show, starring Colin Farrell and Jamie Foxx as Crockett and Tubbs in place of Don Johnson and Philip Michael Thomas? TV Land, which will begin rerunning the original ''Miami Vice'' this weekend, provides the answer. (The first and second seasons are available on DVD.)</p>
+        <p>''Miami Vice,'' which lasted five seasons on NBC, was a revolutionary series, of course. Its influence on the look and, most of all, the sound of television drama is still evident -- nowadays, even surgeons on ''Grey's Anatomy'' cannot repair an artery without a pop music overlay. But television has also lost an 80's attribute that ''Miami Vice'' epitomized: the ability to be serious and playful at the same time.</p>
+        <p>This was a series set in primeval Miami -- before South Beach, the Russian mob, the Internet or cellphones. The jazzy introduction, copied, minus the pink flamingos, by ''CSI: Miami,'' still looks very hip. But in the premiere episode, Sonny Crockett's first undercover partner, played by Jimmy Smits, asks Crockett for a dime so he can call his wife from a pay phone. Soon after, he is killed by drug dealers (an artistically filmed car bomb explosion), making way for Crockett's new partner, Ricardo Tubbs, a New York City officer in Miami to avenge his murdered brother.</p>
+        <p>They were plainclothes detectives, but their clothes were anything but plain. Mr. Johnson, who made a three-day stubble fashionable, wore white linen suits and a holster over his pastel T-shirts. Mr. Thomas had an earring and crazily patterned shirts. By today's standards, the sedans and women's hairstyles look huge, as do girls' bikinis at the beach, yet Crockett and Tubbs still look very cool. (It helps that Crockett smoked.) They did not take themselves too seriously. Crockett kept a pet alligator on his boat, and both he and his partner liked to race their sports cars and ogle girls. They could make each other laugh.</p>
+        <p>They were hardened, dedicated officers, but they also made their fair share of blunders, mistakes and dumb assumptions. They were dissolute but human, gritty but glamorous: the MTVification of ''Hill Street Blues.'' Two decades later, and in defiance of reality, fictional cops on television exude infallible competence and unflagging professionalism, most painfully in the various ''CSI'' series, but also ''Law &amp; Order'' and all its spinoffs.</p>
+        <p>Lounging in his convertible, Crockett awaits the signal for an early morning sting operation with gruff nonchalance. ''What's the E.T.A. on these huckleberries?'' he asks a surveillance officer over a hidden radio. At crime scenes on ''CSI: Miami,'' Horatio Caine (David Caruso) is an officious pedant. ''On the contrary,'' he tells a detective who fears the worst about a missing girl. ''There is a chance she is alive, and we are going to find her.''</p>
+        <p>The bad guys on ''Miami Vice'' were drug dealers, hitmen and the Colombian cartel -- and sometimes the federal government. (Crockett refers to government agents as ''G-boys.'') In one 1989 episode, Washington interferes to protect a corrupt and homicidal Latin American general (Ian McShane in his pre-''Deadwood'' days). When Crockett and Tubbs try to arrest him, they are stopped by a flinty secret agent. ''Take a look at the map, Crockett, real estate is turning red all over this hemisphere,'' the agent snarls. ''Only two things count: American interests and anything that is counter to them.''</p>
+        <p>It is a bit odd to watch a world in which Communism was still a threat, and drug lords had to steal their rocket-propelled grenade launchers from American military bases, and not simply buy them from wayward republics of the former Soviet Union. It's amusing to see famous actors playing bit parts -- ''Miami Vice'' served as a starter show for all kinds of celebrities: Julia Roberts, Bruce Willis, Miles Davis and even G. Gordon Liddy.</p>
+        <p>Most of all, ''Miami Vice'' is a portal back to an era of confidence and good humor, when even the dark side of life had its lighter moments.</p>
+        <p>Miami Vice</p>
+        <p>TV Land, tomorrow at noon and 1 p.m., Eastern and Pacific times; 11 a.m. and noon, Central time; next Friday at 2 and 3 a.m., Eastern and Pacific times; 1 and 2 a.m., Central time.</p>
+        <p>TV WEEKEND</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Bronx: Parents Arrested In Baby's Death</title>
+    <meta content="01mbrfs-2" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1823083"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Child Abuse and Neglect</classifier>
+        <classifier class="indexing_service" type="descriptor">Child Abuse and Neglect</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Rodriguez, Giovonna Marie</org>
+        <person class="indexing_service">Vasquez, Emily</person>
+        <person class="indexing_service">Rodriguez, Juan (Murder Suspect)</person>
+        <person class="indexing_service">Caceres, Maribel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Child Abuse and Neglect</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801EEDA153FF932A35751C0A9619C8B63" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Bronx: Parents Arrested In Baby's Death</hl1>
+      </hedline>
+      <byline class="print_byline">By EMILY VASQUEZ; Compiled by Anthony Ramirez</byline>
+      <byline class="normalized_byline">Vasquez, Emily</byline>
+      <abstract>
+        <p>Bronx couple are arrested after death of their infant daughter, Giovonna Marie Rodriguez, is determined to have been result of smothering and blunt impact injuries to head; body was found at bottom of trash chute of apartment building in Mott Haven; Juan Rodriguez, father, is charged with murder; Maribel Caceres, mother, is charged with unlawful disposal of human body (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The parents of an infant girl whose body was found at the bottom of a trash chute in a Mott Haven apartment building were arrested yesterday after a tip was received, the police said. The baby's father, Juan Rodriguez, 32, was charged with second-degree murder, and her mother, Maribel Caceres, 21, with unlawful disposal of a human body, the police said. The death of the 5-week-old girl, identified as Giovonna Marie Rodriguez, has been ruled a homicide, the result of smothering and blunt impact injuries to her head, said a spokeswoman for the medical examiner's office, Ellen S. Borakove. The police said that the couple dropped Giovonna down the chute in the Willis Avenue building on Monday. Mr. Rodriguez and Ms. Caceres had been living together in Hempstead, on Long Island, a law enforcement official said. The police said that it was unclear what connection they had to the Bronx building, but that Mr. Rodriguez may have lived in the neighborhood at one time.</p>
+        <p>EMILY VASQUEZ</p>
+      </block>
+      <block class="full_text">
+        <p>The parents of an infant girl whose body was found at the bottom of a trash chute in a Mott Haven apartment building were arrested yesterday after a tip was received, the police said. The baby's father, Juan Rodriguez, 32, was charged with second-degree murder, and her mother, Maribel Caceres, 21, with unlawful disposal of a human body, the police said. The death of the 5-week-old girl, identified as Giovonna Marie Rodriguez, has been ruled a homicide, the result of smothering and blunt impact injuries to her head, said a spokeswoman for the medical examiner's office, Ellen S. Borakove. The police said that the couple dropped Giovonna down the chute in the Willis Avenue building on Monday. Mr. Rodriguez and Ms. Caceres had been living together in Hempstead, on Long Island, a law enforcement official said. The police said that it was unclear what connection they had to the Bronx building, but that Mr. Rodriguez may have lived in the neighborhood at one time.</p>
+        <p>EMILY VASQUEZ</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

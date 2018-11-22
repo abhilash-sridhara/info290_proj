@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bush Tells Wall St. to Rethink Pay Practices</title>
+    <meta content="01bush" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/business/01bush.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822993"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Boards of Directors</classifier>
+        <classifier class="indexing_service" type="descriptor">Social Security (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">International Trade and World Market</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Rutenberg, Jim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/George W Bush</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boards of Directors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Security (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E5DB153FF932A35751C0A9619C8B63" item-length="760" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bush Tells Wall St. to Rethink Pay Practices</hl1>
+        <hl2 class="online_headline">Bush Tells Wall St. to Rethink Pay Practices</hl2>
+      </hedline>
+      <byline class="print_byline">By JIM RUTENBERG</byline>
+      <byline class="normalized_byline">Rutenberg, Jim</byline>
+      <abstract>
+        <p>Pres Bush, addressing business leaders on Wall Street, calls on corporate boards to hold their chief executives more accountable by tying their pay to performance; comments are met with silence from otherwise friendly crowd gathered at Federal Hall National Memorial in New York; invites Democrats to join him in finding long-term fix for Social Security; warns against raising taxes; asks lawmakers to renew his authority to negotiate trade deals and submit them to Congress for straight up or down votes without amendments; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>President Bush yesterday called on corporate boards to hold their chief executives more accountable by tying their pay to performance -- a new message from a president who is closely allied to the business community.</p>
+        <p>Addressing business leaders on Wall Street, Mr. Bush said ''the salaries and bonuses of C.E.O.s should be based on their success at improving their companies and bringing value to their shareholders.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>President Bush called on corporate boards to hold their chief executives more accountable by tying their pay to performance.</p>
+      </block>
+      <block class="full_text">
+        <p>President Bush yesterday called on corporate boards to hold their chief executives more accountable by tying their pay to performance -- a new message from a president who is closely allied to the business community.</p>
+        <p>Addressing business leaders on Wall Street, Mr. Bush said ''the salaries and bonuses of C.E.O.s should be based on their success at improving their companies and bringing value to their shareholders.''</p>
+        <p>''America's corporate boardrooms must step up to their responsibilities,'' he said. ''You need to pay attention to the executive compensation packages that you approve.''</p>
+        <p>Mr. Bush's comments, made at one of Wall Street's great landmarks, Federal Hall National Memorial, were met with silence from an otherwise friendly crowd gathered to hear what the White House billed as a ''State of the Economy'' speech. It came more than a week after his State of the Union address, and days ahead of the unveiling of his annual budget on Monday.</p>
+        <p>The president may be buffeted by bad news out of Iraq and record-low poll ratings, but he was buoyed on yesterday by positive economic signals. And he purposely chose Wall Street as the arena for his message that the economy is vibrant, a theme his aides hope can help him rebuild his flagging support.</p>
+        <p>The visit included a surprise stop on the floor of the New York Stock Exchange, where his path through the crowd was marked by an audible wake of cheers.</p>
+        <p>(White House officials said Ronald Reagan was the only other president to visit the stock exchange during trading hours.)</p>
+        <p>With Democrats and some Republicans continuing to discuss resolutions critical of his new plan for Iraq in Washington, Mr. Bush used his speech earlier at Federal Hall to flaunt new economic data.</p>
+        <p>Speaking before the Association for a Better New York, a civic group, Mr. Bush invited Democrats to join him in finding a long-term fix for Social Security, warned them against raising taxes and asked lawmakers from both parties to renew his authority to negotiate trade deals and submit them to Congress for straight up or down votes without amendments.</p>
+        <p>The president's trade authority is set to expire July 1. He indicated that he expected his call for its renewal to prompt a fierce debate with members of Congress who have expressed increasing concern about the effect of global trade deals on American workers -- an issue in the 2006 midterm elections and certain to be one again in 2008.</p>
+        <p>''I know there's going to be a vigorous debate on trade, and bashing trade can make for good sound bites on the evening news,'' Mr. Bush said. ''But walling off America from world trade would be a disaster for our economy. Congress needs to reject protectionism.''</p>
+        <p>Democrats have said that they would seek to include new environmental and labor requirements for future trade deals as a condition for renewing the president's negotiating authority.</p>
+        <p>His call for closer scrutiny of executive pay seemed to pit him against natural allies in the business community who have supported him throughout his political career.</p>
+        <p>For the last few years, shareholder advocates and lawmakers have criticized the growing chasm between executive pay and workers' salaries, often in harsh tones. But executive pay continues to rise rapidly.</p>
+        <p>The average pay for a top executive is now 170 times that of the average worker, according to recent academic research.</p>
+        <p>White House officials said that Mr. Bush decided to raise the issue out of his own sense of outrage over deals in which executives have left flagging or failed companies with huge compensation packages, as workers and lower-level executives have been left far behind.</p>
+        <p>But officials said there was also an economic concern: that distrust of corporate executives over their pay had the potential to scare individual investors out of the market.</p>
+        <p>''Our capital markets are based on trust,'' said Dan Bartlett, the White House counselor.</p>
+        <p>Mr. Bush said he did not believe that the government should interfere in corporate governance, a swipe at Democratic plans to push legislation requiring shareholder votes on pay packages. Rather, he said he supported new rules by the Securities and Exchange Commission requiring greater disclosure of executive pay packages.</p>
+        <p>''I appreciate the fact that the S.E.C. has issued new rules to ensure that there is transparency when it comes to executive pay packages,'' Mr. Bush said. ''The print ought to be big and understandable.''</p>
+        <p>But compensation experts say that better disclosure has often led to even greater paychecks once executives see what their peers make and demand that their boards match or exceed it.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

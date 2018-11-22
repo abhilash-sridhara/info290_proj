@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Algerian Explosion Stirs Foes of U.S. Gas Projects</title>
+    <meta content="12GAS$01" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="W" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/02/12/business/12gas.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1558189"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="indexing_service" type="descriptor">Explosions</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Shortages</classifier>
+        <classifier class="indexing_service" type="descriptor">International Trade and World Market</classifier>
+        <classifier class="indexing_service" type="descriptor">Shutdowns (Institutional)</classifier>
+        <location class="indexing_service">Algeria</location>
+        <location class="indexing_service">Skikda (Algeria)</location>
+        <location class="indexing_service">California</location>
+        <location class="indexing_service">Massachusetts</location>
+        <location class="indexing_service">Alabama</location>
+        <org class="indexing_service">Sonatrach (Algerian Oil Co)</org>
+        <person class="indexing_service">Romero, Simon</person>
+        <person class="indexing_service">Bouteflika, Abdelaziz (Pres)</person>
+        <person class="indexing_service">Benachenhou, Abdellatif (Min)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Alabama</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Massachusetts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Algeria</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Alabama</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Algeria</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="descriptor">Shortages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Explosions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shortages</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <location class="online_producer">United States</location>
+        <location class="online_producer">Algeria</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040212T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEFDF133AF931A25751C0A9629C8B63" item-length="1305" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Algerian Explosion Stirs Foes of U.S. Gas Projects</hl1>
+        <hl2 class="online_headline">Algerian Explosion Stirs Foes of U.S. Gas Projects</hl2>
+      </hedline>
+      <byline class="print_byline">By SIMON ROMERO</byline>
+      <byline class="normalized_byline">Romero, Simon</byline>
+      <dateline>ALGIERS, Feb. 11</dateline>
+      <abstract>
+        <p>Explosion that flattened large part of Algerian port of Skikda on Jan 19, killing 30 people and injuring 70 more, has shaken plans to build dozens of liquefied natural gas terminals in US to address forecast shortage of natural gas; environmentalists in California, Massachusetts and Alabama have challenged safety of proposed LNG terminals; blast at Skikda, port responsible for about quarter of LNG exports from Algeria, is deadliest incident in more than 30 years for industry; Algeria's national oil and gas company Sonatrach attributes explosion to accident at steam boiler, and administration of Pres Abdelaziz Bouteflika has promised official inquiry; Algeria's Finance Min Abdellatif Benachenhou says nation could lose as much as $300 million in export revenue this year if Skikda remains shut for extended period; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An explosion that flattened a large part of the Algerian port of Skikda last month, killing 30 people and injuring 70 more, has shaken plans to build dozens of liquefied natural gas terminals in the United States to address a forecast shortage of natural gas.</p>
+        <p>Environmentalists in California, Massachusetts and Alabama have challenged the safety of the proposed L.N.G. terminals, where supercooled natural gas is to be taken from oceangoing tankers, warmed and then pumped into the pipeline network. The Algerian disaster is bolstering arguments against L.N.G. terminals that were already under scrutiny by regulators; about 30 terminals have been proposed for the United States.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An explosion that flattened a large part of the Algerian port of Skikda last month has shaken plans to build dozens of liquefied natural gas terminals in the U.S. to address a forecast shortage of natural gas.</p>
+      </block>
+      <block class="full_text">
+        <p>An explosion that flattened a large part of the Algerian port of Skikda last month, killing 30 people and injuring 70 more, has shaken plans to build dozens of liquefied natural gas terminals in the United States to address a forecast shortage of natural gas.</p>
+        <p>Environmentalists in California, Massachusetts and Alabama have challenged the safety of the proposed L.N.G. terminals, where supercooled natural gas is to be taken from oceangoing tankers, warmed and then pumped into the pipeline network. The Algerian disaster is bolstering arguments against L.N.G. terminals that were already under scrutiny by regulators; about 30 terminals have been proposed for the United States.</p>
+        <p>The Jan. 19 blast at Skikda -- a port responsible for about a quarter of the L.N.G. exports from Algeria, the world's second-largest L.N.G. exporter after Indonesia -- was the deadliest incident in more than 30 years for the industry.</p>
+        <p>Sonatrach, Algeria's national oil and gas company, has attributed the explosion to an accident at a steam boiler, and the administration of President Abdelaziz Bouteflika has promised an official inquiry. In the meantime, costs related to the explosion have continued to climb.</p>
+        <p>Abdellatif Benachenhou, Algeria's finance minister, said in an interview on Tuesday that the nation could lose as much as $300 million in export revenue this year if Skikda remained shut for an extended period. That would be in addition to the $800 million to $1 billion needed to rebuild the port, which was constructed in the early 1970's by Technip, a French construction company, and renovated in the late 1990's by the Halliburton Company, the large Texas energy services concern.</p>
+        <p>''Of course it will have an impact,'' Mr. Benachenhou said, referring to the Skikda accident. ''We're still trying to figure it out.''</p>
+        <p>Until last month's explosion, Algeria, which was a pioneer in the L.N.G. industry when its first exporting plants were built 40 years ago, had not suffered a fatal accident at the plants, even during a decade-long civil conflict between the military-backed government and opposition groups that has claimed the lives of about 120,000 people.</p>
+        <p>The blast came just weeks before the gathering here this week of the Organization of the Petroleum Exporting Countries, the first time the group has met in Algeria since 1980.</p>
+        <p>While the Skikda explosion has jolted Algeria's energy industry, it has also raised doubts over the safety of dozens of proposed L.N.G. projects in the United States, where a shortage of natural gas and a projected surge in demand has spurred the ambitions of energy companies. Environmental advocates and other opponents of the terminals -- which would be built in San Francisco, San Diego and Mobile, Ala., among other places -- have seized upon the Skikda blast as an argument for greater scrutiny of those projects.</p>
+        <p>Even though the Skikda plant is not identical to the terminals being proposed in the United States and the explosion there has not been tied directly to L.N.G., they say the destructive power of that accident should give planners pause when reviewing requests to build in the United States.</p>
+        <p>''The lesson to take away from Algeria is that it was an event of greater magnitude than anyone expected,'' said Bill Powers, chairman of the Border Power Plant Working Group, an organization in San Diego that has protested plans to build L.N.G. plants nearby in northern Mexico. ''That's why we should not put L.N.G. facilities anywhere near centers of population.''</p>
+        <p>Opposition was already particularly strong in California. Royal Dutch/Shell and Bechtel shelved plans to build a large regasification plant in Vallejo, Calif., near San Francisco, after residents lobbied against the project. Community opposition to a proposed terminal in Long Beach, Calif., has also been fierce.</p>
+        <p>Opposition to L.N.G. projects has also strengthened in other states. In Alabama, for instance, Exxon Mobil signaled in late January, after the Skikda explosion, that it would shift its focus to gaining regulatory approval for L.N.G. terminals at two locations in Texas instead of in Mobile Bay in Alabama.</p>
+        <p>Bob Davis, a spokesman for Exxon Mobil, said the company's decision was not related directly to the Skikda explosion but to persistent opposition to the project from community and government officials in Alabama. Mr. Davis acknowledged, however, that Skikda was increasingly being used as a rallying cry by opponents to L.N.G. installations.</p>
+        <p>''You've got to be careful about making one-to-one comparisons with the facilities we're considering for the U.S.,'' he said.</p>
+        <p>Energy industry executives and regulatory officials have pointed out that the explosion in Skikda has been preliminarily attributed to a boiler that is not expected to be part of L.N.G. terminals in the United States, which are to be used for warming liquefied gas back into a vapor, then storing it. The Skikda plant did the opposite, chilling natural gas until it condensed into a liquid, which is easier to transport by ship.</p>
+        <p>''It's not bad to scrutinize the incident so we can come away with a proper assessment of the risks involved,'' said Michelle Michot Foss, director of the Institute for Energy, Law and Enterprise at the University of Houston. ''Accidents involving L.N.G. have still been relatively rare events.''</p>
+        <p>There have been only a handful of deadly L.N.G.-related accidents since the first plants to liquefy natural gas were built in the early 20th century, according to Ms. Foss's institute. The worst occurred in Cleveland in 1944, when a gas leak and subsequent blast killed 128 people.</p>
+        <p>The industry's relatively safe record in the three decades before the Skikda explosion was not enough to convince some environmental advocates that L.N.G. terminals were relatively safe. Stephanie Gomes, an anti-L.N.G. activist in Vallejo, Calif., said the Algeria incident showed the need to put gas-receiving terminals offshore, away from population centers.</p>
+        <p>''The properties of L.N.G. are dangerous and unknown,'' Ms. Gomes said. ''You just don't put this kind of thing near people.''</p>
+        <p>Besides fanning debate over L.N.G. terminals in the United States, the Skikda accident has hampered Algeria's ability to deliver natural gas that it has already sold to energy companies in Spain, France and Italy. Sonatrach has pledged to honor its contracts to those companies by shipping gas through pipelines or by purchasing L.N.G. on the international market.</p>
+        <p>Sonatrach is eager not to lose business to competing L.N.G. projects in Egypt and Nigeria, said Isaac Xenitides, an energy analyst for Fitch Ratings in London. Egypt, which is also close to traditionally large markets for Algerian gas, like Spain, has two L.N.G. exporting plants under construction.</p>
+        <p>''Someone who might have a contract might be thinking, 'Let's diversify,''' Mr. Xenitides said. ''It's not life-threatening for Sonatrach but this incident will have repercussions for Algeria.''</p>
+        <p>If Algeria is able to quickly rebuild and expand its gas exporting capability, it could limit the financial impact of the Skikda blast, although oil and gas exports account for more than 95 percent of export earnings and about 60 percent of budget revenue.</p>
+        <p>L.N.G. is estimated to generate about 15 percent of the nation's hydrocarbon export revenue, and that amount is believed to be rising. Skikda accounted for about a quarter of Algeria's L.N.G. exports, according to Poten &amp; Partners, an energy brokerage and consulting firm in New York.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

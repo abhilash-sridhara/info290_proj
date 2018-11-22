@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Works for Four Instruments, but Not Always Four at Once</title>
+    <meta content="17KOZI" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Arts &amp; Ideas/Cultural Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/01/17/arts/music/17KOZI.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1551404"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="CRITIC'S NOTEBOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">So Percussion (Music Group)</org>
+        <org class="indexing_service">Antares (Music Group)</org>
+        <person class="indexing_service">Kozinn, Allan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E4DD1F30F934A25752C0A9629C8B63" item-length="906" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Works for Four Instruments, but Not Always Four at Once</hl1>
+        <hl2 class="online_headline">Works for Four Instruments, but Not Always Four at Once</hl2>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+      <byline class="normalized_byline">Kozinn, Allan</byline>
+      <abstract>
+        <p>Allan Kozinn Critic's Notebook column reviews performances by So Percussion ensemble at Merkin Concert Hall and Antares ensemble at Christ and St Stephen's Church; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>So Percussion, an ensemble formed in New Haven in 1999, called its Tuesday evening program at Merkin Concert Hall ''Commissions and Favorites.'' Actually, all but one of the four works the group played were commissions; the favorite was John Cage's ''Third Construction,'' probably the most frequently performed work in the percussion repertory.</p>
+        <p>Antares, an ensemble of similarly recent vintage, could easily have used the same title for its concert on Thursday at Christ and St. Stephen's Church in Manhattan, although the proportions were inverted. Of the eight works it offered, two were written for Antares, and one, Kati Agocs's ''In the Imagination of Their Hearts,'' was a world premiere -- or at least four-fifths of a world premiere, its finale not having been finished in time.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Antares, an ensemble of recent vintage, could have used So Percussions title, "Commissions and Favorites," for its concert at Christ and St. Stephens Church in Manhattan.</p>
+      </block>
+      <block class="full_text">
+        <p>So Percussion, an ensemble formed in New Haven in 1999, called its Tuesday evening program at Merkin Concert Hall ''Commissions and Favorites.'' Actually, all but one of the four works the group played were commissions; the favorite was John Cage's ''Third Construction,'' probably the most frequently performed work in the percussion repertory.</p>
+        <p>Antares, an ensemble of similarly recent vintage, could easily have used the same title for its concert on Thursday at Christ and St. Stephen's Church in Manhattan, although the proportions were inverted. Of the eight works it offered, two were written for Antares, and one, Kati Agocs's ''In the Imagination of Their Hearts,'' was a world premiere -- or at least four-fifths of a world premiere, its finale not having been finished in time.</p>
+        <p>Ms. Agocs's work is a song cycle, its texts drawn from Latin, Hungarian and English poetry and a letter from Joan of Arc in French. The fifth movement will be a setting of an Italian text, the piece's point being the universality of the passions and the way they fire writers' imaginations. Ms. Agocs's imagination is fairly nimble: although her harmonic style can be fairly dense, her vocal writing has an almost 19th-century naturalness. She has, in other words, avoided the unnatural leaps and spiky rhythms frequently heard in vocal works by composers whose harmonic sense she has embraced.</p>
+        <p>Ms. Agocs's approach to accompaniment is striking, too. Although she wrote the work for Antares, a quartet that consists of a pianist (Eric Huebner), a violinist (Vesselin Gellev), a clarinetist (Garrick Zoeter) and a cellist (Rebecca Patterson), she used the full group sparingly. In the opening movement, for example, the singer is accompanied by violin and cello; the fourth is scored for only voice and cello. Brenda Patterson, a mezzo-soprano with an appealingly warm sound (she is the cellist's sister), gave the work a shapely reading that pointed up Ms. Agocs's responsiveness to the texts. Ms. Patterson also sang a pair of Ives songs (''Remembrance'' and ''The Housatonic at Stockbridge''), the oldest works on the program by several decades.</p>
+        <p>The other piece written for Antares was Kevin Puts's ''Simaku'' (1996), which takes advantage of the ensemble's instrumentation to create shimmering, rhythmically driven textures. Curiously, though, the work broke free of the presumption of equality that drives most chamber scores. In its most memorable moments, an exploratory violin line soared over the burbling texture of the piano, clarinet and cello.</p>
+        <p>James Matheson's ''Buzz'' (2001) made the most of the instrumentation as well, dividing the ensemble interestingly, with the clarinet and violin combining in a mercurial counterbalance to the weightier cello and piano writing. Like Mr. Puts's work, it is accessible and eclectic.</p>
+        <p>Guillaume Connesson's ''Disco Toccata'' (1994), for clarinet and cello, is in that spirit, too. In a program note, the composer said the work's rhythmic moves and some of its melodic hooks were drawn from disco. But the instrumentation disguises that: Antares's reading, at least, made the score sound more jazz-influenced.</p>
+        <p>The older pieces on the program, besides the Ives, were Takemitsu's ''Quatrain II'' (1987) and Fred Lerdahl's eclectic but complex ''Marches'' (1998).</p>
+        <p>So Percussion got its concert off to a clangorous start with Dennis Desantis's ''Shifty,'' a work built of the hard sounds of struck brake drums, the bass drums of trap sets and bongos played with sticks rather than with the hands. Fairly quickly, the ruckus gave way to rhythmic counterpoint: one couldn't ask for more from a percussion group's curtain-raiser.</p>
+        <p>Jonathan Leshnoff's contrastingly gentle ''Waddi Valley Echoes'' was inspired by a visit to Israel and the decision to listen intently to the sounds of the desert, including bird calls echoing from rock walls, as well as falling pebbles and the water in a spring. Incorporating bowed cymbals, vibraphones, tom toms and the inner workings of a piano into his scoring, Mr. Leshnoff used repeating melodic cells and sudden interruptions to convey the mysterious, constantly changing and sometimes unsettling aura of the experience.</p>
+        <p>David Lang's contribution, ''The So-Called Laws of Nature,'' is a major work -- a percussion symphony, of sorts -- and it had the second half of the program to itself. Each of its four movements demanded a different collection of instruments, some made to Mr. Lang's specifications (for example, a quasi-xylophone of wooden boards in the first movement, and the steel pipes of different lengths in the second), some using existing objects (including clay pots or metal dishes). Mr. Lang took a page from the Minimalists, giving the percussionists identical parts but allowing rhythmic displacement to create the illusion of variegated, contrapuntal textures.</p>
+        <p>The players in So Percussion -- Douglas Perkins, Adam Sliwinski, Jason Treuting and Lawson White -- were energetic and thorough in mining all these works for their visceral and structural thrills.</p>
+        <p>CRITIC'S NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

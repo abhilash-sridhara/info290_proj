@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mining the Raw Stuff of Rhythm, Movement and Ritual</title>
+    <meta content="01evid" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/arts/dance/01evid.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822916"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <org class="online_producer">Joyce Theater</org>
+        <person class="online_producer">Brown, Ronald K</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E3DD153FF932A35751C0A9619C8B63" item-length="524" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mining the Raw Stuff of Rhythm, Movement and Ritual</hl1>
+        <hl2 class="online_headline">Mining the Raw Stuff of Rhythm, Movement and Ritual</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER DUNNING</byline>
+      <byline class="normalized_byline">Dunning, Jennifer</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Something happens in much of Ronald K. Brown's choreography that seems to have little to do with concert or stage dance, for all his highly developed craft and the expertise of his performers. Watching Mr. Brown's Evidence, A Dance Company perform on Tuesday night at the Joyce Theater, thoughts came to mind of what were probably the earliest forms of dancing, driven by impulse, then by the desires to communicate individually and through communal ritual.</p>
+        <p>The dances in the first of two programs to be presented at the Joyce are similar. Each begins with a solo, followed by free-standing sections, usually set to different music, that build to a climax. Mr. Brown's choreographic style is rooted in the crouched, earth-pulled stance, loose and thrusting body, arms and legs akimbo, of some West African dance and urban American social dance forms of the late 20th century.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Watching Evidence, A Dance Company perform, thoughts came to mind of what were probably the earliest forms of dancing.</p>
+      </block>
+      <block class="full_text">
+        <p>Something happens in much of Ronald K. Brown's choreography that seems to have little to do with concert or stage dance, for all his highly developed craft and the expertise of his performers. Watching Mr. Brown's Evidence, A Dance Company perform on Tuesday night at the Joyce Theater, thoughts came to mind of what were probably the earliest forms of dancing, driven by impulse, then by the desires to communicate individually and through communal ritual.</p>
+        <p>The dances in the first of two programs to be presented at the Joyce are similar. Each begins with a solo, followed by free-standing sections, usually set to different music, that build to a climax. Mr. Brown's choreographic style is rooted in the crouched, earth-pulled stance, loose and thrusting body, arms and legs akimbo, of some West African dance and urban American social dance forms of the late 20th century.</p>
+        <p>And his dancers, particularly the women, look blessedly like ordinary mortals for all their dynamic precision and energy: tall and skinny, short and rounded, with recognizable breasts, hips and bottoms.</p>
+        <p>His musical choices -- reggae, spirituals, blues and funky rock -- are irresistible for their sly sensuality and humor and even more for gut-wrenching rhythms that feel both elemental and intricately woven. Yes, this is my music, you feel. And this is how I would dance and pray to it.</p>
+        <p>The heart of ''Order My Steps,'' choreographed in 2005 and set to music by Fred Hammond, Bob Marley and Terry Riley, is a harrowing and unsentimentally poignant poem about a man's struggle with drug addiction and other life battles, written by Chad Boseman and spoken onstage by him. That sense of struggle is in the dance, but in a joyously propulsive way.</p>
+        <p>Mr. Brown's new ''Truth Don Die,'' danced to music by Omotayo (Wunmi) Olaiya, Mr. Hammond, Me Shell Ndegeocello and Femi Kuti, is a disappointment. This group piece, which ends with almost impatient abruptness, has the look of a dance made to highlight a season. But Mr. Brown has tended in recent years to rework and add to pieces, delighting producers who can then present them as premieres. Despite the visionary story in the Kuti song that inspired the dance, ''Truth Don Die'' is as close to pure movement as Mr. Brown has gotten in the 21 years since he founded his company of ''evidence''-bearing dancers.</p>
+        <p>His use of buried narrative comes to the fore in the wonderfully mysterious last moments of ''Grace,'' a 1999 classic. The piece has spooled out as a series of encounters between dancers in red and in white. A man erupts into the physical equivalent of ecstatic speaking in tongues, watched by another man who is then possessed and comforted by the first. This is the unmistakable heart of Mr. Brown's expressive gifts.</p>
+        <p>No dancers were listed for each piece. For the record, the terrific dancers of Evidence were Mr. Brown, Arcell Cabuag, Shani Nwando Ikerioha Collins, Khetanya Henderson, Tiffany Jackson, Juel Lane, Keon Thoulouis, Steven Washington and Clarice Young.</p>
+        <p>Performances continue through Sunday afternoon at the Joyce Theater, 175 Eighth Avenue, at 19th Street, Chelsea; (212) 242-0800 or joyce.org.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Visiting Israelis Strike Up the Chestnuts</title>
+    <meta content="01maaz" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/arts/music/01maaz.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822902"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Israel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <location class="online_producer">Israel</location>
+        <org class="online_producer">Israel Philharmonic Orchestra</org>
+        <org class="online_producer">Carnegie Hall</org>
+        <person class="online_producer">Maazel, Lorin</person>
+        <person class="online_producer">Vengerov, Maxim</person>
+        <person class="online_producer">Mehta, Zubin</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E5DD153FF932A35751C0A9619C8B63" item-length="507" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Visiting Israelis Strike Up the Chestnuts</hl1>
+        <hl2 class="online_headline">Visiting Israelis Strike Up the Chestnuts</hl2>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+      <byline class="normalized_byline">Kozinn, Allan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The 70th-anniversary party the Israel Philharmonic Orchestra gave itself at home was far more lavish, with a parade of star soloists and conductors taking part in a dozen concerts over two weeks. But the orchestra brought a hint of its celebration to Carnegie Hall on Tuesday evening, when it played the first concert in a weeklong American visit. Lorin Maazel was on the podium on Tuesday, but the orchestra's music director, Zubin Mehta, is on hand as well; he will lead a second Carnegie program tonight.</p>
+        <p>The anniversary notwithstanding, Israeli critics have complained of the ensemble's neglect of contemporary music, including works by Israeli composers. They will get no argument from me. Surely if there is an occasion to show off the homegrown musical culture, an anniversary tour is it. And it's not as if Israel hasn't produced worthy composers: works by Paul Ben-Haim and Noam Sheriff among the older generation, or Oded Zehavi and Avner Dorman, among the younger, would have been welcome.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>What Lorin Maazel and the orchestra offered was music by Beethoven and Mussorgsky, in performances that were muscular and polished.</p>
+      </block>
+      <block class="full_text">
+        <p>The 70th-anniversary party the Israel Philharmonic Orchestra gave itself at home was far more lavish, with a parade of star soloists and conductors taking part in a dozen concerts over two weeks. But the orchestra brought a hint of its celebration to Carnegie Hall on Tuesday evening, when it played the first concert in a weeklong American visit. Lorin Maazel was on the podium on Tuesday, but the orchestra's music director, Zubin Mehta, is on hand as well; he will lead a second Carnegie program tonight.</p>
+        <p>The anniversary notwithstanding, Israeli critics have complained of the ensemble's neglect of contemporary music, including works by Israeli composers. They will get no argument from me. Surely if there is an occasion to show off the homegrown musical culture, an anniversary tour is it. And it's not as if Israel hasn't produced worthy composers: works by Paul Ben-Haim and Noam Sheriff among the older generation, or Oded Zehavi and Avner Dorman, among the younger, would have been welcome.</p>
+        <p>What Mr. Maazel and the orchestra offered was music by Beethoven and Mussorgsky, in performances that were muscular and polished, though no more so (and at times less) than those of the dozens of ensembles that march through New York week after week.</p>
+        <p>Certainly an Israeli composer would have been a better programming choice than the famously anti-Semitic Mussorgsky, whose ''Pictures at an Exhibition'' -- with its ''Samuel Goldenberg and Schmuyle'' movement, a stereotypical caricature of two Polish Jews -- made up the second half. Perhaps this wasn't lost on the orchestra; in a concert that had already boasted superb brass playing, the darting trumpet figure in ''Samuel Goldenberg and Schmuyle'' was woefully imprecise.</p>
+        <p>That wasn't the only odd moment in ''Pictures,'' but the rest -- runaway tempos, eccentric balances, climaxes that suddenly turned tepid -- were products of Mr. Maazel's interpretive desires, and the orchestra gave him what he wanted. At times he seemed to prefer acting to conducting. During ''Bydlo,'' a depiction of a lumbering ox cart, he cracked his baton at the orchestra as if it were a whip.</p>
+        <p>Whip cracking would have had a salutary effect on the peculiarly lethargic Beethoven Violin Concerto that Mr. Maazel and Maxim Vengerov offered just before the intermission. Mr. Vengerov has lately been reconsidering works he once played exquisitely, evidently in search of fresh, personalized visions.</p>
+        <p>In the Beethoven that vision occasionally involved sharp, determined accenting as well as the melting tone that has long been his trademark. Just as often it gave way to Mahler-level angst, which doesn't suit it and just sounds weird. But he did supply his own inventive and virtuosic cadenzas.</p>
+        <p>Mr. Maazel also led the orchestra in an account of Beethoven's ''Leonore'' Overture No. 3 that was vigorous and beyond reproach.</p>
+        <p>The Israel Philharmonic performs tonight at Carnegie Hall, (212) 247-7800, carnegiehall.org; Zubin Mehta conducts the orchestra at Davies Symphony Hall in San Francisco on Sunday and at the Walt Disney Concert Hall in Los Angeles on Monday. Lorin Maazel conducts at Disney Concert Hall on Tuesday.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

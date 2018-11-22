@@ -1,0 +1,48 @@
+1390 file
+1071 file
+511 file
+./2006_c/Adam Liptak/Adam Liptak.txt
+1337 file
+1508 file
+1679 file
+./2006_c/Adam Nagourney/Adam Nagourney.txt
+1209 file
+1076 file
+978 file
+./2006_c/Alan Ridding/Alan Ridding.txt
+913 file
+826 file
+958 file
+./2006_c/Allessandra/Allessandra.txt
+1565 file
+1036 file
+1129 file
+./2006_c/Bob Tedeschi/Bob Tedeschi.txt
+739 file
+758 file
+748 file
+./2006_c/JOHN TIERNEY/JOHN TIERNEY.txt
+801 file
+805 file
+793 file
+./2006_c/maureen Dowd/maureen Dowd.txt
+763 file
+808 file
+766 file
+./2006_c/Nicholas D Kristoff/Nicholas D Kristoff.txt
+931 file
+1262 file
+996 file
+./2006_c/Robert pear/Robert pear.txt
+1704 file
+3577 file
+3500 file
+./2006_c/Sarah Kreshaw/Sarah Kreshaw.txt
+1480 file
+821 file
+1528 file
+./2006_c/Simon romero/Simon romero.txt
+990 file
+1220 file
+1277 file
+./2006_c/Terry pristin/Terry pristin.txt

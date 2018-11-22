@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Now That a Penny Isn't Worth Much, It's Time to Make It Worth 5 Cents</title>
+    <meta content="01scenes" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/business/01scenes.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070207T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1822997"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ECONOMIC SCENE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Currency</classifier>
+        <classifier class="indexing_service" type="descriptor">Zinc</classifier>
+        <classifier class="indexing_service" type="descriptor">Copper, Brass and Bronze</classifier>
+        <classifier class="indexing_service" type="descriptor">Nickel</classifier>
+        <classifier class="indexing_service" type="descriptor">Futures and Options Trading</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <person class="indexing_service">Goolsbee, Austan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Economic Scene</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Currency</classifier>
+        <classifier class="online_producer" type="descriptor">Metals and Minerals</classifier>
+        <classifier class="online_producer" type="descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Copper, Brass and Bronze</classifier>
+        <classifier class="online_producer" type="general_descriptor">Currency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Metals and Minerals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE5DB153FF932A35751C0A9619C8B63" item-length="971" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Now That a Penny Isn't Worth Much, It's Time to Make It Worth 5 Cents</hl1>
+        <hl2 class="online_headline">Now That a Penny Isn’t Worth Much, It’s Time to Make It Worth 5 Cents</hl2>
+      </hedline>
+      <byline class="print_byline">By AUSTAN GOOLSBEE</byline>
+      <byline class="normalized_byline">Goolsbee, Austan</byline>
+      <abstract>
+        <p>Austan Goolsbee Economic Scene column, noting that prices of zinc, copper and nickel have soared in last few years, questions why US government continues to manufacture pennies and nickels; says government should debase coins by either making them out of something cheaper or abolishing pennies and possibly nickels (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>How dumb do you have to be to mint money at a loss? In the latest only-in-Washington episode, we find that the government may have lost as much as $40 million coining pennies and nickels last year.</p>
+        <p>The metal in them -- the zinc, copper and nickel -- has soared in value in the last few years, making the coins more valuable as raw materials than they are as currency. The government reaction has been to ban the melting of the coins to get the metal. But there is a good chance that we will find ourselves in an outright coin shortage of a form we have not seen in four decades and one that harks back to the monetary problems of medieval times.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In the latest only-in-Washington episode, we find that the government may have lost as much as $40 million coining pennies and nickels last year.</p>
+      </block>
+      <block class="full_text">
+        <p>How dumb do you have to be to mint money at a loss? In the latest only-in-Washington episode, we find that the government may have lost as much as $40 million coining pennies and nickels last year.</p>
+        <p>The metal in them -- the zinc, copper and nickel -- has soared in value in the last few years, making the coins more valuable as raw materials than they are as currency. The government reaction has been to ban the melting of the coins to get the metal. But there is a good chance that we will find ourselves in an outright coin shortage of a form we have not seen in four decades and one that harks back to the monetary problems of medieval times.</p>
+        <p>In their landmark book on monetary history, ''The Big Problem of Small Change,'' two economists, Thomas J. Sargent of New York University and François R. Velde of the Federal Reserve Bank of Chicago, point out that before the 20th century, the value of coins came from the material they contained: silver or gold. In the words of economics, it was ''commodity money.''</p>
+        <p>But as the price of silver or gold increased, people pulled the coins from circulation. These shortages are a basic problem with commodity money and began almost as early as Charlemagne's minting of the first silver penny around 800 A.D.</p>
+        <p>But the United States doesn't have commodity money anymore. Our coins are just tokens now. They are valuable only because the government says they are -- because the government is willing to trade them for dollars.</p>
+        <p>And making tokens that cost more to manufacture than they are worth is monetary insanity. We could make them out of any material we want, so why in the world would we lose money?</p>
+        <p>To stop this senselessness, we would seem to have only two choices: debase the coins (i.e., make them out of something cheaper) or abolish pennies (and, perhaps, even nickels).</p>
+        <p>The United States has debased money in the past. In World War II, we made steel pennies to save copper. In the 1960s, the high value of silver caused a run on quarters and dimes and led to a full-blown coin shortage until we substituted copper and nickel. We also took most of the copper out of pennies in 1982 for the same reason.</p>
+        <p>But debasement only puts off the inevitable for a short time. Because the penny is fixed in value at 1 cent, no matter what the penny is made of, the cost of its material will rise with inflation and eventually be worth more than a cent.</p>
+        <p>Most economists, then, argue that we should use this opportunity to abolish pennies the way Canada, Britain and the European countries that use the euro abolished their smallest coins. Because of inflation, a penny isn't half the coin it once was. Indeed, the United States ended the half-cent in 1857 when it was still worth about 8 cents in today's terms, so we're probably well overdue to retire some coins.</p>
+        <p>But polls show that a majority of Americans like their pennies, and abolition might lead people in Illinois -- the land of Lincoln, where pennies still work at tollbooths -- to outright currency rebellion.</p>
+        <p>On top of that, Raymond Lombra, an economist at Pennsylvania State University, claims that the rounding of prices -- a $6.49 bill would cost you $6.50 -- might not be evenly distributed and might cost consumers as much as $600 million a year, a cost that would be paid disproportionately by the poor who use cash more often.</p>
+        <p>Others counter that retail stores could not get away with such shenanigans. But, clearly, the case for abolishing pennies is not universally believed.</p>
+        <p>So what to do?</p>
+        <p>Mr. Velde, in a Chicago Fed Letter  issued in February, has come up with a solution that would abolish the penny, solve the excess costs of making nickels, help the poor, keep the Lincoln buffs happy and save hundreds of millions of dollars for taxpayers.</p>
+        <p>As Mr. Velde explained in an interview, ''We face a very medieval problem so I took inspiration from the medieval practice of rebasing.''</p>
+        <p>He would rebase the penny by having the government declare it to be worth 5 cents.</p>
+        <p>At first that sounds impossible. But our coins are just tokens the government gives a value to. We can say they are worth whatever we like. Indeed, Mr. Velde observes that the United States did something similar in 1834, when it changed the gold-silver ratio and suddenly the half-eagle $5 coin was actually worth $5.625.</p>
+        <p>Pennies would then cost a little over 1 cent to make and would be worth a nickel, so the government would again be making a profit on money. We would have plenty of new Lincoln nickels so we could stop minting our current nickels at a heavy loss. The Jefferson nickels would stay in circulation, just as the old wheat pennies do now. Because metal in nickels is valuable, though, they would probably be melted down.</p>
+        <p>Rebasing pennies is printing money. But don't get too worried about inflation. With about 140 billion pennies in circulation ($1.4 billion) -- counting the ones in your couch and your kids' piggy banks -- this rebalance would make them worth $7 billion, adding about $5.6 billion to the money supply. For comparison, at the start of 2007 there was about $1.4 trillion in currency and money available for purchases, to say nothing of credit cards.</p>
+        <p>Plus, the money would go disproportionately to the poor (and to people getting allowances from their parents), more than offsetting any ''rounding tax'' from eliminating the penny.</p>
+        <p>So pull out those sofa cushions, ladies and gentlemen, and start looking for the shiny face of Honest Abe. All that glitters may not be gold, or even nickel, but it may be worth 5 cents.</p>
+        <p>ECONOMIC SCENE Austan Goolsbee is a professor of economics at the University of Chicago Graduate School of Business and a research fellow at the American Bar Foundation. E-mail: goolsbee@nytimes.com.</p>
+        <p>Correction:  February 7, 2007, Wednesday  The Economic Scene column in Business Day on Thursday, about the high cost of minting pennies and nickels, misidentified a country that has stopped making its smallest coins; it was Australia, not Canada. The article also misstated the countries within the European Union that had stopped minting their smallest coins. Only two countries, Finland and the Netherlands, have done so; not all countries that use the euro have abolished their smallest coins.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: February 7, 2007, Wednesday</p>
+        <p>The Economic Scene column in Business Day on Thursday, about the high cost of minting pennies and nickels, misidentified a country that has stopped making its smallest coins; it was Australia, not Canada. The article also misstated the countries within the European Union that had stopped minting their smallest coins. Only two countries, Finland and the Netherlands, have done so; not all countries that use the euro have abolished their smallest coins.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Austan Goolsbee is a professor of economics at the University of Chicago Graduate School of Business and a research fellow at the American Bar Foundation. E-mail: goolsbee@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Suspicious Devices in Boston Turn Out to Be Ad Campaign for Cartoon</title>
+    <meta content="01boston" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/us/01boston.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823009"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <location class="indexing_service">Boston (Mass)</location>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Atlanta (Ga)</location>
+        <org class="indexing_service">Turner Broadcasting Co</org>
+        <person class="indexing_service">Goodman, Brenda</person>
+        <person class="indexing_service">Sander, Libby</person>
+        <person class="indexing_service">Belluck, Pam</person>
+        <object.title class="indexing_service">Aqua Teen Hunger Force (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Georgia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Massachusetts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts/Boston</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Georgia/Atlanta</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Georgia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">Time Warner Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE3DB153FF932A35751C0A9619C8B63" item-length="608" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Suspicious Devices in Boston Turn Out to Be Ad Campaign for Cartoon</hl1>
+        <hl2 class="online_headline">Suspicious Devices in Boston Turn Out to Be Ad Campaign for Cartoon</hl2>
+      </hedline>
+      <byline class="print_byline">By PAM BELLUCK; Brenda Goodman contributed reporting from Atlanta and Libby Sander from Chicago.</byline>
+      <byline class="normalized_byline">Goodman, Brenda; Belluck, Pam; Sander, Libby</byline>
+      <dateline>BOSTON, Jan. 31</dateline>
+      <abstract>
+        <p>Boston temporarily closes some areas to traffic after authorities find what police describe as suspicious devices in nine places; devices turn out to be part of marketing campaign by Turner Broadcasting to advertise cartoon television show Aqua Teen Hunger Force; Turner issues statement saying devices pose no danger; notes campaign is active in Atlanta, New York and other cities; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Boston temporarily closed parts of bridges, subway stations, an Interstate highway and even part of the Charles River on Wednesday after the authorities found what the police described as suspicious devices at nine places.</p>
+        <p>But the devices, which included circuit boards, turned out to be part of a marketing campaign by Turner Broadcasting to advertise a cartoon television show, ''Aqua Teen Hunger Force.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The discovery of the devices temporarily closed parts of bridges, subway stations, an Interstate highway and even part of the Charles River in Boston.</p>
+      </block>
+      <block class="full_text">
+        <p>Boston temporarily closed parts of bridges, subway stations, an Interstate highway and even part of the Charles River on Wednesday after the authorities found what the police described as suspicious devices at nine places.</p>
+        <p>But the devices, which included circuit boards, turned out to be part of a marketing campaign by Turner Broadcasting to advertise a cartoon television show, ''Aqua Teen Hunger Force.''</p>
+        <p>Wednesday night, Peter Berdovsky, 27, of Arlington, was arrested and charged with placing a hoax device and disorderly conduct. On Mr. Berdovsky's Web site, photos show people putting the lights on a bridge, a hospital, a bar awning and a clothing store.</p>
+        <p>Turner Broadcasting, part of Time Warner, issued a statement saying, ''The 'packages' in question are magnetic lights that pose no danger.''</p>
+        <p>The statement said the ''outdoor marketing campaign'' had ''been in place for two to three weeks in Boston, New York, Los Angeles, Chicago, Atlanta, Seattle, Portland, Austin, San Francisco and Philadelphia.''</p>
+        <p>The company said it was informing the local and federal law enforcement authorities here of the sites of its ''billboards'' and added, ''We regret that they were mistakenly thought to pose any danger.''</p>
+        <p>Mayor Thomas M. Menino was in no mood to accept the apology.</p>
+        <p>''It is outrageous, in a post-9/11 world, that a company would use this type of marketing scheme,'' Mr. Menino said in a statement. ''I am prepared to take any and all legal action against Turner Broadcasting and its affiliates for any and all expenses incurred during the response to today's incidents.''</p>
+        <p>The devices are dotted with blue and purple lights and are shaped like ''Aqua Teen'' characters, mooninites. One character, Err, seems angry, with slanted eyebrows and what appear to be raised middle fingers.</p>
+        <p>A film based on the cartoon is to be released this year.</p>
+        <p>Police officials in Atlanta, Chicago and New York said they had not noticed the devices or received complaints about them.</p>
+        <p>But in Boston, the discovery of the devices unleashed a sense of chaos as law enforcement officials vaulted into their emergency response mode.</p>
+        <p>From the time that the first device was found around 8 a.m., hanging from a steel beam under Interstate 93 at the Sullivan Square subway station, more reports of sightings kept trickling in. They included on the Longfellow and Boston University Bridges, in a room at the Tufts-New England Medical Center, on an overpass in Somerville and at intersections here and in Cambridge.</p>
+        <p>Explosives experts removed the device at Sullivan Square. Northbound Route I-93 and Storrow Drive were briefly closed. A Coast Guard cutter blocked off a section of the Charles River for several hours. Officials from the F.B.I. and the Homeland Security Department were called in, as well as bomb squads, and extra police officers were deployed around the city.</p>
+        <p>''This has created an enormous inconvenience for people in the city,'' Police Commissioner Edward Davis said at a news conference about the same time that Turner was acknowledging responsibility.</p>
+        <p>At the news conference, Mr. Davis, Mr. Menino and Gov. Deval L. Patrick said no explosives had been found and urged calm.</p>
+        <p>''There is not a reason for anyone to panic,'' Mr. Patrick said. ''But there are reasons for us to be vigilant.''</p>
+        <p>He called the objects ''hoax devices.''</p>
+        <p>After the involvement of Turner Broadcasting became known, Mr. Patrick said in a statement: ''This stunt has caused considerable disruption and anxiety in our community. I understand that Turner Broadcasting has purported to apologize for this. I intend nonetheless to consult with the attorney general and other advisers about what recourse we may have.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

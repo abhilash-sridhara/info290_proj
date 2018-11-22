@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Bid to Cut Costs Becomes a School Bus Battle</title>
+    <meta content="01schools" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; Education; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/education/01schools.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823063"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Buses</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Herszenhorn, David M</person>
+        <person class="indexing_service">Gootman, Elissa</person>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <person class="indexing_service">Klein, Joel I (Chancellor)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="descriptor">Buses</classifier>
+        <classifier class="online_producer" type="descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <location class="online_producer">New York City</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E1DA153FF932A35751C0A9619C8B63" item-length="1427" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Bid to Cut Costs Becomes a School Bus Battle</hl1>
+        <hl2 class="online_headline">Battle Over School Bus Service in New York City</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID M. HERSZENHORN and ELISSA GOOTMAN; Sewell Chan contributed reporting.</byline>
+      <byline class="normalized_byline">Gootman, Elissa; Herszenhorn, David M</byline>
+      <abstract>
+        <p>Cost-saving plan to consolidate yellow school bus routes in New York City goes into effect halfway through school year and in bitter cold, leaving some parents raging at Schools Chancellor Joel I Klein and Mayor Michael R Bloomberg; they are accused of being out of touch with modern family life and its complex architecture of careers, child care and commutes, particularly for parents outside Manhattan; school officials learn that demand for bus service is greater than they thought; only 54,000 of 99,000 public school students listed as eligible for some form of free transportation are assigned seats on yellow buses in new routing system; officials estimate that 7,000 public school students who want yellow bus service were denied it outright; note that 18,000 public school students did not submit required paperwork; Bloomberg calls midyear timing of bus changes as 'unfortunate' but blames it on school bus companies that filed suit briefly blocking new plans; Klein is more contrite, saying most problems have been fixed and promising to address any that remain; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It seemed like an easy way to save millions of dollars: consolidate yellow school bus routes so New York City was no longer paying for buses for hundreds, if not thousands, of children who never actually rode them.</p>
+        <p>But when the plan -- engineered by private consultants hired to rethink the city Education Department's finances -- went into effect this week, halfway through the school year and in the bitter cold, it left parents raging at Schools Chancellor Joel I. Klein and Mayor Michael R. Bloomberg.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A plan to save millions of dollars by consolidating school bus routes has left parents raging at education officials.</p>
+      </block>
+      <block class="full_text">
+        <p>It seemed like an easy way to save millions of dollars: consolidate yellow school bus routes so New York City was no longer paying for buses for hundreds, if not thousands, of children who never actually rode them.</p>
+        <p>But when the plan -- engineered by private consultants hired to rethink the city Education Department's finances -- went into effect this week, halfway through the school year and in the bitter cold, it left parents raging at Schools Chancellor Joel I. Klein and Mayor Michael R. Bloomberg.</p>
+        <p>''I think they're in their own little bubble-world,'' said Jennifer M. Larrea, a substitute teacher from Flushing, Queens, whose son, Kevin, 11, is being denied yellow bus service because he lives too far from a school bus stop. ''It's not just that you can catch the 1, the 9, the 2, the 3,'' she said, referring to Manhattan subway lines. ''In Queens that's not an option.''</p>
+        <p>Mr. Bloomberg, who since winning mayoral control of the schools has often said he should be held responsible, staunchly defended the changes yesterday. He said that the problems were minimal and that many parents had been using bus service to which they were not entitled under school system rules dating back to the 1980s.</p>
+        <p>''So if you're not getting a bus service which you weren't entitled to but were using anyway, I'm sorry,'' he said. ''But we do have more dollars to put into the classroom, where the school budgets belong.''</p>
+        <p>Attendance numbers, while slightly lower than last week, suggested that few students had missed school, and despite the loud complaints, New Yorkers seemed to be managing. Still, parents and local officials called the mayor and the chancellor out of touch with modern family life and its complex architecture of careers, child care and commutes, particularly for parents outside Manhattan.</p>
+        <p>''If this is not cleaned up immediately, it could turn into the administration's version of the Lindsay snowstorm,'' said City Councilman Simcha Felder, a Brooklyn Democrat, referring to the outrage at Mayor John V. Lindsay in 1969 over unplowed streets in Queens. ''There is a disconnect between the Department of Education and regular people who live in the outer boroughs.''</p>
+        <p>Mr. Felder said that he was generally a ''big fan'' of the Bloomberg administration but that his office had received more angry telephone calls on this issue than any other, mostly from parents of yeshiva students. By law, students at nonpublic schools, mainly religious schools, also receive bus service from the city, and those routes also changed.</p>
+        <p>The mutual frustration between the mayor and parents was also evident at City Hall, where the mayor in the past has sparred with parents over the city's ban on cellphones in schools. While Mr. Bloomberg called the midyear timing of the bus changes ''unfortunate,'' he blamed it on school bus companies that filed a lawsuit briefly blocking the city's plans and also on ''parents who wanted to have discussions about it.''</p>
+        <p>The mayor, speaking at a news conference at City Hall, added, ''If there's any parent who has a particular hardship case, calling 311 rather than your local reporter won't get you as much publicity but might get you a solution to your transportation problems.''</p>
+        <p>Mr. Klein, in a statement late last night, was more contrite, saying, ''I am genuinely sorry that this week's changes inconvenienced some families.'' He said he believed most problems had been fixed and promised to address any that remained. And he insisted the department had the best interests of children at heart. ''Our families want as much money in our schools as possible,'' he said.</p>
+        <p>For more than half a century, yellow buses have been a fixture of the city school system, shuttling students who live too far away to walk to school or are too young to do so.</p>
+        <p>But the roughly 6,200 buses -- by far the nation's largest fleet, owned and operated by more than 50 companies -- have also long been a source of problems, with their own convoluted contracting process, periodic threats of driver strikes and an endless stream of day-to-day logistical headaches.</p>
+        <p>The idea of consolidating the routes by asking children to sign up for service was proposed last year by Alvarez &amp; Marsal, a private consulting firm, as one of many ways to help cut $200 million from the bureaucracy that could then be put directly into schools.</p>
+        <p>But until the private consultants began scouring for budget cuts, the chancellor's office said it did not have any idea how many children actually rode the yellow buses each day. Service is supposed to be governed by a patchwork of rules about children's ages and their distances from their schools and bus stops, and is generally available only to certain elementary and middle-school students.</p>
+        <p>This week the officials learned that the demand was greater than they thought. Of about 99,000 public school students listed as eligible for some form of free transportation, only 54,000 were assigned seats on yellow buses in the new routing system. (An additional 28,000 students going to private and parochial schools were also assigned seats. Three thousand more got free MetroCards.)</p>
+        <p>Officials estimated that 7,000 public school students who wanted yellow bus service were denied it outright. In addition, about 18,000 public school students did not submit the required paperwork, while others either declined any service or requested MetroCards. Those figures, and this week's changes, do not include special education students.</p>
+        <p>The city first asked students in June to register for bus service but got a limited response and so could not make the changes for the start of the school year, officials said. A coalition of bus companies then challenged the changes in court and won a temporary restraining order, but that order was lifted in December, and the city decided to move forward despite the risk of midwinter confusion. And confusion there was.</p>
+        <p>Until this week, Marianne Sconzo Smart, a single mother from Staten Island, said her son Christopher, 12, routinely walked to his bus stop while she drove another son's carpool to Staten Island Technical High School. But under the newly enforced rules, Christopher lives too close to Intermediate School 72 to get bus service.</p>
+        <p>But Ms. Smart said she would not let him walk to school alone, which would mean crossing two busy thoroughfares. Instead, she is driving him and darting out from one of her two jobs to take him home. ''I don't think they realize that there are a lot of single parents and working parents with no time to do it all, and this is just adding more stress,'' she said. ''Something's going to have to give, and I don't know what it's going to be yet. And that's what scares me.''</p>
+        <p>Craig Waletzko, an actor from Washington Heights, said that because of a new bus route, his daughter Hallie, 10, had arrived at her school, Mott Hall in Harlem, between 30 and 45 minutes late each day this week. Hallie, a fifth grader, cheerily assured him, though, that the tardiness had been so widespread that lessons were being delayed.</p>
+        <p>''At first I was worried that she was missing class,'' Mr. Waletzko said. ''Then I started worrying about those kids that are doing nothing for 45 minutes. Either way that's not a good situation.''</p>
+        <p>Mr. Waletzko said first-day glitches were understandable but, ''This is day three and nobody seems to be saying, OK, we'll fix it.''</p>
+        <p>The mayor insisted the Education Department was fixing any problems. It has 35 buses on call for emergencies, at a cost of $500 per bus per day. It is taking calls on an emergency hot line: 2,900 had come in by 4 p.m. yesterday, down from 5,847 all day Tuesday.</p>
+        <p>But the savings once anticipated have gone down -- to $12 million a year, from $20 million. And yesterday officials said the savings could be even less because numbers had not taken into account state reimbursements.</p>
+        <p>In the meantime, parents are cobbling together temporary arrangements. Kevin Larrea has been allowed to ride the school bus home from Robert F. Kennedy Community Middle School this week but was told he would have to use a free MetroCard next week. George A. Bonanno, a Manhattan professor who was instructed to deposit his two children at separate bus stops even though they attend the same school, has continued placing them on the same bus anyway.</p>
+        <p>''They said they're working on it,'' he said, ''which is what I usually tell people when I don't have an answer for them.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

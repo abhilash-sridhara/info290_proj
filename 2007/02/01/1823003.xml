@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Death In Destrehan</title>
+    <meta content="01herbert" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/opinion/01herbert.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823003"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Capital Punishment</classifier>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Equal Educational Opportunities</classifier>
+        <classifier class="indexing_service" type="descriptor">Demonstrations and Riots</classifier>
+        <classifier class="indexing_service" type="descriptor">Buses</classifier>
+        <location class="indexing_service">Destrehan (La)</location>
+        <location class="indexing_service">Louisiana</location>
+        <person class="indexing_service">Herbert, Bob</person>
+        <person class="indexing_service">Tyler, Gary</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Bob Herbert</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Louisiana</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana</classifier>
+        <classifier class="online_producer" type="descriptor">Race</classifier>
+        <classifier class="online_producer" type="descriptor">Police</classifier>
+        <classifier class="online_producer" type="descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="descriptor">Courts</classifier>
+        <classifier class="online_producer" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Race</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Equal Educational Opportunities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Capital Punishment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <location class="online_producer">Louisiana</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4DB153FF932A35751C0A9619C8B63" item-length="812" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Death In Destrehan</hl1>
+        <hl2 class="online_headline">A Death in Destrehan</hl2>
+      </hedline>
+      <byline class="print_byline">By BOB HERBERT</byline>
+      <byline class="normalized_byline">Herbert, Bob</byline>
+      <dateline>Destrehan, La.</dateline>
+      <abstract>
+        <p>Bob Herbert Op-Ed column says wrong man may have been wrongly convicted of murder in Destrehan, La, in 1974 and sentenced to death because he is black; says Gary Tyler, then 16, was on school bus with fellow black students, when angry white residents objecting to recent school desegration closed in on bus and screamed racial epithets; says subsequent shooting of white youth was blamed on Tyler despite lack of any evidence; notes Tyler was spared electrocution when Supreme Court declared Louisiana's death penalty unconstitutional; says he sits in state penitentiary, serving out sentence of life without parole (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On the afternoon of Oct. 7, 1974, a mob of 200 enraged whites, many of them students, closed in on a bus filled with black students that was trying to pull away from the local high school. The people in the mob were in a high-pitched frenzy. They screamed racial epithets and bombarded the bus with rocks and bottles. The students on the bus were terrified.</p>
+        <p>When a shot was heard, the kids on the bus dived for cover. But it was a 13-year-old white boy standing near the bus, not far from his mother, who toppled to the ground with a bullet wound in his head. The boy, a freshman named Timothy Weber, died a few hours later.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A single gun shot in 1974 set in motion a tale of appalling injustice that has lasted to the present day.</p>
+      </block>
+      <block class="full_text">
+        <p>On the afternoon of Oct. 7, 1974, a mob of 200 enraged whites, many of them students, closed in on a bus filled with black students that was trying to pull away from the local high school. The people in the mob were in a high-pitched frenzy. They screamed racial epithets and bombarded the bus with rocks and bottles. The students on the bus were terrified.</p>
+        <p>When a shot was heard, the kids on the bus dived for cover. But it was a 13-year-old white boy standing near the bus, not far from his mother, who toppled to the ground with a bullet wound in his head. The boy, a freshman named Timothy Weber, died a few hours later.</p>
+        <p>That single shot in this rural town about 25 miles up the Mississippi River from New Orleans set in motion a tale of appalling injustice that has lasted to the present day.</p>
+        <p>Destrehan was in turmoil in 1974 over school integration. The Supreme Court's historic desegregation ruling was already 20 years old -- time enough, the courts said, for Destrehan and the surrounding area to comply. But the Ku Klux Klan was still welcome in Destrehan in those days, and David Duke, its one-time imperial wizard, was an admired figure. White families in the region wanted no part of integration.</p>
+        <p>When black students were admitted to Destrehan High, they were greeted with taunts, various forms of humiliation and violence. Some of the black students fought back, and in the period leading up to the shooting there had been racial fights at a football game and inside the school.</p>
+        <p>While the Weber boy was being taken to a hospital, authorities ordered the black students off the bus and searched each one. The bus was also thoroughly searched. No weapon was found, and there was no evidence to indicate that the shot had come from the bus. The bus driver insisted it had not come from the bus, but from someone firing at the bus.</p>
+        <p>One of the black youngsters, a 16-year-old named Gary Tyler, was arrested for disturbing the peace after he talked back to a sheriff's deputy -- one of the few deputies in St. Charles Parish who was black. It may have been young Tyler's impudence that doomed him. He was branded on the spot as the designated killer.</p>
+        <p>(Later, at a trial, the deputy, Nelson Coleman, was asked whose peace had been disturbed by Mr. Tyler's comments. ''Mine,'' he replied.)</p>
+        <p>Matters moved amazingly fast after the shooting. Racial tension gave way to racial hysteria. A white boy had been killed and some black had to pay. Mr. Tyler, as good a black as any, was taken to a sheriff's substation where he was beaten unmercifully amid shouted commands that he confess. He would not.</p>
+        <p>It didn't matter. In just a little over a year he would be tried, convicted by an all-white jury and sentenced to death by electrocution.</p>
+        <p>The efficiency of the process was chilling. Evidence began to miraculously appear. Investigators ''found'' a .45-caliber pistol. Never mind that there were no fingerprints on it and it turned out to have been stolen from a firing range used by the sheriff's deputies. (Or that it subsequently disappeared as conveniently as it was found.) The authorities said they found the gun on the bus, despite the fact that the initial search had turned up nothing.</p>
+        <p>The authorities found witnesses who said that Mr. Tyler had been the gunman. Never mind that the main witness, a former girlfriend of Mr. Tyler's, was a troubled youngster who had been under the care of a psychiatrist and had a history of reporting phony crimes to the police, including a false report of a kidnapping. She and every other witness who fingered Mr. Tyler would later recant, charging that they had been terrorized into testifying falsely by the police.</p>
+        <p>A sworn affidavit from Larry Dabney, who was seated by Mr. Tyler on the bus, was typical. He said his treatment by the police was the ''scariest thing'' he'd ever experienced. ''They didn't even ask me what I saw,'' he said. ''They told me flat out that I was going to be their key witness.  They told me I was going to testify that I saw Gary with a gun right after I heard the shot and that a few minutes later I had seen him hide it in a slit in the seat. That was not true. I didn't see Gary or anybody else in that bus with a gun.''</p>
+        <p>Mr. Tyler was spared electrocution when the Supreme Court declared Louisiana's death penalty unconstitutional. But in many ways he has in fact paid with his life. He'll turn 50 this year in the state penitentiary at Angola, where he is serving out his sentence of life without parole for the murder of Timothy Weber.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

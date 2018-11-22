@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   LEHRER, MORTON</title>
+    <meta content="dn020207" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1823105"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">LEHRER, MORTON</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070202T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE3DE163AF931A35751C0A9619C8B63" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   LEHRER, MORTON</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEHRER--Morton, 82, of Sarasota, FL, passed away at his home January 30, 2007. He was born on July 4, 1924, NY, NY. He began his career as an accountant, working with Harry A. Stern in 1942. Shortly thereafter he left to serve in the 9th infantry division of the Army for the duration of World War II. At the end of his service he rejoined Mr. Stern, completed his college education at the City College of New York and established the CPA firm of Stern &amp; Lehrer. During this period, he married his wife of 59 years, Devorah Miller. The Lehrers were active members of their community of Rockville Centre, NY. Upon retiring they moved to Sarasota via Hollywood, FL. He is survived by Devorah, their three children, Allan and Sherry Lehrer of Avon, CT, Barry and Elise Lehrer of Merrick, NY, Lynne and Elliot Godofsky of Sarasota, FL, eight grandchildren and a beloved extended family. Funeral will be at Gutterman's Chapel, Rockville Centre, NY, on Sunday, February 4th, at 11:30 am. Internment at New Montifiore Cemetery. In lieu of Gifts and flowers, donations can be made in Morton's memory to the Solomon Schecter Day School of Greater Hartford Endowment Fund, 26 Buena Vista Road, West Hartford, CT 06107.</p>
+      </block>
+      <block class="full_text">
+        <p>LEHRER--Morton, 82, of Sarasota, FL, passed away at his home January 30, 2007. He was born on July 4, 1924, NY, NY. He began his career as an accountant, working with Harry A. Stern in 1942. Shortly thereafter he left to serve in the 9th infantry division of the Army for the duration of World War II. At the end of his service he rejoined Mr. Stern, completed his college education at the City College of New York and established the CPA firm of Stern &amp; Lehrer. During this period, he married his wife of 59 years, Devorah Miller. The Lehrers were active members of their community of Rockville Centre, NY. Upon retiring they moved to Sarasota via Hollywood, FL. He is survived by Devorah, their three children, Allan and Sherry Lehrer of Avon, CT, Barry and Elise Lehrer of Merrick, NY, Lynne and Elliot Godofsky of Sarasota, FL, eight grandchildren and a beloved extended family. Funeral will be at Gutterman's Chapel, Rockville Centre, NY, on Sunday, February 4th, at 11:30 am. Internment at New Montifiore Cemetery. In lieu of Gifts and flowers, donations can be made in Morton's memory to the Solomon Schecter Day School of Greater Hartford Endowment Fund, 26 Buena Vista Road, West Hartford, CT 06107.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Island of Moguls Is the Latest Front in a Union Battle</title>
+    <meta content="01fisher" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/business/01fisher.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823054"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Organized Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <location class="indexing_service">Fisher Island (Fla)</location>
+        <org class="indexing_service">Service Employees International Union</org>
+        <org class="indexing_service">Census Bureau</org>
+        <person class="indexing_service">Porter, Eduardo</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Florida</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida</classifier>
+        <classifier class="online_producer" type="descriptor">Labor Unions</classifier>
+        <classifier class="online_producer" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="descriptor">Labor</classifier>
+        <classifier class="online_producer" type="descriptor">Labor Role In Politics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor Role In Politics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organized Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <location class="online_producer">Florida</location>
+        <org class="online_producer">Service Employees International Union</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E2DA153FF932A35751C0A9619C8B63" item-length="1563" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Island of Moguls Is the Latest Front in a Union Battle</hl1>
+        <hl2 class="online_headline">An Island of Moguls Is Latest Front in Union Battle</hl2>
+      </hedline>
+      <byline class="print_byline">By EDUARDO PORTER</byline>
+      <byline class="normalized_byline">Porter, Eduardo</byline>
+      <dateline>FISHER ISLAND, Fla., Jan 26</dateline>
+      <abstract>
+        <p>Service Employees International Union is organizing on Fisher Island, one of nation's most concentrated areas of wealth; workers make as little as $8.50 an hour for tending grounds, washing linens and other low-wage jobs; Census Bureau estimates average income of residents of at least $236,000; residents are split on whether changes and union representation is needed; graph of wealthiest places in United States; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The class struggle is coming to paradise.</p>
+        <p>It's hard to tell from the Bentleys and the Jaguars debarking from the ferry, tooling past the pink flamingos in the pond and the peacocks sashaying along the exquisitely coiffed lawn, but this exclusive enclave of the moneyed is bracing for an unexpected test of its decades-old insulation from the outside world: a labor union is trying to organize its workers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A labor union has set its sights on Fisher Island, Fla., one of the most concentrated pockets of wealth in the nation.</p>
+      </block>
+      <block class="full_text">
+        <p>The class struggle is coming to paradise.</p>
+        <p>It's hard to tell from the Bentleys and the Jaguars debarking from the ferry, tooling past the pink flamingos in the pond and the peacocks sashaying along the exquisitely coiffed lawn, but this exclusive enclave of the moneyed is bracing for an unexpected test of its decades-old insulation from the outside world: a labor union is trying to organize its workers.</p>
+        <p>After successful campaigns last year to organize janitors and other maintenance workers at several universities in South Florida, the Service Employees International Union has set its sights on Fisher Island, one of the most concentrated pockets of wealth in the nation.</p>
+        <p>Amid mounting political attention to the substantial widening of the income gap over the last two decades, the service employees union hopes that Fisher Island -- where a share in the golf club costs $250,000 and dues run to $20,000 a year while workers tending the grounds or washing linens can make as little as $8.50 an hour -- will serve as a rallying cry for low-wage service workers across the nation.</p>
+        <p>''This is a symbol of what's wrong and a beacon of what could be right,'' said Stephen Lerner, director of the union's property services division. ''There's a growing feeling in the country that something is a little out of balance when workers live in poverty in the middle of incredible wealth, and it can and should be fixed.''</p>
+        <p>But the union drive, which is just getting under way, might not play out as a straightforward battle pitting the haves against the have-nots. Some residents, of course, oppose the union's arrival. But others are already being courted by the union, which hopes that they will be moved to support it when confronted with the contrast between their affluence and the meager existence of many of their workers.</p>
+        <p>Even among employees interested in joining the union, resentment of the rich does not seem to be the prime motivation.</p>
+        <p>''I'm not bothered by their wealth,'' said Christiana Monestime, a Haitian immigrant working in the club's laundry room for $8.76 an hour. ''They earned what they have. We just need to earn more than we earn.''</p>
+        <p>Representatives of Fisher Island's community association and of the golf club, the two main employers with a combined payroll of about 600 workers, say that their wages and benefits are above the area average. They say they pay 80 percent of the cost of individual health insurance, offer a 401(k) plan with a company match, and provide paid vacations and an allowance of $60 a month to buy food from vending machines in the workers' cafeteria.</p>
+        <p>''I am not sure if there are any advantages'' from having a union, said Gaële C. Silva, vice president for legal and government affairs at Fisher Island Holdings, the island's developer, which controls the community association. ''Unions are needed usually when pay, benefits or working standards are below the usual norms.''</p>
+        <p>Still, to the union, the local wage comparisons are almost beside the point. The chasm between the fortunes of the 750 or so families that call Fisher Island home and the workers toiling in its restaurants and laundry rooms is so striking that it makes for a potent image. Fisher Island, organizers say, is a microcosm of the nation's increasing social and economic divide.</p>
+        <p>A 216-acre nub of land sliced from the tip of Miami in 1905 when the government dredged out a sea-lane from Biscayne Bay, Fisher Island was acquired in 1925 by William K. Vanderbilt II, scion of the robber-baron railroad clan, to build his winter mansion.</p>
+        <p>It epitomizes wealth to this day. The island is home at least part of the year to an assortment of magnates, like the investment guru Martin Zweig, the car dealership mogul Robert Potamkin and the financier Bennet S. LeBow, of tobacco fame. Celebrities like Oprah Winfrey and Mel Brooks have owned winter homes here.</p>
+        <p>According to the Census Bureau, Fisher Island was the richest enclave in America in 1999, with an average income per capita of about $236,000 -- more than double the $91,000 average on the Upper East Side of Manhattan. Residents say the real figures are actually far higher, partly because of the difficulty in gathering income data on part-time residents.</p>
+        <p>Indeed, from the imported Bahamian sand coating the beaches to the marble and mahogany-encrusted Vanderbilt mansion and the 186-foot, $250,000-a-week chartered yacht bobbing in the marina just outside, everything bespeaks luxury. The gilded trappings are a potent reminder of the great income gap that prevailed when Mr. Vanderbilt used to alight his hydroplane in the inviting waters offshore, in the early decades of the 20th century, a gap that has re-emerged today.</p>
+        <p>Elena Bluntzer, a longtime real estate agent on the island who owns a condominium here, said that Fisher Island was comfortably insulated by its wealth, even from the chill affecting the housing market in nearby Miami Beach and elsewhere.</p>
+        <p>New condos are being offered for $4.5 million to $9.1 million. Resale units can go for much more. One that Ms. Bluntzer is trying to sell, 8,300 square feet of oceanfront luxury adorned with coral rock from Santo Domingo, stained glass by Frank Lloyd Wright and sheepskin-covered bathroom walls, is listed for $17.5 million. Maintenance will exceed $7,000 a month.</p>
+        <p>''Everything above six million is doing extremely well,'' Ms. Bluntzer confided.</p>
+        <p>Fisher Island's workers live in a more frugal universe, with laundry workers at the club or landscaper tending the grounds earning as little as $8.50 an hour.</p>
+        <p>Several months ago Ms. Monestime's workweek in the laundry was cut from 40 hours to 24, forcing her to drop the health plan that cost her $22 every two weeks. ''We have to fight,'' Ms. Monestime said. ''Everybody has a family to support.''</p>
+        <p>Abraham Guevara, a Honduran immigrant who has worked 18 years as a landscaper on the island and makes $14.42 an hour, said he was generally content with his employers. Still, he thought a union might help workers push for a better deal.</p>
+        <p>''I have never been in a union,'' he said, ''but it might be a good idea.''</p>
+        <p>This is not the first time organized labor has tried to land on Fisher Island. In 2005, the Teamsters dropped their attempt to unionize workers after they lost a representation election against fierce opposition from the developer, John Melk.</p>
+        <p>During that drive, Mr. Melk warned that ''I will not agree to any changes that will cost Fisher Island more money.'' The union complained to the National Labor Relations Board, arguing that Mr. Melk had threatened workers, but lost the case on appeal.</p>
+        <p>Management of the community association changed after Mr. Melk sold to the investment fund Euro Fund Properties. The S.E.I.U. is trying a different strategy from that of the Teamsters, hoping to draw some of the prosperous residents to its side. ''There's plenty of wealth around to lift workers out of poverty,'' Mr. Lerner said. ''The issue here is not to get rid of rich people.''</p>
+        <p>This month, a local organization of religious leaders that is allied with the union sent a letter to all residents, alerting them to ''serious and tragic poverty within your midst.''</p>
+        <p>''A great invisible work force, unseen by many, maintains your condominiums, golf courses and tennis courts, prepares and serves your food, cleans your rooms and common areas, and maintains the critical equipment that keeps the air-conditioning and other mechanics of the island running smoothly,'' the letter says. ''Their stories are chilling.''</p>
+        <p>Residents on the island are some of its biggest employers; they control the club and they run the individual condos, which contract for maintenance and cleaning work among several companies.</p>
+        <p>Some Fisher Island residents appear sympathetic. Harold Ford Sr., the former congressman who is now a Washington lobbyist and lives part time on the island, said he paid a house-worker more than $20 an hour, plus health insurance. ''It's really the club that employs the people,'' he said. ''I just live here.''</p>
+        <p>Yet others were taken aback by the charge that workers earn too little. ''We don't need a union,'' said Suzanne B. Irving, a resident who manages her condo association at Seaside Villas. ''We are really taking care of our workers.''</p>
+        <p>The condo contracts with an outside firm for three workers who clean and maintain two small buildings. Ms. Irving said the two cleaners made $9 to $10 an hour, plus health insurance and a 401(k) plan. The maintenance worker makes $15 to $18 an hour.</p>
+        <p>''It's not in our interest to get the cheapest worker,'' she said. ''You teach them; you put so much effort into them; so you want to keep them.''</p>
+        <p>Some residents say that comparing the income of residents to that of their workers is pointless. Ms. Bluntzer argued that the nation's superwealthy have become so rich because they created businesses that were generating enormous wealth, which is ultimately good for all.</p>
+        <p>''What's fair is fair,'' Ms. Bluntzer said. ''Everyone needs to be compensated for the job they are doing. But it's unfair to pay all the same.''</p>
+        <p>And residents argue that they care about the downtrodden. Several pointed to the island's philanthropic fund, which raised $550,000 to $600,000 last year for donations to several children's charities in the area.</p>
+        <p>''Fisher Island,'' Ms. Irving said, ''is not the story about rich people who don't care about the poor.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

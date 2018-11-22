@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sheriff's Wife And a Deputy Die in Shooting</title>
+    <meta content="01sheriff" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/us/01sheriff.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823069"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Attacks on Police</classifier>
+        <location class="indexing_service">Jackson County (Fla)</location>
+        <person class="indexing_service">Sexton, Christine Jordan</person>
+        <person class="indexing_service">Aguayo, Terry</person>
+        <person class="indexing_service">McDaniel, John (Sheriff)</person>
+        <person class="indexing_service">McDaniel, Mellie</person>
+        <person class="indexing_service">Altman, Harold (Deputy Sheriff)</person>
+        <person class="indexing_service">Sands, Lionel</person>
+        <person class="indexing_service">Brown, Daniel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Florida</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida</classifier>
+        <classifier class="online_producer" type="general_descriptor">Attacks on Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E0DA153FF932A35751C0A9619C8B63" item-length="429" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sheriff's Wife And a Deputy Die in Shooting</hl1>
+        <hl2 class="online_headline">Sheriff’s Wife and a Deputy Die in Shooting</hl2>
+      </hedline>
+      <byline class="print_byline">By CHRISTINE JORDAN SEXTON and TERRY AGUAYO</byline>
+      <byline class="normalized_byline">Sexton, Christine Jordan; Aguayo, Terry</byline>
+      <dateline>MARIANNA, Fla., Jan. 31</dateline>
+      <abstract>
+        <p>Shooting at home of Jackson County, Fla, Sheriff John McDaniel leaves his wife Mellie and Deputy Harold Altman dead; suspects Lionel Sands and Daniel Brown are killed on scene by responding officers; Sands was being investigated by McDaniel's office in 2001 death of his wife (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Jackson County sheriff's wife and a deputy who was responding to a call for help were killed Tuesday in a shooting at the sheriff's home in which the two suspects were also shot to death.</p>
+        <p>The suspects, Lionel Sands, 60, and Daniel Brown, 54, singled out the home of the sheriff, John McDaniel and his wife, Mellie McDaniel, the authorities said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Jackson County sheriff’s wife and a deputy who was responding to a call for help were killed in a shooting at the sheriff’s home in which the two suspects were also shot to death.</p>
+      </block>
+      <block class="full_text">
+        <p>The Jackson County sheriff's wife and a deputy who was responding to a call for help were killed Tuesday in a shooting at the sheriff's home in which the two suspects were also shot to death.</p>
+        <p>The suspects, Lionel Sands, 60, and Daniel Brown, 54, singled out the home of the sheriff, John McDaniel and his wife, Mellie McDaniel, the authorities said.</p>
+        <p>Mr. Sands was a suspect in the 2001 death of his wife, a case that Sheriff McDaniel's office was investigating, said Steve Meadows, state attorney for the 14th Judicial Circuit here in the Florida Panhandle.</p>
+        <p>Mrs. McDaniel, 51, was arriving home from the grocery store and talking on a radio phone with her husband when she noticed a man following her into her driveway, the authorities said.</p>
+        <p>Sheriff McDaniel heard his wife's screams and called for help. Mrs. McDaniel and the first deputy on the scene, Harold Altman, 42, were killed outside the home before other officers arrived.</p>
+        <p>Other officers exchanged shots with the men, who were armed with three guns.</p>
+        <p>''This tragic series of events, from the time of the first initial scream until the time that the individuals responsible for these terrible acts were killed, occurred within a seven-minute time frame,'' Mr. Meadows said.</p>
+        <p>Inside Mr. Sands's car, the police found ammunition, latex gloves, bleach, vinegar, handcuffs, duct tape and trash bags, Mr. Meadows said. Both men wore makeup and Mr. Sands wore a wig, and a glued-on moustache, Mr. Meadows said, while Mr. Brown wore a suit with a hat and glasses.</p>
+        <p>Mr. Meadows said that Mr. Sands had been involved in civil litigation involving his wife's life insurance after her death but that the case was recently dismissed by a judge.</p>
+        <p>Mr. Sands's wife was found dead in the pool at the Sands home. Mr. Sands was a suspect in that case, which was still being investigated at the time of the McDaniel shooting.</p>
+        <p>Mrs. McDaniel was a victim's advocate at her husband's office in Marianna, about 65 miles northwest of Tallahassee.</p>
+        <p>Gloria Peacock, who lives across the street from the McDaniel residence, described the couple as ''very nice, friendly, loving people'' who had been married for about five years.</p>
+        <p>Ms. Peacock said Mrs. McDaniel had two young grandchildren with whom the couple spent their weekends, often bringing them to Ms. Peacock's home to see the cows she and her husband own.</p>
+        <p>''It really shook me up when I heard what it was,'' Ms. Peacock said. ''I couldn't believe it happened right here under our nose.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Affirmative Action Ban</title>
+    <meta content="l01ban" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822974"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Affirmative Action</classifier>
+        <classifier class="indexing_service" type="descriptor">Admissions Standards</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <classifier class="indexing_service" type="descriptor">Minorities (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <person class="indexing_service">Nadel, Mark S</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minorities (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Affirmative Action</classifier>
+        <classifier class="online_producer" type="general_descriptor">Admissions Standards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE0DC153FF932A35751C0A9619C8B63" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Affirmative Action Ban</hl1>
+      </hedline>
+      <abstract>
+        <p>Mark S Nadel letter says colleges and universities should use affirmative action not only to seek diversity, but also to rectify continuing harms caused by past and present racism (Jan 26 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Colleges Regroup After Voters Ban Race Preferences'' (front page, Jan. 26):</p>
+        <p>Although the Supreme Court's 2003 decision upholding racial preferences was based on their use to achieve the substantial benefit of diversity, schools seeking diversity should not forget the original, narrower purpose that affirmative action was designed to address: rectifying the continuing harms caused by past and present racism.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Colleges Regroup After Voters Ban Race Preferences'' (front page, Jan. 26):</p>
+        <p>Although the Supreme Court's 2003 decision upholding racial preferences was based on their use to achieve the substantial benefit of diversity, schools seeking diversity should not forget the original, narrower purpose that affirmative action was designed to address: rectifying the continuing harms caused by past and present racism.</p>
+        <p>To address this, colleges and universities both public and private should supplement their affirmative action programs with another element: They should designate a set number of seats in their incoming classes for the most qualified applicants who are willing to commit and provide tutoring and mentoring to K-12 students in nearby communities who are suffering most due to past racism.</p>
+        <p>Mark S. Nadel  Arlington, Va., Jan. 26, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

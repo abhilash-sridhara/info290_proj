@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Agency Finds New Waste and Fraud in Iraqi Rebuilding Projects</title>
+    <meta content="01reconstruction" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/world/middleeast/01reconstruction.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822956"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <location class="indexing_service">Iraq</location>
+        <org class="indexing_service">Dyncorp</org>
+        <person class="indexing_service">Glanz, James</person>
+        <person class="indexing_service">Bowen, Stuart W Jr</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Iraq</location>
+        <org class="online_producer">Special Inspector General for Iraq Reconstruction (SIGIR)</org>
+        <org class="online_producer">Dyncorp</org>
+        <person class="online_producer">Bowen, Stuart W Jr</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E4DC153FF932A35751C0A9619C8B63" item-length="794" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Agency Finds New Waste and Fraud in Iraqi Rebuilding Projects</hl1>
+        <hl2 class="online_headline">U.S. Agency Finds New Waste and Fraud in Iraqi Rebuilding Projects</hl2>
+      </hedline>
+      <byline class="print_byline">By JAMES GLANZ; David Rohde contributed reporting from New York.</byline>
+      <byline class="normalized_byline">Glanz, James</byline>
+      <dateline>BAGHDAD, Jan. 31</dateline>
+      <abstract>
+        <p>Federal oversight agency headed by Stuart W Bowen Jr reports that Iraq's electrical output and oil production are still below prewar levels despite nearly $108 billion budgeted for the reconstruction since 2003 invasion; new probes only lengthen litany of major American contractors suspected of wasting large amounts of money; Bowen says his office has 80 active investigations of potential criminal activity in Iraq; findings of misconduct against American company DynCorp on $188 million job order are serious enough that Bowen's office has begun fraud inquiry (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A federal oversight agency reported Wednesday that despite nearly $108 billion that had been budgeted for the reconstruction of Iraq since the 2003 invasion, the country's electrical output and oil production were still below prewar levels and stocks of gasoline and kerosene had plummeted to their lowest levels in at least two years.</p>
+        <p>The United States alone has accounted for nearly $38 billion of the rebuilding money, according to the agency, the Special Inspector General for Iraq Reconstruction.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A federal oversight agency reported that despite nearly $108 billion that had been budgeted for reconstruction, Iraq’s electrical output and oil production were still below prewar levels.</p>
+      </block>
+      <block class="full_text">
+        <p>A federal oversight agency reported Wednesday that despite nearly $108 billion that had been budgeted for the reconstruction of Iraq since the 2003 invasion, the country's electrical output and oil production were still below prewar levels and stocks of gasoline and kerosene had plummeted to their lowest levels in at least two years.</p>
+        <p>The United States alone has accounted for nearly $38 billion of the rebuilding money, according to the agency, the Special Inspector General for Iraq Reconstruction.</p>
+        <p>Even as the flow of reconstruction money from the United States is coming to an end, the litany of major American contractors that are suspected of having wasted large amounts of the money has lengthened, new investigations by the inspector general have found.</p>
+        <p>One of the reports released on Wednesday found that an American company, DynCorp, appeared to act almost independently of its contracting officers at the Department of State at times, billing the United States for millions of dollars of work that was never authorized and starting other jobs before they were requested.</p>
+        <p>The findings of misconduct against the company, on a $188 million job order to build living quarters and purchase weapons and equipment for the Iraqi police as part of a training program, were serious enough that the inspector general's office began a fraud inquiry.</p>
+        <p>''As a result of that audit, matters meriting investigation were uncovered,'' Stuart W. Bowen Jr., who is in charge of the office, said on Wednesday.</p>
+        <p>Mr. Bowen declined to give further details but said that he was also initiating a countrywide review of DynCorp's work in Iraq. The company has also received major contracts to train police in Afghanistan.</p>
+        <p>Gregory Lagana, a DynCorp spokesman, said the company would investigate the report's findings. ''We are looking into the issues raised by the inspector general with the goal of providing as full an accounting as possible,'' Mr. Lagana said. ''We believe we acted responsibly and with all due concern for the expenditure of public funds.''</p>
+        <p>One major investigation begun by Mr. Bowen's office came to an end on Monday when Robert J. Stein Jr., a former Pentagon contractor who confessed to stealing millions of dollars in a bribery and fraud scheme in the southern Iraqi city of Hilla in 2004, was sentenced to nine years in federal prison.</p>
+        <p>But Mr. Bowen said Wednesday that his office had 80 active investigations of potential criminal activity in Iraq. Some 23 cases have been handed over to the Justice Department, ''and they are making progress on those,'' he said.</p>
+        <p>The latest reports by Mr. Bowen's office appear to show that it is not for lack of money that the performance of Iraq's basic infrastructure has fallen to disastrous levels in some cases; if anything, the rebuilding program seems to have been given more money than it has been able to use to any effect.</p>
+        <p>In a sweeping breakout of financing sources, one analysis, in a quarterly report released Wednesday, shows that Congress has now passed eight bills that have provided $38.2 billion for the rebuilding effort, while Iraq itself has dedicated $50.5 billion to the effort. International donors have pledged $15.2 billion, although only a small portion of that has so far materialized.</p>
+        <p>One example of the problems Iraq has faced in using those enormous amounts of money can be seen in connection with the $24.8 billion in Iraqi money that the Iraqi government has appropriated for the capital budget of its ministries from 2004 to 2007 -- in essence, a homegrown reconstruction budget.</p>
+        <p>Despite the threadbare state of the oil, electricity, water, transportation and communications infrastructure here, the ministries managed to spend as little as 15 percent of those appropriated funds because of problems finding companies to do the work in dangerous places, a lack of skilled contracting officers and American-sponsored anticorruption programs that have intimidated Iraqi bureaucrats.</p>
+        <p>Iraq faces those problems as the American money begins to run out. But even though American officials have managed to spend most of this money, its lasting impact on the quality of life in Iraq is highly debatable.</p>
+        <p>Despite the allocation of more than $4 billion in American taxpayer money to electricity projects in Iraq, the nationwide electricity output recently dipped below the prewar level of about 4,200 megawatts after a brief period above it. The performance is so embarrassing to the United States that late last year, with no formal notice, the State Department eliminated the line indicating prewar output from its weekly report on electricity production in Iraq.</p>
+        <p>After a rally in the middle of 2006, the inspector general's quarterly report shows, Iraq's crude oil production has also been steadily slipping, a serious concern because oil is the basis of the Iraqi economy.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

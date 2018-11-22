@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>There's No Shuffle in His Step</title>
+    <meta content="01anderson" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822968"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SPORTS OF THE TIMES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Sports of the Times (Times Column)</classifier>
+        <classifier class="indexing_service" type="descriptor">Super Bowl</classifier>
+        <org class="indexing_service">Indianapolis Colts</org>
+        <org class="indexing_service">Chicago Bears</org>
+        <person class="indexing_service">Anderson, Dave</person>
+        <person class="indexing_service">Urlacher, Brian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Columns/Dave Anderson</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Chicago Bears</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Indianapolis Colts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Super Bowl</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E0DC153FF932A35751C0A9619C8B63" item-length="828" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>There's No Shuffle in His Step</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVE ANDERSON</byline>
+      <byline class="normalized_byline">Anderson, Dave</byline>
+      <dateline>Miami</dateline>
+      <abstract>
+        <p>Dave Anderson Sports of The Times column discusses Chicago Bears and middle linebacker Brian Urlacher, who will face Indianapolis Colts in Super Bowl; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>During the playoffs, the big white sign suddenly appeared at the Bears' complex near Chicago and now it's near the entrance to their Super Bowl XLI hotel.</p>
+        <p>The top line reads ''Play Angry,'' with a check mark next to it. The middle line reads ''NFC Championship,'' with a check mark next to it. The bottom line reads ''Super Bowl,'' which is next to an empty box.</p>
+      </block>
+      <block class="full_text">
+        <p>During the playoffs, the big white sign suddenly appeared at the Bears' complex near Chicago and now it's near the entrance to their Super Bowl XLI hotel.</p>
+        <p>The top line reads ''Play Angry,'' with a check mark next to it. The middle line reads ''NFC Championship,'' with a check mark next to it. The bottom line reads ''Super Bowl,'' which is next to an empty box.</p>
+        <p>If the Bears earn a check mark for that box with a victory over the Indianapolis Colts on Sunday, middle linebacker Brian Urlacher may be handed the pen, even though he insisted he doesn't play angry.</p>
+        <p>''I don't pay attention to that sign,'' he said yesterday in the interview tent at the Bears' hotel. ''If you play angry, you lose what you're supposed to do. On defense, we just read our keys and play fast.''</p>
+        <p>If it were up to Urlacher, the sign's top line would read ''Play Fast,'' not angry. During media day at Dolphin Stadium on Tuesday, he often referred to the ''fast grass'' he'll be running across Sunday.</p>
+        <p>''I noticed the grass and the way it's cut and how fast it is,'' he said. ''Our grass in Soldier Field isn't fast.''</p>
+        <p>Urlacher plays fast and talks fast. As he sat there in his orange-trimmed navy blue Bears jersey, a barbed-wire tattoo decorated his right bicep. ''I got it in college,'' he said quickly, as if to discourage any more questions about the tattoo.</p>
+        <p>Although he was a free safety for the University of New Mexico, he was projected to be a linebacker at the scouting combine before the 2000 draft. At 6 feet 4 inches and 250 pounds now, he appears leaner than many linebackers.</p>
+        <p>''People don't think I'm big enough to be mean,'' he said. ''I don't look big enough. I am.''</p>
+        <p>Urlacher is big enough to be a six-time Pro Bowl middle linebacker, big enough to be the Bears' leader in tackles in six of his seven seasons (142 during the 2006 season), and big enough to be compared to the two most celebrated (and feared) middle linebackers in the history of the Bears: Dick Butkus and Mike Singletary.</p>
+        <p>''From the highlights I've seen, Butkus was a violent dude in a violent era,'' he said. ''You could clothesline then, you could head-slap then. He was mean; he could do anything he wanted to back then.</p>
+        <p>''We get penalized now if we graze the quarterback's helmet. We get fined if we hit the quarterback the wrong way.''</p>
+        <p>Urlacher has met Butkus and Singletary, the anchor of the 1985 team that won Super Bowl XX, but he has never spent much time with them.</p>
+        <p>''Butkus always has something to say about me, and it's not always good,'' Urlacher said with a half smile. ''But he's the best middle linebacker ever, and I'm not going to say anything back at him.''</p>
+        <p>Urlacher, the 2005 defensive player of the year, has emerged at 28 as the face of the Bears, an unfriendly face.</p>
+        <p>''I don't like being singled out like that,'' he said. ''Peyton Manning is obviously the Colts' face, but I don't think I'm on that level.''</p>
+        <p>Maybe not, but Urlacher is the Bears defender who will demand Manning's attention when he comes out of the Colts' huddle.</p>
+        <p>''You're always playing a little bit of a chess match against a middle linebacker,'' Manning said Tuesday. ''I will always know where he is before the snap, just like I always had to know where Bruce Smith or Junior Seau were. You need to know where Brian is, and at his size, he can run as fast as anybody. You see him on film: Everything you hear about him is absolutely true.''</p>
+        <p>But for all of Manning's gestures and instructions to his teammates before the snap, Urlacher doesn't intend to alter his responsibilities or those of his defensive teammates.</p>
+        <p>''Peyton Manning uses a lot of gestures; he raises his foot three times,'' he said. ''I think he does that to get you to forget about what you're supposed to do. He's so smart, he gets rid of the ball before you get there.</p>
+        <p>''You're not going to fool Peyton Manning. He knows where he's going with the football before the snap. You're not going to trick Peyton Manning. He knows what you're doing before they snap the ball. ''</p>
+        <p>But don't buy Urlacher's insistence that he doesn't play angry.</p>
+        <p>''He plays angry,'' Bears defensive end Adewale Ogunleye said with a smile. ''He's a little unbearable in the huddle, he's kind of like a jerk. He's very antsy. If they complete a pass, he'll yell, 'Get to the damn ball!' ''</p>
+        <p>Getting to the damn ball is what Coach Lovie Smith's defense is all about.</p>
+        <p>''We got 11 guys going to the football,'' Urlacher said. ''The first guy there secures the tackle; the others try to strip the football.''</p>
+        <p>More than anything else, the Bears' defense plays fast. And angry.</p>
+        <p>SPORTS OF THE TIMES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

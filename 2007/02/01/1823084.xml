@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Panel To Study M.T.A. Costs</title>
+    <meta content="01mbrfs-4" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1823084"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Transit Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Subways</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Railroads</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Metropolitan Transportation Authority</org>
+        <person class="indexing_service">Neuman, William</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Subways</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EEDA153FF932A35751C0A9619C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Panel To Study M.T.A. Costs</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM NEUMAN; Compiled by Anthony Ramirez</byline>
+      <byline class="normalized_byline">Neuman, William</byline>
+      <abstract>
+        <p>Metropolitan Transportation Authority plans to name panel to study why costs are rising so quickly for construction projects that are part of its long-term spending program (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Metropolitan Transportation Authority plans to name a panel to study why costs are rising so quickly for construction projects that are part of its long-term spending program. The authority has budgeted $21 billion for major projects from 2005 to 2009, but increasing construction costs are causing estimates for many of those projects to rise far beyond expectations. The panel will also review budget estimates and timetables for what are known as megaprojects, including the Second Avenue subway, a Long Island Rail Road link to Grand Central Terminal, and an extension of the No. 7 subway line, the authority's executive director and chief executive, Elliot G. Sander, said yesterday. He said the panel would take up to three months to do its work, which would include recommending ways to keep costs down.</p>
+        <p>WILLIAM NEUMAN</p>
+      </block>
+      <block class="full_text">
+        <p>The Metropolitan Transportation Authority plans to name a panel to study why costs are rising so quickly for construction projects that are part of its long-term spending program. The authority has budgeted $21 billion for major projects from 2005 to 2009, but increasing construction costs are causing estimates for many of those projects to rise far beyond expectations. The panel will also review budget estimates and timetables for what are known as megaprojects, including the Second Avenue subway, a Long Island Rail Road link to Grand Central Terminal, and an extension of the No. 7 subway line, the authority's executive director and chief executive, Elliot G. Sander, said yesterday. He said the panel would take up to three months to do its work, which would include recommending ways to keep costs down.</p>
+        <p>WILLIAM NEUMAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

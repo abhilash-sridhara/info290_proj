@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Newspaper Readers of a Different Kind</title>
+    <meta content="01adco" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/business/media/01adco.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822936"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Celebrities</classifier>
+        <org class="indexing_service">Wall Street Journal</org>
+        <person class="indexing_service">Seelye, Katharine Q</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Marketing and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Celebrities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <org class="online_producer">Wall Street Journal</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CEEDD153FF932A35751C0A9619C8B63" item-length="926" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Newspaper Readers of a Different Kind</hl1>
+        <hl2 class="online_headline">Newspaper Readers of a Different Kind</hl2>
+      </hedline>
+      <byline class="print_byline">By KATHARINE Q. SEELYE</byline>
+      <byline class="normalized_byline">Seelye, Katharine Q</byline>
+      <abstract>
+        <p>Katharine Seelye Advertising column on new Wall Street Journal print ad campaign that features celebrities; aim is to show that newspaper appeals to broad group of readers; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ACCORDING to Sheryl Crow, all she wants to do is have some fun. According to a new ad campaign, that includes reading The Wall Street Journal.</p>
+        <p>The Journal is running ads that feature celebrities like Ms. Crow, the nine-time Grammy winner, to show that the paper appeals to readers other than those in pinstripes and gray flannel.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new branding campaign by The Wall Street Journal hopes to attract women and younger consumers.</p>
+      </block>
+      <block class="full_text">
+        <p>ACCORDING to Sheryl Crow, all she wants to do is have some fun. According to a new ad campaign, that includes reading The Wall Street Journal.</p>
+        <p>The Journal is running ads that feature celebrities like Ms. Crow, the nine-time Grammy winner, to show that the paper appeals to readers other than those in pinstripes and gray flannel.</p>
+        <p>The Journal's branding campaign, which starts today, also includes Maya Lin, the architect and designer of the Vietnam Veterans Memorial; Tiki Barber, the former running back for the New York Giants; Alice Waters, the restaurateur; Kenneth Cole, the fashion designer; and David Neeleman, chief executive of JetBlue. The new ads will run in magazines and newspapers and on Web sites.</p>
+        <p>''The main objective of the campaign is to show a broad group of people who read The Journal and a diverse array of content,'' said Ann Marks, chief operating officer at Dow Jones &amp; Company, which publishes The Journal.</p>
+        <p>The hope is that this variety of people and content will help attract more women and young readers. (About a third of Journal readers are women; the average reader is 52 years old.) In September 2005, Dow Jones introduced a Saturday issue of the paper with a heightened emphasis on travel, leisure and consumer-oriented articles in an attempt to reduce the paper's reliance on business advertising.</p>
+        <p>The Journal's campaign comes as the newspaper industry is in transition, with more readers and advertisers migrating to the Web. Dow Jones recently defied the wave of bad financial news across the business, reporting sharply higher earnings last quarter based in part on a 5.1 percent increase in ad revenue at The Journal.</p>
+        <p>Even so, newspapers are wrestling with new competitors online. Indeed, the industry's trade group, the Newspaper Association of America, is also starting a new ad campaign, this one urging advertisers to bring their business back to newspapers, any newspaper. The campaign began last year; the second phase starts in April.</p>
+        <p>The approaches by The Journal and by the newspaper association are quite different, as they are looking for different audiences. But they both speak to the larger fact that newspapers can no longer rely on selling themselves simply by being there; rather, they have to go out into the cluttered marketplace and stand up and shout, ''Me too!'' above the din of iPods, cellphones, televisions, computers, video games and assorted other gadgets.</p>
+        <p>The newspaper association's ad places itself in that very marketplace. It features an E.T.-like consumer of the future who is wired up and multitasking with several media at once, including an electronic version of a newspaper on a paper-thin screen that juts from his head. The point is that the newspaper arrives not just on paper but via the Web, podcast, e-mail and, as the figure in the picture shows, on mobile video screens.</p>
+        <p>''Today's newspaper isn't just about paper,'' the ad says. ''It's an innovative multimedia experience.''</p>
+        <p>The tone represents a big switch from the association's campaign last year, which was print-oriented. That campaign emphasized that ads in newspapers were ''a destination, not a distraction.'' The industry wanted to ''surprise advertisers with the truth'' about consumers, that they are ''engaged'' with the ads in their local papers and that they are just the kind of people advertisers like -- educated and affluent.</p>
+        <p>John Kimball, the senior vice president of the newspaper association, said those ads had run in more than 1,000 newspapers.</p>
+        <p>But it is not clear how effective they were. Advertising revenues at most newspapers were down last year, and they remain sluggish. Circulation continues on the downslope, too, but higher circulation was not a goal of the association's campaign.</p>
+        <p>''An ad campaign by itself won't fix anything, and multiple things have to be done'' to increase ad revenues and circulation, Mr. Kimball said. ''It's not realistic to expect we could turn this thing around in a single year. This is a long-term play.''</p>
+        <p>The Journal's goal is to position itself in a more utilitarian way. Its campaign shows notable people who have made their lives successful in some fashion -- the implication being that The Journal helped them achieve that success.</p>
+        <p>Ms. Crow, 44, for example, learned last year that she had breast cancer; the ad with her includes part of a Journal article about breast cancer.</p>
+        <p>As it happens, Ms. Crow did grow up reading The Journal, inspired by her grandmother, who was a newspaper editor and favored The Journal because she trusted it, according to promotional material from Dow Jones. (Ms. Crow was not available for comment.)</p>
+        <p>It is not clear how The Journal found that Ms. Crow was a Journal reader and had an ink-stained background to boot. Gordon Bowen, creative director of McGarry Bowen, which developed the ads for The Journal, said the research methods for finding the Journal readers in the ads were proprietary, but he said the agency did not cull names from the paper's subscription list, which he said would have been unethical.</p>
+        <p>Mr. Bowen was asked if there was something especially challenging about creating advertising for a newspaper. His answer was one that the E.T.-like creature from the newspaper association would appreciate:</p>
+        <p>''In a world of music and iPoding and electronic media, you have to find a way to communicate simply and graphically and in a way that is easily accessible to readers who can scan it and get it in 10 seconds or involve themselves for 30 seconds,'' Mr. Bowen said. ''Especially with a younger audience. People are getting assaulted with a lot of stimulation.''</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

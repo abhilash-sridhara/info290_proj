@@ -1,0 +1,50 @@
+1569 file
+1448 file
+967 file
+1390 file
+1071 file
+511 file
+2424 file
+943 file
+1636 file
+./all_c/Adam Liptak/Adam Liptak.txt
+1373 file
+1328 file
+1687 file
+1337 file
+1508 file
+1679 file
+1001 file
+1511 file
+1329 file
+./all_c/Adam Nagoury/Adam Nagoury.txt
+754 file
+748 file
+722 file
+801 file
+805 file
+793 file
+782 file
+766 file
+765 file
+./all_c/Maureen Dowd/Maureen Dowd.txt
+1320 file
+1129 file
+851 file
+931 file
+1262 file
+996 file
+1313 file
+790 file
+1244 file
+./all_c/Robert Pear/Robert Pear.txt
+1078 file
+1193 file
+1136 file
+1480 file
+821 file
+1528 file
+921 file
+826 file
+939 file
+./all_c/Simon Romero/Simon Romero.txt

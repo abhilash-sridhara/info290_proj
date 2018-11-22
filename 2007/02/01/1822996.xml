@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Judge Halts Holocaust Hearing After Objections to Settlement</title>
+    <meta content="01insure" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/business/01insure.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822996"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Nazi Policies Toward Jews and Minorities</classifier>
+        <classifier class="indexing_service" type="descriptor">Life Insurance</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <org class="indexing_service">Assicurazioni Generali</org>
+        <person class="indexing_service">Daniels, George B (Judge)</person>
+        <person class="indexing_service">Dubbin, Sam</person>
+        <person class="indexing_service">Treaster, Joseph B</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Florida</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Miami</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida</classifier>
+        <classifier class="online_producer" type="descriptor">Nazi Policies Toward Jews and Minorities</classifier>
+        <classifier class="online_producer" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="descriptor">Judges</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nazi Policies Toward Jews and Minorities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minorities (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Life Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Judges</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">Miami (Fla)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E5DB153FF932A35751C0A9619C8B63" item-length="410" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Judge Halts Holocaust Hearing After Objections to Settlement</hl1>
+        <hl2 class="online_headline">Judge Halts Holocaust Hearing After Objections to Settlement</hl2>
+      </hedline>
+      <byline class="print_byline">By JOSEPH B. TREASTER</byline>
+      <byline class="normalized_byline">Treaster, Joseph B</byline>
+      <abstract>
+        <p>Federal District Judge George Daniels abruptly adjourns hearing on settlement of dispute over unpaid life insurance policies of Holocaust victims after Sam Dubbin, Miami lawyer and concentration camp survivor, raises objections; Dubbin says insurance company Assicurazioni Generali reported paying more than 5,000 claims but said that left 105,000 Holocaust-era policies on lives of Jews unaccounted for (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A federal judge abruptly adjourned a hearing yesterday on the settlement of a dispute over unpaid life insurance policies of Holocaust victims after a Miami lawyer and a survivor of a Nazi concentration camp raised objections.</p>
+        <p>Judge George B. Daniels of Federal District Court in Manhattan gave no explanation for ending the session that he had convened to determine the fairness of a settlement in which an Italian insurance company agreed to provide several million dollars to Holocaust victims. The company, Assicurazioni Generali, has repeatedly denied allegations that it systematically refused to pay billions of dollars in claims on insurance policies of Holocaust victims.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A federal judge abruptly adjourned a hearing on the settlement of a dispute over unpaid life insurance policies of Holocaust victims.</p>
+      </block>
+      <block class="full_text">
+        <p>A federal judge abruptly adjourned a hearing yesterday on the settlement of a dispute over unpaid life insurance policies of Holocaust victims after a Miami lawyer and a survivor of a Nazi concentration camp raised objections.</p>
+        <p>Judge George B. Daniels of Federal District Court in Manhattan gave no explanation for ending the session that he had convened to determine the fairness of a settlement in which an Italian insurance company agreed to provide several million dollars to Holocaust victims. The company, Assicurazioni Generali, has repeatedly denied allegations that it systematically refused to pay billions of dollars in claims on insurance policies of Holocaust victims.</p>
+        <p>Lawyers for Generali and others who worked on the settlement said Judge Daniels called them into his chambers during a brief recess to express new concerns. They would not say what was discussed, but said he asked them to try to resolve the concerns over the next week.</p>
+        <p>One lawyer for the Holocaust survivors, Robert A. Swift, said Judge Daniels asked him and the others ''to renegotiate one provision in the settlement.''</p>
+        <p>Earlier, Sam J. Dubbin, a Miami lawyer opposing the settlement, had argued that it would prevent tens of thousands of Holocaust survivors from ever knowing whether they were owed money by Generali.</p>
+        <p>Mr. Dubbin said the insurance company reported paying more than 5,000 claims. But he said that left 105,000 Holocaust-era policies on the lives of Jews unaccounted for.</p>
+        <p>''History requires a much more thorough examination of the company's conduct,'' he said.</p>
+        <p>Both Mr. Swift and Marco E. Schnabl, a lawyer for Generali, disputed Mr. Dubbin's calculations.</p>
+        <p>Mr. Dubbin told the court that steps were being taken to open long-sealed German warehouses filled with documents that might shed light on the dispute, and he urged Judge Daniels to postpone a decision for up to six months.</p>
+        <p>The courtroom in Lower Manhattan was crowded with Holocaust survivors and relatives who had hoped to speak against the settlement. But Judge Daniels said he wanted to hear only from the lawyers.</p>
+        <p>Even so, Alice Burger Fischer, who was imprisoned at the Bergen-Belsen concentration camp as a teenager, rose to say that she had learned about the proposed settlement only on Tuesday despite efforts by Generali to publicize it.</p>
+        <p>''I don't understand anything about the settlement,'' she said. Her father bought a Generali policy that has been in dispute for decades. She said he died as he was being marched from a concentration camp.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

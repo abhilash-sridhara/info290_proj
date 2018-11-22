@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: France: Majority Of Blacks Suffer Bias</title>
+    <meta content="01briefs-3" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1823074"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <location class="indexing_service">France</location>
+        <org class="indexing_service">Representative Coucil of Black Associations</org>
+        <person class="indexing_service">Tagliabue, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04EFDA153FF932A35751C0A9619C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: France: Majority Of Blacks Suffer Bias</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN TAGLIABUE</byline>
+      <byline class="normalized_byline">Tagliabue, John</byline>
+      <abstract>
+        <p>Survey by Representative Council of Black Associations says more than half of 1.8 million black adults living in France say they are victims of racism in their everyday lives (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>More than half of 1.8 million black adults living in France say they have been the victims of racism in their everyday lives, according to a survey commissioned by the Representative Council of Black Associations, a black advocacy group, and conducted by TNS-Sofres for the newspaper Le Parisien. It found that 56 percent believed they had been discriminated against, with 61 percent saying they had endured at least one incident of discrimination in the last year. Close to one in four said they had been insulted or verbally abused. ''These statistics show what this society does not want to hear or see,'' said Patrick Lozes, the president of the representative council.</p>
+        <p>JOHN TAGLIABUE</p>
+      </block>
+      <block class="full_text">
+        <p>More than half of 1.8 million black adults living in France say they have been the victims of racism in their everyday lives, according to a survey commissioned by the Representative Council of Black Associations, a black advocacy group, and conducted by TNS-Sofres for the newspaper Le Parisien. It found that 56 percent believed they had been discriminated against, with 61 percent saying they had endured at least one incident of discrimination in the last year. Close to one in four said they had been insulted or verbally abused. ''These statistics show what this society does not want to hear or see,'' said Patrick Lozes, the president of the representative council.</p>
+        <p>JOHN TAGLIABUE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

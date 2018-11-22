@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Shaping Parisian Style In Fantasy and Food</title>
+    <meta content="01paris" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822908"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: DESIGN"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Jewels and Jewelry</classifier>
+        <classifier class="indexing_service" type="descriptor">Cookware</classifier>
+        <org class="indexing_service">Van Cleef &amp; Arpels</org>
+        <org class="indexing_service">Alessi (Italian Co)</org>
+        <person class="indexing_service">Jouin, Patrick</person>
+        <person class="indexing_service">Treffinger, Stephen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jewels and Jewelry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooking and Cookbooks</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE5DD153FF932A35751C0A9619C8B63" item-length="221" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Shaping Parisian Style In Fantasy and Food</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHEN TREFFINGER</byline>
+      <byline class="normalized_byline">Treffinger, Stephen</byline>
+      <abstract>
+        <p>Patrick Jouin's latest designs include Van Cleef &amp; Arpel's store in Paris and pasta pot for Alessi; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last week, the designer Patrick Jouin seemed to be the toast of Paris. On Friday, Mr. Jouin, right, known for designing restaurants like the Plaza Athénée in Paris and Mix in Las Vegas (both in collaboration with the chef Alain Ducasse), was on hand to celebrate the centennial of Van Cleef &amp; Arpels, whose store in the Place Vendôme he recently redesigned. For the jeweler, he said, he mixed styles and periods ''like a D.J.'' to create an eclectic, sensual space with twisting vines, flowers, butterflies and fairies in the form of bas relief and wood carvings; the centerpiece is a semicircular frieze of silver roses surrounding a glass-bubble chandelier suspended above jewel cases, top. ''In one step you are in another dimension, a world of fantasy,'' Mr. Jouin said.</p>
+        <p>Across town, at the Maison et Objet design fair, the busy Mr. Jouin unveiled a pasta pot ($238), above left, created for Alessi (again in collaboration with Mr. Ducasse). Made of layered stainless steel and aluminum to distribute heat evenly, it is designed to cook pasta with vegetables and oil but little water, producing a thick stew, similar to a risotto. The pot will be available in April at Alessi SoHo, 130 Greene Street (Prince Street), (212) 941-7300. Van Cleef &amp; Arpels, 22 place Vendôme, Paris, 011-33-1-53-45-45-45.</p>
+        <p>STEPHEN TREFFINGER</p>
+      </block>
+      <block class="full_text">
+        <p>Last week, the designer Patrick Jouin seemed to be the toast of Paris. On Friday, Mr. Jouin, right, known for designing restaurants like the Plaza Athénée in Paris and Mix in Las Vegas (both in collaboration with the chef Alain Ducasse), was on hand to celebrate the centennial of Van Cleef &amp; Arpels, whose store in the Place Vendôme he recently redesigned. For the jeweler, he said, he mixed styles and periods ''like a D.J.'' to create an eclectic, sensual space with twisting vines, flowers, butterflies and fairies in the form of bas relief and wood carvings; the centerpiece is a semicircular frieze of silver roses surrounding a glass-bubble chandelier suspended above jewel cases, top. ''In one step you are in another dimension, a world of fantasy,'' Mr. Jouin said.</p>
+        <p>Across town, at the Maison et Objet design fair, the busy Mr. Jouin unveiled a pasta pot ($238), above left, created for Alessi (again in collaboration with Mr. Ducasse). Made of layered stainless steel and aluminum to distribute heat evenly, it is designed to cook pasta with vegetables and oil but little water, producing a thick stew, similar to a risotto. The pot will be available in April at Alessi SoHo, 130 Greene Street (Prince Street), (212) 941-7300. Van Cleef &amp; Arpels, 22 place Vendôme, Paris, 011-33-1-53-45-45-45.</p>
+        <p>STEPHEN TREFFINGER  CURRENTS: DESIGN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

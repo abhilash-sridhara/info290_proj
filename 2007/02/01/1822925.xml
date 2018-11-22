@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Next to the White House, a Treasure Overlooked</title>
+    <meta content="01treasury" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/garden/01treasury.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822925"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Historic Buildings and Sites</classifier>
+        <classifier class="indexing_service" type="descriptor">Restoration and Rehabilitation</classifier>
+        <location class="indexing_service">Washington (DC)</location>
+        <org class="indexing_service">Treasury Department</org>
+        <person class="indexing_service">Olson, Elizabeth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="descriptor">Historic Buildings and Sites</classifier>
+        <classifier class="online_producer" type="descriptor">Restoration and Rehabilitation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restoration and Rehabilitation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Historic Buildings and Sites</classifier>
+        <org class="online_producer">Treasury Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E1DD153FF932A35751C0A9619C8B63" item-length="1138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Next to the White House, a Treasure Overlooked</hl1>
+        <hl2 class="online_headline">Next to the White House, a Treasure Overlooked</hl2>
+      </hedline>
+      <byline class="print_byline">By ELIZABETH OLSON</byline>
+      <byline class="normalized_byline">Olson, Elizabeth</byline>
+      <dateline>WASHINGTON</dateline>
+      <abstract>
+        <p>US Treasury building, national landmark pictured on back of $10 bill, emerges from 10-year restoration that cost $247 million, not counting cost of restoring gilded interior decor and period furnishings; renovation uncovers three-domed ceiling, only known one in nation, that has been long obscured by elevator bank; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ALTHOUGH the United States Treasury building is a national landmark that sits next to the White House and is pictured on the back of every $10 bill, the huge colonnaded building is rarely on anyone's Top 10 list of things to see when they visit the nation's capital.</p>
+        <p>Maybe, though, with the recent completion of a 10-year renovation, that will change.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The once-dowdy Treasury Building gets the star treatment.</p>
+      </block>
+      <block class="full_text">
+        <p>ALTHOUGH the United States Treasury building is a national landmark that sits next to the White House and is pictured on the back of every $10 bill, the huge colonnaded building is rarely on anyone's Top 10 list of things to see when they visit the nation's capital.</p>
+        <p>Maybe, though, with the recent completion of a 10-year renovation, that will change.</p>
+        <p>The building cost roughly $490 a square foot to restore, what it could take for a deluxe rehab of a neglected prewar town house in Manhattan, except in this case the house was about 500,000 square feet, and the cost of the repairs and renovation was $247 million. That money went to upgrade mechanical systems like elevators, heating, plumbing, lighting and air-conditioning.</p>
+        <p>Restoration of the gilded interior décor and period furnishings in some of the most important historic rooms was undertaken at the same time. However, the price of those sofas, window coverings and chandeliers may never be known. Treasury officials declined to say how much they cost, but a spokeswoman, Eileen Gilligan, did say that they were all paid for by private donations.</p>
+        <p>About 10 years ago, a rooftop fire drew attention to the building's precarious state. A post-fire examination found peeling insulation and antiquated systems as well as lead-based paint, asbestos, mercury and PCBs throughout the building.</p>
+        <p>When the renovation began, the contractors had no blueprints to work with, so they had to improvise, channeling out brick inner walls, for example, to create space for the ductwork for air-conditioning and other systems. Electrical systems had to be routed through new holes in the plaster walls and ceilings. In some areas, slate and marble floors were removed and reinstalled to create room for the lighting and sprinklers installed for the rooms below.</p>
+        <p>The renovation uncovered at least one architectural gem: the country's only known three-dome ceiling. In the early 20th century, the building's cast-iron triple dome had almost been completely obscured when a bank of elevators was installed. In 2004, as part of the renovation, the elevators were removed and the domes restored to their original ornate state with gilded trimming and rosettes in the surrounding ceiling.</p>
+        <p>That earlier overhaul was one of many on the massive building, whose four granite wings were designed by three different architects over the 33 years of its construction; it was completed in 1869. (An earlier Treasury building was burned by the British in 1814.) The building was in use throughout its construction, and for a while it served as barracks for Civil War soldiers. Sometimes Abraham Lincoln would stroll over from the White House to discuss the nation's finances with Treasury officials or buy government bonds with his own money.</p>
+        <p>The grand two-story Cash Room, which has seven types of marble and three enormous brass chandeliers, was originally designed as a bank where citizens could buy bonds, like Lincoln did, or redeem government securities for cash. Even though money no longer changes hands at the Treasury, the room was renovated and is one of the building's most commanding spaces.</p>
+        <p>After Lincoln's death in April 1865, Andrew Johnson led the country from the Treasury Building for six weeks, to give Mary Todd Lincoln time to mourn and move her belongings out of the White House. Johnson convened Cabinet meetings and conducted official business from a reception room which, along with a more opulent adjoining room, is now known as the Andrew Johnson suite.</p>
+        <p>Based on contemporary engravings from Frank Leslie's Illustrated Newspaper and original invoices for furniture bought in 1864, curators overseeing the restoration were able to pinpoint how the reception room looked when Johnson occupied it. The furnishings included a black leather sofa; a brass chandelier and sconces; a trellis-patterned rug; and wood cornices, decorated with gilded Treasury seals and cornucopias filled with coins, to frame the draperies.</p>
+        <p>The adjacent office, now used by Timothy D. Adams, under secretary for international affairs, is far more elaborate, with scattered gold stars on its deep-blue rug, a white marble fireplace topped with a huge decorated mirror and a reproduction of a period brass chandelier. The room's paint was examined, layer by layer, to uncover the original blue and yellow colors, said Richard C. Cote, Treasury Department curator, during a tour.</p>
+        <p>''We also had correspondence that mentioned the blue color,'' he said, pointing to the repainted walls, as well as invoices from Pottier &amp; Stymus, a prominent New York firm that decorated the White House Cabinet room as well. The firm also manufactured some of the Treasury's furniture, including the room's large walnut table and chairs, on loan from the Barnum Museum in Bridgeport, Conn.</p>
+        <p>The blue draperies with a gold design were based on a Smithsonian Institution textile called ''green leaves'' and, like many of Treasury's fabrics and draperies, were made by the New York company Scalamandré, which worked with Jacqueline Kennedy to refurbish the White House.</p>
+        <p>Also restored, and historically significant, is the Salmon P. Chase suite, named after Lincoln's secretary of the Treasury who later became chief justice of the Supreme Court. One of Treasury's most elaborate mirrors is installed over the room's mantelpiece. It is believed to have been designed by J. Goldsborough Bruff, who worked in the Treasury architect's office; the fruits-and-vegetables theme symbolizes the abundance of America's agriculture.</p>
+        <p>Conservators stripped nearly a century's worth of paint to reveal two allegorical frescoes: a pastel-colored one called ''Treasury,'' with a cornucopia of coins, and ''Justice,'' a figure with a scale and sword, reflecting Chase's backgrounds in finance and law, and perhaps his forward-looking attitude (he is credited as the first person to hire women in the federal workforce, to replace men during the Civil War).</p>
+        <p>Unfortunately, Mr. Cote said, there were no surviving invoices or images that indicated how the rooms looked in the 1860s, so the decoration and furnishings were done in a period-appropriate manner, with the advice of the designer Mark Hampton in the early planning stages. That included purchasing a set of side chairs originally owned by Jay Cooke, a financier who helped pay for the Union war effort, as well as a bookcase made by Julia Thompson, one of the few known 19th-century female cabinetmakers. Some of the pieces were donated by the Treasury Historical Association and the Darby Foundation, of Washington, D.C.</p>
+        <p>Not all the restored spaces in the Treasury building are open to the public as part of the Congressional tour because they are working offices, according to Ms. Gilligan, the spokeswoman. Standard tour highlights include the newly restored gilded West Dome and West Lobby, the Cash Room, North Lobby and the period-furnished Secretary's Conference Room and Diplomatic Reception Room.</p>
+        <p>Tours are held on Saturdays and must be arranged in advance through the offices of Congressional representatives. Visitors must provide their birth date, photo identification and Social Security number.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

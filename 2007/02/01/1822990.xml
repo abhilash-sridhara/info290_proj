@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 Senators Renew Attacks on S.E.C. Hedge Fund Investigation</title>
+    <meta content="01hedge" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/business/01hedge.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822990"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Hedge Funds</classifier>
+        <classifier class="indexing_service" type="descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="indexing_service" type="descriptor">Insider Trading</classifier>
+        <org class="indexing_service">Securities and Exchange Commission</org>
+        <org class="indexing_service">Pequot Capital Management</org>
+        <person class="indexing_service">Specter, Arlen (Sen)</person>
+        <person class="indexing_service">Grassley, Charles E (Sen)</person>
+        <person class="indexing_service">Bogdanich, Walt</person>
+        <person class="indexing_service">Aguirre, Gary J</person>
+        <person class="indexing_service">Samberg, Arthur J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="descriptor">Hedge Funds</classifier>
+        <classifier class="online_producer" type="descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insider Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hedge Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Pequot Capital Management</org>
+        <org class="online_producer">Securities and Exchange Commission</org>
+        <person class="online_producer">Specter, Arlen</person>
+        <person class="online_producer">Grassley, Charles E</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E6DB153FF932A35751C0A9619C8B63" item-length="463" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 Senators Renew Attacks on S.E.C. Hedge Fund Investigation</hl1>
+        <hl2 class="online_headline">2 Senators Renew Attacks on S.E.C. Hedge Fund Investigation</hl2>
+      </hedline>
+      <byline class="print_byline">By WALT BOGDANICH</byline>
+      <byline class="normalized_byline">Bogdanich, Walt</byline>
+      <abstract>
+        <p>Republican Sens Arlen Specter and Charles Grassley, in separate speeches, renew criticism of way Securities and Exchange Commission carried out its investigation into major hedge fund Pequot Capital Management (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two prominent Republican senators renewed their criticism yesterday of the way the Securities and Exchange Commission carried out its investigation into a major hedge fund, Pequot Capital Management.</p>
+        <p>In separate speeches on the Senate floor, the senators, Arlen Specter of Pennsylvania and Charles E. Grassley of Iowa, said the S.E.C. -- which filed no charges against Pequot -- had failed to aggressively follow up on investigative leads developed by the lawyer who led the inquiry, Gary J. Aguirre.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Two Republican senators said the S.E.C. failed to follow up on leads in its investigation of Pequot Capital Management.</p>
+      </block>
+      <block class="full_text">
+        <p>Two prominent Republican senators renewed their criticism yesterday of the way the Securities and Exchange Commission carried out its investigation into a major hedge fund, Pequot Capital Management.</p>
+        <p>In separate speeches on the Senate floor, the senators, Arlen Specter of Pennsylvania and Charles E. Grassley of Iowa, said the S.E.C. -- which filed no charges against Pequot -- had failed to aggressively follow up on investigative leads developed by the lawyer who led the inquiry, Gary J. Aguirre.</p>
+        <p>Both senators said their statements reflected the findings of an interim report, which is expected to be released today, on their investigation of the S.E.C.'s conduct in the case.</p>
+        <p>The hedge fund came under regulatory scrutiny in late 2004 when Mr. Aguirre began investigating several profitable trades made by Pequot in advance of mergers or other market-moving news. The Pequot trades were flagged by stock exchange surveillance teams and forwarded to the commission.</p>
+        <p>The S.E.C. fired Mr. Aguirre in September 2005 after he complained that his investigation had been derailed by outside political influence.</p>
+        <p>''The S.E.C. should have taken Mr. Aguirre's allegations seriously,'' Mr. Grassley said. ''Instead, it circled the wagons and shot the whistle-blower -- an all-too-familiar practice in Washington.''</p>
+        <p>Mr. Specter called on the S.E.C. to reopen its investigation of Pequot, citing what he called ''conclusive proof'' that political considerations had figured in the agency's decision to delay taking the testimony of an influential Wall Street executive, John J. Mack. The commission did eventually interview Mr. Mack, but only after Mr. Aguirre criticized it in letters to Congress.</p>
+        <p>''The overwhelming evidence in the matter showed that the testimony should have been taken at a much earlier stage,'' Mr. Specter said.</p>
+        <p>The S.E.C. closed its investigation without filing any charges against Mr. Mack or anyone else connected with the Pequot matter.</p>
+        <p>An S.E.C. spokesman, John Nester, said he had not yet had the chance to read the interim report, but he said the commission would ''carefully consider the report's findings and recommendations.'' Mr. Nester said the commission had cooperated fully with Congressional investigations, a statement echoed by Mr. Grassley.</p>
+        <p>The S.E.C.'s investigation ''was plagued with problems from its beginning to its abrupt conclusion,'' Mr. Grassley said. ''The termination of Mr. Aguirre by the S.E.C. was highly suspect given the timing and circumstances.''</p>
+        <p>Both senators had particularly harsh words for the S.E.C.'s inspector general, Walter J. Stachnik. Mr. Specter said that in all his years in the Senate he could not recall ''an I.G. who said less, did less and was thoroughly inadequate in the investigation.''</p>
+        <p>He mocked what he said was the inspector general's defense -- that it was not his responsibility to second-guess certain S.E.C. decisions. ''Well, that's the purpose of having an I.G.,'' Senator Specter said.</p>
+        <p>Mr. Stachnik declined to comment last night.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

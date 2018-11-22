@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Our New No-Can-Do Nation</title>
+    <meta content="11DOWD$01" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1573382"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">Pentagon Building</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Hijacking</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">Bureaucratic Red Tape</classifier>
+        <classifier class="indexing_service" type="descriptor">Intelligence Services</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Washington (DC)</location>
+        <location class="indexing_service">Iraq</location>
+        <org class="indexing_service">Central Intelligence Agency</org>
+        <org class="indexing_service">Federal Bureau of Investigation</org>
+        <person class="indexing_service">Rice, Condoleezza</person>
+        <person class="indexing_service">Dowd, Maureen</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Cheney, Dick (Vice Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Maureen Dowd</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bureaucratic Red Tape</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pentagon Building</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hijacking</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806EEDE1038F932A25757C0A9629C8B63" item-length="724" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Our New No-Can-Do Nation</hl1>
+      </hedline>
+      <byline class="print_byline">By MAUREEN DOWD</byline>
+      <byline class="normalized_byline">Dowd, Maureen</byline>
+      <dateline>WASHINGTON</dateline>
+      <abstract>
+        <p>Maureen Dowd Op-Ed column fears that while Americans are fighting and dying to fulfill Pres Bush and Vice Pres Cheney's vision of remolding Iraq in American image, Condoleezza Rice's testimony before Sept 11 commission raises depressing possibilty that nation has lost can-do spirit of individualists who get around system; notes that national service adviser blamed 'structural' impediments to intelligence sharing, complained that other people did not recommend what she should do and even faulted terrorists for not giving specifics on their plans (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Young Americans are bravely fighting and dying in Iraq, trying to fulfill the audacious vision of George W. Bush and Dick Cheney to remold Iraq in the image of America.</p>
+        <p>But while we try to turn them into us, who have we become?</p>
+      </block>
+      <block class="full_text">
+        <p>Young Americans are bravely fighting and dying in Iraq, trying to fulfill the audacious vision of George W. Bush and Dick Cheney to remold Iraq in the image of America.</p>
+        <p>But while we try to turn them into us, who have we become?</p>
+        <p>The president presents himself as an avatar of American values, plain-spoken cowboy and tough flyboy.</p>
+        <p>But Condi Rice's testimony on Thursday raises the depressing possibility that we've lost the essence of our frontier spirit: the ingenious individualist who gets around the system and faces down the drones.</p>
+        <p>From Abigail Adams to Tom Sawyer to Bugs Bunny to Jimmy Stewart's Jefferson Smith to Indiana Jones, the best American character is plucky, nimble, clever, inventive.</p>
+        <p>So it's disturbing to see our government reacting to crises with a jaded shrug and lumbering gait, especially since we are up against such a creative, chameleonlike enemy.</p>
+        <p>Consider the pathetic performance of NASA, which inverted its motto to ''Failure is an option'' by shrugging off warnings about the safety of the seven Columbia astronauts who burned up coming back to earth, and not trying to send up a rescue shuttle.</p>
+        <p>This no-can-do spirit marked George Tenet's lame excuses to senators in February who wanted to know why the C.I.A. never picked up the trail of Marwan al-Shehhi, the pilot who crashed Flight 175 into the south tower on 9/11, even though the Germans gave the agency his name and phone number. ''They didn't give us a first and a last name until after 9/11,'' Mr. Tenet said.</p>
+        <p>And what would Eliot Ness say about an F.B.I. that is less computer savvy than American preschoolers and Islamic terrorists? The F.B.I. is only halfway through modernizing its computers, which could not, before 9/11, do two searches at once, such as ''Al Qaeda'' and ''flight schools.'' Can't we draft Bill Gates for duty?</p>
+        <p>This ominous passivity was threaded through the testimony of Ms. Rice, a brainy and accomplished woman who should represent the best of America. She blamed ''systemic'' and ''structural'' impediments that prevented the C.I.A. and the F.B.I. from sharing. She complained that other people hadn't recommended what she should do; even the terrorists were faulted for not giving specifics.</p>
+        <p>The screeching chatter in the spring and summer of 2001 -- ''There will be attacks in the near future'' -- did not yank Mr. Bush and his team from their Iraq fixation. ''But they don't tell us when,'' Ms. Rice protested. ''They don't tell us where, they don't tell us who, and they don't tell us how.'' Paging Nancy Drew.</p>
+        <p>Inconclusive intelligence did not bother the Bush team when it wanted to be ''actionable'' on Iraq, or engage in ''tit for tat'' with Saddam.</p>
+        <p>The Aug. 6, 2001, presidential daily briefing -- remarkably headlined ''Bin Laden Determined to Attack Inside the United States'' -- mentioned Al Qaeda's wanting to hijack planes and the 70 F.B.I. field investigations into suspected Al Qaeda sleeper cells in the U.S.</p>
+        <p>The briefing had three-month-old information that Al Qaeda was trying to sneak into the country for an explosives attack. No wonder the C.I.A. chief and counterterrorism czar were running around with their hair on fire.</p>
+        <p>What should have made Condi hysterical, she deemed ''historical.''</p>
+        <p>W. kept fishing and denouncing Saddam, while Condi sat for a glam Vogue photo shoot and interview.</p>
+        <p>On Iraq, they ran roughshod over the system. On Al Qaeda, Condi blamed the system, saying she couldn't act on Richard Clarke's plan until there was a strategy, a policy, ''tasking,'' meetings, etc.</p>
+        <p>The F.B.I. officials who ignored Coleen Rowley as she tried to break through the obtuse leadership of Louis Freeh's F.B.I. to get evidence on Zacarias Moussaoui, and Kenneth Williams, the Phoenix agent who outlined the Al Qaeda plot to train Arab terrorists in our flight schools, have not been held accountable. Why aren't the heroic Ms. Rowley and Mr. Williams running something?</p>
+        <p>Dick Clarke has struck a chord because his passionate efforts reflected those great American virtues of ingenuity and brashness. Even if he was a bit of a cowboy, loading up his .357 sidearm to return to the West Wing the night after 9/11, at least he was not dozing through High Noon.</p>
+        <p>My last column should have identified Iraqis fighting inside a Falluja mosque as Sunnis, and the Iraq turnover date as June.</p>
+        <p>E-mail: liberties@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: liberties@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

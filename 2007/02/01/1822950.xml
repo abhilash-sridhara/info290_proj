@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pennsylvania Academy Sells One Eakins to Get Another</title>
+    <meta content="01eakins" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822950"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <location class="indexing_service">Philadelphia (Pa)</location>
+        <org class="indexing_service">Pennsylvania Academy of Fine Arts</org>
+        <org class="indexing_service">Thomas Jefferson University</org>
+        <org class="indexing_service">Philadelphia Museum of Art</org>
+        <person class="indexing_service">Vogel, Carol</person>
+        <person class="indexing_service">Eakins, Thomas (1844-1916)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Pennsylvania</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Pennsylvania/Philadelphia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E5DC153FF932A35751C0A9619C8B63" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pennsylvania Academy Sells One Eakins to Get Another</hl1>
+      </hedline>
+      <byline class="print_byline">By CAROL VOGEL</byline>
+      <byline class="normalized_byline">Vogel, Carol</byline>
+      <abstract>
+        <p>Pennsylvania Academy of Fine Arts sells Thomas Eakins painting The Cello Player, which it has owned since 1897; will use money toward purchase of another Eakins work The Gross Clinic for $68 million from Thomas Jefferson University; academy does not say who bought The Cello Player or how much money it and Philadelphia Museum of Art have raised toward paying for The Gross Clinic (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Pennsylvania Academy of the Fine Arts has sold a painting by Thomas Eakins to help it buy another.</p>
+        <p>Yesterday it announced that it had sold ''The Cello Player,'' an 1896 portrait that it had owned since 1897 (and that until Sunday had been at the Metropolitan Museum of Art in New York as part of the exhibition ''Americans in Paris, 1860-1900'') to raise the money to pay for ''The Gross Clinic,'' a revered work the academy is buying with the Philadelphia Museum of Art from Thomas Jefferson University, a Philadelphia medical college, for $68 million.</p>
+      </block>
+      <block class="full_text">
+        <p>The Pennsylvania Academy of the Fine Arts has sold a painting by Thomas Eakins to help it buy another.</p>
+        <p>Yesterday it announced that it had sold ''The Cello Player,'' an 1896 portrait that it had owned since 1897 (and that until Sunday had been at the Metropolitan Museum of Art in New York as part of the exhibition ''Americans in Paris, 1860-1900'') to raise the money to pay for ''The Gross Clinic,'' a revered work the academy is buying with the Philadelphia Museum of Art from Thomas Jefferson University, a Philadelphia medical college, for $68 million.</p>
+        <p>Herbert S. Riband Jr., vice chairman of the academy's board, would not say who had bought the painting or how much money the academy and the Philadelphia Museum of Art had raised toward paying for ''The Gross Clinic.''</p>
+        <p>After Thomas Jefferson University agreed last fall to sell ''The Gross Clinic'' to the National Gallery of Art and the Crystal Bridges Museum of American Art, a museum being founded by a Wal-Mart heir in Bentonville, Ark., it gave Philadelphia institutions a chance to match the offer. In December, Wachovia Bank agreed to provide financing until all of the money had been raised.</p>
+        <p>Mr. Riband said the title to ''The Gross Clinic'' had recently been transferred to the academy and the Philadelphia museum. The painting, which depicts a medical professor performing a gory operation on a man's thigh, is already on exhibit at the Philadelphia museum.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

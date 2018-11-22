@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Overseas Calls Made Cheap, If Not Easy</title>
+    <meta content="01pogue" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/technology/01pogue.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823056"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="STATE OF THE ART"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <person class="indexing_service">Pogue, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Operations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/David Pogue</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Wireless Communications</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Vonage</org>
+        <org class="online_producer">Skype Technologies</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E2DA153FF932A35751C0A9619C8B63" item-length="1359" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Overseas Calls Made Cheap, If Not Easy</hl1>
+        <hl2 class="online_headline">Overseas Calls Made Cheap, if Not Easy</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID POGUE</byline>
+      <byline class="normalized_byline">Pogue, David</byline>
+      <abstract>
+        <p>David Pogue State of the Art column discusses advantages of Voice-over-Internet protocol, or VoIP, telephone service; offers tips for users put off by unfamiliarity with new technology; vast price differences and features detailed; review of VoIP products; drawing; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>You want to know how much it costs to make a 10-minute call to New York from London? From a pay phone, $15.70. From a T-Mobile or Cingular cellphone (American handsets that work overseas), $3.40 to $12.90. From your hotel room phone, $58. Perhaps it would be cheaper just to fly home.</p>
+        <p>These rates reflect a gigantic disconnect between the olden days and the new ones. Why pay for the privilege of transmitting your voice along aging copper cables buried under the ocean, when the Internet is capable of transmitting it free?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The latest options in portable Internet phone-calling equipment that might appeal to the inner economist in you.</p>
+      </block>
+      <block class="full_text">
+        <p>You want to know how much it costs to make a 10-minute call to New York from London? From a pay phone, $15.70. From a T-Mobile or Cingular cellphone (American handsets that work overseas), $3.40 to $12.90. From your hotel room phone, $58. Perhaps it would be cheaper just to fly home.</p>
+        <p>These rates reflect a gigantic disconnect between the olden days and the new ones. Why pay for the privilege of transmitting your voice along aging copper cables buried under the ocean, when the Internet is capable of transmitting it free?</p>
+        <p>All right, all right: convenience and familiarity. Everyone knows how to pick up the phone and make a call. But sooner or later, the overwhelming economy of portable Internet phone-calling equipment might appeal to the inner economist in you -- and persuade you to change your tune.</p>
+        <p>Here, to get you past that unfamiliarity hump, are some of the latest options. Each requires a high-speed Internet connection, like a cable modem or D.S.L. box.</p>
+        <p>YOUR VOIP BOX -- VoIP is the annoyingly user-hostile name that the industry has chosen for voice calls carried over the Internet's wiring. (VoIP stands for voice-over-Internet protocol, but that won't be on the test.) For example, more than two million people have signed up for VoIP service from Vonage. It charges a flat $25 a month for unlimited calls within the United States, and also to Canada, France, Ireland, Italy, Spain or Britain. Other VoIP companies offer even less expensive plans.</p>
+        <p>Here's the unfamiliar part: To make these services work, you plug your existing home telephone handset into a little adapter box (usually free with a subscription). You plug this adapter into your Internet connection rather than a phone line.</p>
+        <p>From there, dial and answer calls normally. The only difference is that the Internet, not the phone company, is carrying the calls.</p>
+        <p>So here's one crazy idea for the global gabber: Sign up for one of these VoIP services -- and then travel with your adapter box.</p>
+        <p>It's that adapter, not the telephone plugged into it, that represents your home phone number. So you can land in any country, plug your adapter into the hotel room phone and a wired high-speed Internet connection, and presto: you're only a local call away from everyone back home. Anytime someone calls your home number, the adapter box rings, no matter where it is on earth.</p>
+        <p>Drawbacks: Not especially portable. Requires a telephone handset. Not wireless. Watery sound sometimes results if you're downloading big files while on a call.</p>
+        <p>V-PHONE -- The same company, Vonage, now offers the same service, for the same rates, in a new pinky-size box ($40). It looks for all the world like a standard flash drive -- also known as a U.S.B. drive, memory drive or keychain drive. And it is one; you can fill it with 200 megabytes of whatever computer files you want to cart around.</p>
+        <p>But there's a twist: When you insert this thing into a Windows XP computer (not Vista, not Macintosh, not Linux) and wait 30 seconds, a simulated dialing keypad and phone book list pop up on the screen. You can dial any number -- and, through an included stereo earbud microphone that plugs straight into the flash drive, have crystal-clear phone chats with anyone in the world. No telephone line is required, not even a telephone.</p>
+        <p>You don't even need to supply your own computer. You can duck into a friend's house, an Internet cafe or an airport terminal, pop the V-Phone into the U.S.B. jack and instantly start making calls, with no setup or software installation and leaving no crumbs behind. You may be momentarily convinced you've just seen the Next Sliced Bread.</p>
+        <p>Drawbacks: Even if you're already a Vonage subscriber at home, paying $25 a month, the V-Phone means having a second phone number and paying another $25 a month. And there's not much point to the V-Phone if you bring your own laptop anyway (read on).</p>
+        <p>VONAGE V-ACCESS -- This new service lets anyone, even nonsubscribers, make free overseas calls to Vonage subscribers from the United States, Canada, France, Italy, Mexico, Spain or Britain. Free is good; we like free.</p>
+        <p>With this service, you need no equipment whatsoever. You just dial a local access number in whatever country you're in. (The list of local numbers appears at vonage.com.) At the tone, dial your Vonage pal's phone number -- and presto, you're connected, gratis.</p>
+        <p>Drawbacks: You can make free calls only to Vonage subscribers and 800 numbers.</p>
+        <p>VONAGE SOFTPHONE -- Just when you thought your head was about to explode from all these options, here's another one that's just for existing Vonage subscribers. The SoftPhone software for Mac or Windows turns a computer into a Vonage box. You pay $10 a month for unlimited service, with the same coverage areas mentioned above, and you don't need an adapter box. (The software uses a second phone number--not the same one as your primary Vonage account.)</p>
+        <p>Drawbacks: You have to wear a headset. When your laptop battery dies, you can't make calls.</p>
+        <p>SKYPE -- Then again, if you do travel with your laptop, why mess with Vonage at all? You can get exactly the same features -- unlimited, flat-fee, Internet-based computer dialing -- using the free software called Skype (skype.com).</p>
+        <p>Calls made using Skype and its rivals (Google Talk, AIM, iChat and so on) -- are absolutely free, as long as you're making computer-to-computer chats, where you and the person on the other end are both wearing headsets.</p>
+        <p>Most of Skype's 170 million customers, in fact, use the service just that way -- free.</p>
+        <p>That may be fine if you and your loved ones plan ahead, agreeing to sit down at your computers for a trans-Atlantic call at a given hour to save a little money. But it won't fly in the business world.</p>
+        <p>Enter Skype Out. This service lets your Mac or PC reach real telephones at real phone numbers, for as long as you care to talk, for only $30 a year. If you want a phone number for incoming calls, that's another $38 a year. (Yahoo, MSN and AIM offer variations on these services.)</p>
+        <p>Drawbacks: You have to lug your laptop and wear a headset. Skype Out's unlimited calling covers only the United States and Canada; international calls cost about 2 cents a minute.</p>
+        <p>A SKYPE PHONE -- A few companies have dumped the required ingredients for happy Internet phone calling -- microphone, speaker, Internet connection and software -- into the Blender of Creativity. The result is self-contained Skype hot-spot phones.</p>
+        <p>The nearly identical Netgear SPH101 ($250) and Belkin Wi-Fi Phone for Skype ($200), for example, look and work like cellphones, complete with vibrate mode, headphone jack and removable battery. (The more expensive Netgear is slightly smaller and has a dedicated power button.) But they don't connect to cellular networks; they connect to wireless Internet hot spots and make calls using Skype or Skype Out. No computer is involved.</p>
+        <p>Sound quality is very good, operation is simple -- your existing Skype buddy list appears on the phone as if by magic -- and the economy is unbeatable, especially when you're making calls from abroad.</p>
+        <p>Drawback: Don't expect to pull up a chair in Le Petit Internet Café and start chatting up your pals back home; these phones can hop onto password-protected hot spots, but not if a Web-page signup is required. And that pretty much rules out most of the world's public hot spots in cafes, coffee shops, airports and so on. When you realize in Rome that you left your laptop in Louisiana and desperately need to call Detroit, that could be considered a drawback.</p>
+        <p>(The Belkin model can get onto Boingo public hot spots without requiring the Web login, although that perk will cost you $8 a month.)</p>
+        <p>Of course, at the rate things have been going, phone calls -- all phone calls -- will very soon be free. We're not there yet. But already, using all these Internet-based calling gizmos, you can buy yourself a year's worth of unlimited international calling -- for the price of just one hotel room call from London.</p>
+        <p>STATE OF THE ART E-mail: Pogue@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: Pogue@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

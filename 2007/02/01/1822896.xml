@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PHYSICAL CULTURE | Gear Test With Tristan Greszko of Jackson Hole Mountain Resort; Hey, Buddy, Got the Altitude?</title>
+    <meta content="01Physical" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822896"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Watches and Clocks</classifier>
+        <classifier class="indexing_service" type="descriptor">Skiing</classifier>
+        <person class="indexing_service">Greszko, Tristan</person>
+        <person class="indexing_service">Wadyka, Sally</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Skiing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Watches and Clocks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Skiing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E6DD153FF932A35751C0A9619C8B63" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PHYSICAL CULTURE | Gear Test With Tristan Greszko of Jackson Hole Mountain Resort; Hey, Buddy, Got the Altitude?</hl1>
+      </hedline>
+      <byline class="print_byline">By SALLY WADYKA</byline>
+      <byline class="normalized_byline">Wadyka, Sally</byline>
+      <abstract>
+        <p>Tristan Greszko of Jackson Hole Mountain Resort in Montana tests out ski watches that can measure verticle movement, altitude and temperature as well as tell time; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHY settle for a watch that only tells time? Ski watches can calculate the vertical feet you descended during a week's vacation, gauge altitude and even temperature changes. And features like compasses and slope-angle indicators can be potential backcountry lifesavers.</p>
+        <p>''These watches bring together a lot of functions that would be nice to have right on your wrist, rather than having to dig around for a dozen different tools,'' said Tristan Greszko, the Internet marketing assistant and resident techie at the Jackson Hole Mountain Resort in Wyoming.</p>
+      </block>
+      <block class="full_text">
+        <p>WHY settle for a watch that only tells time? Ski watches can calculate the vertical feet you descended during a week's vacation, gauge altitude and even temperature changes. And features like compasses and slope-angle indicators can be potential backcountry lifesavers.</p>
+        <p>''These watches bring together a lot of functions that would be nice to have right on your wrist, rather than having to dig around for a dozen different tools,'' said Tristan Greszko, the Internet marketing assistant and resident techie at the Jackson Hole Mountain Resort in Wyoming.</p>
+        <p>Mr. Greszko read instruction manuals (essential, he stressed), then he wore the watches up and down the resort's 4,139 vertical feet of trails. Many of his criticisms applied to most of the watches he tested -- the temperature readings tended to be too warm by about 10 degrees, the liquid crystal displays became faint and hard to read when the temperature dropped into the teens, and the altimeters and compasses had to be recalibrated daily.</p>
+        <p>SALLY WADYKA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Trenton to Investigate Financing of a Meadowlands Project</title>
+    <meta content="01meadow" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/nyregion/01meadow.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823029"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Area Planning and Renewal</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <location class="indexing_service">Meadowlands (NJ)</location>
+        <org class="indexing_service">Encap Golf</org>
+        <org class="indexing_service">Cherokee Investment Partners</org>
+        <person class="indexing_service">Corzine, Jon S (Gov)</person>
+        <person class="indexing_service">Smothers, Ronald</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Area Planning and Renewal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">New Jersey</location>
+        <org class="online_producer">EnCap Golf</org>
+        <org class="online_producer">Cherokee Investment Partners</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE6DA153FF932A35751C0A9619C8B63" item-length="658" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Trenton to Investigate Financing of a Meadowlands Project</hl1>
+        <hl2 class="online_headline">Trenton to Investigate Financing of a Meadowlands Project</hl2>
+      </hedline>
+      <byline class="print_byline">By RONALD SMOTHERS</byline>
+      <byline class="normalized_byline">Smothers, Ronald</byline>
+      <dateline>TRENTON, Jan. 31</dateline>
+      <abstract>
+        <p>Gov Jon S Corzine's office asks New Jersey's inspector general to investigate why EnCap Golf, subsidiary of Cherokee Investment Partners, was allowed to receive tens of millions of dollars in state support for project in Meadowlands that it has not yet begun to develop; two state legislators ask state attorney general to investigate possible improprieties in financial arrangement with EnCap; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A North Carolina company that in the last decade has taken on a number of major development projects in New Jersey has come under scrutiny from the governor and state legislators because of tens of millions of dollars in state support it has received for a project in the Meadowlands that it has not yet begun to develop.</p>
+        <p>The concern goes to the heart of an array of arrangements over the last four years in which the company, EnCap Golf, a subsidiary of Cherokee Investment Partners, has received state loans, issued bonds secured by local property tax revenue that has not yet been realized, and collected fees for disposing of dredge spoils from Newark Bay without completing development of any part of the 800-acre site.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>TRENTON, Jan. 31  A North Carolina company that in the last decade has taken on a number of major development projects in New Jersey has come under scrutiny from the governor and state legislators because of tens of millions of dollars in state support it has received for a project in the Meadowlands that it has not yet begun to develop.</p>
+      </block>
+      <block class="full_text">
+        <p>A North Carolina company that in the last decade has taken on a number of major development projects in New Jersey has come under scrutiny from the governor and state legislators because of tens of millions of dollars in state support it has received for a project in the Meadowlands that it has not yet begun to develop.</p>
+        <p>The concern goes to the heart of an array of arrangements over the last four years in which the company, EnCap Golf, a subsidiary of Cherokee Investment Partners, has received state loans, issued bonds secured by local property tax revenue that has not yet been realized, and collected fees for disposing of dredge spoils from Newark Bay without completing development of any part of the 800-acre site.</p>
+        <p>In several articles, The Record of Bergen County has described how developers of the site -- which is to include two golf courses, luxury condominiums and resort hotels in Lyndhurst and Rutherford -- have received $20 in taxpayer-backed incentives for every dollar of private capital it has put up, even though the understanding was that the venture would be financed almost totally by private investors.</p>
+        <p>Anthony Coley, a spokesman for Gov. Jon S. Corzine, confirmed on Wednesday that the governor's office had referred the matter to the inspector general, but would not say when it was done.</p>
+        <p>At the same time, two state senators from Bergen County -- Henry P. McNamara, a Republican, and Loretta Weinberg, a Democrat, have gone a step further. In a letter they released on Wednesday, they asked the state attorney general to investigate possible improprieties in the financial arrangements with EnCap.</p>
+        <p>''It has become clear, through news reports of the financial arrangements of EnCap,'' said the lawmakers, referring to a series of articles in The Record, ''that obvious issues seem to exist in the funding of this project. This not only affects the taxpayers of our county, but the taxpayers of the State of New Jersey.''</p>
+        <p>Senator Weinberg said she was particularly concerned with a $200 million loan to the developers from New Jersey's Department of Environmental Protection that nearly depleted a fund originally set up for the maintenance or replacement of old and leaky sewer pipes in some of Bergen County's oldest communities.</p>
+        <p>''It seems that they are getting a windfall from state taxpayers before even doing the work to be done,'' said Senator Weinberg, who had been a strong supporter of the project.</p>
+        <p>Other critics of EnCap's development raised questions about the inspector general's investigation.</p>
+        <p>Jeff Tittel, the director of the New Jersey chapter of the Sierra Club, noted that such an internal review would have to examine actions of the state's Local Finance Board, an arm of the Department of Community Affairs, which signed off on loans and bond issues for the project, and of the Meadowlands Commission, which gave EnCap much of the land for development. The head of both agencies during much of that time was Susan Bass Levin, the current commissioner of the community affairs agency and a close adviser to Mr. Corzine.</p>
+        <p>''She called it smart growth,'' Mr. Tittel said, recalling what he said were Ms. Levin's sentiments at the time the Meadowlands Commission acted on EnCap. ''But the only smart growth has been in the profits of Cherokee Investment Partners.''</p>
+        <p>Asked about her own and her agency's role in any financing of EnCap, Ms. Levin noted that much of what was done and was likely to be looked at by the inspector general involved loans to the project by other agencies, and at times when she was not head of the Meadowlands Commission and the agency.</p>
+        <p>She pointed out that EnCap's most recent financial plan had come to the agency's Local Finance Board, which last November rejected it as incomplete and possibly unconstitutional.</p>
+        <p>Ms. Levin said that the agency then and now was concerned about a project initially proposed as privately financed coming to depend so heavily on taxpayer dollars.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

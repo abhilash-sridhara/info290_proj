@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tests of Drug to Block H.I.V. Infection Are Halted Over Safety</title>
+    <meta content="01aids" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/health/01aids.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823071"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Vaccination and Immunization</classifier>
+        <location class="indexing_service">Africa</location>
+        <location class="indexing_service">India</location>
+        <org class="indexing_service">World Health Organization</org>
+        <org class="indexing_service">United Nations Aids Program</org>
+        <person class="indexing_service">Altman, Lawrence K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/India</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/AIDS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Vaccination and Immunization</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/India</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vaccination and Immunization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">Africa</location>
+        <location class="online_producer">India</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE0DA153FF932A35751C0A9619C8B63" item-length="726" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tests of Drug to Block H.I.V. Infection Are Halted Over Safety</hl1>
+        <hl2 class="online_headline">Tests of Drug to Block H.I.V. Infection Are Halted Over Safety</hl2>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE K. ALTMAN</byline>
+      <byline class="normalized_byline">Altman, Lawrence K</byline>
+      <abstract>
+        <p>Two full-scale trials of topical microbicide to prevent HIV infection during sex are stopped for safety reasons; trials, in Africa and India, are second failure of potential microbicide in full-scale trial in recent years; latest tests are stopped when independent scientific committee finds increased risk of HIV infection among women using chemical being tested; AIDS researchers at World Health Orgn, United Nations AIDS program and other organizations express hope that at least one of three other potential microbicides undergoing full-scale testing would prove to be safe and effective; specialists consider development of microbicide a public health priority in absence of AIDS vaccine (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Efforts to develop a topical microbicide to prevent H.I.V. infection during sex suffered a surprising setback yesterday when researchers announced that they had stopped two full-scale trials for safety reasons.</p>
+        <p>The trials, in Africa and India, involved a chemical, cellulose sulfate or Ushercell, and were the second failure of a potential microbicide in a full-scale trial in recent years. In one of the latest trials, a standard check by an independent scientific committee found an increased risk of H.I.V. infection among women who used cellulose sulfate compared with those who used a placebo gel.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Efforts to develop a topical microbicide for use during sex suffered their second failure in a full-scale trial in recent years.</p>
+      </block>
+      <block class="full_text">
+        <p>Efforts to develop a topical microbicide to prevent H.I.V. infection during sex suffered a surprising setback yesterday when researchers announced that they had stopped two full-scale trials for safety reasons.</p>
+        <p>The trials, in Africa and India, involved a chemical, cellulose sulfate or Ushercell, and were the second failure of a potential microbicide in a full-scale trial in recent years. In one of the latest trials, a standard check by an independent scientific committee found an increased risk of H.I.V. infection among women who used cellulose sulfate compared with those who used a placebo gel.</p>
+        <p>In 2000, a large full-scale trial showed that the only other microbicide candidate, nonoxynol-9, was unsafe when it had been expected to be effective. Subjects in that trial developed a higher incidence of H.I.V. infection, presumably through ulcers caused by chemical irritation.</p>
+        <p>Yesterday, AIDS researchers at the World Health Organization, the United Nations AIDS program and other organizations expressed hope that at least one of three other potential microbicides undergoing full-scale testing would prove to be safe and effective. The others are Pro 2000 by Indevus Pharmaceuticals, BufferGel by ReProtect and Carraguard, whose trademark is held by the Population Council.</p>
+        <p>''While the closing of these trials is a profound disappointment for the microbicide field, we cannot let it paralyze us,'' said Dr. Zeda Rosenberg, chief executive of the nonprofit International Partnership for Microbicides in Silver Spring, Md.</p>
+        <p>In the absence of an AIDS vaccine, specialists say development of a microbicide is a public health priority, mainly to protect the many women in poor countries whose partners refuse to use condoms. Such protection could take the form of a gel, cream, film, tablet or sponge that could be inserted into the vagina or rectum.</p>
+        <p>The study that led to stopping the trials involved 1,333 participants in Benin, South Africa and Uganda. Conrad, a health research organization in Arlington, Va., conducted the study.</p>
+        <p>Conrad said the independent committee found more new H.I.V. infections among those who used cellulose sulfate than among those who used an inactive gel, but did not report any numbers. Final numbers are expected in March, a spokeswoman for Conrad said.</p>
+        <p>Family Health International of Research Triangle Park, N.C., conducted the second trial involving 1,700 participants in Nigeria. The study found neither a benefit in preventing H.I.V. infection nor an increased risk of developing it.</p>
+        <p>So, given the adverse findings in the Conrad trial, ''the responsible course of action was to halt our study'' also, said Dr. Vera Halpern, the principal investigator of the Family Health International trial.</p>
+        <p>An ideal microbicide would work in three ways. First, it would kill H.I.V. in the vagina and cervix. Second, the microbicide would prevent any virus that escaped from attaching to a woman's cells, the way the virus starts to infect. Third, for any virus that did enter cells, the microbicide would block an enzyme, reverse transcriptase, that the virus needs to replicate.</p>
+        <p>The Bill and Melinda Gates Foundation and the Agency for International Development paid $20 million for the two latest studies.</p>
+        <p>In speaking at the 16th International AIDS Conference in Toronto in August, Bill and Melinda Gates were enthusiastic about the prospects of developing a microbicide.</p>
+        <p>Yesterday, Dr. Nicholas Hellmann, acting director of the foundation's H.I.V. and tuberculosis program, affirmed the optimism.</p>
+        <p>''We remain hopeful that a safe and effective microbicide will be developed,'' Dr. Hellmann said, adding that the foundation was still committed to supporting research on microbicides and other prevention methods.</p>
+        <p>The new findings were surprising, researchers said, because 11 smaller trials of more than 500 women conducted since 1999 showed that cellulose sulfate was safe. The chemical, which was developed as Ushercell by Polydex Pharmaceuticals in Toronto, was active against H.I.V. in laboratory tests.</p>
+        <p>Dr. Peter Piot, the executive director of Unaids in Geneva, said the new findings were puzzling because there appeared to be no biological explanation for the failure of cellulose sulfate, as there was in the case of nonoxynol-9 and the ulcers associated with its use.</p>
+        <p>Finding new drugs like a microbicide often can be a process of trial and error, and requires scientifically rigorous trials, Dr. Piot said.</p>
+        <p>He speculated that one of the antiretroviral drugs used to treat AIDS might be needed for an effective microbicide. The world needs a microbicide because ''the stakes are so high,'' Dr. Piot said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Take It Away</title>
+    <meta content="01moving" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/garden/01moving.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822927"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">House Movers</classifier>
+        <classifier class="indexing_service" type="descriptor">Historic Buildings and Sites</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <person class="indexing_service">Huffman, Alan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="descriptor">Historic Buildings and Sites</classifier>
+        <classifier class="online_producer" type="descriptor">Restoration and Rehabilitation</classifier>
+        <classifier class="online_producer" type="descriptor">Buildings (Structures)</classifier>
+        <classifier class="online_producer" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restoration and Rehabilitation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Historic Buildings and Sites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buildings (Structures)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E1DD153FF932A35751C0A9619C8B63" item-length="2624" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Take It Away</hl1>
+        <hl2 class="online_headline">Take It Away</hl2>
+      </hedline>
+      <byline class="print_byline">By ALAN HUFFMAN</byline>
+      <byline class="normalized_byline">Huffman, Alan</byline>
+      <dateline>RAYMOND, Miss.</dateline>
+      <abstract>
+        <p>Relocation of historic houses has become increasingly common, sometimes because they are legally protected and sometimes because people simply want historic houses with craftmanship and sense ofcontinuity that come with them; cost of relocation varies according to size of house, distance to be traveled and amount of preparation time required; some preservationists remain opposed to moving historic houses because architectural detail can be damaged during move and because historical context is inevitably lost; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LAST October, Brenda Davis and her husband, Charles, were holding a fish fry at the Dupree House, their Victorian bed-and-breakfast inn about 10 miles southwest of Jackson, when the subject of moving old houses came up.</p>
+        <p>A nearby Greek Revival cottage that the Davises had relocated from town to their remote grounds a decade before -- a relatively rare undertaking at the time -- was drawing the admiration of several guests. As Ms. Davis, 55, reminisced about the difficulties of moving the fragile house, now restored to its 1840s splendor and serving as an annex to the inn, her neighbor Bob Chunn, 61, brought up his own, more recent experience. ''I'm happy to say that everything went smoothly with the Porter House,'' he announced, referring to the 19th-century farmhouse that he and his wife, Jeannie, moved into town in 2004.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Sometimes the only way to save a historic house is by making a radical move.</p>
+      </block>
+      <block class="full_text">
+        <p>LAST October, Brenda Davis and her husband, Charles, were holding a fish fry at the Dupree House, their Victorian bed-and-breakfast inn about 10 miles southwest of Jackson, when the subject of moving old houses came up.</p>
+        <p>A nearby Greek Revival cottage that the Davises had relocated from town to their remote grounds a decade before -- a relatively rare undertaking at the time -- was drawing the admiration of several guests. As Ms. Davis, 55, reminisced about the difficulties of moving the fragile house, now restored to its 1840s splendor and serving as an annex to the inn, her neighbor Bob Chunn, 61, brought up his own, more recent experience. ''I'm happy to say that everything went smoothly with the Porter House,'' he announced, referring to the 19th-century farmhouse that he and his wife, Jeannie, moved into town in 2004.</p>
+        <p>In response, Bobby DeLaughter, 52, a local judge (and a prosecutor in the 1994 Medgar Evers murder trial), pulled a Minié ball from a Civil War rifle out of his pocket. It had been dislodged from the wall of his house, Hiawatha, as the house was being transported to town from a nearby Civil War battlefield earlier that month.</p>
+        <p>Eight people at the gathering had taken the extreme step of rescuing old houses threatened with demolition by moving them. All had felt compelled to prevent the loss of a remnant of the area's architectural and cultural history, and most had ended up entangled in projects that were much larger than they had foreseen. As a result, Mr. DeLaughter observed, ''Raymond is becoming something of an old-house home.''</p>
+        <p>The relocation of historic houses has become increasingly common, not only in this small town in central Mississippi -- where Todd Means, a local house mover, said he has had ''more calls on historic buildings in the last two or three years than ever before,'' and is now moving 10 to 15 every year -- but across the country. Eddy Couturier, who moves houses in the greater Boston area, said he is moving twice as many historic houses now as he was 20 years ago, and estimated that he had moved 300 in just the last five years. He, Mr. Means and other movers attribute the upsurge to a combination of factors, including an increase in development pressure and the spread of preservation laws.</p>
+        <p>''Say there's a shopping center going in, and a historic building stands in the way,'' said Eugene Brymer, the staff executive of the International Association of Structural Movers in Lexington, S.C. ''At one time, it would have just been torn down. Now people will declare the building historic so it can't be torn down, and then the only solution'' -- barring the extreme step of building around it -- ''is to move it.''</p>
+        <p>But beyond the forces of development and law, there is the simple matter of desire. Many people ''are just stuck on an old house,'' Mr. Means said. ''I get people calling all the time asking me to find them one.''</p>
+        <p>And that desire, for the craftsmanship and sense of continuity that can only be found in a historic structure, is becoming more difficult to satisfy in an era when ''the percentage of old houses is getting smaller and smaller,'' said Jerry Matyiko, one of the founders of Expert House Movers in Sharptown, Md.</p>
+        <p>''We live in a transient society, and we just wanted something that feels permanent,'' said Mr. DeLaughter's wife, Peggy. Moving Hiawatha, which was on the verge of being torn down and was being offered to them for a nominal fee, seemed the obvious thing to do.</p>
+        <p>WHEN a house that offers so much is at risk of being destroyed -- and is available for little more than the cost of carting it away -- it can be hard to resist. I know, because I was one of the house movers at the Davises' fish fry.</p>
+        <p>In 1990, I agreed to take on a decaying house in Red Lick, Miss., called Holly Grove, which had been in a friend's family since it was built in 1832. I was not in the market for another historic house -- I had already moved an old log barn and a slave cabin to my property after both were damaged in storms -- but Holly Grove was different. It had been abandoned for perhaps 40 years, although its rooms were still furnished with threadbare pieces dating from the 1780s to the 1940s, and it had not been repainted since it was built. I had camped there with my friends in high school in the early 70s, in sleeping bags laid on faded Oriental rugs, and I did not want to see it pass away.</p>
+        <p>Though I did not yet realize it, Holly Grove was one of the ''free'' houses, so notorious in the historic preservation world because they are anything but. Like many others before me, I didn't know what I was getting into until it was too late to turn back.</p>
+        <p>In the simplest relocations, a house mover and his crew jack up a structure and slide long steel beams beneath it, which are affixed to wheels and then towed by truck to the new site. Often, though, houses have to be broken into two or more pieces, and roofs have to be removed, to allow them to pass under power lines, bridges and trees. Plumbing, ductwork and other attachments beneath the house must be removed, and weak or rotten structural supports replaced. Next comes the laborious haul, which sometimes spans two days or more, through a maze of obstacles and traffic. Once the house arrives at the new site, it must be carefully positioned over the footprint of its new foundation.</p>
+        <p>The cost of relocation varies, depending on the size of the house, the distance traversed and how much preparation is required. Moving Hiawatha, which was on the road for two days, cost $17,000, according to Mr. DeLaughter. A larger house, like the three-story Victorian that Darren and Lisa Tracy moved in Schuylerville, N.Y., can cost more than $50,000. More complicated moves can cost hundreds of thousands or even millions of dollars, as in the case of Alexander Hamilton's Federal-era house in Harlem known as the Grange, which the National Park Service plans to relocate to a nearby park, possibly as soon as this spring. The move and restoration together are projected to cost $8.4 million.</p>
+        <p>The Holly Grove project didn't cost that much, but it was a lot more than I expected. Because it stood on a one-lane gravel road with a low canopy of overhanging trees, and because the approach to my own property, 70 miles away in Bolton, was similarly encumbered, the house, which had been weakened by rotten timbers, had to be completely dismantled. The process required months of tedious, dirty, back-breaking and dangerous work, even with the help of friends who were carpenters, engineers and woodworkers. We hauled most of the components in pickups and on trailers, but the largest beams had to be transported on a hired 18-wheeler rig, which required the bulldozing of a temporary access road.</p>
+        <p>The final phase involved deciphering the riddle we had created -- putting the house back together from thousands of pieces. We had done our best to mark everything, and I had taken hundreds of photographs, but the reassembly proved a challenge anyway. Even after the structure itself had been rebuilt, the timeline continued to lengthen as I searched for rare millwork to replace pieces that had been lost to decay or in the move, and as I took on much of the restoration work myself in the face of mounting and unexpected expenses.</p>
+        <p>Four years later, I moved in. The dismantling, relocation and reassembly had cost perhaps $30,000; the restoration, another $175,000.</p>
+        <p>Had I known that to begin with I might not have undertaken the project. It would have been cheaper to build a copy from scratch. But in the end, it was worth it. A reproduction would never have caught the spirit of the house,with its penciled names of children dating back more than a century and the constantly changing light show of its wavy windowpanes.</p>
+        <p>And it was only by taking the house apart that I was able to learn its secrets. I had been told, for example, that Holly Grove was manufactured as a kit in Cincinnati and floated down the Mississippi River on a boat, then transported overland to its site aboard ox-drawn wagons. I had no way of knowing if this was true until we found clear evidence of its factory origins in its interchangeable components, many marked with Roman numerals.</p>
+        <p>An added bonus was the gift of a piano forte from the house's previous owners, which had once occupied the parlor. The instrument brought with it a story about its first owner, a slave owner who had freed his slaves to emigrate to Liberia in his will, which inspired a book project that landed me in the Liberian civil war. No new house could have done all that, and for better or worse, the move itself became part of the long Holly Grove story, illustrating both the vagaries of time and the house's survivability.</p>
+        <p>ALTHOUGH house moving has recently been gaining acceptance, people who move historic houses have traditionally been met with hostility in the staid world of preservation because their approach is seen as too radical. Architectural detail can be damaged during a move, particularly if the building must be dismantled, and historical context is inevitably lost.</p>
+        <p>''We were really shunned by the preservation community when we started,'' said Lynn Edmundson, director of the nonprofit preservation group Historic Houston, which was founded in 2002 and has moved 25 houses since 2004, mothballing several of them until they could be moved to new sites. But given Houston's weak preservation laws and lack of zoning, she said, ''really you have two options when a building is threatened with demolition: Move it or lose it.''</p>
+        <p>Many preservationists seem to be coming around to this view. The fact that historic houses have to be moved ''obviously indicates a failing,'' said Robert Allen, who sits on the preservation board of Mobile, Ala., and is the chairman of the historic preservation department at the Savannah College of Art and Design. ''From a strict preservation standpoint, you don't move a house unless there's no way to save it,'' he added. ''But unfortunately it sometimes is the only way to save it. I used to be a preservation purist, but after you lose so many buildings, you begin to be more realistic.''</p>
+        <p>Even after a major legal victory, like a recent one in California, some preservationists now see house moving as the safest bet. In January, the preservation group Uphold Our Heritage successfully sued Steve Jobs of Apple to keep him from demolishing his 1926 house near Palo Alto. Still, Douglas Carstens, a lawyer for the group, acknowledged that there's no guarantee that a future ruling won't go the other way, and that moving the house ''may be the most viable alternative.''</p>
+        <p>In recent years, according to Peter Brink, the vice president for programs at the National Trust for Historic Preservation, many preservationists, while still preferring that historic structures remain at their original sites, have also come to believe that relocation, done right, need not necessarily destroy the fabric of a neighborhood -- and can actually benefit it.</p>
+        <p>In Raleigh, N.C., for example, a new redevelopment project in the Blount Street neighborhood will consolidate surviving historic houses by moving seven of them, resulting in a more cohesive historic district while making new land available for development. As a result of past tear-downs, said Myrick Howard, the president of Preservation North Carolina, ''What you've got right now is: great house, parking lot, great house, great house, parking lot, parking lot, great house.''</p>
+        <p>But for those who grew up in historic houses, mixed feelings about moving them can run deep.</p>
+        <p>''A lot of painstaking, heartbreaking decisions went into this,'' said Parker Simmons, 53, of the relocation of Edge Hill, his historic house in southern Virginia, along with its detached log kitchen and barn, to a new site on the same property. Mr. Simmons grew up in the house, parts of which are believed to date to the early 19th century. ''My mother was born and died in the house,'' Mr. Simmons said, in a Tidewater drawl. ''We've been here almost a hundred years. Then a little drugstore called Walgreens approached me about a year and a half ago, wanting to buy some land.''</p>
+        <p>By then it was apparent that commercial encroachment in the immediate area was inevitable, Mr. Simmons said, so he made the difficult choice to sell the street frontage where the buildings had stood until mid-January. His family was distressed about the turn of events, he said. ''Everybody fell to pieces over this. When they pulled down that old chimney, there wasn't a dry eye.''</p>
+        <p>''We'll still have the house, but it won't be the same,'' he added. ''It's a tough thing, but it's a new start, a new chapter. It's exciting. But human beings don't really like change.''</p>
+        <p>Even those who don't feel such a deep attachment to their houses aren't always sanguine when it comes to change, and for them, at least, relocation can offer a happy ending. When the previous owner of Hiawatha, which had stood empty for years, decided to tear it down, he could not help but feel conflicted, according to Mr. DeLaughter, who provided him with a way out.</p>
+        <p>''The house meant nothing to him,'' Mr. DeLaughter said, ''but it was real special to his mother, who died. As he put it, he wasn't as concerned about meeting his maker as he was meeting his mother if he tore that house down.''</p>
+        <p>Hunting for History to Bring Back Home</p>
+        <p>FOR those who are seeking a no- or low-cost historic home -- and are willing to invest the considerable money and time required to move and restore it -- there are several resources worth investigating.</p>
+        <p>There is no comprehensive clearinghouse for historic structures available to be moved; houses are often matched with prospective owners by word of mouth. But preservation organizations can provide guidance and advice.</p>
+        <p>The National Trust for Historic Preservation offers state and regional contacts (nationaltrust.org/community), and compiles an annual list of the 10 Most Endangered historic buildings and places, which can include structures that must be moved. Most states have National Trust affiliates (such as the Preservation League of New York State, 518-462-5658 or preservenys.org), as well as state government historic preservation offices (New York's is at 518-237-8643; nysparks.state.ny.us/shpo). Some cities have nonprofit historic preservation organizations, like Historic Houston (713-522-0542 or historichouston.org), that can assist in locating threatened buildings. Commercial house movers and contractors who specialize in restoration (who can be found online or in business listings of local phone books) are also sometimes aware of structures that need to be moved.</p>
+        <p>Houses on the National Register of Historic Places need not automatically lose their listing there, nor the considerable tax breaks such a listing can bring, when they are moved. The history and culture division of the National Park Service (cr.nps.gov), which oversees the national register program, has guidelines to ensure that relocations and restorations are done sensitively, which can help maintain a house's status.</p>
+        <p>''It's important to find a reputable mover,'' said Lynn Edmundson of Historic Houston. Houses have been known to tip, break up or become snagged by trees or bridges during moves. ''The last thing you want is to show up one morning and find they've lopped off a room during the night,'' she said.</p>
+        <p>The most important thing to look for is that a mover is bonded and comes with references.</p>
+        <p>ALAN HUFFMAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

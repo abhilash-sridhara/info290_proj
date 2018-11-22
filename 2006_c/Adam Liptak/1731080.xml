@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Quick Focus On the Powers Of a President</title>
+    <meta content="10legal" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Front Page; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/10/politics/politicsspecial1/10legal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1731080"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="COURT IN TRANSITION: LEGAL CONTEXT"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <org class="online_producer">Supreme Court</org>
+        <person class="online_producer">Alito, Samuel A Jr</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01EED61F30F933A25752C0A9609C8B63" item-length="1197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Quick Focus On the Powers Of a President</hl1>
+        <hl2 class="online_headline">Focus of Hearings Quickly Turns to Limits of Presidential Power</hl2>
+      </hedline>
+      <byline class="print_byline">By ADAM LIPTAK</byline>
+      <dateline>WASHINGTON, Jan. 9</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The opinion is more than 50 years old, and it is not even binding precedent. But just minutes into the Supreme Court confirmation hearings of Judge Samuel A. Alito Jr., it took center stage and seemed to lay the groundwork for the questions he will face concerning his views on the limits of presidential power.</p>
+        <p>The 1952 opinion, a concurrence by Justice Robert H. Jackson, rejected President Harry S. Truman's assertion that he had the constitutional power to seize the nation's steel mills to aid the war effort in Korea. Whether and how Justice Jackson's analysis should apply to broadly similar recent assertions by the Bush administration, notably concerning its domestic surveillance program, will plainly be a central theme when questioning of Judge Alito begins Tuesday morning.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A 1952 opinion on presidential authority seems to have laid the groundwork for the questioning of Judge Samuel A. Alito Jr.</p>
+      </block>
+      <block class="full_text">
+        <p>The opinion is more than 50 years old, and it is not even binding precedent. But just minutes into the Supreme Court confirmation hearings of Judge Samuel A. Alito Jr., it took center stage and seemed to lay the groundwork for the questions he will face concerning his views on the limits of presidential power.</p>
+        <p>The 1952 opinion, a concurrence by Justice Robert H. Jackson, rejected President Harry S. Truman's assertion that he had the constitutional power to seize the nation's steel mills to aid the war effort in Korea. Whether and how Justice Jackson's analysis should apply to broadly similar recent assertions by the Bush administration, notably concerning its domestic surveillance program, will plainly be a central theme when questioning of Judge Alito begins Tuesday morning.</p>
+        <p>Senator Arlen Specter, the Republican chairman of the Judiciary Committee, discussed only three decisions by name in his opening statement: Justice Jackson's concurrence in the 1952 case, Youngstown Sheet and Tube Company v. Sawyer, and two abortion cases, Roe v. Wade and Planned Parenthood v. Casey.</p>
+        <p>Quoting from the Jackson concurrence and referring to the surveillance program, Mr. Specter said, ''What is at stake is the equilibrium established by our constitutional system.''</p>
+        <p>Senator Patrick J. Leahy, the ranking Democrat on the committee, made a similar assertion in noting that Judge Alito would replace Justice Sandra Day O'Connor if he was confirmed. ''She upheld,'' Mr. Leahy said, ''the fundamental principle of judicial review over the exercise of government power.''</p>
+        <p>That was a reference to Justice O'Connor's decisive opinion turning back another broad assertion of executive power in Hamdi v. Rumsfeld, a 2004 case in which the court allowed a man held without charges as an enemy combatant to challenge his detention, over the objections of the Bush administration.</p>
+        <p>''We have long since made clear that a state of war is not a blank check for the president when it comes to the rights of the nation's citizens,'' Justice O'Connor wrote for herself and three other justices in 2004. She cited one case as precedent for that proposition: Youngstown.</p>
+        <p>Judge Alito, in his brief, mostly biographical opening statement, did not address Youngstown or any other case. But he did seem to nod in the direction of the current controversy. ''No person in this country, no matter how high or powerful, is above the law,'' he said, ''and no person in this country is beneath the law.''</p>
+        <p>Chief Justice John G. Roberts Jr., at his confirmation hearings in September, endorsed Justice Jackson's concurrence. It has, Judge Roberts said, ''set the framework for consideration of questions of executive power in times of war and with respect to foreign affairs since it was decided.''</p>
+        <p>Most of the discussion of executive power on Monday came from Democratic senators. One Republican, Senator Lindsey Graham of South Carolina, argued for an aggressive view of executive power.</p>
+        <p>''In a time of war,'' Mr. Graham said, ''I want the executive branch to have the tools to protect me, my family and my country.''</p>
+        <p>In 1952, the Supreme Court faced a set of clashing interests in the Youngstown case broadly similar to those in the current surveillance controversy. That April, President Truman seized the nation's steel mills to prevent an expected labor strike, saying that national security during the Korean War required uninterrupted access to steel.</p>
+        <p>In June 1952, in a 6-to-3 decision, the Supreme Court rejected the various legal rationales offered by the Truman administration for the seizures. Many of those rationales have echoes in the justifications offered by the Bush administration for its detention of enemy combatants, harsh interrogations and domestic surveillance without court approval.</p>
+        <p>Writing for the court, Justice Hugo L. Black said the president's power was extensive but not unlimited.</p>
+        <p>''Even though 'theater of war' be an expanding concept,'' Justice Black wrote, ''we cannot with faithfulness to our constitutional system hold that the commander in chief of the armed forces has the ultimate power as such to take possession of private property in order to keep labor disputes from stopping production. This is a job for the nation's lawmakers, not for its military authorities.''</p>
+        <p>There are, of course, obvious differences between the Youngstown case and recent efforts to combat terrorism. The seizure of the steel mills, for instance, was a wholly domestic matter. The surveillance program, by contrast, monitors international communications between the United States and other nations. The Korean War was, moreover, a conventional one, while terrorism involves a more amorphous threat.</p>
+        <p>It is not entirely clear why Justice Jackson's concurrence has had such a lasting impact. It may be because he spoke with particular authority, having argued for expansive executive power as President Franklin D. Roosevelt's attorney general, much as Judge Alito did when he was a lawyer in the Reagan administration.</p>
+        <p>''That comprehensive and undefined presidential powers hold both practical advantages and grave dangers for the country,'' Justice Jackson wrote in the concurrence, ''will impress anyone who has served as legal adviser to a president in time of transition and public anxiety.''</p>
+        <p>He proposed three categories to judge the constitutionality of assertions of executive power. His framework may be thought to endorse or reject the Bush administration's position, depending on how various Congressional actions are understood.</p>
+        <p>The president's authority is at its maximum, Justice Jackson wrote, when he ''acts pursuant to an express or implied authorization of Congress.'' The administration says a resolution authorizing the president to use military force after the Sept. 11 attacks was such authorization.</p>
+        <p>In his opening statement, Mr. Graham said he was troubled by that argument. ''I've got some problems,'' he said, ''with using a force resolution to the point that future presidents may not be able to get a force resolution from Congress if you interpret it too broadly.''</p>
+        <p>Justice Jackson's second category was ''a zone of twilight'' in which Congress has taken no action. In that case, he said, ''any actual test of power is likely to depend on the imperatives of events and contemporary imponderables rather than on abstract theories of law.''</p>
+        <p>The third category is where the president takes action at odds with the will of Congress. A 1978 law, the Foreign Intelligence Surveillance Act, appears to require court approval before monitoring of the sort the administration has acknowledged.</p>
+        <p>In this third area, Justice Jackson said, the president's power is ''at its lowest ebb,'' and claims of presidential authority ''must be scrutinized with caution.''</p>
+        <p>COURT IN TRANSITION: LEGAL CONTEXT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

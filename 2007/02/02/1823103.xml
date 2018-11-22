@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   IVINS, MOLLY</title>
+    <meta content="dn020207" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1823103"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">IVINS, MOLLY</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070202T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E3DE163AF931A35751C0A9619C8B63" item-length="222" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   IVINS, MOLLY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IVINS--Molly. The American Civil Liberties Union and the ACLU of Texas deeply mourn the passing of longtime ACLU friend and legendary columnist, Molly Ivins. Ivins was a much-loved member of the ACLU family and highly respected for her staunch commitment to the protection of civil liberties. Whether it was promoting racial justice, exposing discrimination or protecting a woman's right to choose, Ivins was a champion of the rights of all people. Throughout the years, Ivins not only exercised her own right to free speech, but also defended that of her political opponents. In recent years, Ivins, in her ever-folksy and acerbic style, used her columns to point out how the Bush administration, in the name of national security and patriotism, infringed on Americans' valued constitutional rights and usurped excessive power. She traveled the country speaking to countless ACLU audiences bringing laughter and clarity during some very troubling times. Like our founder, Roger Baldwin, who believed in the ACLU's work ''out there''. Molly believed in connecting to the grassroots. She was one of a kind, but all of us will continue to do the important work that would make her proud. And we will continue to laugh at ourselves, as she would have wanted us to do. The ACLU is establishing the Molly Ivins Fund for Justice and Liberty in her honor.</p>
+      </block>
+      <block class="full_text">
+        <p>IVINS--Molly. The American Civil Liberties Union and the ACLU of Texas deeply mourn the passing of longtime ACLU friend and legendary columnist, Molly Ivins. Ivins was a much-loved member of the ACLU family and highly respected for her staunch commitment to the protection of civil liberties. Whether it was promoting racial justice, exposing discrimination or protecting a woman's right to choose, Ivins was a champion of the rights of all people. Throughout the years, Ivins not only exercised her own right to free speech, but also defended that of her political opponents. In recent years, Ivins, in her ever-folksy and acerbic style, used her columns to point out how the Bush administration, in the name of national security and patriotism, infringed on Americans' valued constitutional rights and usurped excessive power. She traveled the country speaking to countless ACLU audiences bringing laughter and clarity during some very troubling times. Like our founder, Roger Baldwin, who believed in the ACLU's work ''out there''. Molly believed in connecting to the grassroots. She was one of a kind, but all of us will continue to do the important work that would make her proud. And we will continue to laugh at ourselves, as she would have wanted us to do. The ACLU is establishing the Molly Ivins Fund for Justice and Liberty in her honor.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

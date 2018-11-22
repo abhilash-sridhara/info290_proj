@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hunting for A Straight Shooter</title>
+    <meta content="18dowd" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/02/18/opinion/18dowd.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20060308T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1740512"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Executive Orders</classifier>
+        <classifier class="indexing_service" type="descriptor">Classification of Information</classifier>
+        <location class="indexing_service">Iraq</location>
+        <org class="indexing_service">Fox News Channel</org>
+        <org class="indexing_service">Central Intelligence Agency</org>
+        <person class="indexing_service">Dowd, Maureen</person>
+        <person class="indexing_service">Cheney, Dick (Vice Pres)</person>
+        <person class="indexing_service">Hume, Brit</person>
+        <person class="indexing_service">Libby, I Lewis Jr</person>
+        <person class="indexing_service">Wilson, Valerie Plame</person>
+        <person class="indexing_service">Wilson, Joseph C Iv</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Maureen Dowd</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classification of Information</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executive Orders</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <location class="online_producer">Iraq</location>
+        <person class="online_producer">Cheney, Dick</person>
+        <person class="online_producer">Rumsfeld, Donald H</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE5D9103EF93BA25751C0A9609C8B63" item-length="849" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hunting for A Straight Shooter</hl1>
+        <hl2 class="online_headline">Hunting for a Straight Shooter</hl2>
+      </hedline>
+      <byline class="print_byline">By MAUREEN DOWD</byline>
+      <byline class="normalized_byline">Dowd, Maureen</byline>
+      <dateline>WASHINGTON</dateline>
+      <abstract>
+        <p>Maureen Dowd Op-Ed column notes that Vice Pres Dick Cheney told Fox News anchor Brit Hume that Pres Bush signed executive order giving vice president power to declassify top-secret material; contends that this set up defense for I Lewis Libby Jr, Cheney's former chief of staff, who testified that superiors had authorized him to leak classified information on Valerie Plame (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Maybe I've had Dick Cheney wrong all along.</p>
+        <p>Maybe he's not maniacally secretive, manipulative with the truth and contemptuous of democratic institutions. Perhaps he's cruelly misunderstood in his heartfelt desire to disseminate information.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>I love it when Shooter and Rummy call us unrealistic for trying to hold them to standards that they set.</p>
+      </block>
+      <block class="full_text">
+        <p>Maybe I've had Dick Cheney wrong all along.</p>
+        <p>Maybe he's not maniacally secretive, manipulative with the truth and contemptuous of democratic institutions. Perhaps he's cruelly misunderstood in his heartfelt desire to disseminate information.</p>
+        <p>It was at the end of his interview with Brit Hume, when Shooter talked about Scooter, that his eagerness to share important facts with the press and public -- a well-concealed trait in recent days, years and decades -- burst forth. He pronounced himself a Great Declassifier.</p>
+        <p>Asked by the Fox News anchor if a vice president had the authority to declassify secrets, Mr. Cheney replied that there's an executive order giving him that power, adding: ''I've certainly advocated declassification and participated in declassification decisions.'' This neatly set up a defense for Scooter, who testified that ''superiors'' had authorized him to leak classified information on Valerie Plame.</p>
+        <p>President Bush signed Executive Order 13292 on March 25, 2003, amending a Clinton-era order, to grant the vice president the same power as the president on top-secret material. W. must have been concerned that Vice didn't have enough power to abuse.</p>
+        <p>(With the way these guys keep giving themselves extra powers, there are probably also executive orders that allow Vice-Man to turn himself into a dragon, become invisible and leap tall buildings in a single bound.)</p>
+        <p>In return for this selfless effort to tell the world that Valerie Plame was a C.I.A. officer -- and punish her husband, a critic of the phony case for war, and therefore a terrorist symp -- Shooter was rewarded with an independent prosecutor and Scooter with an indictment. So when the Great Declassifier gunned down his hunting partner, he was compelled by bitter experience to override his instinct to immediately call a press conference.</p>
+        <p>The administration has been so apoplectic about leaks, I almost forget the entire Iraq war was paved by its leaks. Cheney &amp; Co. were so busy trying to prove a mushroom cloud was emanating from Saddam's direction, they could not leak their cherry-picked stories fast enough.</p>
+        <p>Maybe I've had Rummy wrong, too. Maybe he's not an arrogant, misguided Robert McNamara clone.</p>
+        <p>In his speech to the Council of Foreign Relations yesterday, he sounded positively humble. Gone were the days when Rummy and the neocons thought a big Shock-and-Awe blaze of American might would make Islamic terrorists tremble in their Flintstones caves, never to challenge us again.</p>
+        <p>Now Rummy paints America as backward, losing the P.R. war to Al Qaeda in the first conflict in history using e-mail, blogs, BlackBerries and hand-held videocameras. ''For the most part,'' he said, ''the U.S. government still functions as a five-and-dime store in an eBay world.'' (Hey, didn't we invent eBay?)</p>
+        <p>Like the vice president, the defense secretary is eager to get information out. If the American press wouldn't scream, ''Henny Penny, the sky is falling,'' every time the Pentagon tries to plant paid stories in the Iraqi press, for gosh sakes, maybe we could have some success in the P.R. battle.</p>
+        <p>After the Lincoln Group's ''nontraditional means,'' as he delicately put it, were discovered, ''the resulting explosion of critical press stories then causes everything, all activity, all initiative, to stop, just frozen.''</p>
+        <p>''Even worse,'' he complained, ''it leads to a chilling effect for those who are asked to serve in the military public affairs field.'' The press ''seems to demand perfection from the government,'' he wailed. And why do the media focus on Abu Ghraib, perpetrated by ''people on the night shift, one night shift in Iraq?'' he asked. Why not more stories on Saddam's mass graves?</p>
+        <p>Rummy is genuinely perplexed about why it's wrong to subvert democracy while promoting democracy.</p>
+        <p>I love it when Shooter and Rummy call us unrealistic for trying to hold them to standards that they set. They are, after all, victims of their own spin on Iraq. Mr. Cheney thought we'd be greeted with flowers; Rummy said we could do more with less.</p>
+        <p>Rummy misses the point: we're supposed to be the good guys, the beacon of freedom. Our message is supposed to work because it has moral force, not because we pay some Lincoln Group sketchballs millions to plant propaganda in Iraqi newspapers and not because the press here plays down revelations of American torture. If the Bush crew hadn't distorted the truth to get to Iraq, it wouldn't need to distort the truth to succeed there.</p>
+        <p>''Ultimately, in my view,'' Rummy concluded, ''truth wins out.''</p>
+        <p>Bad news for him, and his pal Dick.</p>
+        <p>Op-Ed Columnist</p>
+        <p>Correction:  March 8, 2006, Wednesday  My column of Feb. 18 said that Scooter Libby testified that ''superiors'' had authorized him to leak classified information about Valerie Plame. Rather, Mr. Libby testified that ''superiors'' had authorized him to leak classified information from an intelligence report to rebut critics and justify the Iraq war, not information about Valerie Plame.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: March 8, 2006, Wednesday</p>
+        <p>My column of Feb. 18 said that Scooter Libby testified that ''superiors'' had authorized him to leak classified information about Valerie Plame. Rather, Mr. Libby testified that ''superiors'' had authorized him to leak classified information from an intelligence report to rebut critics and justify the Iraq war, not information about Valerie Plame.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

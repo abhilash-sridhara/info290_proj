@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Troubled 'Marriage'</title>
+    <meta content="Y12MAR$02" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/02/12/national/12MARR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1558296"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Marriages</classifier>
+        <classifier class="indexing_service" type="descriptor">Homosexuality</classifier>
+        <classifier class="indexing_service" type="descriptor">Constitutional Amendments</classifier>
+        <location class="indexing_service">Massachusetts</location>
+        <person class="indexing_service">Liptak, Adam</person>
+        <classifier class="online_producer" type="types_of_material">News Analysis</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Massachusetts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts</classifier>
+        <classifier class="online_producer" type="descriptor">Marriages</classifier>
+        <classifier class="online_producer" type="descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="descriptor">Constitutional Amendments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Constitutional Amendments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Marriages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <location class="online_producer">Massachusetts</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040212T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900EED6133AF931A25751C0A9629C8B63" item-length="1005" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Troubled 'Marriage'</hl1>
+        <hl2 class="online_headline">News Analysis: A Troubled Marriage</hl2>
+      </hedline>
+      <byline class="print_byline">By ADAM LIPTAK</byline>
+      <byline class="normalized_byline">Liptak, Adam</byline>
+      <abstract>
+        <p>Opponents and proponents of gay marriage are divided more over word used to describe union of gay couples who commit selves to lasting partnership than over whether government may give them same benefits as heterosexual couples who marry; Massachusetts court that ruled civil unions are inadequate substitute for marriage also made it clear that rights associated with such unions are required by state Constitution; many defenders of heterosexual marriages stop short of objecting to civil unions; gay rights advocates say words are symbolically important (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There is much common ground between many proponents and opponents of gay marriage. What matters, they say, is not whether the government may give gay couples who commit themselves to lasting partnerships the same bundle of benefits and burdens it gives straight couples who marry. What matters is the word used to describe the bundle.</p>
+        <p>''We have,'' wrote Justice Martha B. Sosman of the Massachusetts Supreme Judicial Court in a dissent last week, ''a pitched battle over who gets to use the 'm' word.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The dispute over gay marriage is not just about the rights that should accompany a lasting partnership, but also about the symbolic meaning of a word.</p>
+      </block>
+      <block class="full_text">
+        <p>There is much common ground between many proponents and opponents of gay marriage. What matters, they say, is not whether the government may give gay couples who commit themselves to lasting partnerships the same bundle of benefits and burdens it gives straight couples who marry. What matters is the word used to describe the bundle.</p>
+        <p>''We have,'' wrote Justice Martha B. Sosman of the Massachusetts Supreme Judicial Court in a dissent last week, ''a pitched battle over who gets to use the 'm' word.''</p>
+        <p>In that decision, the court made clear that, starting in May, gay couples can marry in the state. Proposed amendments to the state Constitution, assuming they clear several hurdles, may forbid such marriages starting in late 2006 and perhaps withdraw the m-word from any gay couples who were married in the interim. By then, some couples may have celebrated their second wedding anniversaries.</p>
+        <p>That ''retroactive demotion,'' in the words of Laurence H. Tribe, the Harvard law professor, could lead to numerous legal challenges. But those challenges, too, would largely be over symbols rather than substance.</p>
+        <p>''It's remarkable that the fallback position in Massachusetts is full legal rights by another name,'' said William B. Rubenstein, a law professor at the University of California, Los Angeles.</p>
+        <p>When the highest court in Massachusetts ruled that civil unions are an inadequate substitute for marriage, it also made clear that the rights associated with such unions are required under the state Constitution, though insufficient if not called marriage.</p>
+        <p>That means that unless a state constitutional amendment banned or limited civil unions -- and none of those under consideration do -- that aspect of the decision would stand. And the remaining argument would be about names.</p>
+        <p>Whether called a marriage or something else, Justice Sosman wrote, ''same-sex couples who are civilly 'united' will have literally every single right, privilege, benefit and obligation of every sort that our state law confers on opposite-sex couples who are civilly 'married.' ''</p>
+        <p>Gay rights advocates, and the majority in the 4-to-3 decision, said words are symbols and symbols matter.</p>
+        <p>''The dissimilitude between the terms 'civil marriage' and 'civil union' is not innocuous,'' Chief Justice Margaret H. Marshall wrote. ''It is a considered choice of language that reflects a demonstrable assigning of same-sex, largely homosexual, couples to second-class status.''</p>
+        <p>Lawyers for gay couples add that marriages are more likely to be recognized in other states than civil unions, though this argument is complicated by about 40 federal and state ''defense of marriage'' laws that say essentially the opposite.</p>
+        <p>Many defenders of heterosexual marriages stop short of objecting to civil unions. A proposed federal constitutional amendment introduced by Representative Marilyn Musgrave, Republican of Colorado, would reserve marriage and ''the legal incidents thereof'' to heterosexual couples and forbid the sanctioning of gay marriages. But a spokesman for Ms. Musgrave said the amendment would let states make their own decisions about civil unions.</p>
+        <p>Proposals for a compromise in Massachusetts that would take effect sooner than 2006 also make plain that the argument is in large part about nomenclature, not formal equality.</p>
+        <p>Justice Sosman proposed renaming all unions.</p>
+        <p>''Rather than imbuing the word 'marriage' with constitutional significance, there is much to be said for the argument that the secular legal institution, which has gradually come to mean something very different from its original religious counterpart, be given a name that distinguishes it from the religious sacrament of 'marriage,' '' she wrote. ''The legislature could, rationally and permissibly, decide that the time has come to jettison the term.''</p>
+        <p>The majority seemed to agree. A new name for all unions, Chief Justice Marshall wrote, ''might well be rational and permissible.''</p>
+        <p>Douglas W. Kmiec and Mark S. Scarberry, law professors at Pepperdine University, suggested in a recent column that Massachusetts could ''temporarily get out of the new marriage business entirely.'' This would treat gay and straight couples equally, though heterosexuals could still be married in other states, and would not require the state to withdraw marriage licenses from gay couples in 2006 if a constitutional amendment took effect.</p>
+        <p>''Massachusetts needs some time for cooler heads to prevail,'' Mr. Kmiec said in an interview. ''Legislators could say, 'We're going to close the civil marriage window in Massachusetts.' ''</p>
+        <p>Whatever happens in Massachusetts is unlikely to be required to be recognized elsewhere, legal experts said, though perhaps not for the most obvious reason. The various federal and state defense-of-marriage laws, they said, add little to existing constitutional principles and, if they do, may themselves be unconstitutional.</p>
+        <p>But the requirement that states acknowledge and enforce other states' public acts, records and judicial proceedings under the federal Constitution's ''full faith and credit'' clause is not absolute.</p>
+        <p>''No state has ever had an obligation to give credence to a judgment of another state that cuts deeply against the articulated public policy of the receiving state,'' Mr. Kmiec said. Laws that prohibit the recognition of gay marriages from other states are thus in one sense unconstitutional and in another an expression of the state's public policy.</p>
+        <p>Gay rights advocates say that, symbols aside, they would rather litigate cases about the recognition of marriage to those about civil unions.</p>
+        <p>''The concept of civil union exists in only one state,'' said Michael Adams, a lawyer with Lambda Legal. ''Couples who enter into civil unions in Vermont have had tremendous problems in getting any kind of recognition across state lines. We believe that gay and lesbian couples who are married stand on more solid ground in seeking recognition in other states.''</p>
+        <p>Mr. Rubenstein, who has written a treatise on sexual orientation and the law, had one prediction about the lawsuits that will follow the court decisions and legislation in Massachusetts. ''The only thing I can say for sure,'' he said, ''is that it's like a full employment act for lawyers.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

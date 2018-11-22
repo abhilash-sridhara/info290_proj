@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Trial Run for Train Armrests Without an Appetite for Clothes</title>
+    <meta content="01seat" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/nyregion/01seat.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823024"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Railroads</classifier>
+        <location class="indexing_service">New York City Metropolitan Area</location>
+        <org class="indexing_service">Metro-North Commuter Railroad</org>
+        <org class="indexing_service">Long Island Rail Road Co</org>
+        <org class="indexing_service">Metropolitan Transportation Authority</org>
+        <person class="indexing_service">Neuman, William</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <org class="online_producer">Metro-North Commuter Railroad</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E6DA153FF932A35751C0A9619C8B63" item-length="573" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Trial Run for Train Armrests Without an Appetite for Clothes</hl1>
+        <hl2 class="online_headline">A Trial Run for Train Armrests Without an Appetite for Clothes</hl2>
+      </hedline>
+      <byline class="print_byline">By WILLIAM NEUMAN</byline>
+      <byline class="normalized_byline">Neuman, William</byline>
+      <abstract>
+        <p>Metro-North tests prototype of new armrests to find replacement for rail cars' standard ones, which are notorious for catching passengers' pockets and ripping their clothing; stubby, fat and chunky, new plastic armrest is three inches shorter than standard and has smooth, hard finish; if passengers like them, Metro-North will ask MTA to pay to switch entire fleet to stubbier armrests; Long Island Rail Road, which uses same kind of rail car, will also switch; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It would not be quite accurate to say there was jubilation last night on Car 4001 on the 4:52 Hudson Line train out of Grand Central Terminal. But there were smiles. And above all, relief.</p>
+        <p>Car 4001, bound for Croton-Harmon on the Metro-North Railroad, and an adjoining car, No. 4000, had been outfitted with new armrests as part of a test to find a replacement for the rail cars' standard ones, which are notorious for catching in passengers' pockets and ripping their clothing.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Metro-North is testing new armrests that are designed to avoid ripping clothing.</p>
+      </block>
+      <block class="full_text">
+        <p>It would not be quite accurate to say there was jubilation last night on Car 4001 on the 4:52 Hudson Line train out of Grand Central Terminal. But there were smiles. And above all, relief.</p>
+        <p>Car 4001, bound for Croton-Harmon on the Metro-North Railroad, and an adjoining car, No. 4000, had been outfitted with new armrests as part of a test to find a replacement for the rail cars' standard ones, which are notorious for catching in passengers' pockets and ripping their clothing.</p>
+        <p>''Much better,'' said David Chan, a business analyst who lives in Croton-on-Hudson, who said he had ripped two or three pairs of pants on the old armrests.</p>
+        <p>Mr. Chan ran his fingers across the blue plastic armrest, the better to appreciate its smooth, hard finish. Very different, he said, from the tacky, rubbery material on the standard armrests, which often seemed to grab onto fabric and not let go. ''It's not as grippy,'' he said.</p>
+        <p>In referring to the prototype, the word ''armrest'' might be an exaggeration. ''Elbow rest'' might be more appropriate.</p>
+        <p>Stubby, fat and chunky, it is about three inches shorter than the standard armrests, which are probelike, jutting upward at just the right angle to slip unnoticed in the pocket of a trouser or coat as a person sits. And then: rip.</p>
+        <p>It is a sound that Rabbi Elliot L. Stevens knows well. He has torn his trousers twice, he said.</p>
+        <p>''I spent most of my ride into Grand Central one morning covering myself up,'' he said, showing how he had used a newspaper to hide an 8- to 10-inch gash along his trouser leg.</p>
+        <p>Asked if he considered the new armrests an improvement, Rabbi Stevens grinned and said, ''Well, I haven't ripped anything.''</p>
+        <p>Metro-North began running Cars 4000 and 4001 with the new armrests yesterday, and over the next few weeks it will survey passengers to see how they like them. If the response is positive, the railroad and its sister line, the Long Island Rail Road, which uses the same kind of rail car, known as the M7, will ask the Metropolitan Transportation Authority next month to pay to switch the entire fleet of some 1,150 cars to the new, stubbier armrests.</p>
+        <p>A spokeswoman for Metro-North, Marjorie Anders, said the railroad estimated that it would cost about $5,000 a car to make the change. That works out to about $5.75 million for the two railroads combined.</p>
+        <p>The railroads see switching the armrests as a way of keeping their customers happy.</p>
+        <p>Since the M7 cars went into service, first appearing on Long Island trains in 2002, the railroads have paid out more than $100,000 in claims to hundreds of customers who have torn pants, suit jackets, skirts and fur coats.</p>
+        <p>Some passengers who had not suffered rips in their clothes said yesterday that they thought it would be better for the railroads to keep paying claims and avoid the larger expense of replacing the armrests. ''It's basically the klutz or the irresponsible who get themselves in trouble,'' said Craig LaBar, who lives in Yorktown.</p>
+        <p>But Alvin Berrios, who lives in Yorktown Heights, said he was delighted by the change.</p>
+        <p>He has lost two pairs of pants to the rapacious armrests, and now every time he rides the train, he said, he has to be careful.</p>
+        <p>Perhaps now he will be able to relax. ''Before,'' Mr. Berrios said, ''you were taking a 50-50 chance.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

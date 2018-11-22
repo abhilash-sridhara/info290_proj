@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Ethiopia, Mercury Soaring</title>
+    <meta content="01track" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/sports/othersports/01track.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823018"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TRACK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Track and Field</classifier>
+        <classifier class="indexing_service" type="descriptor">Millrose Games</classifier>
+        <location class="indexing_service">Ethiopia</location>
+        <person class="indexing_service">Longman, Jere</person>
+        <person class="indexing_service">Dibaba, Tirunesh</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Ethiopia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Ethiopia</classifier>
+        <classifier class="online_producer" type="descriptor">Running</classifier>
+        <classifier class="online_producer" type="descriptor">Track and Field</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Millrose Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Track and Field</classifier>
+        <classifier class="online_producer" type="general_descriptor">Running</classifier>
+        <location class="online_producer">Ethiopia</location>
+        <person class="online_producer">Tulu, Derartu</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04EEDB153FF932A35751C0A9619C8B63" item-length="1787" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Ethiopia, Mercury Soaring</hl1>
+        <hl2 class="online_headline">One of the World’s Poorest Countries Is Rich in Distance Runners</hl2>
+      </hedline>
+      <byline class="print_byline">By JER� LONGMAN</byline>
+      <byline class="normalized_byline">Longman, Jere</byline>
+      <dateline>BOSTON, Jan. 28</dateline>
+      <abstract>
+        <p>Tirunesh Dibaba will run 3,000 meters at Millrose Games; is one of number of promising runners from Ethiopia; map; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Halfway through the women's 5,000 meters race Saturday at the Boston Indoor Games, Tirunesh Dibaba of Ethiopia was left with nothing chasing her closely but her pompom of a ponytail.</p>
+        <p>She wore diamond earrings and strode so elegantly and lightly in pursuit of a world record that her feet could not be heard on the banked track at the Reggie Lewis Center.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Only about 25 to 35 Ethiopian women are considered elite international runners, like Tirunesh Dibaba. But there are 50 to 100 in the next tier of an ever-widening base.</p>
+      </block>
+      <block class="full_text">
+        <p>Halfway through the women's 5,000 meters race Saturday at the Boston Indoor Games, Tirunesh Dibaba of Ethiopia was left with nothing chasing her closely but her pompom of a ponytail.</p>
+        <p>She wore diamond earrings and strode so elegantly and lightly in pursuit of a world record that her feet could not be heard on the banked track at the Reggie Lewis Center.</p>
+        <p>Sprinting the final 200 meters in a searing 29.72 seconds, Dibaba finished in 14 minutes 27.42 seconds, shattering her own record by more than 5 seconds and collecting a $25,000 bonus prize. She closed with such whispery quickness that officials had to rush to unfurl the tape across the finish line.</p>
+        <p>''I couldn't hear her breathing hard behind me,'' Marina Muncan, a pacesetter from Serbia, said of Dibaba's gracefulness. ''It was like she wasn't there.''</p>
+        <p>On Friday, Dibaba will run the 3,000 meters in the Millrose Games at Madison Square Garden. This is the beginning of an expectant year in which she plans to attempt outdoor world records at 5,000 and 10,000 meters, events in which Dibaba is an early favorite for the 2007 world track and field championships in Osaka, Japan, and the 2008 Summer Olympics in Beijing.</p>
+        <p>At 21, Dibaba and her countrywoman Meseret Defar, the world outdoor record-holder and the 2004 Olympic champion in the 5,000, are the latest female track sensations from Ethiopia. It is one of the world's poorest countries, but now the richest in terms of distance running at major championships.</p>
+        <p>At the 2005 world championships in Helsinki, Finland, Dibaba became the first woman to win the 5,000 and the 10,000 as Ethiopia swept all six available medals. At the 2004 Athens Olympics, Ethiopian women took four of the six available medals in the two events. Defar won the 5,000 in Athens while Dibaba finished third. Dibaba's older sister, Ejegayehou (pronounced edge-uh-GUY-you), won a silver medal in the 10,000.</p>
+        <p>Men Led the Way in 1960</p>
+        <p>Ethiopian men have been a major force in distance running since Abebe Bikila, competing barefoot, won the 1960 Olympic marathon in Rome. Women have emerged only in the past 15 years, since Derartu Tulu, a cousin of the Dibabas, prevailed in the 10,000 at the 1992 Summer Games in Barcelona, Spain, becoming the first black African woman to win an Olympic gold medal.</p>
+        <p>Tulu, dressed modestly in a T-shirt and shorts instead of a more revealing singlet and briefs, proved such a surprise at Barcelona that the stadium announcer mistakenly said she was from Kenya, Ethiopia's East African running rival.</p>
+        <p>No one makes that mistake now, not after Tulu won a gold medal again in the 10,000 at the 2000 Olympics in Sydney, Australia, took a bronze medal in Athens and became a cultural force, helping to change the expectation for Ethiopian women that they should lead marginalized lives of domestic subservience.</p>
+        <p>''She has been a great inspiration for Ethiopian and African women,'' Tirunesh (pronounced TEE-roo-nesh) said of her cousin, Tulu, speaking through an interpreter. ''When parents try to oppose their daughters' running, they can say, 'One day we can be the same like Derartu.' ''</p>
+        <p>The emergence of Ethiopian women is a complicated success dependent on cultural, political, geographical and even gastronomical factors. A brutal Marxist dictatorship, known as the Dergue, led Ethiopia to boycott the 1984 Summer Olympics in Los Angeles (in support of the Soviet bloc) and the 1988 Summer Games in Seoul, South Korea (in support of North Korea). Athletes found it difficult to gain exit visas during that period, and international development of distance running was stunted.</p>
+        <p>At the same time, there was ''a lot of talk about women's equality'' during the Communist period, and that may have ''sown some seeds'' for the advancement of female running, said Sabrina Yohannes, an Ethiopian journalist who has written extensively about the country's athletes.</p>
+        <p>The leader of the Dergue, Mengistu Haile Mariam, was deposed as Ethiopia's president in 1991; a year later, Tulu won her first Olympic gold medal in Barcelona. Fatuma Roba followed by winning the women's marathon at the 1996 Atlanta Olympics, and Defar took the gold medal in the 5,000 in Athens. Now Ethiopia's runners compete regularly in the United States and on the European circuit, not only in the Olympics and world championships.</p>
+        <p>Women are attending school in greater numbers, thus gaining access to competitive running and the possibility of athletic and financial success. Tirunesh Dibaba drives a BMW 750 in Addis Ababa, the Ethiopian capital, and earns about $500,000 a year in prize, bonus and endorsement money. She could approach $1 million with outstanding seasons in 2007 and 2008 -- an amount largely unimaginable in a country where the average annual income is about $100.</p>
+        <p>''Now everyone is understanding that the education of women is important,'' said Yilma Berta, Ethiopia's national marathon coach. ''By running, they can be 'known' people, and they can get money, they can get anything.''</p>
+        <p>Only about 25 to 35 Ethiopian women are considered elite international runners. But there are 50 to 100 in the next tier of an ever-widening base. The Dibabas, Tulu and many other star runners come from Bekoji, a rural town in the southern highlands, known as the Arsi region, which has become the country's agricultural and athletic breadbasket.</p>
+        <p>Two Legs, Four-Wheel Drive</p>
+        <p>The paved road south from Addis Ababa ends after 100 miles near the village of Asela, the hometown of Haile Gebrselassie, widely considered the greatest distance runner. From there, four-wheel-drive vehicles are needed to navigate the next 30 gravel, potholed miles to Bekoji, situated on a plateau at approximately 10,000 feet, surrounded by wheat fields.</p>
+        <p>Internet and cellphone service are not yet available in Bekoji, Tirunesh Dibaba said, but the town is as fertile for growing runners as it is for producing grain. Roba, the 1996 Olympic marathon champion, and Kenenisa Bekele, the men's world-record holder at 5,000 and 10,000 meters, also come from Bekoji.</p>
+        <p>The climate is temperate and the altitude enhances oxygen-carrying capacity. Running is the transportation of everyday existence for many youngsters -- for hauling water, for gathering firewood, for traveling to market, for going to and from school. And the diet of Ethiopia's runners relies heavily on teff, an easily absorbed millet rich in protein, iron and calcium.</p>
+        <p>The Dibaba sisters grew up in a tukul, or conical mud hut, common in the countryside of the Arsi region. Their parents, subsistence farmers, raised cattle and sheep, and grew wheat and barley. The family had no electricity, Ejegayehou, 24, said. She remembers going to a local hotel to watch Tulu, her cousin, win the 10,000 at the Barcelona Olympics.</p>
+        <p>It was not until after she moved to Addis Ababa six years ago, the younger Tirunesh said, that she first saw a video of Tulu's seminal victory. Her own running career had begun at Bekoji Primary School as a 14-year-old, but her wider success was hastened by accident.</p>
+        <p>All in the Family</p>
+        <p>Tirunesh went to the Ethiopian capital in 2001 to join Ejegayehou and another relative, Bekelu Dibaba, who was also a successful runner and is variously described as a sister and a cousin. But Tirunesh arrived too late to enroll in classes. Instead, she said, she entered a cross-country race held around a horse track at Jan Meda Stadium.</p>
+        <p>Tirunesh finished fifth in the race, then was signed by a running club representing the prison police. Her international rise was startling. In 2003, two months after her 18th birthday, Tirunesh became the youngest track athlete to win a world title, taking the 5,000 meters at the world track and field championships in Paris.</p>
+        <p>Now a multiple world champion on the track and in cross-country, Tirunesh possesses what has been an Ethiopian trait at least since Miruts Yifter, known as Yifter the Shifter, won the men's 5,000 and 10,000 at the 1980 Moscow Olympics -- the ability to accelerate intensely at the end of a long track race, covering the final 400 meters in 56 to 58 seconds.</p>
+        <p>''That's extraordinary,'' said Craig Masback, the chief executive of USA Track and Field. ''There are few non-Ethiopian women who run the 5,000 and 10,000 who can run a 56-second 400 if that's all you asked them to do.''</p>
+        <p>Tirunesh says that she runs only 50 to 60 miles a week, while many elite runners train twice that far. Her management team cautions that this given number could be low. She says she runs in the hills above Addis Ababa three times a week, twice a day, for 70 to 80 minutes. Her blistering track workouts, done three days a week at an altitude of 7,300 feet, call for such repeats as 4x400 meters in 60 to 62 seconds and 5x200 meters in 28 to 29 seconds.</p>
+        <p>Tirunesh and Ejegayehou live together in Addis and insist that there is no friction in the sibling running rivalry. At times, Ejegayehou has sacrificed her interests, even though she is an Olympic silver medalist, to pace her younger sister to a fast finish.</p>
+        <p>''I don't worry about hurting her,'' Tirunesh said. ''Every time I win, I know she is happy for me.''</p>
+        <p>Ejegayehou said, ''If I am running with her, I know I can improve my own times.''</p>
+        <p>The two have built a house for their parents in Bekoji, where a teenage sister, Genzebe, is already a top regional cross-country runner and was the bronze medalist in the 3,000 meters at the 2006 Ethiopian championships, according to track's world governing body.</p>
+        <p>Help From Abroad</p>
+        <p>Genzebe Dibaba is among the approximately 25 runners in Bekoji who received some small support from a youth sports club. Little or no financing from the Ethiopian track federation reaches the impoverished village, said Karl Keirstead, whose New York-based foundation, A Running Start, has donated money to build five new classrooms at Bekoji Primary School, where 3,500 students are crammed into 33 dirt-floored classrooms and must attend in shifts.</p>
+        <p>Sentayehu Eshetu, a devoted youth coach in Bekoji, has a keen eye for developing young talent, Keirstead said. One of Eshetu's favorite workouts, as described by Running Times magazine, is a punishing double-hill climb, repeated 40 to 50 times. While only two dozen youngsters are officially in the youth club, up to 200 more attend training sessions, many without shoes, Keirstead said.</p>
+        <p>The bad news, he said, was that Eshetu had been transferred recently to the nearby village of Asela. The good news, Keirstead added, was that about half of the runners affiliated with the Bekoji youth club were girls. When his foundation handed out running shoes last June, Keirstead said, one girl who did not receive a pair told him bluntly, ''You will regret this when I become the next Tirunesh Dibaba.''</p>
+        <p>TRACK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Doing Good by Lounging on the Patio</title>
+    <meta content="01basket" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822906"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: FURNITURE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Furniture</classifier>
+        <location class="indexing_service">South Africa</location>
+        <org class="indexing_service">Artecnica</org>
+        <person class="indexing_service">Mckeough, Tim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/South Africa</classifier>
+        <classifier class="online_producer" type="general_descriptor">Furniture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E5DD153FF932A35751C0A9619C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Doing Good by Lounging on the Patio</hl1>
+      </hedline>
+      <byline class="print_byline">By TIM McKEOUGH</byline>
+      <byline class="normalized_byline">Mckeough, Tim</byline>
+      <abstract>
+        <p>Patio furniture from Artecnica produced by South African wire weaver unites contemporary design with African handicraft; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Tatu collection from the housewares company Artecnica is as good for South African artisans as it is for your patio. Developed by Stephen Burks, a New York designer, in collaboration with a wire weaver from one of Cape Town's poorest townships, the steel wire tables and stools unite contemporary design with African handicraft. The modular tables break down into a basket, bowl and tray, shown in white, from left (the coffee table, in red, above left, is $550; the side table, above right, is $450). ''The goal is to elevate the level of craft,'' Mr. Burks said, to create a sustainable source of income for the community. The collection will be available in March; store locations are listed at artecnicainc.com.</p>
+        <p>TIM McKEOUGH</p>
+      </block>
+      <block class="full_text">
+        <p>The Tatu collection from the housewares company Artecnica is as good for South African artisans as it is for your patio. Developed by Stephen Burks, a New York designer, in collaboration with a wire weaver from one of Cape Town's poorest townships, the steel wire tables and stools unite contemporary design with African handicraft. The modular tables break down into a basket, bowl and tray, shown in white, from left (the coffee table, in red, above left, is $550; the side table, above right, is $450). ''The goal is to elevate the level of craft,'' Mr. Burks said, to create a sustainable source of income for the community. The collection will be available in March; store locations are listed at artecnicainc.com.</p>
+        <p>TIM McKEOUGH  CURRENTS: FURNITURE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

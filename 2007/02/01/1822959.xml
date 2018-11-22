@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>News Summary</title>
+    <meta content="01forsumms" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822959"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E3DC153FF932A35751C0A9619C8B63" item-length="697" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>News Summary</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>INTERNATIONAL</p>
+        <p>A3-10</p>
+        <p>German Court Challenges C.I.A.'s Rendition Policy  A German court issued an arrest warrant for 13 people in the mistaken kidnapping and jailing of a German citizen of Lebanese descent, in the most serious legal challenge yet to the Central Intelligence Agency's secret transfers of terrorism suspects.</p>
+        <p>A1</p>
+        <p>Chirac Questions Iran Threat  President Jacques Chirac said that if Iran had one or two nuclear weapons it would not pose a big danger and that if Iran were to launch a nuclear weapon against a country like Israel, it would lead to the immediate destruction of Tehran.</p>
+        <p>A1</p>
+        <p>Britain Arrests 9 in Terror Plot  The British police arrested nine suspects accused of devising a plot that included plans to kidnap, torture and behead a British Muslim soldier and broadcast video images of his execution on the Internet.</p>
+        <p>A3</p>
+        <p>Setback for H.I.V. Microbicide  Efforts to develop a topical microbicide to prevent H.I.V. infection during sex suffered a surprising setback when researchers announced that they had stopped two full-scale trials for safety reasons.</p>
+        <p>A3</p>
+        <p>Report on Iraqi Energy Troubles  A United States oversight agency reported that despite nearly $108 billion budgeted for the reconstruction of Iraq since the 2003 invasion, Iraq's electrical output and oil production were still below prewar levels and stocks of gasoline and kerosene had plummeted to their lowest levels in at least two years.</p>
+        <p>A8</p>
+        <p>NATIONAL</p>
+        <p>A12-21</p>
+        <p>Biden Announces Bid, Then Defends Comment  Senator Joseph R. Biden Jr. spent the day he formally announced his presidential campaign struggling to explain his description of a fellow Democratic candidate, Barack Obama, as ''the first mainstream African-American who is articulate and bright and clean and a nice-looking guy.''</p>
+        <p>A1</p>
+        <p>Judges Weigh Eavesdropping  Three federal judges hearing the first appellate argument about the National Security Agency's domestic surveillance program indicated they were not convinced that the issue was moot now that the Bush administration had agreed to submit the program to a secret court.</p>
+        <p>A12</p>
+        <p>The Justice Department announced that it was turning over to select members of Congress secret papers with details of the eavesdropping program. Democrats, who still seek more information, had threatened to subpoena the documents.</p>
+        <p>A12</p>
+        <p>Cheney's Daughter Speaks  Mary Cheney, the lesbian daughter of Vice President Dick Cheney, defended her pregnancy and said same-sex couples were equally capable of raising children as heterosexual couples.</p>
+        <p>A20</p>
+        <p>House Moves Stopgap Budget  The House of Representatives passed a $463.5 billion measure to keep the federal government running until Oct. 1, increasing financing for education grants, scientific research and international health programs. The Senate is expected to take up the measure next week.</p>
+        <p>A20</p>
+        <p>NEW YORK/REGION</p>
+        <p>B1-7</p>
+        <p>Spitzer's First Budget Assails Health Care System  Governor Spitzer proposed to radically restructure aid to New York's health care industry in his first budget, assailing a system that consumes a third of the state's budget as propping up failing hospitals while too often overlooking patient needs.</p>
+        <p>A1</p>
+        <p>Turmoil at the Bus Stop  The consolidation of school bus routes in New York City has enraged many parents, who accuse Schools Chancellor Joel I. Klein and Mayor Bloomberg of being out of touch. But the mayor defends the revision.</p>
+        <p>A1</p>
+        <p>Behind a Death Sentence  A confluence of factors made a Brooklyn jury's decision to sentence a Staten Island man to die for executing two police detectives seem almost inevitable, experts said. But the decision probably does not signal a shift in public attitudes about the death penalty, they said.</p>
+        <p>B1</p>
+        <p>BUSINESS DAY</p>
+        <p>C1-14</p>
+        <p>Fed Leaves Rates Alone  The Federal Reserve left interest rates unchanged, but it was more optimistic than in the past that inflationary pressures were ebbing even though economic growth was slightly stronger than expected.</p>
+        <p>C10</p>
+        <p>Google's Profit Soars  Google, the largest Internet search engine, reported a sharp rise in sales and nearly a tripling of profit in the fourth quarter.</p>
+        <p>C1</p>
+        <p>Business Digest</p>
+        <p>C2</p>
+        <p>EDITORIAL</p>
+        <p>A22-23</p>
+        <p>Editorials: Governor Spitzer's pivotal budget; bullying Iran; full disclosure of back-scratching; indefinitely grounded.</p>
+        <p>Columns: David Brooks, Bob Herbert.</p>
+        <p>Bridge</p>
+        <p>E10  TV Listings</p>
+        <p>E11  Crossword</p>
+        <p>E9  Weather</p>
+        <p>A18</p>
+      </block>
+      <block class="full_text">
+        <p>INTERNATIONAL</p>
+        <p>A3-10</p>
+        <p>German Court Challenges C.I.A.'s Rendition Policy  A German court issued an arrest warrant for 13 people in the mistaken kidnapping and jailing of a German citizen of Lebanese descent, in the most serious legal challenge yet to the Central Intelligence Agency's secret transfers of terrorism suspects.</p>
+        <p>A1</p>
+        <p>Chirac Questions Iran Threat  President Jacques Chirac said that if Iran had one or two nuclear weapons it would not pose a big danger and that if Iran were to launch a nuclear weapon against a country like Israel, it would lead to the immediate destruction of Tehran.</p>
+        <p>A1</p>
+        <p>Britain Arrests 9 in Terror Plot  The British police arrested nine suspects accused of devising a plot that included plans to kidnap, torture and behead a British Muslim soldier and broadcast video images of his execution on the Internet.</p>
+        <p>A3</p>
+        <p>Setback for H.I.V. Microbicide  Efforts to develop a topical microbicide to prevent H.I.V. infection during sex suffered a surprising setback when researchers announced that they had stopped two full-scale trials for safety reasons.</p>
+        <p>A3</p>
+        <p>Report on Iraqi Energy Troubles  A United States oversight agency reported that despite nearly $108 billion budgeted for the reconstruction of Iraq since the 2003 invasion, Iraq's electrical output and oil production were still below prewar levels and stocks of gasoline and kerosene had plummeted to their lowest levels in at least two years.</p>
+        <p>A8</p>
+        <p>NATIONAL</p>
+        <p>A12-21</p>
+        <p>Biden Announces Bid, Then Defends Comment  Senator Joseph R. Biden Jr. spent the day he formally announced his presidential campaign struggling to explain his description of a fellow Democratic candidate, Barack Obama, as ''the first mainstream African-American who is articulate and bright and clean and a nice-looking guy.''</p>
+        <p>A1</p>
+        <p>Judges Weigh Eavesdropping  Three federal judges hearing the first appellate argument about the National Security Agency's domestic surveillance program indicated they were not convinced that the issue was moot now that the Bush administration had agreed to submit the program to a secret court.</p>
+        <p>A12</p>
+        <p>The Justice Department announced that it was turning over to select members of Congress secret papers with details of the eavesdropping program. Democrats, who still seek more information, had threatened to subpoena the documents.</p>
+        <p>A12</p>
+        <p>Cheney's Daughter Speaks  Mary Cheney, the lesbian daughter of Vice President Dick Cheney, defended her pregnancy and said same-sex couples were equally capable of raising children as heterosexual couples.</p>
+        <p>A20</p>
+        <p>House Moves Stopgap Budget  The House of Representatives passed a $463.5 billion measure to keep the federal government running until Oct. 1, increasing financing for education grants, scientific research and international health programs. The Senate is expected to take up the measure next week.</p>
+        <p>A20</p>
+        <p>NEW YORK/REGION</p>
+        <p>B1-7</p>
+        <p>Spitzer's First Budget Assails Health Care System  Governor Spitzer proposed to radically restructure aid to New York's health care industry in his first budget, assailing a system that consumes a third of the state's budget as propping up failing hospitals while too often overlooking patient needs.</p>
+        <p>A1</p>
+        <p>Turmoil at the Bus Stop  The consolidation of school bus routes in New York City has enraged many parents, who accuse Schools Chancellor Joel I. Klein and Mayor Bloomberg of being out of touch. But the mayor defends the revision.</p>
+        <p>A1</p>
+        <p>Behind a Death Sentence  A confluence of factors made a Brooklyn jury's decision to sentence a Staten Island man to die for executing two police detectives seem almost inevitable, experts said. But the decision probably does not signal a shift in public attitudes about the death penalty, they said.</p>
+        <p>B1</p>
+        <p>BUSINESS DAY</p>
+        <p>C1-14</p>
+        <p>Fed Leaves Rates Alone  The Federal Reserve left interest rates unchanged, but it was more optimistic than in the past that inflationary pressures were ebbing even though economic growth was slightly stronger than expected.</p>
+        <p>C10</p>
+        <p>Google's Profit Soars  Google, the largest Internet search engine, reported a sharp rise in sales and nearly a tripling of profit in the fourth quarter.</p>
+        <p>C1</p>
+        <p>Business Digest</p>
+        <p>C2</p>
+        <p>EDITORIAL</p>
+        <p>A22-23</p>
+        <p>Editorials: Governor Spitzer's pivotal budget; bullying Iran; full disclosure of back-scratching; indefinitely grounded.</p>
+        <p>Columns: David Brooks, Bob Herbert.</p>
+        <p>Bridge</p>
+        <p>E10  TV Listings</p>
+        <p>E11  Crossword</p>
+        <p>E9  Weather</p>
+        <p>A18</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

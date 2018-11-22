@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Be the Next American Idol With Karaoke You Can Carry</title>
+    <meta content="01karaoke" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/technology/01karaoke.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822931"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Karaoke</classifier>
+        <org class="indexing_service">Griffin Technology</org>
+        <org class="indexing_service">Apple Inc</org>
+        <person class="indexing_service">Furchgott, Roy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507EEDD153FF932A35751C0A9619C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Be the Next American Idol With Karaoke You Can Carry</hl1>
+        <hl2 class="online_headline">Be the Next American Idol With Karaoke You Can Carry</hl2>
+      </hedline>
+      <byline class="print_byline">By ROY FURCHGOTT</byline>
+      <byline class="normalized_byline">Furchgott, Roy</byline>
+      <abstract>
+        <p>Griffin Technology introduces low-cost portable karaoke system that can be used with iPod; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If you cannot get enough karaoke at the local sushi house, the engineers at Griffin Technology have created a low-cost karaoke system you can carry anywhere.</p>
+        <p>The iKaraoke is a microphone that plugs into any iPod with a dock connector and processes any music that you own. Its software mutes the vocals so you can be Bono's fill-in. The playback can travel by cable to a headset or amplifier, or it can be broadcast wirelessly to an FM receiver up to 20 feet away.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The iKaraoke is a microphone that plugs into any iPod with a dock connector and processes any music that you own.</p>
+      </block>
+      <block class="full_text">
+        <p>If you cannot get enough karaoke at the local sushi house, the engineers at Griffin Technology have created a low-cost karaoke system you can carry anywhere.</p>
+        <p>The iKaraoke is a microphone that plugs into any iPod with a dock connector and processes any music that you own. Its software mutes the vocals so you can be Bono's fill-in. The playback can travel by cable to a headset or amplifier, or it can be broadcast wirelessly to an FM receiver up to 20 feet away.</p>
+        <p>The muting is not perfect You will still hear the lead singer at least faintly in the background, and, unpredictably, it works better with some songs than others. The microphone has three reverb settings to enhance your voice and help you compare more favorably with the vocalist you are replacing.</p>
+        <p>The iKaraoke is $50 and is available now at RadioShack and Apple stores. Now when you get the urge to sing ''Behind Closed Doors,'' it can stay behind closed doors.</p>
+        <p>ROY FURCHGOTT</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

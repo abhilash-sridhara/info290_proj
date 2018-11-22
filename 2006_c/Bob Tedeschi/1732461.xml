@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Google's Shadow Payroll Is Not Such a Secret Anymore</title>
+    <meta content="16ecom" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/16/technology/16ecom.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1732461"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="E-COMMERCE REPORT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Google Inc</org>
+        <org class="indexing_service">Digital Point Solutions (Co)</org>
+        <person class="indexing_service">Tedeschi, Bob</person>
+        <person class="indexing_service">Hogan, Shawn</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/E-Commerce</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Operations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/E-Commerce Report</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Google Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E1DD143FF935A25752C0A9609C8B63" item-length="1120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Google's Shadow Payroll Is Not Such a Secret Anymore</hl1>
+        <hl2 class="online_headline">Google's Shadow Payroll Is Not Such a Secret Anymore</hl2>
+      </hedline>
+      <byline class="print_byline">By Bob Tedeschi</byline>
+      <byline class="normalized_byline">Tedeschi, Bob</byline>
+      <abstract>
+        <p>Bob Tedeschi column on rise in Google revenues as result of its shadow payroll, in which hundreds of thousands of people have starteg blogs, forums or other information sites and are paid for posting ads on Google's behalf; Google's advertising network sales, which come largely from its AdSense advertisers, reached $675 million in third quarter 2005, 76 percent hike from year earlier; Shawn Hogan, founder of Digital Point Solutions, software company in San Diego which publishes online forum, says his company receives about $10,000 per month from Google; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FEELING depressed because you missed out on Google's stock bonanza? Not to worry. Just get on the company's shadow payroll.</p>
+        <p>Hundreds of thousands of people have essentially done just that by starting blogs, forums or other informational sites and getting paid for posting ads on Google's behalf. And while the money they earn might not be enough for them to buy, say, a share of Google's stock, such revenues are growing.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Some bloggers are paid through Googles AdSense program, but maybe not enough to buy Google stock.</p>
+      </block>
+      <block class="full_text">
+        <p>FEELING depressed because you missed out on Google's stock bonanza? Not to worry. Just get on the company's shadow payroll.</p>
+        <p>Hundreds of thousands of people have essentially done just that by starting blogs, forums or other informational sites and getting paid for posting ads on Google's behalf. And while the money they earn might not be enough for them to buy, say, a share of Google's stock, such revenues are growing.</p>
+        <p>The trickle-down effect from Google does not stop at fledgling entrepreneurs. A growing number of rank-and-file contributors to Web sites are also profiting. Consider Digital Point Solutions, a software company in San Diego, which publishes an online forum (http://forums.digitalpoint.com) frequented by about 15,000 users. Any one of them who starts a new forum discussion topic receives half of the advertising revenue paid to the site by Google for ads on the front page of that topic section. (The discussion's creator then splits his share with others who post messages.)</p>
+        <p>Google does not actually advertise on the Digital Point site. Rather, through Google's AdSense program, it places ads on the forum, similar to the ads that appear next to search results on Google.com. Google scans the information on the forum's pages, then posts related ads. If the discussion is about computer hardware, for instance, ads for DVD drives might appear.</p>
+        <p>Google pays Digital Point about $10,000 a month, depending on how many people view or click on those ads, said Shawn D. Hogan, the owner and chief technology officer of Digital Point.</p>
+        <p>Mr. Hogan said he started the revenue-sharing approach in 2004 ''as kind of a marketing gimmick.''</p>
+        <p>''But everyone seemed to think it was a cool idea,'' he said. ''I saw a lot of other sites doing the same thing maybe six months later.''</p>
+        <p>Mr. Hogan said it was difficult to say whether the financial incentives had made the forum's participants more active, because its growth rate was about the same before and after it started paying users. Either way, the payoff is meager. ''In the best-case scenario, someone might make $50 a month, so they're definitely not quitting their jobs to do this,'' he said. ''But it might be enough to buy a nice dinner.''</p>
+        <p>One area of concern, Mr. Hogan said, was whether the forum's participants would skew their postings to earn more money. For instance, since advertisers in certain categories, like sexual-performance drugs, pay much more to place their ads on Google and its affiliated sites, you might expect technology discussions to randomly veer in that direction.</p>
+        <p>''But that hasn't happened, thankfully,'' Mr. Hogan said. ''Probably because there isn't that much revenue in it for them.''</p>
+        <p>That could change, as more marketers adopt this approach, which Yahoo also offers. Google's advertising network sales, which come largely from its AdSense advertisers, reached $675 million in the third quarter of 2005, the last period for which Google reported results. That figure was up 76 percent from a year earlier. AdSense generates slightly less revenue than Google's primary revenue engine, its search Web sites, which sold about $885 million worth of ads in the third quarter of 2005, a 115 percent jump from the previous year.</p>
+        <p>Google.com and the company's foreign search sites contribute more to Google's bottom line than AdSense, because for every dollar the company brings in through AdSense and other places that distribute its ads, it pays roughly 78.5 cents back to sites like Digital Point that display the ads.</p>
+        <p>But in some ways, search advertising has a more limited horizon, since the number of advertisements a company can display is limited by the number of searches its users conduct. Internet users continue to increase their reliance on search sites, and Google in particular, but the rate of growth is in the single digits.</p>
+        <p>By contrast, millions of small sites have not yet signed up for Google's AdSense program, which was introduced in 2002. AdSense quickly gained a following among bigger companies with an online presence, like the Weather Channel, as a way to supplement their advertising deals and populate more obscure pages with paid ads. But as more small sites use the Internet to post photos, journals and other material, the number of pages that can carry new Google ads is growing quickly.</p>
+        <p>That's what makes AdSense one of Google's most compelling long-term bets, said Charlene Li, an online media analyst with Forrester Research. ''I've called Google the one-trick pony for a long time, and for the most part they still are,'' Ms. Li said. ''But they really see AdSense as the next frontier.''</p>
+        <p>To that end, the company has refined the program significantly, with various features intended to attract more advertisers and publishers. For instance, as of late last year anyone who created a blog with Google's Blogger service was automatically enrolled in the AdSense program.</p>
+        <p>''Before that, it was quite painful to figure out,'' said Gokul Rajaram, the business product manager for AdSense, ''so over the last few months we've seen a sharp uptick in bloggers using AdSense.''</p>
+        <p>For AdSense advertisers, some of the more significant improvements began last June, when Google started allowing marketers to select vast groups of sites on which to advertise, as Paramount Pictures did last year when it chose 100 small sites with hip-hop-oriented content to promote its movie ''Hustle &amp; Flow.''</p>
+        <p>Late last year, Google also gave advertisers the ability to display graphical ads on sites within the AdSense network of publishers, as well as the ability to pay different (typically lower) prices for AdSense ads than those available on Google.com. The company will not disclose how many advertisers have joined the program -- ''thousands'' is all it says -- but analysts said marketers were quickly warming to it, thanks in part to the recent upgrades.</p>
+        <p>More advertisers, of course, mean more money for publishers, many of whom would simply not publish if it were not for AdSense, Ms. Li of Forrester said. ''Before, if I wanted to put advertising on my site, I'd have to hire ad salespeople, process orders -- there's no way,'' she said. ''This has taken away a huge barrier in publishing and made it viable for people to make a couple dollars, or thousands of dollars.''</p>
+        <p>E-COMMERCE REPORT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

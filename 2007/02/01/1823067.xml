@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Girl, 2, Dies in Bronx Fire, and Neighbor Is Accused of Murder</title>
+    <meta content="01arson" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/nyregion/01arson.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823067"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fires and Firefighters</classifier>
+        <classifier class="indexing_service" type="descriptor">Arson</classifier>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Scott, Sharon</person>
+        <person class="indexing_service">Adjivon, Amanda</person>
+        <person class="indexing_service">Vasquez, Emily</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Arson</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <location class="online_producer">Bronx (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E0DA153FF932A35751C0A9619C8B63" item-length="377" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Girl, 2, Dies in Bronx Fire, and Neighbor Is Accused of Murder</hl1>
+        <hl2 class="online_headline">Girl, 2, Dies in Bronx Fire, and Neighbor Is Accused of Murder</hl2>
+      </hedline>
+      <byline class="print_byline">By EMILY VASQUEZ; Cassi Feldman and Jennifer 8. Lee contributed reporting.</byline>
+      <byline class="normalized_byline">Vasquez, Emily</byline>
+      <abstract>
+        <p>Sharon Scott is arrested and charged with murder after 2-year-old girl dies in fire in Bronx apartment building where they were neighbors; police say Scott started fire by pouring nail polish remover on bed where her live-in companion was sleeping and set it aflame after they had dispute (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A 2-year-old Bronx girl was killed yesterday in a fire that started when a neighbor in their apartment building poured nail polish remover on a bed where her live-in companion was sleeping and set it aflame, a law enforcement official said.</p>
+        <p>The neighbor, Sharon Scott, 42, was arrested last night and charged with second-degree murder, the police said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A 2-year-old Bronx girl was killed yesterday in a fire that started when a neighbor in their apartment building poured nail polish remover on a bed where her live-in companion was sleeping and set it aflame, a law enforcement official said.</p>
+      </block>
+      <block class="full_text">
+        <p>A 2-year-old Bronx girl was killed yesterday in a fire that started when a neighbor in their apartment building poured nail polish remover on a bed where her live-in companion was sleeping and set it aflame, a law enforcement official said.</p>
+        <p>The neighbor, Sharon Scott, 42, was arrested last night and charged with second-degree murder, the police said.</p>
+        <p>Officials said the fire was set about 7:15 a.m. after a dispute between Ms. Scott and her companion, who live in a fourth-floor apartment just below the victims' apartment. Ms. Scott was able to escape from the building, another official said. The police said that her companion, whom they did not identify, had been taken to a hospital with injuries.</p>
+        <p>Firefighters found the 2-year-old girl, Amanda Adjivon, in the fifth-floor apartment where she lived with her family. Her father, whom the police did not identify, was found in the hallway outside, the official added.</p>
+        <p>The fire blazed for just over an hour with more than 100 firefighters at the scene. It destroyed at least three apartments and blew out windows in the six-story building, which is home to many Muslim families, most of them immigrants from Africa.</p>
+        <p>Five firefighters suffered minor injuries and were taken to St. Barnabas Hospital in stable condition; they were expected to be released yesterday, fire officials said. Seven residents of the building, just off Jesup Avenue in the Highbridge section, were treated at the scene.</p>
+        <p>Amanda was pronounced dead on arrival at Bronx-Lebanon Hospital Center.</p>
+        <p>In the building, a sticker across her family's soot-covered apartment door read, ''There is no God except Allah and Prophet Mohammed is his messenger.'' Neighbors said the father and daughter were immigrants from Togo and had moved into the apartment recently, along with Amanda's mother and at least three other relatives. It was not immediately clear where the other relatives were at the time of the fire.</p>
+        <p>Neighbors said the couple who lived in the apartment where the fire started had fought often, and loudly.</p>
+        <p>''All night, noise, music, noise every night,'' said Amadou Sakanuko, 40, an immigrant from Gambia who lives in an apartment adjacent to theirs. ''We can't sleep because too much noise, fighting every night.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

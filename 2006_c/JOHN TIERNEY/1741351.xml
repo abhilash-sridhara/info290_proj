@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Let Your People Stay</title>
+    <meta content="21tierney" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/02/21/opinion/21tierney.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1741351"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/John Tierney</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Wisconsin</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Wisconsin</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="descriptor">Vouchers</classifier>
+        <classifier class="online_producer" type="descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="descriptor">Private and Sectarian Schools</classifier>
+        <classifier class="online_producer" type="descriptor">Teachers and School Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Teachers and School Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vouchers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Private and Sectarian Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <location class="online_producer">Wisconsin</location>
+        <org class="online_producer">Democratic Party</org>
+        <org class="online_producer">Republican Party</org>
+        <person class="online_producer">Doyle, Jim</person>
+        <person class="online_producer">Fuller, Howard</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E1D9113EF932A15751C0A9609C8B63" item-length="802" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Let Your People Stay</hl1>
+        <hl2 class="online_headline">Let Your People Stay</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN TIERNEY</byline>
+      <dateline>MILWAUKEE</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If you were a Democrat watching Coretta Scott King's funeral, you could congratulate yourself on the party's role in past civil rights struggles. But if you saw what's been on television in Milwaukee in the past month, you'd wonder what's become of your party.</p>
+        <p>Gov. Jim Doyle, a Democrat, looks like public enemy No. 1 for African-American schoolchildren. ''He's throwing away my dream,'' one Milwaukee student says in a TV commercial supporting the city's school voucher program for low-income families. Another commercial shows a black father on the verge of tears saying: ''School choice is good enough for the governor's family. I ought to be able to have it, too.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Milwaukee's voucher program has been so successful that it's won an array of converts  except among the Democrats terrified of teachers' unions.</p>
+      </block>
+      <block class="full_text">
+        <p>If you were a Democrat watching Coretta Scott King's funeral, you could congratulate yourself on the party's role in past civil rights struggles. But if you saw what's been on television in Milwaukee in the past month, you'd wonder what's become of your party.</p>
+        <p>Gov. Jim Doyle, a Democrat, looks like public enemy No. 1 for African-American schoolchildren. ''He's throwing away my dream,'' one Milwaukee student says in a TV commercial supporting the city's school voucher program for low-income families. Another commercial shows a black father on the verge of tears saying: ''School choice is good enough for the governor's family. I ought to be able to have it, too.''</p>
+        <p>Radio audiences have been hearing an ad calling the voucher battle ''one of the greatest social justice issues we have in the country.'' The speaker is Ken Johnson, an African-American who leads Milwaukee's school board.</p>
+        <p>You read that correctly: the head of the public school board supports giving students in his system a chance to escape public schools. That would be unthinkable in most cities, but Milwaukee's voucher program has been so successful over the past 15 years that it's won a wide array of converts -- except among the Democrats terrified of teachers' unions.</p>
+        <p>The governor repeatedly vetoed bills passed by Republican legislators who were trying to head off a problem that became official yesterday: there aren't enough vouchers for all the students who want them. The original law limited the number of vouchers to 15 percent of the city's public school enrollment -- which works out to almost 15,000 vouchers -- but the program has grown beyond that limit.</p>
+        <p>So the state announced a rationing plan yesterday that would deny vouchers next year to thousands of students, many of them already using vouchers to attend private schools. These students and their parents have been appearing in television commercials, paid for by a pro-voucher group, and showing up at the State Capitol carrying signs reading, ''Governor Doyle, Don't Cap My Future.''</p>
+        <p>The pressure has worked. The governor and the Republicans have negotiated a last-minute deal -- expected to be enacted shortly -- to stave off the rationing plan by allotting extra vouchers. That would spare the Democrats from the immediate prospect of kicking black children out of private schools.</p>
+        <p>But it still leaves the party in Wisconsin and elsewhere with long-term problems. How long will blacks vote for a party that opposes the voucher programs they strongly favor? And how can Democratic leaders keep preaching their devotion to public schools while sending their own children to private schools, as Governor Doyle does? He's what I call a Lypsy, an acronym for Let Your People Stay.</p>
+        <p>Doyle told me that he wasn't bothered by the personal attacks, and that he had compromised only to avoid disrupting students' education. He said he was still philosophically opposed to vouchers and didn't fear reprisals from black voters. ''I don't think this is an issue that moves voters,'' he said, arguing that blacks distrust Republicans on too many other issues.</p>
+        <p>He may be right -- for now. Howard Fuller, a prominent advocate for vouchers as well as a former superintendent of Milwaukee's public schools, told me he hadn't seen the popularity of the voucher program translate into much affection for Republicans among his fellow African-Americans, especially his civil rights comrades.</p>
+        <p>''Those people you saw at Coretta Scott King's funeral are not going to change,'' he said. ''My generation pushed for social change through government solutions, but younger blacks are much more interested in private initiatives. They understand that the public school system cannot by itself be the solution to educating low-income children.''</p>
+        <p>One of those younger blacks is Jason Fields, a first-term state legislator who has defied his fellow Democrats by supporting vouchers. ''If the Democratic Party is supposed to be the party of the little guy, where do we get off opposing a chance to help those with the least of all?'' he asked. The answer he's heard from his party is that supporting vouchers can end your career if the teachers' union supports a candidate against you in the Democratic primary.</p>
+        <p>But Fields, who represents a predominantly black district in Milwaukee, is that rare Democrat who will stand up for his constituents against the union. ''If they run someone against me, so be it,'' Fields said. ''I'm willing to leave it up to the voters to decide who really cares about African-Americans, and who's just spitting out rhetoric.''</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

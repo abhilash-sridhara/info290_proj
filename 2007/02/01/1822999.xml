@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fed, Leaving Rate at 5.25%, Is Optimistic on Inflation</title>
+    <meta content="01fed" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/business/01fed.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822999"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Interest Rates</classifier>
+        <classifier class="indexing_service" type="descriptor">Credit</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Recession and Depression</classifier>
+        <org class="indexing_service">Federal Reserve System</org>
+        <person class="indexing_service">Andrews, Edmund L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recession and Depression</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Federal Reserve System</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E4DB153FF932A35751C0A9619C8B63" item-length="567" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fed, Leaving Rate at 5.25%, Is Optimistic on Inflation</hl1>
+        <hl2 class="online_headline">Fed, Leaving Rate at 5.25%, Is Optimistic on Inflation</hl2>
+      </hedline>
+      <byline class="print_byline">By EDMUND L. ANDREWS</byline>
+      <byline class="normalized_byline">Andrews, Edmund L</byline>
+      <dateline>WASHINGTON, Jan. 31</dateline>
+      <abstract>
+        <p>Federal Reserve leaves federal funds rate on overnight loans unchanged, at 5.25 percent; expresses confidence that inflation is running lower than officials expected few months ago; Fed statement suggests policy makers are increasingly confident about achieving elusive 'soft landing'--mild slowdown in growth that would reduce inflation pressures but not set off recession; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Federal Reserve left interest rates unchanged on Wednesday, as it has since June, but it was more optimistic than in the past that inflationary pressures were ebbing.</p>
+        <p>The central bank left the federal funds rate on overnight loans between banks at 5.25 percent, as investors had expected. It also repeated its caution that ''some inflation risks remain,'' a sign that it is likely to keep the benchmark rate at current levels for the foreseeable future.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Fed signaled that it is likely to keep the benchmark rate at current levels for the foreseeable future.</p>
+      </block>
+      <block class="full_text">
+        <p>The Federal Reserve left interest rates unchanged on Wednesday, as it has since June, but it was more optimistic than in the past that inflationary pressures were ebbing.</p>
+        <p>The central bank left the federal funds rate on overnight loans between banks at 5.25 percent, as investors had expected. It also repeated its caution that ''some inflation risks remain,'' a sign that it is likely to keep the benchmark rate at current levels for the foreseeable future.</p>
+        <p>But in its statement announcing the decision, the rate-setting Federal Open Market Committee expressed growing confidence that inflation was running lower -- even as growth was slightly stronger than officials had expected just a few months ago.</p>
+        <p>''Readings on core inflation have improved modestly, and inflation pressures seem likely to moderate over time,'' the Fed's statement said. At the same time, it acknowledged signs of ''somewhat firmer economic growth'' and ''tentative signs of stabilization'' in the housing market.</p>
+        <p>That cheered stock and bond markets, elevating hopes that healthy economic growth would not prompt a resumption of rate increases. The Dow Jones industrial average rose 98.38 points yesterday, or 0.79 percent, to close at 12,621.69. Yields on Treasury debt declined, with the benchmark 10-year Treasury note settling at 4.81 percent, down from 4.87 percent Tuesday, indicating that the market expected long-term interest rates to move slightly lower.</p>
+        <p>The Federal Reserve's announcement came hours after the Commerce Department reported that the economy grew at a surprisingly brisk annual pace of 3.5 percent in the fourth quarter of 2006.</p>
+        <p>Many investors have all but written off expectations that the Fed might actually cut interest rates soon, which it would do to offset an economic slump or rising unemployment, neither of which is occurring.</p>
+        <p>The Fed statement suggested that policy makers were increasingly confident about achieving an elusive ''soft landing'' -- a mild slowdown in growth that would reduce inflation pressures but not set off a recession.</p>
+        <p>''What I don't think people were counting on was the Fed, in effect, upgrading their views on the outlook for inflation,'' said Stuart Hoffman, chief economist at PNC Financial in Pittsburgh. ''The way they phrased it, they're really inching toward a balanced risk assessment of inflation versus slower growth.''</p>
+        <p>While Mr. Hoffman still says that a Fed rate cut this summer is possible, most analysts no longer see any need for the central bank to ease rates.</p>
+        <p>''If there were need for stimulus, the consumer is clearly not asking for it,'' said Richard Yamarone at Argus Research in New York. ''You have more than a handful of reasons to raise rates, but what are the reasons for a cut? There are none.''</p>
+        <p>The Fed repeated verbatim the previous stance of remaining slightly more worried about rising inflation than about slowing growth.</p>
+        <p>Several governors, as well as the chairman, Ben S. Bernanke, have said that their ''comfort zone'' for inflation is an annual rate of 1 to 2 percent, excluding food and energy.</p>
+        <p>By that measure of core inflation, consumer prices have risen 2.4 percent in the last year. But prices have climbed more slowly in recent months, partly because of pass-through effects from the drop in gasoline prices late last year.</p>
+        <p>And while the Commerce Department's new estimate of economic growth last quarter provided additional evidence that the economy was expanding faster than many analysts had expected, it also showed that inflationary pressures remained surprisingly low.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

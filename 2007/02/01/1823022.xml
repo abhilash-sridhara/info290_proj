@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Geography And Emotion Helped Sway Jurors' Vote</title>
+    <meta content="01death" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/nyregion/01death.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823022"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Capital Punishment</classifier>
+        <classifier class="indexing_service" type="descriptor">Sentences (Criminal)</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="indexing_service" type="descriptor">Attacks on Police</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Nemorin, James V (Detective)</person>
+        <person class="indexing_service">Andrews, Rodney J (Detective)</person>
+        <person class="indexing_service">Barron, James</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Capital Punishment</classifier>
+        <classifier class="online_producer" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="descriptor">Attacks on Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Attacks on Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sentences (Criminal)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Capital Punishment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <location class="online_producer">Staten Island (NYC)</location>
+        <person class="online_producer">Wilson, Ronell</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E6DA153FF932A35751C0A9619C8B63" item-length="1232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Geography And Emotion Helped Sway Jurors' Vote</hl1>
+        <hl2 class="online_headline">Geography and Emotion Helped Sway Jurors’ Vote</hl2>
+      </hedline>
+      <byline class="print_byline">By JAMES BARRON</byline>
+      <byline class="normalized_byline">Barron, James</byline>
+      <abstract>
+        <p>Death-penalty experts say confluence of factors led federal jury to condemn Ronell Wilson to death for murders of Dets James V Nemorin and Rodney J Andrews in Staten Island in 2003; cite, among other things, shocking brutality of crime and strong emotions shown in courtroom by victims' families and fellow officers; some lawyers say verdict does not signal shift in public attitudes about death penalty; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>They were police detectives, shot at close range, in the backs of their heads. Fellow officers and relatives filled the courtroom, day after day, during the trial of the man accused of pulling the trigger, who mostly kept his emotions to himself.</p>
+        <p>Add to that where the jurors came from -- Brooklyn, Queens, Staten Island and Long Island, but not Manhattan. And that the detectives knew, and were known in, the neighborhood, which gave the case a strong local connection -- unlike, say, a case involving terrorist acts overseas.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Experts pointed to elements that they said likely induced a jury to decide that Ronell Wilson should die for killing two detectives on Staten Island.</p>
+      </block>
+      <block class="full_text">
+        <p>They were police detectives, shot at close range, in the backs of their heads. Fellow officers and relatives filled the courtroom, day after day, during the trial of the man accused of pulling the trigger, who mostly kept his emotions to himself.</p>
+        <p>Add to that where the jurors came from -- Brooklyn, Queens, Staten Island and Long Island, but not Manhattan. And that the detectives knew, and were known in, the neighborhood, which gave the case a strong local connection -- unlike, say, a case involving terrorist acts overseas.</p>
+        <p>Taken together, all those elements were so powerful, death-penalty specialists said yesterday, that the jury's verdict seemed almost inevitable. The seven women and five men decided that the defendant, Ronell Wilson, should die.</p>
+        <p>That made him the first person to face death in a federal case in New York since the 1950s, a fate that other defendants have managed to avoid, even though some of them have been accused of killing far more people. ''There was a confluence of factors,'' said Deborah W. Denno, a professor at Fordham University School of Law. ''I think it's highly unlikely there will be another case with all these particular elements anytime soon.''</p>
+        <p>For that reason, she and other lawyers interviewed yesterday said they doubted that the Wilson verdict signaled a shift in public attitudes about the death penalty. Michael Greenberger, a law professor at the University of Maryland, noted that advances in DNA testing have uncovered faulty convictions and made juries nationally more hesitant to impose the death sentence. But he said there were no such doubts in the Wilson case.</p>
+        <p>''This case is one that shocks the conscience,'' he said. ''The brutal nature of it, I think, aligned the stars for this kind of verdict.''</p>
+        <p>Still, some attitudes may have changed. Several years ago, when Attorney General John Ashcroft ordered United States attorneys to seek the death penalty, he ran into resistance in New York, where some prosecutors feared such a possibility could cause jurors to acquit.</p>
+        <p>Counting Mr. Wilson, there are now 47 federal prisoners on death row. But prosecutors in New York have failed to obtain death sentences in recent years, even in closely watched terrorism trials involving embassy bombings in Africa in 1998.</p>
+        <p>Some death-penalty opponents said that the Wilson case proved the exception because the victims were police officers.</p>
+        <p>Ronald J. Tabak, a special counsel at the Manhattan law firm of Skadden, Arps, Slate, Meagher &amp; Flom and the president of New York Lawyers Against the Death Penalty, said that when New York changed its law on capital punishment in the 1960s ''in what was considered a virtual abolition of the death penalty,'' the murder of a police officer remained a death-penalty offense.</p>
+        <p>The last federal inmate to be executed in New York State, Gerhard Puff, in 1954, had been found guilty of killing an F.B.I. agent during a bank robbery. At the state level, no trials involved the killings of police officers between when the death penalty was reinstated in New York in 1995 and when it was invalidated in 2004, according to Kevin Doyle, the New York State criminal defender. Nor did any of the federal cases tried in New York since 2001.</p>
+        <p>But in the Wilson case, death-penalty lawyers said, the jury could not have missed the large turnout of police officers and relatives.</p>
+        <p>''It's hard to resist that kind of pressure,'' said David A. Ruhnke, a lawyer who is representing a convicted drug trafficker in another federal death-penalty case in Brooklyn, that one involving racketeering and murder.</p>
+        <p>Last week, the judge in that case told the prosecutors that the Justice Department should drop its push for the execution of the defendant, Kenneth McGriff. The judge, Frederic Block, said that pressing on to the penalty phase of the trial would be ''absurd'' and ''a total misappropriation'' of taxpayer dollars.</p>
+        <p>In analyzing the Wilson verdict, some death-penalty lawyers said they had figured that sooner or later, a jury in New York would vote to send a defendant to die. Mr. Tabak said that of the seven state cases that ended in death-penalty verdicts between 1995 and 2004, all but two originated in the area that makes up the federal Eastern District: Brooklyn, Queens and Staten Island, and Nassau and Suffolk Counties on Long Island.</p>
+        <p>Lawyers consider prospective jurors in those areas more likely to support the death penalty than those in Manhattan. Still, some lawyers said the importance of geography was minimal when compared to the circumstances of the Wilson case.</p>
+        <p>''It was the kind of case that no matter where it tried and no matter where it was brought, the likelihood of a death verdict was high,'' Mr. Ruhnke said. ''Sometimes the facts of a case simply blot out everything else.''</p>
+        <p>Other death-penalty lawyers said the Wilson trial differed from those involving drug dealers accused of killing other drug dealers, or those involving terrorists. Twice in 2001, a federal jury in Manhattan deadlocked over whether to impose the death penalty on three terrorists in the 1998 bombings of the American Embassies in Kenya and Tanzania that killed more than 200 people, including 12 Americans. In the federal courts, a deadlock means the defendant is automatically sentenced to life in prison.</p>
+        <p>Richard Burr, who was one of Timothy J. McVeigh's lawyers in the Oklahoma City bombing trial, said that a case involving a terrorist attack overseas ''is not the sort of immediate, frightening incident that the killing of police officers in your own town is.''</p>
+        <p>''It's not immediate, it's not here, it's not that visceral response,'' he said.</p>
+        <p>The Wilson case, which centered on the murders of Detectives James V. Nemorin and Rodney J. Andrews on a Staten Island street in 2003, had an emotional component that the lawyers said had been lacking in other death-penalty trials in New York. This was partly because such violence seemed out of place on Staten Island, and partly because the detectives were the first two officers killed by gunfire on a single day in 15 years.</p>
+        <p>''The ingredient that this case had that the others have not had was the powerful emotions on the part of the victims' survivors, both their individual families and the police community,'' said Kevin McNally, a Kentucky lawyer who is director of the Federal Death Penalty Resource Counsel Project, which provides information to defense lawyers in capital cases. ''You simply don't see that kind of a packed courtroom in these other trials, and jurors are affected by that.''</p>
+        <p>Nor had juries taken up a case in which the victims were police officers. David Bruck, who runs the Virginia Capital Case Clearinghouse at the Washington and Lee School of Law, said that juries ''impose the death penalty to avenge the murders of people with whom they identify.''</p>
+        <p>''People identify with brave, hard-working, young police officers who lost their lives and had families and people who loved them,'' he said.</p>
+        <p>In addition, Professor Denno said the way Mr. Wilson had handled himself during the trial -- even sticking out his tongue as the victims' families rejoiced after the verdict -- ''stands out'' among death-penalty defendants in this country.</p>
+        <p>''I think people expect this from terrorists who are instigated by an ideology that of course we can't fully understand,'' she said. ''But the American public has particular difficulty with a defendant like Ronell Wilson, who showed so little remorse, no remorse.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

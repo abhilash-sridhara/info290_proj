@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Immigrants Are Facing Big Increases In U.S. Fees</title>
+    <meta content="01immig" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/washington/01immig.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823010"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Visas</classifier>
+        <classifier class="indexing_service" type="descriptor">Bureaucratic Red Tape</classifier>
+        <classifier class="indexing_service" type="descriptor">Citizenship</classifier>
+        <person class="indexing_service">Preston, Julia</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="descriptor">Citizenship</classifier>
+        <classifier class="online_producer" type="descriptor">Bureaucratic Red Tape</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bureaucratic Red Tape</classifier>
+        <classifier class="online_producer" type="general_descriptor">Citizenship</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E2DB153FF932A35751C0A9619C8B63" item-length="689" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Immigrants Are Facing Big Increases In U.S. Fees</hl1>
+        <hl2 class="online_headline">Immigrants Are Facing Big Increases in U.S. Fees</hl2>
+      </hedline>
+      <byline class="print_byline">By JULIA PRESTON</byline>
+      <byline class="normalized_byline">Preston, Julia</byline>
+      <abstract>
+        <p>Federal immigration authorities propose increase in fees for visas and citizenship documents by average of 66 percent, promising to use money to modernize and speed up antiquated bureaucracy; proposal brings outcries from groups on both sides of immigration debate (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Federal immigration authorities proposed yesterday to raise fees for visas and citizenship documents by an average of 66 percent, promising to use the added money to modernize and speed up an antiquated, overburdened bureaucracy.</p>
+        <p>Emilio Gonzalez, director of Citizenship and Immigration Services, said the increases were necessary because the agency's fees were not covering the costs of processing more than seven million applications a year and about 135,000 security background checks a day. Since 1988, Congress has required the agency to pay for its services entirely with the fees it collects.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The proposed 66 percent increases in fees for visas and citizenship documents would be used to modernize the bureaucracy, immigration authorities said.</p>
+      </block>
+      <block class="full_text">
+        <p>Federal immigration authorities proposed yesterday to raise fees for visas and citizenship documents by an average of 66 percent, promising to use the added money to modernize and speed up an antiquated, overburdened bureaucracy.</p>
+        <p>Emilio Gonzalez, director of Citizenship and Immigration Services, said the increases were necessary because the agency's fees were not covering the costs of processing more than seven million applications a year and about 135,000 security background checks a day. Since 1988, Congress has required the agency to pay for its services entirely with the fees it collects.</p>
+        <p>In exchange for higher fees, Mr. Gonzalez pledged, the agency will reduce the average time to process documents, currently about six months, 20 percent by 2009.</p>
+        <p>''I need these fees to give the service that the immigration community expects,'' Mr. Gonzalez said at a news conference in Washington. Since the Sept. 11 attacks, he said, the agency's costs for security measures have soared, with no new revenue to keep pace.</p>
+        <p>In an unusual convergence of views amid the polarized debate over immigration, the proposal brought outcries from groups favoring more immigration and groups that want less of it. They called the fee increases exorbitant and said Congress should appropriate money for technology and infrastructure improvements at the agency.</p>
+        <p>''I don't think the cost of overhauling the bureaucracy should be on the backs of prospective immigrants,'' said Jeanne Butterfield, executive director of the American Immigration Lawyers Association, which advocates more channels for legal immigration. ''You're asking future immigrants to pay for the agency's failings of the last decade.''</p>
+        <p>Mark Krikorian, executive director of the Center for Immigration Studies, which favors curbing immigration, said, ''The citizenship application fees should not be designed to keep people from becoming citizens.''</p>
+        <p>Fees would continue to be waived for refugees seeking asylum and for immigrants who are victims of human trafficking or sexual violence. Otherwise, the increases would vary by document, but some would be large. The fee for an application to become a citizen would rise to $595 from $330, an 80 percent increase. The cost for an employer to bring in a foreign worker would jump to $475 from $195, an increase of 144 percent. For an American who wanted to bring a foreign fiancé to live in the United States, the cost would be $455, up 170 percent from $170.</p>
+        <p>Perhaps the most daunting proposed increase is for immigrants seeking to become permanent residents, whose fee would rise to $905 from $325. Immigration officials argued that the jump would not be as great as it appeared, because the fee would be charged only once. Under the current system, they said, immigrants seeking resident status often have to pay interim fees while they are waiting for their application to inch through the bureaucracy, making the average cost $800.</p>
+        <p>According to census figures, three of four Mexican and Central American immigrant households in the United States have annual incomes of less than $25,000 a year. The new fees ''basically become an economic wall,'' said William Ramos, a spokesman for the National Association of Latino Elected and Appointed Officials Educational Fund, which represents 6,000 officials nationwide.</p>
+        <p>Immigration authorities said they expected to process just under 10 million fee-paying applications in the two years after the rules were adopted, reaping an additional $1 billion a year. They said they would use the money to build new facilities and buy digital technology, to convert the agency from an aging system still based on paper. The last time the fee structure was completely revised was in 1998.</p>
+        <p>''It's like any corporation,'' Mr. Gonzalez said of his agency. ''This is a $2-billion-a-year corporation that has to remain solvent every single day, while we have to provide benefits to an increasing number of customers.''</p>
+        <p>Mr. Gonzalez acknowledged that many aspiring immigrants encountered ''dingy buildings, rude employees'' and bureaucratic gridlock when they approached the agency now. But he said the possibility of seeking money from Congress had not been raised during the agency's internal review.</p>
+        <p>The agency opened a 60-day period of public comment on the proposed fees yesterday. The final rules are not expected before June.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

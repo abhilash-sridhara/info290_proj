@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ROOM TO IMPROVE</title>
+    <meta content="01room" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/garden/01room.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822904"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Storage</classifier>
+        <classifier class="indexing_service" type="descriptor">Office Equipment</classifier>
+        <classifier class="indexing_service" type="descriptor">Leather and Leather Goods</classifier>
+        <classifier class="indexing_service" type="descriptor">Chairs</classifier>
+        <classifier class="indexing_service" type="descriptor">Furniture</classifier>
+        <classifier class="indexing_service" type="descriptor">Kitchens</classifier>
+        <person class="indexing_service">Owens, Mitchell</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="descriptor">Home Furnishings</classifier>
+        <classifier class="online_producer" type="descriptor">Antiques</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Furnishings</classifier>
+        <classifier class="online_producer" type="general_descriptor">Antiques</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E5DD153FF932A35751C0A9619C8B63" item-length="606" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ROOM TO IMPROVE</hl1>
+        <hl2 class="online_headline">Room to Improve</hl2>
+      </hedline>
+      <byline class="print_byline">By Mitchell Owens</byline>
+      <byline class="normalized_byline">Owens, Mitchell</byline>
+      <abstract>
+        <p>Room to Improve column on filing cabinets that look good; photo; comments on merits of prewar oak kitchen cabinets; follow up on earlier column on cleaning leather upholstery (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. I've kept my files in cardboard boxes long enough. Where can I find good-looking cabinets?</p>
+        <p>A. Being in the middle of rethinking my own home office, I can understand your plight. Since I graduated from college, I've depended on a mismatched assortment of stacking plastic file drawers and law-office-style cardboard boxes. Both of these do a fine and inexpensive job of storing photographs, personal papers and old bills, but without an iota of style. The same is true of metal filing cabinets, many of which seem to bend and dent easily -- at least the ones I find at secondhand shops.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>I’ve kept my files in cardboard boxes long enough. Where can I find good-looking cabinets?</p>
+      </block>
+      <block class="full_text">
+        <p>Q. I've kept my files in cardboard boxes long enough. Where can I find good-looking cabinets?</p>
+        <p>A. Being in the middle of rethinking my own home office, I can understand your plight. Since I graduated from college, I've depended on a mismatched assortment of stacking plastic file drawers and law-office-style cardboard boxes. Both of these do a fine and inexpensive job of storing photographs, personal papers and old bills, but without an iota of style. The same is true of metal filing cabinets, many of which seem to bend and dent easily -- at least the ones I find at secondhand shops.</p>
+        <p>One year I took the advice of a garden-writer friend who suggested that I use sturdy file boxes made of wicker or rattan. They were attractive, but they collected too much dust and seemed a bit too rustic.</p>
+        <p>Recently, I've been coveting almost every file cabinet available at the Home Decorators Collection (877-537-8539, homedecorators.com), a chain based in Hazelwood, Mo.</p>
+        <p>Available in wood -- painted, stained or clad in good-looking veneers -- and two-drawer, three-drawer, six-drawer and nine-drawer combinations, the Home Decorators Collection file cabinets look like real furniture rather than utilitarian necessities, which should be the goal, especially when used in a room that must serve more than one purpose.</p>
+        <p>The company offers file storage cabinets in a variety of styles, including French Country, Arts and Crafts and Georgian. My favorite piece is the nine-drawer Wuchow chest. Painted a shade of scarlet that recalls the Forbidden City or certain scenes from ''The Last Emperor'' and is reminiscent of classic Ming furniture, it costs $459 and is available in antique black as well. Smaller sizes cost between $249 (for the three-drawer console) and $349 (for six drawers).</p>
+        <p>Another online retailer, filingcabinets.com (866-654-0714), has some attractive alternatives, too, including the American country-style Stanford filing cabinet for $219.99.</p>
+        <p>Q. My husband wants to tear out our prewar oak kitchen cabinets; I don't. What's your opinion?</p>
+        <p>A. If they are prewar cabinets in the best aesthetic sense -- well proportioned, with classic drawer pulls and glass-paned doors -- my advice would be to save them. Old-fashioned cabinets have the kind of honest detail that will please your eye, and some real-estate agents insist they can be a positive selling point.</p>
+        <p>Properly refinished and restored, so that the drawers slide smoothly and the doors latch securely, they can provide the kind of soul that many remodeling homeowners -- not to mention cabinet manufacturers -- expensively try to replicate.</p>
+        <p>To this day, I occasionally daydream about the kitchen cabinets of a 1920s apartment in Virginia where I lived during part of my childhood. My do-it-herself mother spent laborious weekends stripping the multipaned doors and hefty drawers to the raw oak and then painting them with crisp coats of high-gloss white enamel.</p>
+        <p>You can appease your husband by installing as many modern appliances as you like to bring the kitchen up to contemporary snuff.</p>
+        <p>NOTE -- Two weeks ago, a reader asked how to clean leather upholstery. What I failed to mention, another reader later pointed out, was how to clean leather made from the hide of domesticated Southeast Asian water buffalo (Bubalus bubalis), which is increasingly used in home furnishings and is often referred to as buffalo. The best maintenance technique for this rugged, hardwearing material is to do practically nothing. You can clean it with a tiny dab of saddle soap on a damp cloth if you are meticulous, but water buffalo hides are impressively forgiving. Scratches can be healed by rubbing them with your fingers and allowing your skin's natural oils to do the work.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

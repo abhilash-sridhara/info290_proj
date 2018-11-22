@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bears' Long Snapper As Left-Handed Reliever</title>
+    <meta content="01snapper" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/sports/football/01snapper.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823021"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Super Bowl</classifier>
+        <org class="indexing_service">Chicago Bears</org>
+        <org class="indexing_service">Indianapolis Colts</org>
+        <person class="indexing_service">Crouse, Karen</person>
+        <person class="indexing_service">Mannelly, Patrick</person>
+        <person class="indexing_service">John, Tommy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Chicago Bears</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Indianapolis Colts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Super Bowl</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">Chicago Bears</org>
+        <person class="online_producer">Mannelly, Patrick</person>
+        <person class="online_producer">John, Tommy</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401EEDB153FF932A35751C0A9619C8B63" item-length="887" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bears' Long Snapper As Left-Handed Reliever</hl1>
+        <hl2 class="online_headline">Bears’ Long Snapper as Left-Handed Reliever</hl2>
+      </hedline>
+      <byline class="print_byline">By KAREN CROUSE</byline>
+      <byline class="normalized_byline">Crouse, Karen</byline>
+      <dateline>MIAMI, Jan. 31</dateline>
+      <abstract>
+        <p>Chicago Bears and long snaper Patrick Mannelly, son-in-law of former baseball player Tommy John, prepare to face Indianapolis Colts in Super Bowl (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When his son-in-law, Patrick Mannelly, complains of sore elbows, all Tommy John can do is laugh. Before Mannelly married John's daughter, Tamara, nine years ago, John had no idea that long snappers and baseball pitchers could have anything in common.</p>
+        <p>John won 288 games during his 26-year career, but he is perhaps better known for the experimental elbow surgery he had in 1974 -- two days before Tamara's birth -- that resurrected his career and has been named after him.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Patrick Mannelly became the Chicago Bear’s long snapper and former major league pitcher Tommy John’s son-in-law in the span of three months in 1998.</p>
+      </block>
+      <block class="full_text">
+        <p>When his son-in-law, Patrick Mannelly, complains of sore elbows, all Tommy John can do is laugh. Before Mannelly married John's daughter, Tamara, nine years ago, John had no idea that long snappers and baseball pitchers could have anything in common.</p>
+        <p>John won 288 games during his 26-year career, but he is perhaps better known for the experimental elbow surgery he had in 1974 -- two days before Tamara's birth -- that resurrected his career and has been named after him.</p>
+        <p>Mannelly, who became the Chicago Bears' long snapper and John's son-in-law in the span of three months in 1998, is the longest-tenured Bear on the Super Bowl roster, along with center Olin Kreutz.</p>
+        <p>Though he is not as renowned as Bears linebacker Brian Urlacher or as recognized as Bears place-kicker Robbie Gould, Mannelly is held in high esteem by his teammates.</p>
+        <p>''We have the best long snapper in the league,'' Brad Maynard, the punter and the holder on field goals and extra points, said Wednesday. ''We realize it. Our team realizes it. The organization realizes it. That's why he's been here nine years.''</p>
+        <p>If the average N.F.L. fan does not know Mannelly from Bears safety Danieal Manning, it is because long snappers are the most anonymous people on the field this side of the game officials. The only time they seem to be noticed is when they mess up.</p>
+        <p>There is a common misconception that bending over and hiking a ball 10 yards is, well, a snap. ''People think it's a lot easier than it is,'' said Mannelly, who started a Web site, longsnapper.com, in an effort to educate the masses. ''I get e-mails all the time saying: 'I want to be a long snapper in the N.F.L. Who do I contact?' ''</p>
+        <p>As Mannelly's career at Duke was winding down, John called his friend Bill Parcells, who was coaching the Jets, to gauge his future son-in-law's pro prospects. John said Parcells told him that if Mannelly could deliver the ball to the punter within 0.75 of a second, there would probably be a spot for him in the N.F.L.</p>
+        <p>''So I called Patrick and asked him how much time it took him to snap the ball to the punter, and he said seven-tenths of a second,'' John said Wednesday in a telephone interview. ''I told him, 'Good. That's very good.' ''</p>
+        <p>John did not appreciate how similar the mechanics of snapping and pitching were until he started to watch Mannelly, who was drafted by Chicago in the sixth round in 1998. Now the two talk regularly about release points and spin and target spots.</p>
+        <p>''The thing I liken long snapping to is a left-handed relief pitcher,'' John said, ''because it's a specialized position. You're brought in to perform a specific task, and if you're good at it -- and Patrick is very good -- you can stay around for a long, long time.''</p>
+        <p>John, 63, knows what it is like to play on the grand stage, having been a member of three teams that played in the World Series. He has shared his experiences with Mannelly, but he hopes they do not end up having a shared experience. The Los Angeles Dodgers teams that John played on in 1977 and 1978 lost to the Yankees, and the 1981 Yankees team he was on lost to the Dodgers.</p>
+        <p>Mannelly, 31, has not had a snap this season that resulted in a punt, field goal or extra point being aborted. ''I had one this year in practice,'' he said, sounding none too happy about it.</p>
+        <p>He flirted with disaster in the Bears' second-round playoff game against the Seattle Seahawks, though he was the only one brooding about it afterward.</p>
+        <p>On a field-goal attempt in the fifth minute of overtime, Mannelly's snap to Maynard was a little high, but Maynard was able to pull it down and spin the ball into place without affecting the timing of Gould, who nailed the 49-yarder to win the game.</p>
+        <p>When Mannelly talked to his father-in-law afterward about knowing as soon as the ball left his hands that the release point had not been quite right, John knew exactly what he meant.</p>
+        <p>John's specialty pitch was a sinker, which meant he fielded quite a few ground balls. Sometimes, he said, on the throw to a fielder, ''you'd get the ball down in the palm of your hand instead of getting out on your fingers, and when that happened you didn't know where the throw was going.''</p>
+        <p>On occasion, John will gently remind Mannelly that long snappers, like fastball pitchers, can improve their aim by taking a little speed off their throws.</p>
+        <p>That advice has proved particularly helpful for Mannelly, whose target is small. On punts, he aims for Maynard's belt buckle. On field goals and extra points, his target is the inside crease of Maynard's left elbow.</p>
+        <p>John grew up in Terre Haute, Ind., the son of two devoted Bears fans. So the Bears were part of his family long before he had a Bear in his family.</p>
+        <p>He was surprised when Tamara told him that she was dating a football player since she had vowed she would never, ever marry a professional athlete.</p>
+        <p>''I'm always reminding her of that,'' John said.</p>
+        <p>It's just another twist in a family bond that grows ever tighter.</p>
+        <p>PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

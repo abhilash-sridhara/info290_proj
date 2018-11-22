@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Councilman Seeks Divestment In Sudan</title>
+    <meta content="01mbrfs-5" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1823085"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Pensions and Retirement Plans</classifier>
+        <classifier class="indexing_service" type="descriptor">War Crimes, Genocide and Crimes Against Humanity</classifier>
+        <classifier class="indexing_service" type="descriptor">Embargoes and Economic Sanctions</classifier>
+        <location class="indexing_service">Sudan</location>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Darfur (Sudan)</location>
+        <location class="indexing_service">New York State</location>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Gioia, Eric N (Councilman)</person>
+        <person class="indexing_service">Rivera, Ray</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Sudan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Embargoes and Economic Sanctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Embargoes and Economic Sanctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">War Crimes, Genocide and Crimes Against Humanity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pensions and Retirement Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pensions and Retirement Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retirement</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502EEDA153FF932A35751C0A9619C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Councilman Seeks Divestment In Sudan</hl1>
+      </hedline>
+      <byline class="print_byline">By RAY RIVERA; Compiled by Anthony Ramirez</byline>
+      <byline class="normalized_byline">Rivera, Ray</byline>
+      <abstract>
+        <p>Councilman Eric N Gioia plans to introduce bill asking New York City and State to stop investing pension money in companies that do business in Sudan; bill will identify companies that provide revenue to Sudanese government and who fail to use their influence to end fighting; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A city councilman said yesterday that he planned to introduce a bill today asking that the city and the state stop investing pension money in companies that do business in Sudan, whose government has been accused of committing genocide against civilians. The city has invested $725 million and the state $1 billion in such companies, the state and city comptrollers' offices said. The bill, by Councilman Eric N. Gioia, left, is set to be co-sponsored by Councilman David Yassky and Councilwoman Inez E. Dickens. It would identify companies that provide revenue to the Sudanese government and fail to use their influence to end the fighting. At least six states, including California, have passed similar laws.</p>
+        <p>RAY RIVERA</p>
+      </block>
+      <block class="full_text">
+        <p>A city councilman said yesterday that he planned to introduce a bill today asking that the city and the state stop investing pension money in companies that do business in Sudan, whose government has been accused of committing genocide against civilians. The city has invested $725 million and the state $1 billion in such companies, the state and city comptrollers' offices said. The bill, by Councilman Eric N. Gioia, left, is set to be co-sponsored by Councilman David Yassky and Councilwoman Inez E. Dickens. It would identify companies that provide revenue to the Sudanese government and fail to use their influence to end the fighting. At least six states, including California, have passed similar laws.</p>
+        <p>RAY RIVERA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

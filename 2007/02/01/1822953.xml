@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Fighting Troop Increase, Senator Finds Few Old Allies</title>
+    <meta content="01cong" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/washington/01cong.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822953"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <location class="indexing_service">Iraq</location>
+        <person class="indexing_service">Hulse, Carl</person>
+        <person class="indexing_service">Warner, John W (Sen)</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/George W Bush</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Iraq</location>
+        <org class="online_producer">Senate</org>
+        <org class="online_producer">Republican Party</org>
+        <person class="online_producer">Warner, John W</person>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E4DC153FF932A35751C0A9619C8B63" item-length="1043" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Fighting Troop Increase, Senator Finds Few Old Allies</hl1>
+        <hl2 class="online_headline">In Fighting Troop Increase, Senator Finds Few Old Allies</hl2>
+      </hedline>
+      <byline class="print_byline">By CARL HULSE; Jim Rutenberg contributed reporting from New York.</byline>
+      <byline class="normalized_byline">Hulse, Carl</byline>
+      <dateline>WASHINGTON, Jan. 31</dateline>
+      <abstract>
+        <p>Sen John W Warner, who has long wielded influence on military policy, comes under unusually tough criticism from fellow Republicans for his bipartisan resolution opposing Pres Bush's troop buildup in Iraq; they accuse him of undercutting Bush, new military command being installed in Iraq and troops themselves; Warner claims his goal is to get broadest bipartisan vote possible so Senate makes clear expression of its sentiment on Iraq; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Senator John W. Warner, a lawmaker often admired for his demeanor and experience, has long wielded influence on military policy given his own years at the Pentagon and his tenure as the Republican chairman of the Armed Services Committee.</p>
+        <p>So when the Virginian, a senator from central casting who turns 80 next month, offered a bipartisan resolution opposing President Bush's troop buildup in Iraq in more muted terms than one broadly backed by Democrats, people took notice. He appeared to have provided a center of gravity for lawmakers anxious about the war yet unwilling to challenge the White House too harshly.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Senator John W. Warner has attracted criticism from fellow Republicans over a resolution opposing President Bush’s Iraq policy.</p>
+      </block>
+      <block class="full_text">
+        <p>Senator John W. Warner, a lawmaker often admired for his demeanor and experience, has long wielded influence on military policy given his own years at the Pentagon and his tenure as the Republican chairman of the Armed Services Committee.</p>
+        <p>So when the Virginian, a senator from central casting who turns 80 next month, offered a bipartisan resolution opposing President Bush's troop buildup in Iraq in more muted terms than one broadly backed by Democrats, people took notice. He appeared to have provided a center of gravity for lawmakers anxious about the war yet unwilling to challenge the White House too harshly.</p>
+        <p>But while Mr. Warner has won some support from within his party, he has also attracted unusually tough criticism from fellow Republicans who have suggested that he -- a World War II veteran and former Navy secretary -- is undercutting Mr. Bush, the new military command being installed in Iraq and the troops themselves.</p>
+        <p>It is a time of transition for Mr. Warner in the Senate. Not only are Republicans now in the minority, but he also lost the top Republican slot on the Armed Services Committee to John McCain of Arizona because of term limits and was not successful in efforts to win the top party seat on another panel. In addition, his fellow Republican, George Allen, lost his reelection bid in Virginia to a Democrat, Senator Jim Webb.</p>
+        <p>So while Mr. Warner fights to stay relevant in the Iraq debate, he has fewer tools at his disposal even as he considers whether to run for re-election next year.</p>
+        <p>What some Republicans have said in recent days about Mr. Warner has been particularly harsh.</p>
+        <p>''It is clearly not an act of leadership,'' said Senator Jim DeMint of South Carolina, who joined two of his colleagues Wednesday in dismissing Mr. Warner's proposal as they sought to hold off a Senate repudiation of the president's plan.</p>
+        <p>''To offer nonbinding resolutions which encourage our enemies and undermine our allies and deflate the morale of our troops is, to me, the worst of all possible worlds,'' said Senator John Cornyn, Republican of Texas.</p>
+        <p>Mr. Warner's approach has also caused a policy rift with Senators McCain and Lindsey Graham of South Carolina, two Republicans he has often worked closely with on military matters and joined last year in confronting Mr. Bush over the treatment of terrorism detainees.</p>
+        <p>''John and I have been friends for more than 30 years, and we just disagree on this,'' said Mr. McCain, who is arguing for time to let the Bush plan work. ''But he has held these concerns for a long time.''</p>
+        <p>Mr. Warner, a fierce protector of the Senate as an institution, says his goal is to get the broadest bipartisan vote possible so the Senate makes a clear expression of its sentiment on Iraq.</p>
+        <p>''I feel strongly that the institution of the Senate has a responsibility, and I feel very strongly that responsibility can be best fulfilled if we are able to construct a document -- be it a resolution or whatever -- that is truly, and I underline truly, bipartisan,'' Mr. Warner said Wednesday.</p>
+        <p>He shrugs off internal opposition, saying time has made him immune. ''Nothing bothers me,'' he said. ''It is the blessing of old age.''</p>
+        <p>Mr. Bush on Wednesday implied once again that those who were seeking to support resolutions critical of his war plan were undercutting the Senate's unanimous vote last week to confirm the nomination of Gen. David H. Petraeus as the new top American commander in Iraq.</p>
+        <p>''He goes up and testified on Capitol Hill; he says we need more troops,'' Mr. Bush said of General Petraeus in an interview on Fox News Channel. ''The fundamental question is, will they back him up? They voted for him; will they back him up? Will they say, 'sure, we'll give you the support you need'?''</p>
+        <p>But the president said he did not begrudge fellow Republicans who were considering the resolutions, which could reach a vote next week.</p>
+        <p>''Look, I understand. It's a difficult time on Capitol Hill,'' he said. ''There are people who are doubtful about whether or not the strategy that I've come up with and decided upon as commander-in-chief will work.''</p>
+        <p>Mr. Warner and his partners in drawing up the resolution fought back Wednesday night, offering a refined proposal that they said had been shaped by new information from recent classified military briefings. The new wording spells out clearly that its backers believe Congress should not cut off or reduce any financing for troops in the field.</p>
+        <p>Mr. Warner's revised resolution retained language saying that the Senate ''disagrees with the 'plan' to augment'' American forces but drops what some Democrats had described as a loophole that might have been interpreted as support for a buildup of fewer troops than the 21,500 sought by the president. As Mr. Warner described his changes on the floor, Senator Carl Levin, Democrat of Michigan and chairman of the Armed Services Committee, who has sponsored a competing measure, asked to be listed as a co-sponsor.</p>
+        <p>Mr. Warner and other authors, clearly hoping to restore some momentum for their plan, also spelled out benchmarks the Iraqi government must meet and directed the Pentagon to clarify who is in command when American and Iraqi forces are working together.</p>
+        <p>Senator Susan Collins, Republican of Maine and one of the resolution's authors, also took strong issue with suggestions that Mr. Warner was hurting the military.</p>
+        <p>''It is outrageous for anyone to question his support for our troops,'' she said. ''There is no member of this body who cares more about our troops and the nation's defense than Senator Warner.''</p>
+        <p>As he tried to regain the offensive with the adjustments in his resolution, Mr. Warner said on Wednesday evening that the changes were intended less to ''grab votes'' than to put forward the best conclusion on such a major issue as the war.</p>
+        <p>''We feel that if for political reasons all members of the Senate go over to vote with their party and the others go over to vote with their party, we will have lost and failed to provide the leadership that I feel this chamber can provide to the American people,'' Mr. Warner said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

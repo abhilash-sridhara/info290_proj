@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts Groups Seek Plums In a New Budget Pie</title>
+    <meta content="01cult" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/arts/01cult.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070202T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1822912"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="NEWS ANALYSIS"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">News Analysis</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Culture</classifier>
+        <classifier class="online_producer" type="descriptor">Art</classifier>
+        <classifier class="online_producer" type="descriptor">City Councils</classifier>
+        <classifier class="online_producer" type="descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">City Councils</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Local Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">New York City</location>
+        <org class="online_producer">Cultural Institutions Group</org>
+        <org class="online_producer">Metropolitan Museum of Art</org>
+        <org class="online_producer">Carnegie Hall</org>
+        <org class="online_producer">Bronx Zoo Wildlife Conservation Park</org>
+        <org class="online_producer">Brooklyn Academy of Music</org>
+        <person class="online_producer">Bloomberg, Michael R</person>
+        <person class="online_producer">Quinn, Christine C</person>
+        <person class="online_producer">Hopkins, Karen Brooks</person>
+        <person class="online_producer">Levin, Kate D</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E4DD153FF932A35751C0A9619C8B63" item-length="1001" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts Groups Seek Plums In a New Budget Pie</hl1>
+        <hl2 class="online_headline">Arts Groups Seek Plums in a New Budget Pie</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBIN POGREBIN</byline>
+      <byline class="normalized_byline">Pogrebin, Robin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>While some arts groups are likely to benefit from a change announced last week in New York City's process for dispensing culture funds, those that fared well under the old system may face significant losses.</p>
+        <p>In past years the mayor announced his preliminary culture budget, and arts organizations routinely called it inadequate and lobbied hard for more money from the City Council, which would then restore funds. But for the next fiscal year, which begins in July, this cycle will give way to a process in which peer-review panels decide which groups are most deserving.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>While some arts groups are likely to benefit from a change in New York City’s process for dispensing culture funds, those that fared well under the old system may face significant losses.</p>
+      </block>
+      <block class="full_text">
+        <p>While some arts groups are likely to benefit from a change announced last week in New York City's process for dispensing culture funds, those that fared well under the old system may face significant losses.</p>
+        <p>In past years the mayor announced his preliminary culture budget, and arts organizations routinely called it inadequate and lobbied hard for more money from the City Council, which would then restore funds. But for the next fiscal year, which begins in July, this cycle will give way to a process in which peer-review panels decide which groups are most deserving.</p>
+        <p>This attempt to make the process more equitable, supported by both Mayor Michael R. Bloomberg and the City Council speaker, Christine C. Quinn, is expected to redress some of the disadvantages faced by small organizations that lacked big lobbying budgets or longstanding political relationships.</p>
+        <p>''Hopefully it will open up some more opportunities, especially for smaller organizations,'' said Liz Jones, the producing director of Playwrights 73, which serves and produces emerging playwrights but does not have a theater space. ''The lobbying thing was such a huge time suck. I didn't know how to go about doing it. We haven't been able to build long-term relationships with Council members.''</p>
+        <p>But for organizations that did benefit from the system, receiving sizable Council add-ons that they came to rely on each year, the changes could mean a significant loss. Inevitably, those involved in the process say, more for some organizations will mean less for others, since the overall pot has not increased. Every year 34 organizations in city-owned buildings -- including some heavyweights like the Metropolitan Museum of Art, Carnegie Hall, the Bronx Zoo and the Brooklyn Academy of Music -- are guaranteed city funds. City officials announced last week that in the 2008 fiscal year they would share $115.3 million, as well as $4.4 million from a ''new needs'' fund, for a total of $119.7 million.</p>
+        <p>That is $4.3 million less than the $124 million that these organizations -- known jointly as the Cultural Institutions Group -- ended up with last year after $22 million in Council restorations.</p>
+        <p>If the $4.3 million reduction holds -- the budget will not be adopted until June -- the Brooklyn Academy of Music for example, could well see a decrease of $575,000 from the $3.8 million it received last year. ''We're saying it's a great thing as long as we don't lose money,'' said Karen Brooks Hopkins, the academy's president.</p>
+        <p>One might expect arts organizations like these to cry foul. But cultural groups do not want to jeopardize their chances of seeing the budget pie expand before it is approved. Nor do they want to appear selfish in the face of a larger good-will reform effort.</p>
+        <p>''There may be instances when we do experience less funds,'' said Emily Rafferty, president of the Metropolitan Museum of Art, which received $28 million in city money last year, including $340,000 from the City Council. But over all, she added, the changes amount to ''very good news.''</p>
+        <p>Officials at Jazz at Lincoln Center, which received $523,000 from the Council last year, refused to comment on the budget changes.</p>
+        <p>In the past organizations were guaranteed support from the city and also successfully lobbied the Council for additional money. ''It really was a question of who had access,'' said Kate D. Levin, the city's cultural affairs commissioner. ''Some of the strongest smaller organizations never got any money. How do you incorporate this money into a funding formula? Ultimately our priority was trying to fix a system.''</p>
+        <p>Under the new rules, starting in the 2009 fiscal year, which begins in July 2008, the 34 arts groups will also have to work harder for their money, receiving only 90 percent of their funds up front. The rest will be conditioned on their performance through an evaluation process called CulturalStat, a program modeled on the Police Department's performance-monitoring system.</p>
+        <p>Arts groups will be reviewed in areas like audience development and financial planning and may receive a portion of the 10 percent balance if they do not qualify for the whole amount.</p>
+        <p>In a cautious statement issued on Monday the Cultural Institutions Group seemed to hedge its bets. ''We are gratified that the city sees the value of sustained and consistent funding to our member institutions,'' it said. ''Because of the many contributions of the C.I.G. to New York, we hope that the city will find a means to increase the funding to our organizations.''</p>
+        <p>The Bloomberg administration and the City Council acknowledge that some organizations may end up with less aid but assert that the broader changes will be positive. ''Our intention wasn't to take people's money down,'' Ms. Quinn said. ''It was a way to create a more level playing field.''</p>
+        <p>Groups not situated on city property may continue to seek money through a variety of unpredictable channels: from City Council members, each of whom has $80,000 in discretionary funds; borough delegations, which get about $100,000 to distribute each year; or the Council speaker, who has discretionary arts funds amounting to $10 million.</p>
+        <p>In addition a $3.8 million fund established in 2003 by the Department of Cultural Affairs dispensed money to cultural organizations after evaluating their proposals. Now that fund has been increased to $30 million to be allotted by the peer-review panels.</p>
+        <p>Some 170 groups also used to get a fixed amount of money every year as ''line items'' that were written into the budget by the Board of Estimate, which has been abolished, and have been frozen since 1989. Now those lines have been eliminated.</p>
+        <p>Large arts groups find themselves in a bind. While the need to lobby Council members was something of a burden, they reaped benefits. And while in principle they are all for parity, they also do not want to wind up poorer for it.</p>
+        <p>''When there's a dance, a lot of institutions became really adept at dancing,'' Ms. Hopkins said. ''When you change the political process, there is always the fear of the unknown. It's a little scary.''</p>
+        <p>NEWS ANALYSIS</p>
+        <p>Correction:  February 2, 2007, Friday  A news analysis article in The Arts yesterday about the effect on arts groups of New York City's new process for dispensing culture funds misstated the name of a theater organization whose producing director, Liz Jones, commented on the process. It is Page 73 Productions, not Playwrights 73.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: February 2, 2007, Friday</p>
+        <p>A news analysis article in The Arts yesterday about the effect on arts groups of New York City's new process for dispensing culture funds misstated the name of a theater organization whose producing director, Liz Jones, commented on the process. It is Page 73 Productions, not Playwrights 73.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

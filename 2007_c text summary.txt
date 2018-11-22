@@ -1,0 +1,48 @@
+2424 file
+943 file
+1636 file
+./2007_c/Adam Liptak/Adam Liptak.txt
+1001 file
+1511 file
+1329 file
+./2007_c/Adam Nagoury/Adam Nagoury.txt
+1250 file
+1165 file
+1211 file
+./2007_c/Alexis Rehrmann/Alexis Rehrmann.txt
+966 file
+1647 file
+1356 file
+./2007_c/Andy Newman/Andy Newman.txt
+1603 file
+1010 file
+901 file
+./2007_c/Anemona Hartocollis/Anemona Hartocollis.txt
+788 file
+805 file
+747 file
+./2007_c/Bob Herbert/Bob Herbert.txt
+1331 file
+1379 file
+853 file
+./2007_c/Carl Hulse/Carl Hulse.txt
+1133 file
+1138 file
+1061 file
+./2007_c/David Leonhardt/David Leonhardt.txt
+782 file
+766 file
+765 file
+./2007_c/Maureen Dowd/Maureen Dowd.txt
+1313 file
+790 file
+1244 file
+./2007_c/Robert pear/Robert pear.txt
+1103 file
+1110 file
+854 file
+./2007_c/Simon Eliott/Simon Eliott.txt
+921 file
+826 file
+939 file
+./2007_c/Simon Romero/Simon Romero.txt

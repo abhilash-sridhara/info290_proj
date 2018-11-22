@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Holocaust, From a Teenage View</title>
+    <meta content="03fate" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Movies; Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/03/movies/MoviesFeatures/03fate.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1729240"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Nazi Policies Toward Jews and Minorities</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Riding, Alan</person>
+        <person class="indexing_service">Kertesz, Imre</person>
+        <object.title class="indexing_service">Fateless (Movie)</object.title>
+        <object.title class="indexing_service">Fateless (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="descriptor">Concentration Camps</classifier>
+        <classifier class="online_producer" type="descriptor">Nazi Policies Toward Jews and Minorities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nazi Policies Toward Jews and Minorities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minorities (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Concentration Camps</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Kertesz, Imre</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E7DF1130F930A35752C0A9609C8B63" item-length="1166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Holocaust, From a Teenage View</hl1>
+        <hl2 class="online_headline">The Holocaust, From a Teenage View</hl2>
+      </hedline>
+      <byline class="print_byline">By ALAN RIDING</byline>
+      <byline class="normalized_byline">Riding, Alan</byline>
+      <dateline>BERLIN, Dec. 29</dateline>
+      <abstract>
+        <p>Imre Kertesz, Holocaust survivor, has written screenplay for his novel Fateless, which is based on his experiences in concentration camp as teenager; movie is not chronicle of Holocaust, but rather coming-of age story set amid Holocaust; costing $13 million, Fateless is most expensive Hungarian film ever made, as well as year's most successful Hungarian film and country's entry for best foreign language film at 2006 Academy Awards; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sixty years ago, Imre Kertész emerged as an emaciated Jewish teenager from the Nazi concentration camp at Buchenwald. Thirty years later, he relived his deportation, imprisonment and survival in a novel called ''Fateless.'' Now, at 76, the amiable Hungarian finds himself revisiting the experience as the writer of the script for a movie, also ''Fateless.''</p>
+        <p>''How can you not be touched by seeing your own story?'' asked Mr. Kertész, who won the 2002 Nobel prize for literature. ''I think the film is very beautiful, but it is not the book. The film is a visual thing. The child awakens immediate sympathy. The text should play a secondary role to the action and images.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Nobel Prize-winning author Imre Kertész revisits his memories of the Nazi concentration camp at Buchenwald for the screenplay adaptation of his novel "Fateless."</p>
+      </block>
+      <block class="full_text">
+        <p>Sixty years ago, Imre Kertész emerged as an emaciated Jewish teenager from the Nazi concentration camp at Buchenwald. Thirty years later, he relived his deportation, imprisonment and survival in a novel called ''Fateless.'' Now, at 76, the amiable Hungarian finds himself revisiting the experience as the writer of the script for a movie, also ''Fateless.''</p>
+        <p>''How can you not be touched by seeing your own story?'' asked Mr. Kertész, who won the 2002 Nobel prize for literature. ''I think the film is very beautiful, but it is not the book. The film is a visual thing. The child awakens immediate sympathy. The text should play a secondary role to the action and images.''</p>
+        <p>The notion of a ''beautiful'' Holocaust movie may seem as strange as the homesickness that Mr. Kertész recalled feeling for camp life when he returned to Budapest in July 1945. But ''Fateless'' is not a chronicle of the Holocaust as such. Rather, it is a coming-of-age story set amid humanity's ever-repeating cycles of barbarism.</p>
+        <p>The story has haunted much of Mr. Kertész's writing. And as author of the screenplay for Lajos Koltai's movie adaptation, which opens Friday at the Film Forum in New York, he is once again wrestling with these memories. He has condensed some scenes from the book, replaced most first-person narrative with visual metaphors and even added a couple of scenes.</p>
+        <p>''The film is more autobiographical than the book,'' he said in an interview at his Berlin home, where his wife, Magda, volunteered to interpret his Hungarian. ''I'm not even sure if I wrote the screenplay from memories or from memories of the book.''</p>
+        <p>Either way, the movie retains the dreamlike quality of the novel, recently published in a new English translation as ''Fatelessness'' (Vintage). And it is this quality that most distinguishes Mr. Kertész's very personal account of surviving the Holocaust. ''The film had to try very hard to avoid Holocaust clichés,'' Mr. Kertész said. ''It could be emotional, but never sentimental.''</p>
+        <p>In the novel, the story is recounted by Gyuri Köves, who is 14 in June 1944 when he is taken off a crowded bus in Budapest and deported with hundreds of other Jews to the Auschwitz death camp in Poland. In the movie, the story is seen mainly through the eyes of Gyuri, played by Marcell Nagy. In both cases, the plot advances in an almost matter-of-fact way.</p>
+        <p>Arriving in Auschwitz, Gyuri is told by other deportees to give his age as 16, a lie that saves him from immediate death. Three days later, he is sent to Buchenwald and subsequently to a labor camp at Zeitz, also in Germany. The months that follow are accompanied by fear, hunger, abuse and freezing temperatures, but also by moments of solidarity among the prisoners.</p>
+        <p>This solidarity saves Gyuri's life. Close to starvation, unable to work because of a badly injured knee, he is rescued from among the dying by political prisoners who enjoy privileges denied to Jews, including medical treatment. Gyuri is in the Buchenwald camp clinic -- where the doctors are also prisoners -- when American troops arrive.</p>
+        <p>In a scene not included in the novel, an American army officer, himself Jewish, encourages Gyuri to migrate to the United States, but the boy wants to return to his family in Budapest.</p>
+        <p>''The officer is a composite of various Americans who said the same thing,'' Mr. Kertész explained. ''For everyone, it was an important decision whether to return home or go somewhere else. Those who had an idea there would be socialism in Hungary did not go back. I couldn't imagine going anywhere except home. I was like a stray dog.''</p>
+        <p>But home was not as Mr. Kertész -- or Gyuri -- imagined it: his father had died in Mathausen, a Nazi labor camp in Austria; his stepmother had remarried; his home had been occupied by another family.</p>
+        <p>Even here, Gyuri cannot grasp that more than half a million Hungarian Jews have died in the Holocaust; when asked about the atrocities in the camps, he remembers his happiness.</p>
+        <p>''Yes,'' the novel concludes in Gyuri's voice, ''the next time I am asked, I ought to speak about that, the happiness of the concentration camps. If indeed I am asked. And provided I myself don't forget.''</p>
+        <p>If ''happiness'' in such circumstances still shocks, that was the author's intention. ''I took the word out of its everyday context and made it seem scandalous,'' Mr. Kertész said. ''It was an act of rebellion against the role of victim which society had assigned me. It was a way of assuming responsibility, of defining my own fate.''</p>
+        <p>Still, by the time the novel was published in 1975, Mr. Kertész was 45 and trapped in a different kind of camp, Hungary's Communist regime. And ''Fateless'' was largely ignored. Having lived off writing librettos for musical comedies, Mr. Kertész turned to translating German classics into Hungarian and did not publish another novel until 1988.</p>
+        <p>Then, with the collapse of the Soviet bloc, these and later novels were finally published in German and other European languages. But in Hungary, Mr. Kertész remained little read. In fact, although as early as 2000 he began discussing a screen adaptation of ''Fateless'' with Mr. Koltai, a veteran cinematographer, financing was only forthcoming after Mr. Kertész won the Nobel Prize in Literature in October 2002.</p>
+        <p>Mr. Koltai said he and Mr. Kertész agreed immediately to retell the story in the same linear fashion as the novel, without flashbacks or the use of archive images. ''We did not want sentimentality; we wanted to keep a distance,'' Mr. Koltai said in a telephone interview from Budapest. ''After Imre had finished the screenplay, he said, 'I give you this as a present, and then you give me the present back as a film.' ''</p>
+        <p>Costing $13 million, with 144 named roles and as many as 500 extras crowding a specially built ''concentration camp,'' ''Fateless'' is the most expensive Hungarian film ever made. It is also this year's most successful Hungarian film, as well as the Hungarian entry for best foreign language film at the 2006 Academy Awards.</p>
+        <p>''What was most exciting is that many teenagers went to see the movie in Hungary,'' Mr. Koltai said of the film, the first feature he has directed. ''They fall in love with the boy and realize that his fate could be their fate: just taken off a bus. It could happen to anyone anywhere in the world today.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

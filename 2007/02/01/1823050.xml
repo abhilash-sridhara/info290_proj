@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>German Court Confronts U.S. On Abduction</title>
+    <meta content="01germany" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World; Front Page; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/world/europe/01germany.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823050"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Kidnapping</classifier>
+        <classifier class="indexing_service" type="descriptor">Torture</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">Extradition</classifier>
+        <location class="indexing_service">Germany</location>
+        <location class="indexing_service">Afghanistan</location>
+        <org class="indexing_service">Central Intelligence Agency</org>
+        <org class="indexing_service">Al Qaeda (Terrorist Group)</org>
+        <person class="indexing_service">Landler, Mark</person>
+        <person class="indexing_service">Masri, Khaled El-</person>
+        <person class="indexing_service">Stern, August</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Afghanistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Afghanistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Kidnapping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Extradition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Torture</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Germany</location>
+        <location class="online_producer">Europe</location>
+        <org class="online_producer">Central Intelligence Agency</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E3DA153FF932A35751C0A9619C8B63" item-length="1165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>German Court Confronts U.S. On Abduction</hl1>
+        <hl2 class="online_headline">German Court Challenges C.I.A. Over Abduction</hl2>
+      </hedline>
+      <byline class="print_byline">By MARK LANDLER; Stephen Grey contributed reporting from Toronto, and Mark Mazzetti from Washington.</byline>
+      <byline class="normalized_byline">Landler, Mark</byline>
+      <dateline>FRANKFURT, Jan. 31</dateline>
+      <abstract>
+        <p>German court mounts most serious legal challenge yet to Central Intelligence Agency's so-called 'extraordinary rendition' program, secret transfer of terrorism suspects to other countries, including some in which torture is practiced; court issues arrest warrant for 13 people in mistaken kidnapping and jailing of Khaled el-Masri, German citizen of Lebanese descent; prosecutors in Munich say unidentified suspects were part of CIA 'abduction team' that seized Masri in Macedonia in 2003; say he was flown to Afghanistan and imprisoned for five months; Masri claims he was shackled, beaten and interrogated about alleged ties to Al Qaeda, before being released without charges; his ordeal is most extensively documented case of CIA's rendition program; CIA has never acknowledged any role in Masri's detention; August Stern, prosecutor in Munich, says investigators would seek to establish true identities of 13 people, most of whom are believed to use aliases; they reportedly include four pilots of jet that picked up Masri, a mechanic and several CIA operatives; Bush administration is not expected to agree to extradition to Germany of 13 suspects, but arrest warrant could further hinder their ability to move around Europe; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A German court on Wednesday issued an arrest warrant for 13 people in the mistaken kidnapping and jailing of a German citizen of Lebanese descent, in the most serious legal challenge yet to the Central Intelligence Agency's secret transfers of terrorism suspects.</p>
+        <p>Prosecutors in Munich said the suspects, whom they did not identify, were part of a C.I.A. ''abduction team'' that seized the man, Khaled el-Masri, in Macedonia in late 2003 and flew him to Afghanistan. He was imprisoned there for five months, during which, he said, he was shackled, beaten and interrogated about alleged ties to Al Qaeda, before being released without charges.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An arrest warrant was issued for 13 people in a case of mistaken arrest that highlights the agency’s policy of secret transfers of terrorism suspects.</p>
+      </block>
+      <block class="full_text">
+        <p>A German court on Wednesday issued an arrest warrant for 13 people in the mistaken kidnapping and jailing of a German citizen of Lebanese descent, in the most serious legal challenge yet to the Central Intelligence Agency's secret transfers of terrorism suspects.</p>
+        <p>Prosecutors in Munich said the suspects, whom they did not identify, were part of a C.I.A. ''abduction team'' that seized the man, Khaled el-Masri, in Macedonia in late 2003 and flew him to Afghanistan. He was imprisoned there for five months, during which, he said, he was shackled, beaten and interrogated about alleged ties to Al Qaeda, before being released without charges.</p>
+        <p>His ordeal is the most extensively documented case of the C.I.A.'s practice of ''extraordinary rendition,'' in which terrorism suspects are seized and sent for interrogation to other countries, including some in which torture is practiced.</p>
+        <p>''This is a very consequential step,'' August Stern, the prosecutor in Munich, said in a telephone interview. ''It is a necessary step before bringing a criminal case against these people.''</p>
+        <p>The Central Intelligence Agency has never acknowledged any role in Mr. Masri's detention, and a C.I.A. spokesman declined to comment on Wednesday. The German government said it would not comment on the case, except to affirm the independence of the public prosecutor.</p>
+        <p>Mr. Stern said investigators would seek to establish the true identities of the 13 people, most of whom are believed to use aliases. They include the four pilots of the Boeing 737 that picked up Mr. Masri, a mechanic and several C.I.A. operatives, people familiar with the case said.</p>
+        <p>Issuing an arrest warrant is a major expansion of the legal challenge to the C.I.A.'s rendition program in Europe. Italian prosecutors are seeking indictments against 25 C.I.A. operatives and Italy's former intelligence chief for the kidnapping of a militant Egyptian cleric in 2003.</p>
+        <p>In Germany, unlike Italy, defendants cannot be tried in absentia. As a practical matter it is unlikely that the Bush administration will acquiesce in the extradition to Germany of the 13 suspects. But the arrest warrant could further hinder their ability to move around Europe. The German case also carries more weight, legal experts said, because of the reputation of courts here for painstaking deliberation and because of recent efforts to repair damaged diplomatic ties between Germany and the United States.</p>
+        <p>It is, in fact, a delicate time for both countries. The Bush administration has faced a drumbeat of criticism because of its antiterrorism policies since the attacks on Sept. 11, 2001, while the German chancellor, Angela Merkel, has been eager to heal rifts over the Iraq war.</p>
+        <p>''It is unique that a German court would issue warrants against 13 C.I.A. agents,'' said Hans-Christian Ströbele, a Green Party member of a German parliamentary committee that is investigating the flights.</p>
+        <p>The arrest warrants, which were first reported in The Los Angeles Times on Wednesday, also have political implications within Germany, where the role of the government in tolerating -- or even facilitating -- C.I.A. flights has come under increased scrutiny. Frankfurt Airport was reportedly used for many of the flights, as was the American air base at Ramstein.</p>
+        <p>On Wednesday, a German broadcaster, NDR, published what it said were the names of the 13 people -- 11 men and 2 women. Mr. Stern declined to discuss the names, which have been picked up by other German news organizations.</p>
+        <p>Although the prosecutor's action on Wednesday was the first major legal development in the case, the German news media have been speculating about it for months. In September a television program, ''Panorama,'' tracked down three of those named in North Carolina. They declined to comment on their activities.</p>
+        <p>For Mr. Masri, who has had to overcome a tide of public skepticism about his account since it was first reported in The New York Times in early 2005, the court's action is a significant step in bolstering the credibility of his claims, said his lawyer, Manfred Gnjidic.</p>
+        <p>''This is unbelievably important for our case,'' Mr. Gnjidic said in an interview. ''It's the first direct sign of the German government against the C.I.A. that they did the wrong thing.''</p>
+        <p>Mr. Masri, who is unemployed, lives in the southern German city of Neu-Ulm. The lawyer said Mr. Masri had been buoyed by a statement of support from the former German interior minister, Otto Schily.</p>
+        <p>Mr. Masri is petitioning a federal appeals court in Richmond, Va., to reinstate a lawsuit against the agency. Last May a federal judge threw out a suit brought by Mr. Masri, accepting the government's contention that it would be impossible to hold a trial without disclosing state secrets.</p>
+        <p>The Justice Department has declined to help the German prosecutors in their investigation, which has made the Germans dependent on information from other sources, including journalists investigating the C.I.A. practice of transferring suspects across international borders.</p>
+        <p>A major break, Mr. Stern said, came from a Spanish reporter who compiled a list of the names of people said to have been involved in Mr. Masri's abduction from sources in the Civil Guard, a Spanish paramilitary police agency. The C.I.A. used the Spanish island of Majorca as a logistics center for its flights, Mr. Gnjidic said, and the authorities found the names of members of the rendition team on hotel logs there.</p>
+        <p>Mr. Stern also credited tips from prosecutors in Milan and from Dick Marty, a Swiss senator who conducted an inquiry on the transfer issue on behalf of the Council of Europe.</p>
+        <p>The nature of Germany's role in Mr. Masri's case, and in other C.I.A. flights, remains murky. Mr. Masri has asserted that he was interrogated three times inside his prison in Kabul, Afghanistan, by a German who identified himself as ''Sam.''</p>
+        <p>Germany's foreign minister, Frank-Walter Steinmeier, has said he was not told of the abduction until June 2004, after Mr. Masri had been released in Albania. As chief of staff to Gerhard Schröder, then the chancellor, Mr. Steinmeier oversaw all German intelligence services.</p>
+        <p>Mr. Steinmeier is facing questions about his role in another case, involving a German-born Turkish man imprisoned for four and a half years at the American military jail in Guantánamo Bay, Cuba.</p>
+        <p>The man, Murat Kurnaz, was released by the United States last August after lengthy negotiations between Germany and the United States. But internal German intelligence documents indicate that the Germans turned down an offer by the Americans to send Mr. Kurnaz home as early as 2002.</p>
+        <p>Mr. Steinmeier has insisted that the Americans never made an official offer to release Mr. Kurnaz. He has also noted that worries about security were running high in the aftermath of the Sept. 11 attacks. German newspapers have been full of speculation about whether the affair will cost Mr. Steinmeier his job.</p>
+        <p>Investigation in Spain</p>
+        <p>MADRID, Jan. 31 (Reuters) -- A judge has ordered Spain's intelligence agency to declassify any documents it has about secret C.I.A. transporting of terrorism suspects, court officials said Wednesday.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

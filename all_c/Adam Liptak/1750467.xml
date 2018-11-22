@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ex-Prisoners With Court Debt Must Have Vote, Judge Rules</title>
+    <meta content="29fees" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/03/29/national/29fees.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1750467"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Voter Registration and Requirements</classifier>
+        <location class="indexing_service">Washington (State)</location>
+        <org class="indexing_service">American Civil Liberties Union</org>
+        <person class="indexing_service">Liptak, Adam</person>
+        <person class="indexing_service">Spearman, Michael S (Judge)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington</classifier>
+        <classifier class="online_producer" type="descriptor">Voter Registration and Requirements</classifier>
+        <classifier class="online_producer" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Voter Registration and Requirements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Washington (State)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060329T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E0DE1530F93AA15750C0A9609C8B63" item-length="514" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ex-Prisoners With Court Debt Must Have Vote, Judge Rules</hl1>
+        <hl2 class="online_headline">Ex-Prisoners With Court Debt Must Have Vote, Judge Rules</hl2>
+      </hedline>
+      <byline class="print_byline">By ADAM LIPTAK</byline>
+      <byline class="normalized_byline">Liptak, Adam</byline>
+      <abstract>
+        <p>Judge Michael S Spearman rules that Washington State may not deny former prisoners right to vote simply because they are too poor to pay outstanding court costs; American Civil Liberties Union of Washington, which sued on behalf of three former prisoners, says decision could affect tens of thousands of people (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Washington State may not deny former prisoners the right to vote simply because they are too poor to pay outstanding court costs, a state judge in Seattle ruled on Monday.</p>
+        <p>''There is simply no rational relationship between the ability to pay and the exercise of constitutional rights,'' the judge, Michael S. Spearman of King County Superior Court, wrote.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Washington State may not deny former prisoners the right to vote simply because they are too poor to pay outstanding court costs, a state judge ruled.</p>
+      </block>
+      <block class="full_text">
+        <p>Washington State may not deny former prisoners the right to vote simply because they are too poor to pay outstanding court costs, a state judge in Seattle ruled on Monday.</p>
+        <p>''There is simply no rational relationship between the ability to pay and the exercise of constitutional rights,'' the judge, Michael S. Spearman of King County Superior Court, wrote.</p>
+        <p>The decision could affect tens of thousands of people, according to the American Civil Liberties Union of Washington. The group brought suit to challenge a Washington law that restored the voting rights of people convicted of felonies only after they had served their time and completed all other ''requirements of the sentence, including any and all legal financial obligations.''</p>
+        <p>The A.C.L.U. sued on behalf of three former prisoners who were paying off fees and fines, with court approval, at the rate of $10 or $20 a month. ''It will likely take years before each plaintiff will be able to complete the payments,'' Judge Spearman determined.</p>
+        <p>Indeed, one plaintiff, Beverly Dubois, a 49-year-old former park ranger, found her debt growing over time. Ms. Dubois had spent nine months in jail for growing and selling marijuana. She still owes the state almost $1,900 for court costs, a county ''drug enforcement fund'' and a ''victim assessment fee.'' Though Ms. Dubois pays the state $10 a month, her debt has increased over time because of the 12 percent interest she is charged.</p>
+        <p>Fees of the sort imposed on Ms. Dubois are becoming increasingly common, legal experts said. But Washington appears to have been alone in denying the right to vote to former prisoners solely on financial grounds. Courts have generally upheld the outright denial of the right to vote to people who have been convicted of felonies.</p>
+        <p>Judge Spearman ruled that the Washington law was a violation of the equal protection provisions of the federal and state constitutions. He rejected the state's argument that all former prisoners were treated equally in that they were all required to complete the terms of their sentences, including the financial ones, before they were allowed to vote.</p>
+        <p>The correct question, Judge Spearman wrote, is whether there is a rational justification for granting the right to vote to felons who can pay their financial obligations immediately but not to those who must pay them over time. Because the state could offer no good reason for the distinction, he wrote, it amounted to impermissible discrimination on the basis of wealth.</p>
+        <p>''There is no logic in the assumption that a person in possession of sufficient resources to pay the obligation immediately is the more law-abiding citizen,'' Judge Spearman wrote. ''Indeed, the better example of respect for our justice system may very well be the indigent who manages for years to make monthly payments toward the obligation.''</p>
+        <p>State officials said they had not decided whether to appeal.</p>
+        <p>Doug Honig, a spokesman for the A.C.L.U., said Judge Spearman's decision vindicated a core right.</p>
+        <p>''It reaffirms a important principle in our democratic system,'' Mr. Honig said. ''Being poor should not stop you from being able to vote.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

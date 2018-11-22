@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Skating and Punching Their Way to Self-Esteem</title>
+    <meta content="02stan" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/02/arts/television/02stan.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20060203T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1729126"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="TELEVISION REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Stanley, Alessandra</person>
+        <object.title class="indexing_service">Rollergirls (TV Program)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Documentary Films and Programs</classifier>
+        <classifier class="online_producer" type="descriptor">Wrestling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wrestling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Documentary Films and Programs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E3D81030F931A35752C0A9609C8B63" item-length="903" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Skating and Punching Their Way to Self-Esteem</hl1>
+        <hl2 class="online_headline">Skating and Punching Their Way to Self-Esteem</hl2>
+      </hedline>
+      <byline class="print_byline">By ALESSANDRA STANLEY</byline>
+      <byline class="normalized_byline">Stanley, Alessandra</byline>
+      <abstract>
+        <p>Alessandra Stanley reviews A&amp;E TV reality series Rollergirls; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For a while, it seemed as if Roller Derby was a lost art, like illuminated manuscripts or clog dancing. Actually, it's more like polio: many people assume it was eradicated in the 1970's, but it's still around and, in some areas, quite virulent.</p>
+        <p>''Rollergirls,'' a documentary-style reality series about Texas Roller Derby that has its premiere tonight on A&amp;E, is proof that the spectacle sport never went away entirely; it just drew less attention. There was a reason interest faded, and ''Rollergirls'' is also proof of that.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The documentary-style reality show series is proof that the spectacle sport Roller Derby never went away.</p>
+      </block>
+      <block class="full_text">
+        <p>For a while, it seemed as if Roller Derby was a lost art, like illuminated manuscripts or clog dancing. Actually, it's more like polio: many people assume it was eradicated in the 1970's, but it's still around and, in some areas, quite virulent.</p>
+        <p>''Rollergirls,'' a documentary-style reality series about Texas Roller Derby that has its premiere tonight on A&amp;E, is proof that the spectacle sport never went away entirely; it just drew less attention. There was a reason interest faded, and ''Rollergirls'' is also proof of that.</p>
+        <p>There is something creepily fascinating -- and sometimes poignant -- about the women who devote themselves to this campy, feline version of pro wrestling. They do have, after all, tattoos, slutty costumes and stage names like Jailbait and Gun Smoka LaLoca. It's just not enough to fill 13 episodes. One or two episodes could easily do justice to the sport's struggle for recognition and its players' quest for empowerment and self-esteem.</p>
+        <p>And that could be the one surprise in the series: that women who work as nurses and teachers are somehow most proud of themselves when they put on roller skates, helmets and vinyl corsets and punch the daylights out of one another. As Adam, a gay friend of Punky Bruiser, said to a friend as he watched her practice with her teammates, ''It's so trippy that someone would want to do this as a hobby or whatever.'' Only most of them do not view Roller Derby as a hobby. It is their vocation, and they want to make it a professional sport.</p>
+        <p>It could be argued that other reality shows devote just as much time and attention to even less worthwhile subjects. The heroines of reality shows like ''The Bachelorette'' and ''The Swan'' can't even roller-skate, and millions of viewers tune in to see them make fools of themselves. But those kinds of shows are the opposite of this A&amp;E series. Reality contests take ordinary, identifiable women and pose them in an absurd, artificial fantasy fishbowl. ''Rollergirls'' is a documentary that takes women who pursue an absurd, artificial fantasy sport and tries to pose them as ordinary, identifiable women.</p>
+        <p>''Rollergirls'' takes heroic steps to go beyond the silliness and try to understand and ennoble players, but the subject is just not worth so much effort.</p>
+        <p>Roller Derby was a national television rage in the 1950's, and matches filled Madison Square Garden and other arenas as late as the mid-1970's. The basics of the game -- rival ''jammers'' break out of a pack of 10 skaters and sprint around a 100-foot banked track, trying to shove past as many opponents as possible while teammates try to upend rival blockers -- were first suggested in the 1930's by Damon Runyon. But these days, players are not so much Runyonesque as Bob Guccione-ish.</p>
+        <p>The first episode focuses on a rookie, a stolid, fresh-faced young woman who takes the name Venis Envy to join a team called the Putas del Fuego (Whores of Fire). She explains in a voice-over that Roller Derby has always been her dream (''It's what I think about every day''), and she wants her mother to approve of her new pursuit. We watch as she improves her skills and bonds with her teammates. And that mainly involves a lot of drinking -- with the occasional stop to toilet-paper another player's house or urinate in a dark alley. These players are all based in Austin, Tex., which is supposed to be Texas's classy town. One can only imagine Rollergirls' Night Out in Fort Worth.</p>
+        <p>Roller Derby is kitschy, but the players take it and themselves very seriously. The women discuss how much they value their friendships, and they exult in their own physical strength, playfulness and high jinks. But the girl-power thing palls quickly; every clique -- water polo players, scrapbook aficionados -- thinks its members are really, really fun and special. To outsiders, the Rollergirls on the town mostly look like just another boozy office outing to a Chippendales show.</p>
+        <p>There are some intriguing snatches of drunken dialogue, however. In a rented limousine on the way to some late-night bars, Lux explains another player's absence by saying, very earnestly, ''She had some family issues to deal with, and she also messed up her foot at the Jell-O wrestling.''</p>
+        <p>A&amp;E wants to show a more serious, human side of a clownish sport and does a good job of letting the women speak for themselves. But at the end of the day, it is still Roller Derby. One team, whose players dress up like Roman Catholic schoolgirls in plaid miniskirts and tight white T-shirts, is called the Holy Rollers. ''That's like a hot, they'll be all turned on, straight guys,'' Adam, the other gay friend, told his companion. ''The girls wear short skirts and punch each other in the face.''</p>
+        <p>Rollergirls  A&amp;E, tonight at 10, Eastern and Pacific times; 9, Central time.</p>
+        <p>Gary Auerbach and Julie Auerbach, creators and executive producers; Nancy Dubuc, executive producer for A&amp;E; Colleen Conway, supervising producer for A&amp;E; Tina Gazzerro, Matt Hovis and Karen Jacobs, co-executive producers. Produced for A&amp;E Network by Go Go Luckey Productions.</p>
+        <p>TELEVISION REVIEW</p>
+        <p>Correction:  February 3, 2006, Friday  A television review on Jan. 2 about ''Rollergirls,'' a documentary-style reality series on A&amp;E, misidentified the player who explained another player's absence by saying, ''She had some family issues to deal with, and she also messed up her foot at the Jell-O wrestling.'' It was Cha Cha, not Lux.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: February 3, 2006, Friday</p>
+        <p>A television review on Jan. 2 about ''Rollergirls,'' a documentary-style reality series on A&amp;E, misidentified the player who explained another player's absence by saying, ''She had some family issues to deal with, and she also messed up her foot at the Jell-O wrestling.'' It was Cha Cha, not Lux.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

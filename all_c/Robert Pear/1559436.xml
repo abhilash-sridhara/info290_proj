@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. NEARS CLASH WITH GOVERNORS ON MEDICAID COST</title>
+    <meta content="16MEDI" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/02/16/politics/16MEDI.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1559436"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicaid</classifier>
+        <classifier class="indexing_service" type="descriptor">States (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">National Conference of State Legislatures</org>
+        <person class="indexing_service">Pear, Robert</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicaid</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Medicaid</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicaid</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040216T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E4DB173DF935A25751C0A9629C8B63" item-length="1199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. NEARS CLASH WITH GOVERNORS ON MEDICAID COST</hl1>
+        <hl2 class="online_headline">U.S. Nears Clash With Governors on Medicaid Cost</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBERT PEAR</byline>
+      <byline class="normalized_byline">Pear, Robert</byline>
+      <dateline>WASHINGTON, Feb. 15</dateline>
+      <abstract>
+        <p>Bush administration heads for clash with states over Medicaid financing as federal officials crack down on ploys used by many states to shift costs to federal government; officials act as fiscally troubled states cut benefits and restrict eligibility for program that serves 50 million low-income people; says states in many cases have been paying their share with 'phantom dollars;' National Conference of State Legislatures holds 'Medicaid maximization' strategies are legitimate and needed to avoid cutting benefits for poor (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Bush administration is headed for a confrontation with states over the financing of Medicaid, the nation's largest health program, as federal officials crack down on arrangements used by many states to shift costs to the federal government.</p>
+        <p>The federal action comes as states, struggling with severe fiscal problems, are cutting benefits and restricting eligibility for the program, which serves 50 million low-income people each year.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Federal officials are cracking down on methods used by many states to shift Medicaid costs to the federal government.</p>
+      </block>
+      <block class="full_text">
+        <p>The Bush administration is headed for a confrontation with states over the financing of Medicaid, the nation's largest health program, as federal officials crack down on arrangements used by many states to shift costs to the federal government.</p>
+        <p>The federal action comes as states, struggling with severe fiscal problems, are cutting benefits and restricting eligibility for the program, which serves 50 million low-income people each year.</p>
+        <p>Federal officials and auditors contend that states use creative bookkeeping and other ploys to obtain large amounts of federal Medicaid money without paying their share.</p>
+        <p>Washington and the states split Medicaid costs, with the federal government paying 50 percent and sometimes more than 70 percent.</p>
+        <p>But in many cases, the Bush administration says, states have paid their share with ''phantom dollars,'' instead of state or local tax revenues.</p>
+        <p>State officials acknowledge their desire to make the most of federal Medicaid payments at a time when health costs are soaring. The National Conference of State Legislatures advises its members on ''Medicaid maximization'' strategies and says such techniques are legitimate and desperately needed to avoid cutting benefits for poor people.</p>
+        <p>The dispute will be high on the agenda when the National Governors Association holds its winter meeting here beginning Saturday.</p>
+        <p>The General Accounting Office, an investigative arm of Congress, recently added Medicaid to its list of high-risk programs. It said, ''States have used various financing schemes to generate excessive federal Medicaid matching funds while their own share of expenditures has remained unchanged or decreased.''</p>
+        <p>In some cases, it said, ''states have created the illusion that they have made large Medicaid payments'' to county hospitals and nursing homes, and they claimed federal Medicaid money to help defray the costs, even as they required counties to return most of the money to the state.</p>
+        <p>Federal investigators have found such practices in Alabama, Illinois, Michigan, Nebraska, North Carolina, Pennsylvania and Washington, among other states.</p>
+        <p>In his new budget, President Bush said he could save $1.5 billion next year and $23.6 billion in the coming decade by restoring the ''fiscal integrity'' of Medicaid.</p>
+        <p>''The Medicaid program must be a federal-state partnership, not an exercise in financial gamesmanship,'' said Dennis G. Smith, the top federal official for Medicaid.</p>
+        <p>Mr. Smith said states were using ''complex, creative financing schemes'' and exploiting loopholes in federal laws and regulations to ''shift a larger portion of Medicaid costs to the federal government.''</p>
+        <p>When Mr. Bush took office, he vowed to speed the approval of changes in state Medicaid programs after a large backlog had accumulated. But the process has bogged down as federal officials try to ferret out improprieties in Medicaid financing.</p>
+        <p>Melanie M. Bella, the Medicaid director in Indiana, said she had been negotiating with federal officials for nearly a year on a proposal to increase payments to doctors from the Indiana University School of Medicine who care for Medicaid patients at the county Wishard Memorial Hospital in Indianapolis.</p>
+        <p>The county is willing to pay the state's share of the extra cost. But the Bush administration says it wants to curb such ''intergovernmental transfers'' because they have been abused in the past to gain what the budget described as ''inordinate amounts of federal Medicaid funds.''</p>
+        <p>''It would be a real hardship if we cannot use county tax money,'' Ms. Bella said. ''This is headed down a path that will increase the number of uninsured. With the proposed restrictions on our use of state and local revenue, states will have to cut services, reduce payments to health care providers or eliminate groups of recipients.''</p>
+        <p>Dr. Ron J. Anderson, president of Parkland Memorial Hospital in Dallas, said: ''Intergovernmental transfer payments have been a godsend. They keep us alive.''</p>
+        <p>Alan G. Rosenbloom, president of the Pennsylvania Health Care Association, a lobby group for nursing homes, said the federal proposals ''threaten access to care, the quality of care and the viability of nursing homes.''</p>
+        <p>In Pennsylvania, he said, ''county money is used to leverage federal money, which benefits both public and private nursing homes.''</p>
+        <p>New York spends more on Medicaid than any other state does. It has long required counties to pay some expenses, 25 percent of the cost of hospital services, for example.</p>
+        <p>Though federal officials have not publicly challenged this arrangement, state officials say they have been stymied in winning approval for extra payments to public hospitals run by the New York City Health and Hospitals Corporation and the State University of New York.</p>
+        <p>In a notice published this month in the Federal Register and in the draft of a letter to state Medicaid directors, the Bush administration said it would soon require states to provide a detailed description of ''each source of revenue'' used to pay their share of Medicaid costs.</p>
+        <p>Under the plan, state Medicaid budgets would be subject to federal approval, and states could not draw federal money for extra costs ''unless and until the expenditures are approved'' at the federal level.</p>
+        <p>State officials bristled at the prospect of such a change.</p>
+        <p>''The new system would be a radical departure from the current open-ended system of Medicaid cash reimbursement,'' said Vic Miller, a senior fellow at Federal Funds Information for States, a joint project of the governors' association and the legislatures' conference.</p>
+        <p>Mary B. Kennedy, the Medicaid director in Minnesota, said: ''Federal officials see themselves as having prior approval over state budgets. State legislators do not see that as a proper role.''</p>
+        <p>Charles A. Miller, a Washington lawyer who has represented state governments for more than 25 years, suggested that the federal scrutiny was ''intended to put pressure on states to come around to supporting or accepting a block grant,'' with fixed allotments of federal money. Mr. Bush made such a proposal last year, but it gained little traction in Congress or among governors.</p>
+        <p>Federal and state Medicaid spending shot up nearly 60 percent in the last five years, to more than $265 billion in 2003, and federal officials say it will double in the coming decade as the population ages.</p>
+        <p>Kathryn G. Allen, a health care specialist at the General Accounting Office, said: ''State financing schemes have driven up federal Medicaid costs. Congress has repeatedly tried to curtail such arrangements, but states have consistently developed new variations.''</p>
+        <p>In one example described by Tommy G. Thompson, the secretary of health and human services, county nursing homes borrowed $1.5 billion from a commercial bank. The money was transferred to a state account, then to the counties, which paid the loan. The state, which Secretary Thompson did not name, claimed it had spent the full amount on medical care and drew down more than $800 million in federal payments.</p>
+        <p>Senator Don Nickles, Republican of Oklahoma and chairman of the Senate Budget Committee, said: ''I am outraged at this practice. It needs to be stopped.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

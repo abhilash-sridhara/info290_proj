@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Vigorous Consumer Spending Helped Economy Grow 3.5% at the End of 2006</title>
+    <meta content="01econ" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/business/01econ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822998"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Behavior</classifier>
+        <classifier class="indexing_service" type="descriptor">Gross Domestic Product</classifier>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <org class="indexing_service">Commerce Department</org>
+        <person class="indexing_service">Peters, Jeremy W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Gross Domestic Product</classifier>
+        <classifier class="online_producer" type="descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gross Domestic Product</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leading Economic Indicators</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E4DB153FF932A35751C0A9619C8B63" item-length="662" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Vigorous Consumer Spending Helped Economy Grow 3.5% at the End of 2006</hl1>
+        <hl2 class="online_headline">Vigorous Consumer Spending Helped Economy Grow 3.5% at the End of 2006</hl2>
+      </hedline>
+      <byline class="print_byline">By JEREMY W. PETERS</byline>
+      <byline class="normalized_byline">Peters, Jeremy W</byline>
+      <abstract>
+        <p>Commerce Department reports gross domestic product advanced at annual rate of 3.5 percent in third quarter; says economy regained momentum in quarter as gas prices fell and spending by consumers picked up; some economists expect effects of housing slowdown to remain limited; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The economy regained momentum at the end of 2006, pulling out of a midyear slowdown as gas prices fell and Americans reached into their wallets with renewed confidence.</p>
+        <p>The government said yesterday that its broadest and best-known measure of economic growth, the gross domestic product, advanced at an annual rate of 3.5 percent from October through December. That was noticeably stronger than the 2 percent rate of growth during the third quarter and the 2.6 percent measured in the second quarter.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The economy pulled out of a midyear slowdown as gas prices fell and spending by consumers gave the economy the biggest lift.</p>
+      </block>
+      <block class="full_text">
+        <p>The economy regained momentum at the end of 2006, pulling out of a midyear slowdown as gas prices fell and Americans reached into their wallets with renewed confidence.</p>
+        <p>The government said yesterday that its broadest and best-known measure of economic growth, the gross domestic product, advanced at an annual rate of 3.5 percent from October through December. That was noticeably stronger than the 2 percent rate of growth during the third quarter and the 2.6 percent measured in the second quarter.</p>
+        <p>Spending by consumers -- on things like food and visits to the doctor -- gave the economy the biggest lift. Spending by the federal government, particularly on the military, also added a significant increase. At the same time, goods and services exported to foreign countries increased, helping shrink the nation's trade deficit.</p>
+        <p>The swiftness of the expansion in the final months of the year surprised many economists, who were expecting a rate closer to 3 percent. Such strong growth was the latest indication that the economy was showing authentic vigor, despite forecasts of a deeper downturn.</p>
+        <p>The government also reported yesterday that inflation fell back yesterday on two fronts: in an index of prices that the Federal Reserve watches closely and a separate measure of labor costs.</p>
+        <p>That seemed to reaffirm the Fed's decision yesterday to hold interest rates steady, though the central bank warned, as it has for many months, that ''some inflation risks remain.''</p>
+        <p>The economy's resilience has not been lost on the White House, which has spent the last two days playing up the expansion. President Bush spoke in Manhattan yesterday, noting faster growth in wages and consumer confidence. ''The state of our economy is strong,'' he told an audience at Federal Hall, the site where Congress and the Supreme Court first convened.</p>
+        <p>But underneath the robust growth numbers, some economists saw signs that the first few months of 2007 might not be as strong as the last few months of 2006. They noted a number of factors that were not likely to repeat, including the spending increase brought about by lower gas prices.</p>
+        <p>''The boost to consumption in the fourth quarter was all about the fall in oil prices,'' said Paul Ashworth, senior United States economist with Capital Economics. ''That's very much a temporary boost that's now gone.''</p>
+        <p>In addition, businesses cut back investment in equipment and software in the fourth quarter.</p>
+        <p>Still, the quarter turned out to be much healthier than economists were predicting just two months ago. Many experts thought the slump in the real estate market would have much wider effects on the overall economy. Housing did weigh on overall economic growth. The contraction in residential real estate investment, the sharpest since 1991, subtracted 1.2 percentage points from the overall G.D.P. growth figure in the fourth quarter.</p>
+        <p>Another significant drag was a slowdown at the nation's auto plants, which took another 1.2 percentage points off the G.D.P.</p>
+        <p>''Housing and autos, when they're down a lot you're supposed to look for a low number -- and they were both down a lot,'' said Robert Barbera, chief economist with ITG.</p>
+        <p>But consumers helped offset those effects. The drag on spending that many economists said would come as Americans watched their home values falter has not happened. Instead, consumer spending increased at a 4.4 percent annual rate in the fourth quarter, much faster than in the second or third quarters.</p>
+        <p>For the full year, the gross domestic product grew 3.4 percent, an improvement on 2005, though not quite matching the 3.9 percent rate of 2004.</p>
+        <p>Some economists expect the effects of the housing slowdown to remain limited. In its statement yesterday, the Fed noted ''some tentative signs of stabilization'' in housing.</p>
+        <p>John Ryding, the chief United States economist at Bear Stearns, said that the residual effects from the housing bust ''will disappear and vanish over the next couple of quarters,'' leading to faster growth. ''As those factors dissipate, the underlying growth rate picks up,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

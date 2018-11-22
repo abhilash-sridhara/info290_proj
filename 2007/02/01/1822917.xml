@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Schubert Whispers, Grieg Booms</title>
+    <meta content="01morg" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/arts/music/01morg.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822917"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Pierpont Morgan Library</org>
+        <person class="online_producer">Finckel, David</person>
+        <person class="online_producer">Wu Han</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E3DD153FF932A35751C0A9619C8B63" item-length="338" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Schubert Whispers, Grieg Booms</hl1>
+        <hl2 class="online_headline">Schubert Whispers, Grieg Booms</hl2>
+      </hedline>
+      <byline class="print_byline">By BERNARD HOLLAND</byline>
+      <byline class="normalized_byline">Holland, Bernard</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The ''Arpeggione'' Sonata, as played by David Finckel and Wu Han at the Morgan Library &amp; Museum on Tuesday, is another example of irresistible Schubert written for a medium that no longer exists. Living room soirees, four-handed piano music and fraternity group sings are not exactly the mother's milk of today's music business. Neither is the curious instrument for which this sonata was written: a kind of guitar with a bow, invented in the first part of the 19th century and pretty much extinct by the end of it.</p>
+        <p>Transferred to the cello it is a magical piece. Whether it is better on the original arpeggione, I am helpless to say. It is obvious that Schubert was determined to make use of its strumming effects, but these are minor incidents in music whose inexhaustible lyricism over three movements is scarcely to be believed. If there is a finite amount of musical beauty in the world, it seems unfair that one brief composition should hoard so much of it.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The “Arpeggione” Sonata, as played by David Finckel and Wu Han at the Morgan Library &amp; Museum on Tuesday, is another example of irresistible Schubert written for a medium that no longer exists.</p>
+      </block>
+      <block class="full_text">
+        <p>The ''Arpeggione'' Sonata, as played by David Finckel and Wu Han at the Morgan Library &amp; Museum on Tuesday, is another example of irresistible Schubert written for a medium that no longer exists. Living room soirees, four-handed piano music and fraternity group sings are not exactly the mother's milk of today's music business. Neither is the curious instrument for which this sonata was written: a kind of guitar with a bow, invented in the first part of the 19th century and pretty much extinct by the end of it.</p>
+        <p>Transferred to the cello it is a magical piece. Whether it is better on the original arpeggione, I am helpless to say. It is obvious that Schubert was determined to make use of its strumming effects, but these are minor incidents in music whose inexhaustible lyricism over three movements is scarcely to be believed. If there is a finite amount of musical beauty in the world, it seems unfair that one brief composition should hoard so much of it.</p>
+        <p>Elsewhere, this cello-piano duo played Strauss's early Sonata in F, Rachmaninoff's songful ''Vocalise'' and the A-minor duo-sonata of Grieg, which is to my mind one of his more unfortunate adventures into Germanic bombast.</p>
+        <p>It is hard to assign a style to these players. Mr. Finckel is a musician of great elegance and dignity. The size of his playing grows and narrows according to the music in front of him, but the fastidious articulation is always present. Rachmaninoff's effusiveness, Grieg's big bangs and Schubert's melodic flow are all given the same room to breathe.</p>
+        <p>Wu Han is a similarly adjustable pianist. The piano parts of the ''Arpeggione'' had a muted, matte sonority alluding to Schubert's more modest instrument. Strauss and Grieg were more exclamatory and sharply colored. The latter piece finds Grieg chasing after the German formalism to which he aspired all his life. From time to time the rhetorical clouds thin and disperse, and we hear his own voice -- singing simply and truly and, like Schubert, irresistibly.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Material Guys: Pollock-Inspired Artists, All About the Process</title>
+    <meta content="01algus" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/arts/design/01algus.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822922"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LAST CHANCE: ART REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="descriptor">Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <person class="online_producer">Algus, Mitchell</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E2DD153FF932A35751C0A9619C8B63" item-length="675" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Material Guys: Pollock-Inspired Artists, All About the Process</hl1>
+        <hl2 class="online_headline">Material Guys: Pollock-Inspired Artists, All About the Process</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+      <byline class="normalized_byline">Smith, Roberta</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The intrepid dealer Mitchell Algus is at it again, unearthing useful chunks of the recent past and, in this instance, creating an unforgettable pairing of like-minded art. The current exhibition at his Chelsea gallery -- sculptures by Bill Bollinger, paintings by Tom Evans -- takes us back to the early 1970s and the heyday of Process Art.</p>
+        <p>It was a time when simple actions and their unadorned results were the rage, when what an artist did, materially speaking, was pretty much what the viewer got. Jackson Pollock was the chief inspiration, almost across the board. His no-hands drip technique, accomplished by standing over a canvas and expertly flinging and pouring paint, is this exhibition's subtext.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The intrepid dealer Mitchell Algus is at it again, unearthing useful chunks of the recent past and, in this instance, creating an unforgettable pairing of like-minded art.</p>
+      </block>
+      <block class="full_text">
+        <p>The intrepid dealer Mitchell Algus is at it again, unearthing useful chunks of the recent past and, in this instance, creating an unforgettable pairing of like-minded art. The current exhibition at his Chelsea gallery -- sculptures by Bill Bollinger, paintings by Tom Evans -- takes us back to the early 1970s and the heyday of Process Art.</p>
+        <p>It was a time when simple actions and their unadorned results were the rage, when what an artist did, materially speaking, was pretty much what the viewer got. Jackson Pollock was the chief inspiration, almost across the board. His no-hands drip technique, accomplished by standing over a canvas and expertly flinging and pouring paint, is this exhibition's subtext.</p>
+        <p>In the case of Mr. Bollinger the Algus gallery's unearthing was quite literal. In the late 1960s he was a promising if somewhat peripatetic Post-Minimalist, making often ephemeral works with cyclone fencing, graphite dust, rubber tubing and logs. He appeared in all the right shows, including the legendary ''When Attitude Becomes Form'' at the Kunsthalle Bern in Switzerland and ''Anti-Illusion: Procedures/Materials'' at the Whitney Museum of American Art.</p>
+        <p>But by the mid-1970s Mr. Bollinger began to be overwhelmed by personal problems, including a prolonged custody battle. He cut his ties with New York City, faded into obscurity and died of alcoholism in 1988, at 48. His rugged cast-iron sculptures ended up in the fields of a neighbor's upstate farm. Several, too heavy to move by the method at hand (Mr. Algus, a helper and a pickup), are still there, but the five retrieved for this exhibition do the job.</p>
+        <p>They are imposing, wild works, made simply by pouring molten iron into dug-out sand casts. Like Richard Serra's molten-lead sculptures, they transpose Pollock into three dimensions, while also meeting the challenge of getting sculpture up off the ground in the wake of Carl Andre's emphatic flattening of the medium.</p>
+        <p>Fabulously scabrous and rusty of surface, the results aren't flat, but they aren't exactly shaped either. Although some are based on the contours of actual lakes, they tend to read as bluntly materialized Rorschach blots waiting to be opened, and also suggest fossils, dinosaurs and tar pits. Most sit horizontally with a definite topographical mien, as if the space of a tiny valley were made solid. But one piece balances upright on its flamelike protrusions, looking like a Chinese dragon or a whirring figure by Umberto Boccioni, the Italian Futurist. The combination of obdurate material and almost poetic allusion still looks as wonderful as it did in Mr. Bollinger's last New York show, at the O.K. Harris Gallery in SoHo in 1974.</p>
+        <p>In the early 1970s Mr. Evans, a contemporary of Mr. Bollinger, was wrestling more directly with Pollock: on canvas, in a medium that was largely excluded from the high-profile Process Art exhibitions of the period. (Remember? Painting was dead.) Dispensing with paint and brushes, he poured what the Algus checklist calls ''metallic pigments in diverse media'' on unstretched canvas on the floor, where they dried, pooling and pocking and rippling the canvas.</p>
+        <p>The effect is both lustrous and dour, a slightly toxic variation on the modernist monochrome, an industrial version of Color Field painting and its lesser devolution, lyrical abstraction. The paintings' randomness and metallic sheen presage the efforts of Sigmar Polke, Peter Hopkins, Rudolf Stingel and Jutta Koether, among others. Mr. Evans, who continues to live and work in New York, exhibited these paintings at the John Bernard Myers Gallery in the early 1970s, but like the Bollingers, they have been largely invisible since then.</p>
+        <p>This show encapsulates a moment with pleasantly unknown quantities, yet with no feeling of a time capsule. As a chaser, consider the curatorially smart juxtaposition in the nearby Andrea Rosen Gallery: there a 1968 shaped painting by Robert Mangold and a sculpture by Richard Prince based on a 2005 car hood similarly benefit from each other's company.</p>
+        <p>Works by Bill Bollinger and Tom Evans are on view through Saturday at the Mitchell Algus Gallery, 511 West 25th Street, Chelsea; (212) 242-6242.</p>
+        <p>LAST CHANCE: ART REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

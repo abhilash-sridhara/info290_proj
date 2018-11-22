@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>And for My Princess, a Pedicure</title>
+    <meta content="01girls" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Health; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/fashion/01girls.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822899"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Spas</classifier>
+        <classifier class="indexing_service" type="descriptor">Families and Family Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Beauty Salons</classifier>
+        <classifier class="indexing_service" type="descriptor">Exercise</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Clubs</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <person class="indexing_service">Rosenbloom, Stephanie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Spas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Clubs</classifier>
+        <classifier class="online_producer" type="descriptor">Families and Family Life</classifier>
+        <classifier class="online_producer" type="descriptor">Spas</classifier>
+        <classifier class="online_producer" type="descriptor">Beauty Salons</classifier>
+        <classifier class="online_producer" type="descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="descriptor">Customs, Etiquette and Manners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Spas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Customs, Etiquette and Manners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beauty</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beauty Salons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Clubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Exercise</classifier>
+        <classifier class="online_producer" type="general_descriptor">Families and Family Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E6DD153FF932A35751C0A9619C8B63" item-length="1589" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>And for My Princess, a Pedicure</hl1>
+        <hl2 class="online_headline">And for My Princess, a Pedicure</hl2>
+      </hedline>
+      <byline class="print_byline">By STEPHANIE ROSENBLOOM</byline>
+      <byline class="normalized_byline">Rosenbloom, Stephanie</byline>
+      <abstract>
+        <p>Mothers and daughters are increasingly turning up together at spas, gyms, restaurants and nail and hair salons; trend is driven in part by heavy schedules of parents and children alike, which leave little time for bonding activities, as well as today's emphasis on precociousness; mothers say benefits of such interaction--intimate conversations, shared relaxation, lessons about hygiene, escape from school and family woes--outweighs potential pitfalls, such as danger that child will become obsessed about her body or expect pampering; some other spa goers resent loss of all-adult atmosphere; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ON a warm massage table at Sothys Spa, far from the January chill, Fran Glennon, 52, was cocooned in white terry cloth and enjoying a facial. On another massage table, about five feet away, was a smaller cocoon: Ms. Glennon's daughter, Emma, 9.</p>
+        <p>Emma, of course, did not need blackhead extraction or steam to open clogged pores or a massage to stimulate the skin stretched across her delicate little face. Instead, Emma's aesthetician gently applied to her forehead, nose and cheeks lotions made with mineral water from the city of Spa in eastern Belgium.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mothers want to indulge themselves and at the same time bond with their girls.</p>
+      </block>
+      <block class="full_text">
+        <p>ON a warm massage table at Sothys Spa, far from the January chill, Fran Glennon, 52, was cocooned in white terry cloth and enjoying a facial. On another massage table, about five feet away, was a smaller cocoon: Ms. Glennon's daughter, Emma, 9.</p>
+        <p>Emma, of course, did not need blackhead extraction or steam to open clogged pores or a massage to stimulate the skin stretched across her delicate little face. Instead, Emma's aesthetician gently applied to her forehead, nose and cheeks lotions made with mineral water from the city of Spa in eastern Belgium.</p>
+        <p>''How do you feel?'' asked Zina Bekenshtein, the aesthetician, after a mask was rinsed from Emma's face and a damp cloth peeled from her eyes.</p>
+        <p>A sleepy looking Emma grinned and half-whispered: ''Gooood.''</p>
+        <p>More and more, little girls like Emma are participating in activities that their own mothers might not have experienced until they were adults. It is not unusual to walk into a salon and be seated next to a preadolescent girl whose twiggy legs barely reach the pedicure tub or to be dining at a fancy restaurant near a second grader or to encounter a 6-year-old in the gym locker room.</p>
+        <p>Places once considered adult domains -- spas, gyms, restaurants and nail and hair salons -- are increasingly becoming destinations for little girls and their mothers.</p>
+        <p>Samantha White, 28, an assistant at a business consulting firm in Manhattan, said she has noticed more little girls coming in with their mothers to her nail salon, picking out a color and sitting back for the pampering.</p>
+        <p>''My roommate has a niece who is 7, and she was telling me that every Saturday at 9 a.m. they get manicures,'' Ms. White said. ''She had a design on her index finger.''</p>
+        <p>The trend is driven in part by a lack of time. Hectic scheduling for parents and children alike makes it challenging for mothers to carve out time for bonding activities, particularly ones that appeal to tweens who by 12 consider monkey bars and Kool-Aid quaint relics of their past.</p>
+        <p>''Between her activities, my work, you end up trying to fit it all in,'' said Ms. Glennon, a nurse, as she and Emma sat in the spa's cafe. ''We're all so busy. Here you're out of the house so you really can focus on each other. You're spending time together.''</p>
+        <p>Emma was 3 when Ms. Glennon first took her along to her nail salon because she thought it would be silly to pay for a baby sitter. Now she takes Emma to the spa for the occasional treat.</p>
+        <p>Like many other mothers, Ms. Glennon cherishes those outings because she knows that all too soon her little girl will be a teenager and no longer consider it a thrill to follow her everywhere.</p>
+        <p>Trena Ross, the spa director of Sothys, added that taking tweens to the spa has become a tidy way to eliminate the mommy ''guilt factor.''</p>
+        <p>Ms. Ross explained: ''I want to spend spa time for myself. I want to spend time with my daughter. Why not get both in one?''</p>
+        <p>The trend is also the result of what psychologists say is an emphasis on precociousness.</p>
+        <p>''Today's teens are mature teens,'' said Michael Wood, the vice president of Teenage Research Unlimited. ''They are interested in some of those very grown-up activities.''</p>
+        <p>That has become a boon for spas, with an increase in business drawn by treatments like My First Manicure, My First Massage and My First Facial, as well as Cinderella Treat and Princess Fizzing Manicure. A spokeswoman for the Ritz-Carlton Orlando, Grande Lakes, said mother-daughter spa business has doubled since 2003.</p>
+        <p>But to bond at these places requires disposable income. At Sothys, the mini-facial for children is $75 (a deep-cleansing facial with exfoliation for adults is $110), and a package that includes a children's facial, manicure and pedicure can cost $127. (Still, it is possible to get a $10 manicure at a corner salon.)</p>
+        <p>But is it healthy for young girls to be dipping a toe into traditionally adult activities? What rites of passage will they have left to look forward to?</p>
+        <p>Mothers seeking girly time with their daughters at the spa, salon or gym say they have concluded that the benefits -- intimate conversations, shared relaxation, lessons about hygiene, escape from school and family woes -- outweigh the potential pitfalls.</p>
+        <p>Besides, they say, those activities are not the only time they spend with their daughters. There are sleepovers and museum trips and hours playing with the family pet, too.</p>
+        <p>Psychologists say the assimilation of young girls into adult realms is not a cut-and-dried issue, especially when the activity involves beauty.</p>
+        <p>Roni Cohen-Sandler, a psychologist in Weston, Conn., and the author of ''Stressed-Out Girls: Helping Them Thrive in the Age of Pressure,'' said there is no ''magic age'' that determines what is appropriate.</p>
+        <p>''These young tweens are growing up with an expectation of doing things earlier and earlier,'' Dr. Cohen-Sandler said, ''and in some ways it's robbing many of them of that carefree childhood time when they don't have to be thinking of how they look.''</p>
+        <p>But Dr. Cohen-Sandler said going to a salon for a manicure is actually less harmful at age 5 than at 10 because at 5, ''it's clear to the girls that they are playing grown-up, it's pretend.''</p>
+        <p>There is nothing wrong with relishing relaxation and ''grown-up'' time with one's mother, she said. But if it leads to obsessing about one's body and expecting pampering, it can be a problem.</p>
+        <p>In general, rites of passage involving beauty treatments should accompany puberty, she said. And they should not be things a time-strapped mother grants her daughter because she wants to be seen as fun.''I'm not an advocate of a cool mother,'' Dr. Cohen-Sandler said.</p>
+        <p>Linda Carter, the director of the family studies program at the New York University Child Study Center, said it is easy to be critical of the mother who takes her daughter to the manicurist, but what matters, she said, is the mother's intention and how the child interprets it.</p>
+        <p>However, Dr. Carter cautioned: ''If every bonding time is over the manicure table or shopping, then it gives a consistent message that could become a concern. But the occasional manicure? We've all done that.''</p>
+        <p>Some mothers say that their goal of bonding over these grown-up activities works.</p>
+        <p>Beth Short of Pittsburgh debated about when to allow her daughters, now 14 and 17, to receive facials at ESSpa Kozmetika, the spa she frequents. She wanted to teach the girls, then 10 and 13, about skin care, especially after one came back from tennis camp with skin problems. But she wondered if introducing young girls to spa culture was too ''froufrou.''</p>
+        <p>Ultimately, she decided to let them try it and soon found that the experience resulted in more than improved hygiene.</p>
+        <p>''She talked a little bit more about other girls and friendships and just how she felt about herself,'' Ms. Short said about one daughter. ''It was a little bit deeper. I just felt she was more relaxed and more open.''</p>
+        <p>Naturally, there are people who resent having their spa, gym or salon infiltrated by yammering pint-size patrons. And some of them are mothers themselves.</p>
+        <p>Sherry Davey, who has a daughter, Lily, 4, and a blog called Funny Mom on iVillage.com, said she has developed what she calls a ''mommy callus,'' which makes her more immune than most to tween riots. And yet.</p>
+        <p>''It's like an invasion,'' said Ms. Davey, recalling with a laugh a group of 8-year-old girls who walked in while she was having her own biweekly manicure in a Brooklyn salon. ''It's adult private time. You kind of want to chill out.''</p>
+        <p>What also irks some observers is how willing some parents are to drop money on indulgences that children cannot fully appreciate. That gripe taps into a bigger idea about the danger of transforming tweens into material girls.</p>
+        <p>''It does sort of run the risk of prizing the materialistic over the positive attention and the time together,'' said Melba J. Nicholson, a child and family therapist at the Family Institute at Northwestern University, who generally approves of bonding at the spa, gym or salon.</p>
+        <p>To keep it healthy, she said mothers should emphasize to their daughters that the hours they share in these places are more significant than the money spent there. And, she said, ''It offers an opportunity to teach her about financial management,'' adding that a mother might try to explain that ''we're doing this because I have extra money in the budget.''</p>
+        <p>Sometimes, however, these outings are truly healing. ''We have a family whose dad died tragically,'' said Eva Sztupka-Kerschbaumer, the owner of ESSpa. Four months later the mother came to the spa with her two daughters. ''She said it was great,'' Ms. Sztupka-Kerschbaumer said. ''They were able to talk about different things other than just the tragedy.''</p>
+        <p>Other times, such mother-daughter experiences are a reward. About once a month, Ellen Crown, 46, and her daughters, Alexandra, 11, and Amanda, 14, visit John Frieda Salon on Madison Avenue for scented June Jacobs peppermint pedicures. It is Mrs. Crown's gift to her girls for doing well in school or volunteering.</p>
+        <p>The experience is also something of a fantasy. Not for the girls, but for Mrs. Crown.</p>
+        <p>''When you dream of having a little girl, things flash in your mind,'' she said.</p>
+        <p>Or, as Alexandra put it as a nail technician applied a color called Pink Diamond to her pebble-size toenails: ''We can talk about girl stuff.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

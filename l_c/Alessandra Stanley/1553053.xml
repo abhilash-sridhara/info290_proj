@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Smiling Dean Turns to Television to Undo the Damage From Television</title>
+    <meta content="Y23WAT$04" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/01/23/politics/campaign/23WATC.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1553053"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="THE 2004 CAMPAIGN: TV WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2004</classifier>
+        <classifier class="indexing_service" type="descriptor">Primaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <location class="indexing_service">Iowa</location>
+        <person class="indexing_service">Stanley, Alessandra</person>
+        <person class="indexing_service">Dean, Howard (Dr)</person>
+        <person class="indexing_service">Dean, Judith Steinberg (Dr)</person>
+        <object.title class="indexing_service">Primetime Thursday (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Iowa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/Howard Dean</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Iowa</classifier>
+        <classifier class="online_producer" type="descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Primaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Dean, Howard</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E5DE1E39F930A15752C0A9629C8B63" item-length="818" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Smiling Dean Turns to Television to Undo the Damage From Television</hl1>
+        <hl2 class="online_headline">A Smiling Dean Turns to Television to Undo the Damage From Television</hl2>
+      </hedline>
+      <byline class="print_byline">By ALESSANDRA STANLEY</byline>
+      <byline class="normalized_byline">Stanley, Alessandra</byline>
+      <abstract>
+        <p>Howard Dean appears with wife Judith on Primetime Thursday, in attempt to defuse criticism that arose from his ferocious, almost maniacal concession speech in Iowa; clips of speech have been played over and over on television news and provoked mocking on Internet and late-night talk shows (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Howard Dean went on television to atone for what he did on television.</p>
+        <p>He did so by speaking steadily and smilingly to Diane Sawyer last night on ABC's ''Primetime Thursday,'' with his arm wrapped protectively around his wife, Judith.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Howard Dean went on television to atone for what he did on television.</p>
+      </block>
+      <block class="full_text">
+        <p>Howard Dean went on television to atone for what he did on television.</p>
+        <p>He did so by speaking steadily and smilingly to Diane Sawyer last night on ABC's ''Primetime Thursday,'' with his arm wrapped protectively around his wife, Judith.</p>
+        <p>When Ms. Sawyer asked the candidate if his ferocious, almost maniacal concession speech in Iowa on Monday looked unpresidential, Mr. Dean replied, ''Well, I would certainly agree with that.''</p>
+        <p>From Richard M. Nixon's Checkers speech to Bill Clinton's ''60 Minutes'' interview about Gennifer Flowers, politicians have a history of going on television to quell accusations of misconduct. The interview the Deans gave on Thursday was a new kind of media brinksmanship: going on national television in a last-ditch effort to overturn what damaged him in the first place: national television.</p>
+        <p>If there is a precedent, it was in 1988, when Mr. Clinton went on ''The Tonight Show'' to make fun of himself after delivering a famously longwinded speech at the Democratic National Convention. (Delegates cheered when Mr. Clinton finally said, ''In closing.'') Back then, however, Mr. Clinton was not yet a presidential candidate and did not have much at immediate stake. Dr. Dean's predicament is far more dire.</p>
+        <p>And at times, it showed. As he began listing his faults, Dr. Dean stumbled over the words ''I wear cheap suits sometimes,'' which gave the impression he was reciting an adviser-vetted defense as he continued, ''I say things that I probably ought not to say, but I lead with my heart, and that's what I was doing right there, is leading with my heart.''</p>
+        <p>Dr. Dean said he had seen the Iowa tape only once, which if true, could make him the only person in America able to make that boast. Clips of him urging on his supporters have become the campaign equivalent of the video of Saddam Hussein's capture, a startling moment shown over and over on cable news programs and mocked mercilessly on the Internet and late-night comedy shows.</p>
+        <p>Television speeds up and amplifies political false steps, but it did not invent them. Senator Edmund S. Muskie lost his momentum and the Democratic presidential nomination in 1972 after he was reported to have grown tearful defending his wife's honor at a frigid outdoor news conference. That show of emotion undermined his image without the help of a clear television image or 24-hour cable news shows.</p>
+        <p>Dr. Dean was unabashed as he was taped watching a tape of his Iowa performance on a monitor.</p>
+        <p>''I was having a great time,'' he said almost affectionately. ''Look at me!''</p>
+        <p>Mrs. Dean looked as if she would rather not. She confessed to Ms. Sawyer that she rarely watched television and first saw the tape of her husband's speech on Wednesday.</p>
+        <p>''I thought it looked kind of silly,'' she said. ''But I thought it looked O.K.''</p>
+        <p>For others, Dr. Dean looked almost scary, bolstering inchoate worries about his self-control.</p>
+        <p>The candidate grew a bit flushed on Thursday when Ms. Sawyer confronted him with a barrage of apparent blowups, including signs of temper at his boarding school, St. George's, and he countered that she was seeking to ''make a case, as all the other campaigns would like to.''</p>
+        <p>His wife, who told Ms. Sawyer to call her Judy Dean (''I use Steinberg only in my office and the hospital''), wore a red sweater set and a friendly smile throughout the interview. She was there to attest to her husband's good temper and to address concerns about her absence from the campaign trail.</p>
+        <p>Until reporters began to write about it, Mrs. Dean stayed in Vermont, tending to her medical practice and the couple's teenage son.</p>
+        <p>The two doctors looked affectionate and comfortable with each other, and Dr. Dean kept his cool on camera, but the television interview format has lost some of its impact through overuse -- everyone from Michael Jackson to Linda Lay, wife of Kenneth L. Lay, the chief executive of the Enron Corporation, have resorted to intimate, semiconfessional television appearances when they are in trouble.</p>
+        <p>Mostly it was Mrs. Dean's unvarnished and at times impolitic candor that lent the interview a dash of sincerity.</p>
+        <p>''I love Howard, and I think he would make a terrific president,'' she said. ''And, I think if I can help him, I will. And that doesn't mean he's going to disrupt my life, disrupt my patients, my son, but if he calls on a Saturday, and I'm not on call that weekend, I'll be out there Sunday.''</p>
+        <p>THE 2004 CAMPAIGN: TV WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

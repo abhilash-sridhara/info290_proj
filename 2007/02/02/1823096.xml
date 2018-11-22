@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   DILNO, DENNIS</title>
+    <meta content="dn020207" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1823096"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">DILNO, DENNIS</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070202T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE4DE163AF931A35751C0A9619C8B63" item-length="63" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   DILNO, DENNIS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DILNO--Dennis. February 18, 1946 -January 27, 2007. Beloved partner of Jeff Glenn, Chicago. Brother of Jeri Dilno and Sandy Millender, California. Uncle to Roy III and Don Millender. Friend to many at Simpson Thacher &amp; Price Waterhouse. Gathering and service 12-3 pm, February 3, at Greenwich Village Funeral Home, Bleecker and 6th Ave., NYC. Donations to Lambda Legal or NY LGBT Center.</p>
+      </block>
+      <block class="full_text">
+        <p>DILNO--Dennis. February 18, 1946 -January 27, 2007. Beloved partner of Jeff Glenn, Chicago. Brother of Jeri Dilno and Sandy Millender, California. Uncle to Roy III and Don Millender. Friend to many at Simpson Thacher &amp; Price Waterhouse. Gathering and service 12-3 pm, February 3, at Greenwich Village Funeral Home, Bleecker and 6th Ave., NYC. Donations to Lambda Legal or NY LGBT Center.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

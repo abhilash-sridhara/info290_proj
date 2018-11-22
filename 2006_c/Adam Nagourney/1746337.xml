@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bush Troubles Weigh Heavily As Party Meets</title>
+    <meta content="12repubs" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S.; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/03/12/politics/12repubs.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1746337"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Primaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <classifier class="indexing_service" type="descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <org class="indexing_service">Senate (US)</org>
+        <org class="indexing_service">House of Representatives (US)</org>
+        <person class="indexing_service">Nagourney, Adam</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Mccain, John S (Sen)</person>
+        <person class="indexing_service">Allen, George (Sen)</person>
+        <person class="indexing_service">Frist, Bill (Sen)</person>
+        <person class="indexing_service">Romney, Mitt (Gov)</person>
+        <person class="indexing_service">Huckabee, Mike (Gov)</person>
+        <person class="indexing_service">Brownback, Sam (Sen)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/George W Bush</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Primaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Republican Party</org>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060312T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE0DF1031F931A25750C0A9609C8B63" item-length="1673" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bush Troubles Weigh Heavily As Party Meets</hl1>
+        <hl2 class="online_headline">Bush's Troubles Weigh Heavily as Republicans Meet</hl2>
+      </hedline>
+      <byline class="print_byline">By ADAM NAGOURNEY</byline>
+      <byline class="normalized_byline">Nagourney, Adam</byline>
+      <dateline>MEMPHIS, March 11</dateline>
+      <abstract>
+        <p>Officials attending Southern Republican Leadership Conference in Memphis, Tenn, describe themselves as shaken by mistakes that have afflicted Bush administration; situation is complicated for prospective Presidential aspirants Sens John S McCain, George Allen, Bill Frist and Sam Brownback and Govs Mitt Romney and Mike Huckabee in that Bush remains hugely popular with party's conservative base; some suggest huge turnout at meeting is evidence that many are anxious for respite from bad news; several speakers warn Republicans to focus on 2006 elections, not Presidential race of 2008; photos (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Republicans gathered here this weekend acutely concerned with the elections ahead and distressed by the White House's performance since President Bush's re-election. They listened as a parade of prospective presidential candidates wrestled with how much to associate their campaigns with an increasingly unpopular sitting president.</p>
+        <p>In interviews, officials attending the Southern Republican Leadership Conference here described themselves as shaken by mistakes that have afflicted the White House, culminating with the collapse of the deal to allow a Dubai company to manage six American port terminals. Several urged the president to bring in new advisers to avoid losses in the midterm elections ahead and three fallow years in the White House.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Prospective presidential candidates are wrestling with how much to associate with an increasingly unpopular sitting president.</p>
+      </block>
+      <block class="full_text">
+        <p>Republicans gathered here this weekend acutely concerned with the elections ahead and distressed by the White House's performance since President Bush's re-election. They listened as a parade of prospective presidential candidates wrestled with how much to associate their campaigns with an increasingly unpopular sitting president.</p>
+        <p>In interviews, officials attending the Southern Republican Leadership Conference here described themselves as shaken by mistakes that have afflicted the White House, culminating with the collapse of the deal to allow a Dubai company to manage six American port terminals. Several urged the president to bring in new advisers to avoid losses in the midterm elections ahead and three fallow years in the White House.</p>
+        <p>Reflecting the political anxiety heading toward the 2008 election, the party's prospective presidential candidates, who spoke before about 2,000 here on Friday and Saturday, varied markedly in their handling of Mr. Bush as they dealt with what will clearly be a central strategic challenge for them.</p>
+        <p>Republicans said the complication for these candidates was that Mr. Bush remained highly popular with the party's conservative base, even in the face of deepening concerns across the electorate about his government and his policies.</p>
+        <p>On one side, Senator John McCain of Arizona offered a full embrace of a president he has quarreled with over the years -- Mr. Bush defeated him for the presidential nomination in an acrid campaign in 2000 -- as he urged Republicans to rally around Mr. Bush in a difficult time and to focus on the midterm elections ahead.</p>
+        <p>''We must keep our presidential ambitions a distant second to standing with the president of the United States,'' Mr. McCain said.</p>
+        <p>But in a hint of one way that this next generation of Republican presidential contenders is likely to diverge from the president, Mitt Romney, the governor of Massachusetts, went from heralding Mr. Bush's record on terrorism to embracing conservative concern about the growth of the size of government in his tenure.</p>
+        <p>''We are spending too much money,'' Mr. Romney said. ''Our discretionary spending -- taking out Iraq and mandatory spending -- grew 49 percent in four years. Our debt has grown. Pork is always dispiriting. But pork being spent at a time of war is particularly dispiriting.''</p>
+        <p>Senator George Allen of Virginia went from noting his support of Mr. Bush's tax cuts to calling for tough immigration controls that stood in obvious contrast to Mr. Bush's efforts to permit some illegal immigrants to work in the United States.</p>
+        <p>''Let's just say this: the president's position on all of this is not all that clear,'' Mr. Allen said after delivering his speech. ''I want to be plain and clear: what we need to do is secure our borders.''</p>
+        <p>Senator Bill Frist of Tennessee praised Mr. Bush's success at ''reshaping the federal judiciary,'' though he said that his own maneuvers as the Senate majority leader had stymied Democrats from using filibusters to block judges and cleared the way for Mr. Bush.</p>
+        <p>''Because we acted,'' Mr. Frist said, ''as we sit here today, a new chief justice -- Chief Justice John Roberts -- serves at the helm of the highest court in the land. And Sam Alito sits at his side.''</p>
+        <p>In addition to Mr. McCain, Mr. Romney and Mr. Allen, the other potential candidates who spoke included Mr. Frist, Gov. Mike Huckabee of Arkansas and Senator Sam Brownback of Kansas.</p>
+        <p>Several Republicans said the huge turnout at the meeting, a biannual conference attended by elected officials and party members, was evidence that many were anxious for a respite from bad news and ready to look beyond the Bush presidency.</p>
+        <p>''There's a lot of frustration here -- we've had a run of real bad luck,'' said Tom Rath, a New Hampshire Republican leader. ''You've got such longevity in that White House team that they are tired. They need a break. They need a big piece of good luck. I don't know what it is.''</p>
+        <p>James H. Herring, the chairman of the Mississippi Republican Party, said, ''They need to minimize these self-inflicted wounds.''</p>
+        <p>Senator Lindsey Graham of South Carolina said of Mr. Bush: ''He's right about Social Security. He's right about the big things of his time. Executing has been a problem. Implementing has been a problem.''</p>
+        <p>At the same time, Mr. Graham criticized his own party for allowing spending to increase, noting that Mr. Bush had yet to veto a single spending bill. ''We're growing the government at a pace that makes Democrats look thrifty,'' he said.</p>
+        <p>Several Republicans here said Mr. Bush urgently needed to shake up his staff. Senator Norm Coleman, Republican of Minnesota, pointed to what he described as a series of management and political failures as he urged Mr. Bush to bring in a new team.</p>
+        <p>''There is some question about whether those around him have served him well,'' Mr. Coleman said. ''This president has strong support in the United States Senate -- in many ways, a lot of our fates are tied to him. We want him to be popular, we want the public to support him. But there have been problems.''</p>
+        <p>Some senior Republicans with ties to the White House, who asked for anonymity because they did not want to be identified describing internal White House deliberations, said there was a widespread feeling here that Mr. Bush would be well served to bring in new advisers, either replacing Andrew H. Card Jr., his chief of staff, or Karl Rove, his senior political adviser.</p>
+        <p>But one Republican with close ties to the White House said the investigation of Mr. Rove's role in leaking the name of a C.I.A. operative was making it nearly impossible to make any changes until it was resolved.</p>
+        <p>The session here was brimming with Republican faces new and old, drawn by the prospect of getting a first glimpse of the party's presidential lineup for 2008. The strong interest reflects the fact that this is perhaps the most wide-open Republican primary since 1980, when Ronald Reagan was nominated.</p>
+        <p>The session culminated with a straw poll of delegates, organized by The Hotline, a political newsletter. The results were clouded by a request by Mr. McCain that his supporters cast write-in votes for President Bush, as a show of support for the president.</p>
+        <p>Mr. Frist won 37 percent of the 1,427 ballots cast, an unsurprising result in his home state: 82 percent of his votes came from Tennessee.</p>
+        <p>Mr. Romney came in second with 14 percent of the vote.</p>
+        <p>Mr. Bush and Mr. Allen tied at 10 percent, while Mr. McCain drew 5 percent, Mr. Huckabee 4 percent and Mr. Brownback 1.5 percent.</p>
+        <p>The extent of Mr. McCain's embrace of Mr. Bush was striking, and Republicans here suggested it reflected two political facts: that he needed to reassure conservatives of his loyalty to Mr. Bush, and that, at this point, he was in a strong enough position in this field to have flexibility in presenting himself.</p>
+        <p>Mr. McCain went so far as to condemn the collapse of the port deal, saying that Congress had served Mr. Bush poorly by not permitting a 45-day review of security concerns, though he did not mention that the deal was sunk by fellow Republicans.</p>
+        <p>''The president deserved better,'' Mr. McCain said.</p>
+        <p>Mr. McCain praised the president for his failed effort to rewrite the Social Security system, said he supported the decision to go into Iraq and blistered at critics who suggested the White House had fabricated evidence of unconventional weapons in Iraq to justify the invasion.</p>
+        <p>''Anybody who says the president of the United States is lying about weapons of mass destruction is lying,'' Mr. McCain said.</p>
+        <p>Mr. Romney's criticism of spending in the past four years drew a wave of applause and captured what has been a subject of increasing unhappiness by this White House. But Mr. Romney tempered that implicit criticism by praising Mr. Bush's record on terrorism. ''Thank heavens we have a president who recognizes the extent of this threat,'' he said. ''Thank heavens the president recognizes the greatest ally peace has on this planet is a strong United States.''</p>
+        <p>By contrast, Mr. Huckabee barely mentioned Mr. Bush in his speech, though he warmly invoked the legacies of Mr. Bush's father and Ronald Reagan.</p>
+        <p>''George Bush's 1,000 points of light and Ronald Reagan's Morning in America resonate with Americans,'' he said.</p>
+        <p>For Republicans, the prospect of continuing problems for this White House has implications for their political ambitions in the next two elections and for their hopes of using this period of one-party control to advance the conservative agenda Mr. Bush ran on.</p>
+        <p>Several speakers warned Republicans in the room to ignore the hoopla in the hotel and to focus on 2006 and not 2008, saying that the party was vulnerable to losses in the House and Senate that could undercut any hope it has to push through major legislative programs.</p>
+        <p>''We cannot afford big losses this year,'' said Gov. Haley Barbour of Mississippi, a former national Republican chairman, noting that every two-term Republican president since World War II had suffered big Congressional losses in the sixth year of his term.</p>
+        <p>Mr. McCain, speaking to reporters after his speech Friday night, said, ''We don't have any doubt that we have a great challenge here.''</p>
+        <p>Some Republicans said the difficulties Mr. Bush faced might be exaggerated or, at the least, repairable. Clarke Reed, a veteran Mississippi Republican leader and the founder of this conference, said the task for Mr. Bush was simple.</p>
+        <p>''Get focused -- stay focused,'' Mr. Reed said as he watched the procession of Republicans stream by him in the Peabody Hotel. ''I don't think it's that bad. But I think that if the perception is that it's that bad, that is a problem.''</p>
+        <p>Senator Graham warned that such a Republican mindset could be a recipe for defeat this November. ''It's like we're the party worried about losing,'' he said. ''We need to become the party focused on winning.''</p>
+        <p>Mr. Huckabee warned against Republicans' turning gloomy. ''Attitude determined altitude,'' he said. ''If we think we're in trouble, we're in trouble. I don't think we are.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

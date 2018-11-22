@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Iraq Syndrome, R.I.P.</title>
+    <meta content="01brooks" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/opinion/01brooks.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823002"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <location class="indexing_service">Iraq</location>
+        <person class="indexing_service">Brooks, David</person>
+        <person class="indexing_service">Mccain, John S (Sen)</person>
+        <person class="indexing_service">Giuliani, Rudolph W</person>
+        <person class="indexing_service">Clinton, Hillary Rodham (Sen)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/David Brooks</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Iraq</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DB153FF932A35751C0A9619C8B63" item-length="745" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Iraq Syndrome, R.I.P.</hl1>
+        <hl2 class="online_headline">The Iraq Syndrome, R.I.P.</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID BROOKS</byline>
+      <byline class="normalized_byline">Brooks, David</byline>
+      <abstract>
+        <p>David Brooks Op-Ed column discounts fear that Americans, disillusioned with war in Iraq, will go into isolationist mode; notes that two major Republican presidential contenders, John McCain and Rudy Giuliani, are most aggressive internationalists in party, and Democratic presidential front-runner Hillary Rodham Clinton is leader of her party's hawkish wing; says country is not looking to avoid entangling alliances; says US has taken its share of blows over past few years, but its leadership in world lives on (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After Vietnam, Americans turned inward. Having lost faith in their leadership class, many Americans grew suspicious of power politics and hesitant about projecting American might around the world.</p>
+        <p>The Vietnam syndrome was real. It lasted all of five years -- the time between the fall of Saigon and the election of Ronald Reagan.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The U.S. has taken its share of blows over the past few years, but the isolationist dog is not barking.</p>
+      </block>
+      <block class="full_text">
+        <p>After Vietnam, Americans turned inward. Having lost faith in their leadership class, many Americans grew suspicious of power politics and hesitant about projecting American might around the world.</p>
+        <p>The Vietnam syndrome was real. It lasted all of five years -- the time between the fall of Saigon and the election of Ronald Reagan.</p>
+        <p>Today, Americans are disillusioned with the war in Iraq, and many around the world predict that an exhausted America will turn inward again. Some see a nation in permanent decline and an end to American hegemony. At Davos, some Europeans apparently envisioned a post-American world.</p>
+        <p>Forget about it. Americans are having a debate about how to proceed in Iraq, but we are not having a strategic debate about retracting American power and influence. What's most important about this debate is what doesn't need to be said. No major American leader doubts that America must remain, as Dean Acheson put it, the locomotive of the world.</p>
+        <p>Look at the leaders emerging amid this crisis. The two major Republican presidential contenders are John McCain and Rudy Giuliani, the most aggressive internationalists in a party that used to have an isolationist wing.</p>
+        <p>The Democrats, meanwhile, campaigned for Congress in 2006 by promising to increase the size of the military. The presidential front-runner, Hillary Clinton, is the leader of the party's hawkish wing and recently called for a surge of U.S. troops into Afghanistan. John Edwards, the most ''leftward'' major presidential contender, just delivered a bare-knuckled speech in which he castigated the Bush administration for not being tough enough with Iran. ''To ensure that Iran never gets nuclear weapons, we need to keep all options on the table,'' Edwards warned.</p>
+        <p>This is not a country looking to avoid entangling alliances. This is not a country renouncing the threat of force. This is not a country looking to come home again. The Iraq syndrome is over before it even had a chance to begin.</p>
+        <p>The U.S. has no material need to reconsider its dominant role in the world. The U.S. military still has no serious rivals, even after the strains of Iraq. The economy is humming along nicely.</p>
+        <p>The U.S. has no cultural need to retrench. Vietnam sparked a broad cultural revolution, a shift in values and a loss of confidence. Iraq has not had the same effect. Many Americans have lost faith in the Bush administration and in this particular venture, but there has been no generalized loss of faith in the American system or in American goodness.</p>
+        <p>There hasn't even been a broad political shift in favor of the doves. The most important war critics are military types like Jack Murtha, Chuck Hagel and Jim Webb, who hate this particular war but were superhawks in other circumstances.</p>
+        <p>Finally, there has been no change in America's essential nature. As Robert Kagan writes in his masterful book ''Dangerous Nation,'' America has never really been an isolationist or aloof nation. The United States has always exercised as much power as it could. It has always coupled that power with efforts to spread freedom. And Americans have always fought over how best to fulfill their mission as the vanguard of progress.</p>
+        <p>What's happening today is just another chapter in that long expansionist story. Today's debate in the Senate flows seamlessly from the history Kagan describes. Most senators agree that the tactical question of sending 20,000 more troops is not the central issue. Their core concern, they say, is finding a new grand strategy to stabilize the region.</p>
+        <p>Most senators want a much more aggressive diplomatic effort to go along with the military one. (If President Bush said his surge was part of an effort to establish a regional diplomatic conference, he'd have majority support tomorrow.) But they don't question the need for America to play a leading role. They take it for granted that the U.S. is going to be in the Middle East for a long time to come.</p>
+        <p>When you look further into the future, you see that the next president's big efforts will not be about retrenchment, but about expansion. They'll be about expanding the U.S. military, expanding the diplomatic corps, asking for more shared sacrifice, creating new interagency bureaus that will give America more nation-building capacity.</p>
+        <p>In short, the U.S. has taken its share of blows over the past few years, but the isolationist dog is not barking. The hegemon will change. The hegemon will do more negotiating. But the hegemon will live.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When in Doubt, Offer a Nice Perk</title>
+    <meta content="01sbiz" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/business/01sbiz.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822937"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SMALL BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Small Business</classifier>
+        <classifier class="indexing_service" type="descriptor">Bonuses</classifier>
+        <classifier class="indexing_service" type="descriptor">Fringe Benefits</classifier>
+        <classifier class="indexing_service" type="descriptor">Productivity</classifier>
+        <person class="indexing_service">Fahmy, Dalia</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Careers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Small Business</classifier>
+        <classifier class="online_producer" type="descriptor">Bonuses</classifier>
+        <classifier class="online_producer" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Productivity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bonuses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fringe Benefits</classifier>
+        <classifier class="online_producer" type="general_descriptor">Small Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E7DC153FF932A35751C0A9619C8B63" item-length="1162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When in Doubt, Offer a Nice Perk</hl1>
+        <hl2 class="online_headline">When in Doubt, Offer a Nice Perk</hl2>
+      </hedline>
+      <byline class="print_byline">By DALIA FAHMY</byline>
+      <byline class="normalized_byline">Fahmy, Dalia</byline>
+      <abstract>
+        <p>Small business owners, in tight labor market where large employers can lure workers more easily, are becoming increasingly creative in perks they offer staff members; perks, which reportedly have jumped more than 20 percent in last decade, range from sky diving to spa visits and luxury cruises; business owners confirm studies indicating that perks, rather than cash bonuses, are more effective in boosting employee morale and increasing productivity; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A few summers ago, Indu Navar, founder and chief executive of the Silicon Valley software maker Serus, paid for her employees to jump out of an airplane. None of them had sky-dived before, and Sumeet Haldankar, a program engineer, said the 14,500-foot plunge delivered such an adrenalin rush that people hugged and laughed giddily when they landed safely.</p>
+        <p>''We couldn't stop talking about it -- the high was just incredible,'' said Mr. Haldankar, who joined Serus three years ago fresh out of graduate school. He said the dive, one of many activities that Ms. Navar organizes for her employees, created a bond with his colleagues. ''The energy of the people here is tremendous.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Small-business owners are becoming increasingly creative in how they reward their staff members.</p>
+      </block>
+      <block class="full_text">
+        <p>A few summers ago, Indu Navar, founder and chief executive of the Silicon Valley software maker Serus, paid for her employees to jump out of an airplane. None of them had sky-dived before, and Sumeet Haldankar, a program engineer, said the 14,500-foot plunge delivered such an adrenalin rush that people hugged and laughed giddily when they landed safely.</p>
+        <p>''We couldn't stop talking about it -- the high was just incredible,'' said Mr. Haldankar, who joined Serus three years ago fresh out of graduate school. He said the dive, one of many activities that Ms. Navar organizes for her employees, created a bond with his colleagues. ''The energy of the people here is tremendous.''</p>
+        <p>Small-business owners are becoming increasingly creative in how they reward their staff members. In a tight labor market where large employers can lure workers with bigger salaries and the opportunity to work for a known company, entrepreneurs said they could gain an edge by offering generous perks. More affordable than cash gifts, today's treats range from pet sitting to spa visits and luxury cruises.</p>
+        <p>''Everybody gets bored with a 9-to-5 job, even if it's high paying,'' said Ms. Navar, who added that tangible rewards, as opposed to cash bonuses, made employees feel more appreciated.</p>
+        <p>Ms. Navar recalls a perk she received in her first job out of college. To thank her for successfully completing a project, Ms. Navar's boss hired a chauffeured limousine to drive her to an elegant restaurant for breakfast. ''This perk probably cost them $300, but you know what? I remembered it,'' Ms. Navar said. ''I don't even remember the cash benefits I got.''</p>
+        <p>Human resource specialists estimate the use of perks has jumped more than 20 percent in the last decade. Richard S. Wellins, a consultant at the human resources firm Development Dimensions International, said they became popular in the late 1990s when booming Internet companies fought over a small pool of qualified workers.</p>
+        <p>Entrepreneurs said they offered perks for a variety of reasons. Some want to attract and retain workers. Others want to increase productivity, or rally their staff through a busy season. Perks also help save money by reducing the need for bonuses.</p>
+        <p>Jil Wyland, founder and chief executive of Litigation Presentation, a company in Atlanta that makes graphics used in courtroom trials, said she offered perks because she wanted work to be fun. She has treated her employees to office massages, personal trainers and maid service. To help the staff through a particularly busy week, she took them to a Nine Inch Nails concert.</p>
+        <p>Such gestures make work more enjoyable, she says, and as a result, few of her employees quit. Cash bonuses wouldn't yield the same result. ''It's like a parent who throws money at their child instead of giving them attention,'' Ms. Wyland said. ''What they really want is the attention.''</p>
+        <p>It's difficult to say with certainty whether perks motivate employees more than cash. While studies usually show that perks are more effective -- indicating that workers either can't remember how they spent their cash bonus or that they spent it on bills -- such research is usually commissioned by companies in the perks industry.</p>
+        <p>But business owners confirm the studies. They say perks are more effective because they give employees an experience they will savor and not easily forget. Plus, giving money can backfire, they said, because employees who are rewarded with a bonus come to expect one regularly and feel snubbed if they do not get one.</p>
+        <p>Small businesses seem particularly suited to perks. Entrepreneurs usually know what kind of a treat their employees might like and can assess whether a perk is working. At the same time, they often can't afford the first-class health benefits or lavish expense accounts offered by larger companies.</p>
+        <p>''What I see most often is people at first saying 'I can't do anything; it takes money to motivate people,' '' said Bob Nelson, author of ''1001 Ways to Reward Employees.''</p>
+        <p>''But they can do quite a lot. They don't have a 300-page policy manual to hold them back. They can get creative at a very small cost.''</p>
+        <p>Serus, which has annual revenue of $5 million, spent about $7,500 on the sky-diving trip, while Litigation Presentation, with $2 million in revenue, paid $4,000 for the Nine Inch Nails tickets.</p>
+        <p>Most entrepreneurs write off their perks as a business expense, and they say the benefits far outweigh the costs.</p>
+        <p>Thomas J. Schulte, chief executive of the Los Angeles accounting firm RBZ, hires a full-time concierge who runs errands for employees during the busy tax season each spring. The concierge, who charges about $15 an hour, picks up dry-cleaning, takes the dog to the vet and gets the car fixed. The service helps employees focus on work, Mr. Schulte said, adding that the expense was ''incidental'' to the billable hours he could squeeze out of his staff as a result.</p>
+        <p>A growing number of companies reward their employees with the biggest luxury of all: extra time off. One business in Connecticut ''requires'' employees to attend their children's recitals and other important family events; another near Lake Tahoe lets skiers take mornings off so they can take advantage of fresh snow.</p>
+        <p>RBZ offers workers two months of paid leave after their sixth year. Mr. Schulte said he introduced the sabbatical when he began losing employees to Internet companies in the late 1990s. Turnover has dropped sharply since. In fact, while up to half of RBZ's workers left each year in the past, fewer than 5 percent quit in 2006.</p>
+        <p>''One thing we noticed about the new generation is that they value time more than they value money,'' Mr. Schulte said.</p>
+        <p>Managers who want to start offering perks shouldn't trade employee paychecks in for cruise tickets yet. Entrepreneurs suggest doing some research first to find out what kind of perks employees want. (Zane Safrit, chief executive of Conference Calls Unlimited, offered his staff 30 minutes off after lunch so they could go for walks. The idea, he said, ''met with a resounding yawn.'')</p>
+        <p>Setting expectations early helps avoid misunderstandings. Specialists said companies should clearly explain to workers what the perks will be, how they are to be used and who qualifies for them. Entrepreneurs should also be willing to offer alternatives. Ms. Wyland gave an employee who opted out of the Nine Inch Nails concert the value of the ticket in cash.</p>
+        <p>Dozens of companies have sprung up to help businesses manage employee perks. Firms like O. C. Tanner, Loyaltyworks and Perks.com do everything from engraving anniversary watches to booking cruises. They also train managers how to make employees feel appreciated and offer software that tracks the success of perk programs.</p>
+        <p>But Mr. Wellins, the consultant, warns against using formal perk programs too often, complaining that they sometimes replace what should be a personal interaction. ''It provides a little bit of crutch versus just getting out of your seat and saying, 'Boy you did a good job.' ''</p>
+        <p>SMALL BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

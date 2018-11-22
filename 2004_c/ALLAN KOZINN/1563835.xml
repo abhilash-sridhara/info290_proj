@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Playing a Demon Barber? Start With Real Demons</title>
+    <meta content="05DELA$04" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/03/05/arts/music/05DELA.html" name="alternate_url"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20040312T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1563835"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">New York City Opera</org>
+        <person class="indexing_service">Delavan, Mark</person>
+        <person class="indexing_service">Kozinn, Allan</person>
+        <object.title class="indexing_service">Sweeney Todd: the Demon Barber of Fleet Street (Play)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">New York City Opera</org>
+        <person class="online_producer">Delavan, Mark</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040305T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E5D8133FF936A35750C0A9629C8B63" item-length="2903" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Playing a Demon Barber? Start With Real Demons</hl1>
+        <hl2 class="online_headline">Playing a Demon Barber? Start With Real Demons</hl2>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+      <byline class="normalized_byline">Kozinn, Allan</byline>
+      <abstract>
+        <p>Profile of and interview with baritone Mark Delavan, who comments on his long interest in Stephen Sondheim's musical work Sweeney Todd, the Demon Barber of Fleet Street; Delavan will sing title role for first time in New York City Opera production on March 6; Delavan's career noted; photos (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If an opera company casts the baritone Mark Delavan as a psychopathic murderer, he'll research the role down to his character's distant historical roots. And he'll get in touch with his own inner demons, if he thinks that will help him bring the role to life. If a company does not give him that kind of role, he is likely to ask for it.</p>
+        <p>One such request was the title role in Stephen Sondheim's ''Sweeney Todd, the Demon Barber of Fleet Street,'' which Mr. Delavan will sing for the first time at the New York City Opera tomorrow afternoon. (Timothy Nolen sings it when previews of the production begin tonight.) When the City Opera administration sat down with Mr. Delavan a few seasons ago to map out his future with the company -- he was already singing at the Met as well -- the two roles he asked for were Sweeney Todd and the title character in Verdi's ''Simon Bocanegra,'' in that order.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Baritone Mark Delavan, known for his portrayals of tragic characters, has set his sights on Sweeney Todd, his new role at the New York City Opera.</p>
+      </block>
+      <block class="full_text">
+        <p>If an opera company casts the baritone Mark Delavan as a psychopathic murderer, he'll research the role down to his character's distant historical roots. And he'll get in touch with his own inner demons, if he thinks that will help him bring the role to life. If a company does not give him that kind of role, he is likely to ask for it.</p>
+        <p>One such request was the title role in Stephen Sondheim's ''Sweeney Todd, the Demon Barber of Fleet Street,'' which Mr. Delavan will sing for the first time at the New York City Opera tomorrow afternoon. (Timothy Nolen sings it when previews of the production begin tonight.) When the City Opera administration sat down with Mr. Delavan a few seasons ago to map out his future with the company -- he was already singing at the Met as well -- the two roles he asked for were Sweeney Todd and the title character in Verdi's ''Simon Bocanegra,'' in that order.</p>
+        <p>As Sweeney, Mr. Delevan will be a virtuoso barber who has recently escaped from the Botany Bay prison colony in Australia, where a judge who coveted his wife had sent him 15 years earlier, on a trumped-up charge. Intent on revenge, Sweeney plans to dispatch the judge with a stroke of his razor but ends up visiting his pathologic fury by murdering countless unfortunates who visit his shop for a shave but wind up as filling in the meat pies made by Mrs. Lovett, Sweeney's landlady and would-be paramour. City Opera's production, by Harold Prince, dates to 1984, only five years after the work's premiere on Broadway. It opens the company's spring season.</p>
+        <p>''My interest in Sweeney goes way back,'' said Mr. Delavan, who is 45 and speaks with the Southwestern twang he acquired growing up in Texas, Arizona and Oklahoma (although he was born in Princeton, N.J.). ''I first saw it in a televised production with Angela Lansbury and George Hearn.''</p>
+        <p>He remembers watching it and thinking, ''What is that?'' he said. ''But I was also thinking, 'My God, that music is beautiful.' I thought that this was the weirdest thing I'd ever seen, but that I had to do that role. And it just went on the back burner, along with Scarpia, Rigoletto and all my other dream roles.''</p>
+        <p>That first encounter was in the mid-1980's, when Mr. Delavan was at the North Carolina Opera (now called Opera Carolina) and at the beginning of a career that progressed in fits and starts for about a decade before his breakthrough at City Opera, singing Enrico in a 1995 staging of Donizetti's ''Lucia di Lammermoor.''</p>
+        <p>Since then he has brought satisfyingly complex portrayals of Rigoletto, Falstaff, Scarpia and the Dutchman to the house. In 2001 he made his Met debut as a dreadlocked Amonasro (the dreadlocks were his idea) in Verdi's ''Aida,'' and he has been expanding his career steadily with appearances with the bigger American companies and in Europe. Not surprisingly, City Opera wants to keep him happy, within reason.</p>
+        <p>''The last few years,'' he said, ''City Opera has said that they want me to come back in some interesting vehicles, and they asked what I wanted to do. I didn't want to do 'Nabucco,' because I'd done it elsewhere, and I'm singing it at the Met. I'd done 'Macbeth' and 'Rigoletto,' so those were off the list, and I knew I'd be doing Iago at other houses, so that was no longer a dream role.</p>
+        <p>''What I'd really like to do is a new production of 'Don Giovanni.' That would be expensive, and there's no reason for them to do a new one when they can still use their old one. But I figured, as long as they were asking, I'd mention it and let them roll their eyes. But I also knew that they had a production of 'Sweeney Todd' that they hadn't done for a while. Hell, there's a poster in the makeup room, and I've drooled over it every time I've gone in there. So that was at the top of my list.''</p>
+        <p>But Is It Opera?</p>
+        <p>Whether ''Sweeney Todd'' is the business of an opera house isn't an issue that Mr. Delavan cares much about. It is certainly one of Mr. Sondheim's most operatic scores: by comparison, the other Sondheim work in the company's repertory, ''A Little Night Music,'' is an operetta at best. The line between opera and theater has long been porous at the City Opera, though, and in the 1980's it sometimes seemed as if Beverly Sills, then the company's general director, was intent on erasing the boundary by regularly presenting ''classic'' musicals like ''110 in the Shade'' and ''The Pajama Game'' at the New York State Theater.</p>
+        <p>The policy was much debated during Ms. Sills's tenure, but to a degree Mr. Sondheim's theater works have been considered in a class by themselves. The company's ''Sweeney Todd'' production was a collaboration with the Houston Grand Opera, which staged it first; and last season the work was performed at the Lyric Opera of Chicago, with Bryn Terfel in the title role.</p>
+        <p>''It depends on your definition of opera,'' Mr. Delavan said. ''I've seen this debate in San Francisco and other places, and I'm not willing to play. I don't know. I don't care. I think of Sweeney as one of the great roles written in the 20th century, right alongside Horace Tabor, Olin Blitch and Nick Shadow.'' He was referring to the male leads in Douglas Moore's ''Ballad of Baby Doe,'' Carlisle Floyd's ''Susannah'' and Stravinsky's ''Rake's Progress,'' respectively.</p>
+        <p>''I think it rivals them and in many ways surpasses them,'' Mr. Delavan said. ''He's as multidimensional as Olin Blitch, and as tortured. His music is as beautiful as Horace Tabor's, and he's as evil as Nick Shadow, if not more. Nick Shadow at least knows who he is. Sweeney's confused. He doesn't know who the heck he is, and he thinks he's doing the right thing, which makes him far more dangerous. And he has a pretty high body count.''</p>
+        <p>'A Real Dark World'</p>
+        <p>For Mr. Delavan, preparing to portray so lethal a character has involved research into famous murderers, both historical and comparatively recent. He traces the roots of the work beyond the 1973 play by Christopher Bond (also called ''Sweeney Todd, the Demon Barber of Fleet Street'') that inspired Mr. Sondheim and his librettist, Hugh Wheeler; beyond ''The String of Pearls,'' the 1848 play by George Dibdin-Pitt that inspired Mr. Bond; and even beyond the reports of a murderous barber who was hanged in London in 1802. For Mr. Delavan the roots of the story go all the way back to Sawney Bean, a 15th-century Scottish murderer and cannibal.</p>
+        <p>''You do as much research as you dare,'' Mr. Delavan said, ''because this is a real dark world. I mean, you don't go out killing people, but you read about serial killers. And the common thread is, they're all incredibly tortured.</p>
+        <p>''I looked at a couple of things about Jack the Ripper and what he must have been like. I've seen interviews with Jeffrey Dahmer, and there was a lengthy interview with Ted Bundy, the serial killer who was executed in 1989 and who gave an interview in the last hours of his life. And in Sweeney Todd's case, there was the guy the legend was about, Sawney Bean, who killed and ate his victims. These are tortured, tortured souls. Insane? Yeah. Dark? Yeah. Evil? Sure. But tortured.</p>
+        <p>''You know, nobody sets out in life wanting to be a serial killer. You don't hear these guys saying: 'Oh, that's what I want to do. I want to kill and eat my victims.' There's something that clicks, something that happens.''</p>
+        <p>He continued: ''For Sweeney at first it was a quest for revenge. He was transported for life on a false charge and sent down to Botany Bay, where you're with the worst of the worst.</p>
+        <p>''I have my own subplot about what happened to Sweeney in Botany Bay, but you don't want to know that. But something snapped there, and something else snaps about four-fifths of the way through Act I, when he gets his chance for revenge, and it falls apart. That last shred of reality disappears, and then it's just a question of stacking up the bodies.''</p>
+        <p>Beyond research, Mr. Delavan said that his main resource, in fleshing out Sweeney, is what he describes as his own dark side.</p>
+        <p>''I don't believe anybody who does these roles does them as a nice guy,'' he said, ''and I don't believe I'm any different. I believe guys who do roles like this have to be able to put themselves in that guy's shoes. I'm not saying I go out weekends and whack my mother's friends, or that if some young kid thinks my wife is hot, I'll pop him and bury him in the backyard. I'm just saying that in roles like this, you have to be able to touch your dark side. I know I have a dark side, and what keeps me from it is that I know it's there. It's the morons who don't know they have a dark side who are the dangerous ones.</p>
+        <p>'Walks on the Wild Side'</p>
+        <p>''I have a very clear picture of mine, because I had to wrestle with it for quite a long time. I've had my own walks on the wild side. I've had to deal with some addiction issues, and that's pretty dark stuff. I'm not proud of it. But I'm not afraid of it anymore either.''</p>
+        <p>Apart from declining to speak more specifically about those addictions, Mr. Delavan seemed at ease discussing the troubled early years of his career. The son of two music teachers, he loved opera from his earliest years but at first wanted to play football more than he wanted to sing.</p>
+        <p>When he enrolled at Grand Canyon College (now University) in Phoenix and found that the players on the football team were notably more accomplished at the sport than he was, he switched his focus to art. But he took music as a minor and sang in choirs directed by his father. In his senior year he agreed to sing in a production of a Gian-Carlo Menotti opera, ''The Old Maid and the Thief,'' on the promise (unfounded, as it turned out) of scholarship money.</p>
+        <p>That performance whetted his appetite. He completed his art degree, and when his parents took teaching positions at Oral Roberts University in Tulsa, he enrolled there and completed a bachelor of music degree, performing in productions of Mozart's ''Nozze di Figaro'' and works by Puccini and Gilbert and Sullivan. Further study at the Inspiration Point Fine Arts Colony in Eureka Springs, Ark., followed, as did a two-year engagement with the North Carolina Opera, where he sang in everything from Rossini's ''Cenerentola'' to Victor Herbert's ''Babes in Toyland.''</p>
+        <p>A fellowship from the San Francisco Opera's Merola young artists program was another step forward, and when he completed his work there in 1987, he began performing in regional companies, moving east in 1989 to be near the opportunities that New York offered.</p>
+        <p>One Step From the Street</p>
+        <p>But he had trouble making those opportunities pay. When he made his City Opera debut in 1989, as Captain Paul in Romberg's ''Desert Song,'' in 1989, Will Crutchfield described him in The New York Times as ''secure but not dashing.'' In a minor role in a New Jersey State Opera production of Ulysses Kay's ''Frederick Douglass,'' he was taken to task for shouting, and his portrayal of Tarquinius in Britten's ''Rape of Lucretia,'' at the Berkshire Opera in 1992, was criticized as ''neither villainous nor complex.''</p>
+        <p>By 1993 he was on the verge of giving up, when the bass Jerome Hines invited him to participate in a young artist program with Opera Music Theater International in Newark. ''I lived there for about eight months,'' Mr. Delavan said. ''I had nowhere else to go. I mean, I was one step from being a street guy, and I mean that literally. Jerome Hines saved my life, and it was around then that I began getting free of some of my addictions, getting some emotional, spiritual health and getting the one-day-at-a-time attitude down. And in the middle of this, during a rather intense spiritual experience, I said, 'O.K., whatever you want, God, or Powers of the Universe' -- whatever you want to call it, it doesn't matter -- 'I'll do anything, just keep me sober.'</p>
+        <p>''And it was as if that was all I was supposed to say. They say that the minute you make a commitment, or a paradigm shift, it's as if the universe opens up to you, to help you on your way. And I didn't know it, but it was like I had just turned a corner, spiritually, emotionally and physically. I was ready to let go of opera and find a job tapping at a computer, if that was what I had to do. But it turned out that all I had to do was let go of it, to get it back. I don't pretend to understand that, I'm just telling you how it happened.''</p>
+        <p>Having resolved that his days in opera were numbered, Mr. Delavan nevertheless attended a master class with the director Frank Corsaro at Hines's company. His performance of Iago's ''Credo'' from Verdi's ''Otello'' impressed Mr. Corsaro, who offered to arrange an audition for Mr. Delavan at City Opera.</p>
+        <p>Mr. Delavan says he doubted much would come of it -- his ''Desert Song'' performance had not led to better offers -- but he went to the house and sang arias by Verdi and Bizet. A week later the company offered him a handful of roles, including Escamillo in ''Carmen'' and Enrico in ''Lucia,'' both of which drew reviews far more enthusiastic than he had become used to.</p>
+        <p>A Serious Falstaff</p>
+        <p>By the time he took over the title role of the City Opera's ''Rigoletto'' in 1997, he had found ways to get under the skin of the characters he played, and his Rigoletto made that jester's twisted inner world seem unusually three-dimensional. He proved a deft comic actor as well. His appearance in the title role of Verdi's ''Falstaff'' was the high point of the Glimmerglass Opera season in 1998, and when that production moved to City Opera, Mr. Delavan repeated his success.</p>
+        <p>''I don't play Falstaff as funny,'' Mr. Delavan said. ''He is funny, but I play him as deadly serious, as an aging, overweight Don Giovanni. When you have someone that self-deceived, that's funny.''</p>
+        <p>Still ahead for Mr. Delavan are productions of ''Nabucco'' at the Met (and in the company's summer concerts in the parks) and ''Simon Bocanegra'' at Santa Fe, as well as the premiere of a William Bolcom opera, ''The Wedding,'' next fall in Chicago. He has by now performed most of the roles on his wish list, but he can always come up with more: John Proctor in Robert Ward's ''Crucible,'' for example, or a few music-theater roles, like Billy Bigelow, in ''Carousel'' or Javert in ''Les Misérables.''</p>
+        <p>''And talking of 'Falstaff,' '' he added, ''I was mentioning to my wife recently that I haven't played him in a while, and I kind of miss him.''</p>
+        <p>For the moment, though, he has a razor to wield.</p>
+        <p>Close Shave, Sir?</p>
+        <p>The New York City Opera's production of ''Sweeney Todd, the Demon Barber of Fleet Street'' can be seen in previews tonight through Sunday and officially opens on Tuesday. In the 15 performances the company is presenting through March 28, Mr. Delavan is to sing the title role nine times, beginning with the matinee performance tomorrow. His other appearances are Sunday afternoon; Tuesday, Thursday and next Friday nights; the evening performances of March 13, 19 and 24; and the afternoon performance of March 28.</p>
+        <p>The other six, starting tonight, are to be performed by Timothy Nolen, who sang the title role when this Harold Prince staging opened in 1984. The British actress Elaine Paige is to portray Mrs. Lovett in 13 of the performances, with two Saturday matinees -- tomorrow and March 13 -- to be sung by Myrna Paris. The casts also include Sarah Coburn and Tonna Miller, alternating as Johanna; Judith Blazer as the Beggar Woman; Keith Phares and Scott Hogsed as Anthony; Walter Charles as Judge Turpin; Keith Jameson as Tobias; and Andrew Drost as Pirelli. This weekend's schedule: tonight at 8; tomorrow at 1:30 and 8 p.m.; Sunday at 1:30 p.m. The New York State Theater, (212) 870-5570. Tickets: $25 to $110.</p>
+        <p>Correction:  March 12, 2004, Friday  An article in Weekend last Friday about the New York City Opera's current production of ''Sweeney Todd, the Demon Barber of Fleet Street,'' associated a production erroneously with Beverly Sills's role in bringing popular musicals to the company when she was general director. The musical ''110 in the Shade'' was staged in 1992 when the general director was Christopher Keene, her successor, though she had made arrangements for it.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: March 12, 2004, Friday</p>
+        <p>An article in Weekend last Friday about the New York City Opera's current production of ''Sweeney Todd, the Demon Barber of Fleet Street,'' associated a production erroneously with Beverly Sills's role in bringing popular musicals to the company when she was general director. The musical ''110 in the Shade'' was staged in 1992 when the general director was Christopher Keene, her successor, though she had made arrangements for it.</p>
+        <p>&lt;br&gt;</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CLEMENS STILL UNDECIDED</title>
+    <meta content="01base-2" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1823087"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL: ROUNDUP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <person class="indexing_service">Shpigel, Ben</person>
+        <person class="indexing_service">Clemens, Roger</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E7D9153FF932A35751C0A9619C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CLEMENS STILL UNDECIDED</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN SHPIGEL</byline>
+      <byline class="normalized_byline">Shpigel, Ben</byline>
+      <abstract>
+        <p>Pitcher Roger Clemens will not say whether he will return this season (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Roger Clemens offered little insight last night as to whether he would return to play this season.</p>
+        <p>''I'm nowhere near ready to play baseball at this time,'' Clemens, 44, said at the New York Athletic Club before he spoke at the St. John's University baseball dinner. ''I'm in good shape, but nowhere near the playing shape I need to be in to play another season.''</p>
+      </block>
+      <block class="full_text">
+        <p>Roger Clemens offered little insight last night as to whether he would return to play this season.</p>
+        <p>''I'm nowhere near ready to play baseball at this time,'' Clemens, 44, said at the New York Athletic Club before he spoke at the St. John's University baseball dinner. ''I'm in good shape, but nowhere near the playing shape I need to be in to play another season.''</p>
+        <p>Clemens, a free agent, was undecided about playing at this time last year, but was motivated to train by pitching in the World Baseball Classic. He threw 45 minutes of batting practice Monday and Tuesday at Minute Maid Park in Houston and said he would go to the Astros' spring training as part of his personal-services contract.</p>
+        <p>Clemens said that he and Andy Pettitte speak often, but he did not say whether Pettitte had tried to persuade him to rejoin the Yankees.</p>
+        <p>''I still think I could pitch at a high level,'' Clemens said. ''I wish this was an easy decision. I guess I'm just failing at retirement.''</p>
+        <p>BEN SHPIGEL</p>
+        <p>BASEBALL: ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

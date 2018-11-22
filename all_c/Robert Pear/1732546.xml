@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PRESIDENT TELLS INSURERS TO AID NEW DRUG PLAN</title>
+    <meta content="16drug" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/16/politics/16drug.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1732546"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Medicare</classifier>
+        <classifier class="online_producer" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE3DB143FF935A25752C0A9609C8B63" item-length="982" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PRESIDENT TELLS INSURERS TO AID NEW DRUG PLAN</hl1>
+        <hl2 class="online_headline">President Tells Insurers to Aid Ailing Medicare Drug Plan</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBERT PEAR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With tens of thousands of people unable to get medicines promised by Medicare, the Bush administration has told insurers that they must provide a 30-day supply of any drug that a beneficiary was previously taking, and it said that poor people must not be charged more than $5 for a covered drug.</p>
+        <p>The actions came after several states declared public health emergencies, and many states announced that they would step in to pay for prescriptions that should have been covered by the federal Medicare program.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>With many states warning of a public health emergency, the Bush administration is setting rules on supplies and prices of drugs.</p>
+      </block>
+      <block class="full_text">
+        <p>With tens of thousands of people unable to get medicines promised by Medicare, the Bush administration has told insurers that they must provide a 30-day supply of any drug that a beneficiary was previously taking, and it said that poor people must not be charged more than $5 for a covered drug.</p>
+        <p>The actions came after several states declared public health emergencies, and many states announced that they would step in to pay for prescriptions that should have been covered by the federal Medicare program.</p>
+        <p>Republicans have joined Democrats in asserting that the federal government botched the beginning of the prescription drug program, which started on Jan. 1. People who had signed up for coverage found that they were not on the government's list of subscribers. Insurers said they had no way to identify poor people entitled to extra help with their drug costs. Pharmacists spent hours on the telephone trying to reach insurance companies that administer the drug benefit under contract to Medicare.</p>
+        <p>Many of the problems involve low-income people entitled to both Medicare and Medicaid.</p>
+        <p>In a directive sent to all Medicare drug plans over the weekend, the Bush administration said they ''must take immediate steps'' to ensure that low-income beneficiaries were not charged more than $2 for a generic drug and $5 for a brand-name drug.</p>
+        <p>In addition, it said insurers must cover a 30-day emergency supply of drugs that beneficiaries were taking prior to the start of the new program.</p>
+        <p>In an interview yesterday, Dr. Mark B. McClellan, administrator of the federal Centers for Medicare and Medicaid Services, said that ''several hundred thousand beneficiaries who switched plans'' in December may have had difficulty filling prescriptions in the last two weeks.</p>
+        <p>In California, officials estimate that 200,000 of the state's 1.1 million low-income Medicare beneficiaries had trouble getting their medications.</p>
+        <p>Despite these problems, Dr. McClellan said, Medicare is now covering one million prescriptions a day. With the latest corrective actions, he said, ''all beneficiaries should be able to get their prescriptions filled.''</p>
+        <p>In the past, such predictions proved to be premature. New problems appeared as old ones were solved, and some insurers were slow to carry out federal instructions.</p>
+        <p>Since the program began on Jan. 1, many low-income people have left pharmacies empty-handed after being told they would have to pay co-payments of $100, $250 or more.</p>
+        <p>About 20 states, including California, Illinois, Ohio, Pennsylvania and all of New England, have announced that they will help low-income people by paying drug claims that should have been paid by the federal Medicare program.</p>
+        <p>''The new federal program is too complicated for many people to understand, and the implementation of the new program by the federal government has been awful,'' said Gov. Tim Pawlenty of Minnesota, a Republican. On Saturday, he signed an emergency executive order making the state a ''payer of last resort'' for the out-of-pocket drug costs.</p>
+        <p>The Bush administration said it was rushing to provide insurers with correct information about the extra subsidies available to low-income people enrolled in their plans.</p>
+        <p>''We sent files to all plans providing complete information on dual-eligible beneficiaries'' entitled to both Medicare and Medicaid, Dr. McClellan said. ''The plans now have all the information in one place.''</p>
+        <p>The new drug benefit is the most significant expansion of Medicare since creation of the program in 1965.</p>
+        <p>The president of MemberHealth, which offers three national Medicare drug plans, has apologized to pharmacists for problems that plagued the new benefit.</p>
+        <p>''We expected much more of ourselves, and certainly our performance in the first two weeks was a disappointment,'' the company's president, Charles E. Hallberg, said in a letter sent Friday to pharmacists. ''For that, I want to personally apologize to each of you.''</p>
+        <p>Mr. Hallberg said that druggists ''have experienced unacceptable wait times for customer service because we were unable to keep up with the extraordinary call volume.''</p>
+        <p>In an interview, Mr. Hallberg said that 700,000 people had enrolled in his drug plans, marketed under the name Community Care Rx.</p>
+        <p>Any of the 42 million Medicare beneficiaries can sign up for the new drug coverage. Federal officials say that a surge in enrollments occurred in late December. About 6.2 million low-income people who had drug coverage under Medicaid were automatically enrolled in Medicare drug plans, and some of them have switched to other Medicare plans.</p>
+        <p>The handling of the drug benefit threatens to become a political liability for Republicans, as older voters and people with disabilities complain that they have been denied essential medications.</p>
+        <p>Gov. Mike Huckabee of Arkansas, a Republican who is chairman of the National Governors Association, declared a public health emergency.</p>
+        <p>In Wisconsin, Gov. James E. Doyle, a Democrat, said: ''It is outrageous how the federal government has mishandled this program and put thousands of lives at risk. As an emergency measure, the state will step in to ensure that no seniors go without lifesaving medicines.''</p>
+        <p>The Senate Democratic leader, Harry Reid of Nevada, said the mismanagement of the program had had ''devastating consequences for seniors.'' In a letter signed by 34 other Democrats, Mr. Reid said, ''We want to know why so many of our constituents have fallen through the cracks.'' Democrats had predicted many of the problems, he said.</p>
+        <p>The concern was bipartisan. Senator Judd Gregg, Republican of New Hampshire, said many people had been ''turned away at their pharmacies or told that they must purchase the drugs up front and seek reimbursement later.''</p>
+        <p>''These are very vulnerable people who do not have the means to pay for their prescriptions and who cannot go without their medications,'' Mr. Gregg said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Smithsonian Executives' Pay Tops President's, Report Finds</title>
+    <meta content="01smithsonian" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/washington/01smithsonian.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822952"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <org class="indexing_service">Smithsonian Institution</org>
+        <person class="indexing_service">Abruzzese, Sarah</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <org class="online_producer">Smithsonian Institution</org>
+        <person class="online_producer">Grassley, Charles E</person>
+        <person class="online_producer">Small, Lawrence M</person>
+        <person class="online_producer">Burke, Sheila P</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5DC153FF932A35751C0A9619C8B63" item-length="477" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Smithsonian Executives' Pay Tops President's, Report Finds</hl1>
+        <hl2 class="online_headline">Smithsonian Executives’ Pay Tops President’s, Report Finds</hl2>
+      </hedline>
+      <byline class="print_byline">By SARAH ABRUZZESE</byline>
+      <byline class="normalized_byline">Abruzzese, Sarah</byline>
+      <dateline>WASHINGTON, Jan. 31</dateline>
+      <abstract>
+        <p>Report by Smithsonian Institution acting inspector general finds salaries for some of its executives are higher than other top federal jobs, including those of US president and vice president; finds salaries to be comparable to those at nonprofits; executive compensation has been matter of friction between Smithsonian and Capitol Hill for years (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Salaries for some Smithsonian Institution executives are higher than those for other top federal jobs, including those of the United States president and vice president, according to the institution's acting inspector general.</p>
+        <p>The salaries are, however, ''generally comparable to those at selected nonprofit organizations,'' the acting inspector general, A. Sprightley Ryan, said in a report issued on Tuesday.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The salaries are, however, “generally comparable to those at selected nonprofit organizations,” the institution’s acting inspector general said in a report.</p>
+      </block>
+      <block class="full_text">
+        <p>Salaries for some Smithsonian Institution executives are higher than those for other top federal jobs, including those of the United States president and vice president, according to the institution's acting inspector general.</p>
+        <p>The salaries are, however, ''generally comparable to those at selected nonprofit organizations,'' the acting inspector general, A. Sprightley Ryan, said in a report issued on Tuesday.</p>
+        <p>The audit initially was undertaken to evaluate Smithsonian Business Ventures, the institution's business unit. It was expanded to include all Smithsonian executives at the request of Senator Charles E. Grassley, Republican of Iowa, the former chairman and now ranking minority member of the Senate Finance Committee.</p>
+        <p>Lawrence M. Small, the Smithsonian secretary, earned $884,733 in 2006, while President Bush makes $400,000 a year. Edwin L. Rifkin, the Smithsonian's under secretary for art, earned $440,000 in 2006. Sheila P. Burke, the deputy secretary and chief operating officer, earned $400,000.</p>
+        <p>The Smithsonian includes 19 museums and galleries, the National Zoological Park and research centers. While the government provides most of its money, a trust supplements that appropriation.</p>
+        <p>In 2006, the Institution received $615 million in federal money and the trust kicked in $274 million, some of which went to pay the salaries of 90 executives. These salaries are set based on recommendations of Watson Wyatt, a consulting company that has worked with the Smithsonian for three years.</p>
+        <p>Executive compensation has been a matter of friction between the Smithsonian and Capitol Hill for years. Last year, language was inserted into a House appropriations bill, which did not advance to passage, to cap the pay of Smithsonian executives so it did not exceed that of the president.</p>
+        <p>Senator Grassley said in an e-mail message on Wednesday that ''the Smithsonian needs a permanent, truly independent inspector general.</p>
+        <p>''The board of regents can find the time and energy to justify big paychecks for executives,'' he wrote. ''Surely they can devote time and energy to finding a top, independent watchdog of our national treasures.''</p>
+        <p>In a memorandum with the report, Ms. Burke said, ''The Smithsonian is competing not only with other federal agencies, but also with the private sector for skilled employees.''</p>
+        <p>Ms. Burke said that senior employees whose salaries are financed by the trust are responsible for raising private-sector money and that $1 billion had been raised since 2000.</p>
+        <p>The acting inspector general also said that the Smithsonian needs to rethink how it compensates the executives of its business unit, which oversees its magazine, gift shops and restaurants and has failed to meet its profit projections in recent years.</p>
+        <p>The business unit's chief executive, Gary Beer, was paid $558,075 in 2005, according to the report.</p>
+        <p>Defending those salaries, Ms. Burke said, ''Presumably, the alternative to market-based compensation is below-market compensation and it does not seem probable that such a strategy, broadly employed, would be likely to attract, retain and motivate qualified staff.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

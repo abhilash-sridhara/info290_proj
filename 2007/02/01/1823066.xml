@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Religion: Jews Support Ordination Of Gays</title>
+    <meta content="01brfs-6" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/us/01brfs-JUDAISM.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823066"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Jews</classifier>
+        <classifier class="indexing_service" type="descriptor">Homosexuality</classifier>
+        <classifier class="indexing_service" type="descriptor">Rabbis</classifier>
+        <person class="indexing_service">Goodstein, Laurie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="descriptor">Jews</classifier>
+        <classifier class="online_producer" type="descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rabbis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E0DA153FF932A35751C0A9619C8B63" item-length="95" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Religion: Jews Support Ordination Of Gays</hl1>
+        <hl2 class="online_headline">Jews Support Ordination of Gays</hl2>
+      </hedline>
+      <byline class="print_byline">By LAURIE GOODSTEIN</byline>
+      <byline class="normalized_byline">Goodstein, Laurie</byline>
+      <abstract>
+        <p>Study of more than 5,500 leaders in Conservitive Judaism finds that about two-thirds of movement's rabbis, cantors and seminary students in US favor ordination of gay men and lesbians (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A study of more than 5,500 leaders in Conservative Judaism found that about two-thirds of the movement's rabbis, cantors and seminary students in the United States favored the ordination of gay men and lesbians. Support was even higher among educators and lay leaders. The study was commissioned by the Jewish Theological Seminary, based in New York, which is now deciding whether to admit openly gay students. Last December, the movement's law committee adopted three conflicting legal opinions on the issue, one of which opened the door to ordaining gay people.</p>
+        <p>LAURIE GOODSTEIN</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A study of more than 5,500 leaders in Conservative Judaism found that about two-thirds of the movement’s rabbis, cantors and seminary students in the United States favored the ordination of gay men and lesbians. Support was even higher among educators and lay leaders. The study was commissioned by the Jewish Theological Seminary, based in New York, which is now deciding whether to admit openly gay students. Last December, the movement’s law committee adopted three conflicting legal opinions on the issue, one of which opened the door to ordaining gay people.</p>
+      </block>
+      <block class="full_text">
+        <p>A study of more than 5,500 leaders in Conservative Judaism found that about two-thirds of the movement's rabbis, cantors and seminary students in the United States favored the ordination of gay men and lesbians. Support was even higher among educators and lay leaders. The study was commissioned by the Jewish Theological Seminary, based in New York, which is now deciding whether to admit openly gay students. Last December, the movement's law committee adopted three conflicting legal opinions on the issue, one of which opened the door to ordaining gay people.</p>
+        <p>LAURIE GOODSTEIN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

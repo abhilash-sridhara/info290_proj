@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Credit and the Uninsured</title>
+    <meta content="l01herbert" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822977"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="indexing_service" type="descriptor">Credit and Money Cards</classifier>
+        <org class="indexing_service">American Bankers Assn</org>
+        <person class="indexing_service">Yingling, Edward</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit and Money Cards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407EFDC153FF932A35751C0A9619C8B63" item-length="156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Credit and the Uninsured</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Edward Yingling, president and chief executive of American Bankers Assn, contends blaming credit cards for problems of medically uninsured is sidestepping problem (Jan 22 Bob Herbert Op-Ed column)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Your MasterCard or Your Life,'' by Bob Herbert (column, Jan. 22): The problem of the uninsured and the rising costs of health care are critical national issues that deserve serious and thoughtful consideration. Suggesting that credit cards are to blame sidesteps the issue.</p>
+        <p>Credit cards have provided enormous benefits to the United States economy, making transactions more convenient and secure and assuring small businesses, including doctors, of payment.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Your MasterCard or Your Life,'' by Bob Herbert (column, Jan. 22): The problem of the uninsured and the rising costs of health care are critical national issues that deserve serious and thoughtful consideration. Suggesting that credit cards are to blame sidesteps the issue.</p>
+        <p>Credit cards have provided enormous benefits to the United States economy, making transactions more convenient and secure and assuring small businesses, including doctors, of payment.</p>
+        <p>While many consumers appreciate having a card in case of medical or other emergencies, no one's life should literally depend on it. Nor should anyone have to choose between physical and financial health.</p>
+        <p>The fact that so many have had to face that choice doesn't reflect an inherent problem with credit products. It shows the need to address important shortcomings of our nation's health care system.</p>
+        <p>Edward Yingling  President and Chief Executive  American Bankers Association  Washington, Jan. 25, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

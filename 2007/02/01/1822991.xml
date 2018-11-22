@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Times Co. Lowers Valuation of New England Newspapers</title>
+    <meta content="01times" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/business/media/01times.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822991"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <org class="indexing_service">New York Times</org>
+        <org class="indexing_service">Boston Globe</org>
+        <org class="indexing_service">Worcester Telegram &amp; Gazette</org>
+        <person class="indexing_service">Thomas, Landon Jr</person>
+        <person class="indexing_service">Robinson, Janet L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <org class="online_producer">New York Times</org>
+        <org class="online_producer">Worcester Telegram &amp; Gazette</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E6DB153FF932A35751C0A9619C8B63" item-length="855" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Times Co. Lowers Valuation of New England Newspapers</hl1>
+        <hl2 class="online_headline">Times Co. Lowers Valuation of New England Newspapers</hl2>
+      </hedline>
+      <byline class="print_byline">By LANDON THOMAS Jr.</byline>
+      <byline class="normalized_byline">Thomas, Landon Jr</byline>
+      <abstract>
+        <p>New York Times Co, in fourth-quarter earnings report, says it is writing down by $814.4 million value of its New England newspapers--Boston Globe and Worcester Telegram &amp; Gazette; reports fourth-quarter earnings, excluding charge, rose 39 percent, to $87.9 million, from year ago; reports quarterly loss of $648 million and annual earnings of $192.5 million; says total revenue rose 4.3 percent in quarter, to $931.5 million, with advertising growing 1.6 percent and Internet revenue growing 42 percent; chief executive Janet L Robinson comments (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New York Times Company said yesterday that it was writing down by $814.4 million the value of its New England newspapers, The Boston Globe and The Worcester Telegram &amp; Gazette, which have suffered from sluggish advertising and a migration of readers to the Internet.</p>
+        <p>The write-down, which is being taken as a noncash charge, was disclosed as the company reported that fourth-quarter earnings excluding the charge rose 39 percent, to $87.9 million, or 61 cents a share, from the quarter a year ago. Including the pretax charge to reflect the write-down, the Times Company had a loss of $648 million, or $4.50 a share, for the quarter.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The company said it was writing down by $814.4 million the value of The Boston Globe and The Worcester Telegram &amp; Gazette.</p>
+      </block>
+      <block class="full_text">
+        <p>The New York Times Company said yesterday that it was writing down by $814.4 million the value of its New England newspapers, The Boston Globe and The Worcester Telegram &amp; Gazette, which have suffered from sluggish advertising and a migration of readers to the Internet.</p>
+        <p>The write-down, which is being taken as a noncash charge, was disclosed as the company reported that fourth-quarter earnings excluding the charge rose 39 percent, to $87.9 million, or 61 cents a share, from the quarter a year ago. Including the pretax charge to reflect the write-down, the Times Company had a loss of $648 million, or $4.50 a share, for the quarter.</p>
+        <p>The Times Company indicated in a filing in November that the assets of its New England Media Group might be written down. The charge was taken as part of the company's annual financial assessment and was a result of an increased deterioration of the New England properties during the second half of last year as major advertisers in the region consolidated. The Globe, like other newspapers, has been cutting jobs, and it recently closed three foreign bureaus in an effort to reduce costs.</p>
+        <p>Last year, John F. Welch Jr., the former chairman of the General Electric Company, expressed an interest in buying The Globe; his bankers at JPMorgan Chase arrived at an informal valuation of $500 million to $600 million for the newspaper.</p>
+        <p>The Times Company would not break out the components of the charge, but the bulk of the write-down came from The Globe, the largest newspaper in New England. The Times Company bought The Globe for $1.1 billion in 1993; the company did not disclose its current book value for the paper.</p>
+        <p>In a conference call with analysts yesterday, Janet L. Robinson, the chief executive of the Times Company, said, ''We view our New England assets as important ones and we are committed to improving their financial performance.'' She added that while there were signs of improvement in the New England advertising market, ''it's very clear that the pressure is still on.''</p>
+        <p>The company bought The Telegram &amp; Gazette for $296.3 million in 2000.</p>
+        <p>The sharp write-down underscores the extent to which the values of newspaper companies have fallen. In December, the McClatchy Company sold The Star Tribune in Minneapolis to a private equity firm for $530 million, after having paid $1.2 billion for the paper in 1998. And the Tribune Company, which owns The Los Angeles Times and Newsday, has struggled to attract bids since putting itself on the block last fall.</p>
+        <p>For the year, the Times Company earned $192.5 million, or $1.33 a share, excluding the charge for the write-down but including a 4-cent restatement to account for a change in how the company categorizes its employee pension and benefit plans. The company also made restatements to account for the change for years 2002 through 2005.</p>
+        <p>The improved fourth-quarter performance -- compared with net income of $63.2 million, or 43 cents a share, in the period a year earlier -- exceeded analysts' estimates. It was a result of stronger advertising growth, especially in the entertainment sector. Total revenue rose 4.3 percent in the quarter, to $931.5 million, with advertising growing 1.6 percent and Internet revenue growing 42 percent. Areas like automotive and telecommunications advertising continued to lag.</p>
+        <p>''While the overall print advertising market remains challenging, our fourth-quarter results reflect better- than-anticipated revenue growth in December,'' Ms. Robinson said.</p>
+        <p>Shares of the Times Company rose 19 cents, or 0.83 percent, to $23.09 in trading yesterday. The stock price has declined 18 percent over the last 12 months.</p>
+        <p>''I thought it was an encouraging performance,'' said Edward J. Atorino, a media analyst with the Benchmark Company. "If you boil off the charges, it was better than expected. They are taking out expenses and online is growing. The ingredients are there for a turnaround."</p>
+        <p>For the Times Company, the charge comes as it is refocusing its strategy and capital on its fast-growing digital properties like About.com and the Web site of The New York Times. In yesterday's call, Ms. Robinson forecast that revenue from Internet properties would grow by 30 percent in 2007, to $350 million. Highlighting the growing importance of the company's digital properties, she said that revenue from such operations was 8 percent of total revenue last year.</p>
+        <p>The company is also facing pressure from some shareholders to take steps to increase its stock price. The company has been publicly criticized by one of its largest shareholders, Morgan Stanley Investment Management, for its dual stock structure, which allows the Sulzberger family trust to elect the majority of directors through its control of Class B stock. The Class A stock, which is available to public investors, has limited voting power.</p>
+        <p>The Sulzberger family has said that it has no plans to get rid of the structure and the company has rebuffed an attempt by the Morgan Stanley fund to put to shareholders a proposal that would allow shareholders to vote on keeping the capital structure. Such a vote would be symbolic in nature as only the family trust can change the class structure.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

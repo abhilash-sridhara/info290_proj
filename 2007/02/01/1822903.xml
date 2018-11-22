@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cruel, Clueless and, for a Change, Female</title>
+    <meta content="01stan" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/arts/television/01stan.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822903"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TELEVISION REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television/Reviews</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Comedy and Humor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Comedy and Humor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">Comedy Central</org>
+        <person class="online_producer">Silverman, Sarah</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E5DD153FF932A35751C0A9619C8B63" item-length="919" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cruel, Clueless and, for a Change, Female</hl1>
+        <hl2 class="online_headline">Cruel, Clueless and, for a Change, Female</hl2>
+      </hedline>
+      <byline class="print_byline">By ALESSANDRA STANLEY</byline>
+      <byline class="normalized_byline">Stanley, Alessandra</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On network television funny women make jokes at their own expense. On cable they have license to poke fun at everyone else.</p>
+        <p>The comic heroine Sarah Silverman plays on her new Comedy Central series, ''The Sarah Silverman Program,'' is not adorably neurotic. Actually she thinks she is just fine: not too fat, not too single, not too lazy or unemployed. It's the people around her who are pathetic. A friend calls, saying, ''Hi, it's Natalie.'' Sarah, who is sprawled on her couch watching television, replies, ''Tall, thin Natalie, or Natalie Bishop?''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Sarah Silverman’s new Comedy Central series about nothing is quite funny.</p>
+      </block>
+      <block class="full_text">
+        <p>On network television funny women make jokes at their own expense. On cable they have license to poke fun at everyone else.</p>
+        <p>The comic heroine Sarah Silverman plays on her new Comedy Central series, ''The Sarah Silverman Program,'' is not adorably neurotic. Actually she thinks she is just fine: not too fat, not too single, not too lazy or unemployed. It's the people around her who are pathetic. A friend calls, saying, ''Hi, it's Natalie.'' Sarah, who is sprawled on her couch watching television, replies, ''Tall, thin Natalie, or Natalie Bishop?''</p>
+        <p>Sarah is childish, narcissistic and manipulative -- ''Mean Girls'' meets Larry David. ''I'm just like you,'' she says in a sugar-toned introductory voice-over. ''I live in Valley Village, I don't have a job, and my sister pays the rent.''</p>
+        <p>And Ms. Silverman's show about nothing is quite funny. The episodes are not as layered or intricately constructed as Mr. David's ''Curb Your Enthusiasm,'' but the humor is fueled by a similar jolt of the politically incorrect. There are few other forms of humor on Comedy Central, of course, so Ms. Silverman's stands out mostly because the slurs are spoken by a pretty young woman, and a knowing one.</p>
+        <p>On ''Curb,'' the fictional Larry David is unaware he is giving offense and indignant when accused of it. Sarah says horrible things about homosexuals, blacks, women, police officers, the disabled, the homeless and leukemia patients with a guileless cruelty.</p>
+        <p>Maybe it's a feminist milestone: finally, a woman as cheerfully, innocently malevolent as the Malcolm McDowell character in ''A Clockwork Orange'' (though slightly less prone to violence). And Ms. Silverman, 36, whose stand-up routine, ''Jesus Is Magic,'' was made into a movie in 2005, the same year she appeared in the documentary ''The Aristocrats'' with a startling joke (''Joe Franklin raped me''), is a new kind of female sitcom heroine, very different from the generation of Phyllis Diller or Joan Rivers or Roseanne Barr and Paula Poundstone.</p>
+        <p>And Sarah is certainly different from network sitcom heroines: not at all like the winsome shrinking violet Tina Fey plays on ''30 Rock'' or even the struggling divorcée Julia Louis-Dreyfus plays on ''The New Adventures of Old Christine.'' Sarah is even more insensitive and self-absorbed than Elaine was on ''Seinfeld.''</p>
+        <p>And that alone is noteworthy. Comedy Central, home to Jon Stewart, Stephen Colbert, ''South Park,'' ''Blue Collar TV'' and late-night infomercials for ''Girls Gone Wild,'' is one of the more male-oriented cable networks: Lifetime for Jackasses.</p>
+        <p>In a promotional spot for her show Ms. Silverman stands on an outdoor court in tennis whites and urges viewers to tune in. ''And hey,'' she says with a ''Goodbye, Columbus'' smile, ''for most of you who watch Comedy Central this is the closest you're going to get to a vagina.''</p>
+        <p>Currently Ms. Silverman is the only woman to have her own weekly series on Comedy Central; her show has been picked up for a six-week engagement. And only a few have been given comedy specials: comics like Wanda Sykes and most recently Lisa Lampanelli, whose stand-up routine, ''Dirty Girl,'' consists of her heckling her mostly gay audience in Don-Rickles-in-a-dress mode (though blacks are also a favorite target).</p>
+        <p>Ms. Silverman is as scatological as any young male comedian, relying on flatulence jokes and crude sexual remarks, along with a steady stream of aspersions about gay people and blacks. At a coffee shop she calls her sister gay, then turns to her two gay neighbors apologetically. ''I don't mean gay like homosexual,'' she says sweetly. ''I mean gay like retarded.''</p>
+        <p>She is funniest doing absurdist material. In one episode she steps from the narrative into a music video in which she sings a sad, folksy ballad about world peace in a white gauzy dress as ocean waves foam in the background.</p>
+        <p>When her loving, uncritical sister, Laura (played by Ms. Silverman's real-life sister, Laura Silverman), comes to pick her up from jail, Laura and the arresting officer (Jay Johnston) instantly fall in love. When she tells the officer that her last name is Silverman as they walk back to her car, the officer says tenderly, ''I believe the Holocaust was completely uncalled for.'' Laura, just as smitten, coos, ''Oh, don't worry about it.''</p>
+        <p>Comics are supposed to serve as navigators, using ridicule and parody to chart human nature and social conventions. Their riffs are only as funny as they are unexpected and unsettling, and surprise is hard to pull off on a 24-hour cable network entirely devoted to humor. After a while viewers turn numb to even the best material, nodding like professional comedians who acknowledge a colleague's joke not by laughing but by saying, ''Funny.''</p>
+        <p>Ms. Silverman's sardonic humor is not really new to Comedy Central, but her persona is.</p>
+        <p>She is not the old model of the self-deprecating female moaning about the size of her thighs and bad boyfriends or the crude male comic complaining about his girlfriend's thighs and bad boyfriends.</p>
+        <p>Sarah is the comic embodiment of a feline, self-centered femininity. Ms. Silverman's material is as raw and profane as any man's, but served up slyly.</p>
+        <p>The Sarah Silverman Program  Comedy Central, tonight at 10:30, Eastern and Pacific times; 9:30, Central time.</p>
+        <p>Sarah Silverman, Rob Schrab, Heidi Herzon and Dan Sterling, executive producers; Mr. Schrab, director of the pilot and several episodes; Gary Mann, executive in charge of production for Comedy Central.</p>
+        <p>WITH: Sarah Silverman (Sarah Silverman), Laura Silverman (Laura Silverman), Brian Posehn (Brian), Steve Agee (Steve), Jay Johnston (Officer Jay).</p>
+        <p>TELEVISION REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Judges Weigh Arguments In U.S. Eavesdropping Case</title>
+    <meta content="01nsa" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/washington/01nsa.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823042"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Surveillance of Citizens by Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <org class="indexing_service">American Civil Liberties Union</org>
+        <org class="indexing_service">National Security Agency</org>
+        <org class="indexing_service">Justice Department</org>
+        <person class="indexing_service">Liptak, Adam</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="descriptor">Surveillance of Citizens by Government</classifier>
+        <classifier class="online_producer" type="descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surveillance of Citizens by Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">National Security Agency</org>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E4DA153FF932A35751C0A9619C8B63" item-length="754" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Judges Weigh Arguments In U.S. Eavesdropping Case</hl1>
+        <hl2 class="online_headline">Judges Weigh Arguments in U.S. Eavesdropping Case</hl2>
+      </hedline>
+      <byline class="print_byline">By ADAM LIPTAK</byline>
+      <byline class="normalized_byline">Liptak, Adam</byline>
+      <dateline>CINCINNATI, Jan. 31</dateline>
+      <abstract>
+        <p>Three judges on panel hearing first appellate argument about legality of National Security Agency surveillance program indicate that they are not convinced that issue is moot now that Bush administration has agreed to submit program to secret court; during argument, however, judges noted that administration has made no promise to continue working with court in future; recap of argument and issues in lower court case (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Three federal judges hearing the first appellate argument about the legality of a National Security Agency domestic surveillance program on Wednesday indicated that they were not convinced that the issue was moot now that the Bush administration had agreed to submit the program to a secret court.</p>
+        <p>In a series of sharply worded questions to an administration lawyer defending the program, the judges noted that the administration did not promise to continue working with the secret court in the future.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The judges noted that the administration did not promise to continue working with secret courts on the N.S.A.’s domestic surveillance program in the future.</p>
+      </block>
+      <block class="full_text">
+        <p>Three federal judges hearing the first appellate argument about the legality of a National Security Agency domestic surveillance program on Wednesday indicated that they were not convinced that the issue was moot now that the Bush administration had agreed to submit the program to a secret court.</p>
+        <p>In a series of sharply worded questions to an administration lawyer defending the program, the judges noted that the administration did not promise to continue working with the secret court in the future.</p>
+        <p>''You could opt out at any time, couldn't you?'' asked Judge Ronald L. Gilman of the United States Court of Appeals for the Sixth Circuit.</p>
+        <p>Deputy Solicitor General Gregory G. Garre acknowledged the possibility.</p>
+        <p>But the judges pressed Mr. Garre's adversary, Ann Beeson of the American Civil Liberties Union, just as hard on a different point -- whether her clients had suffered injuries direct and concrete enough to give them standing to sue.</p>
+        <p>''Explain to me how we get to a finding of standing?'' Judge Julia S. Gibbons asked.</p>
+        <p>Judge Gibbons repeated the question in similar form several times.</p>
+        <p>Ms. Beeson said the plaintiffs, who include lawyers and journalists, have had to change the way they communicate with clients and sources in the Middle East because they feared that their discussions would not be confidential.</p>
+        <p>But Judge Gibbons and Judge Alice M. Batchelder seemed skeptical about whether that sort of general and speculative fear was sufficient.</p>
+        <p>The government has refused to say whether it eavesdropped on the plaintiffs.</p>
+        <p>''Telling our enemies who is the subject of surveillance would reveal information that could harm the national security,'' Mr. Garre said Wednesday.</p>
+        <p>The A.C.L.U. brought suit last year after an article in The New York Times disclosed the existence of the program, which monitors the international communications of people in the United States without court approval.</p>
+        <p>In August, Judge Anna Diggs Taylor of the Federal District Court in Detroit ordered the program shut down. The decision has been stayed during the appeal to the Sixth Circuit.</p>
+        <p>Judge Gilman raised the possibility that the legality of the program might never be adjudicated. ''If the plaintiffs here don't have standing,'' he said, ''who would possibly have standing?''</p>
+        <p>While Mr. Garre urged the court to dismiss the case under threshold questions like mootness and standing, Ms. Beeson tried to steer the judges toward the merits.</p>
+        <p>''A failure to decide the case will leave it up to the president whether and when to follow the law,'' Ms. Beeson said.</p>
+        <p>Over the course of the litigation, the government has refined some of its arguments.</p>
+        <p>Early statements from various administration officials appeared to concede that the program violated a 1978 law, the Foreign Intelligence Surveillance Act.</p>
+        <p>But the government's appellate filings say that is an open question and one that cannot be answered without disclosing state secrets.</p>
+        <p>At several points in the argument, Mr. Garre said that the so-called state secrets privilege was a litigation showstopper. The privilege requires courts to limit or dismiss cases when allowing them to proceed would disclose information harmful to national security.</p>
+        <p>Several courts have ruled, however, that the administration's general description and defense of the N.S.A. program meant that it was no longer secret and that questions about its legality could be decided without raising national security concerns.</p>
+        <p>Assuming the court finds a path through the thicket of preliminary objections, it will be left with the question of whether the president was entitled to ignore the 1978 law when he authorized eavesdropping that bypassed warrants.</p>
+        <p>Mr. Garre said that a 2001 Congressional authorization to use military force after the Sept. 11 attacks overrode the law.</p>
+        <p>Judge Gilman seemed unconvinced. ''I understand your argument,'' he said. ''I'm not sure I agree with it.''</p>
+        <p>The administration has also said that the president has the constitutional power, regardless of what Congress has to say, to conduct foreign intelligence surveillance in wartime.</p>
+        <p>Judge Taylor's decision striking down the program was sweeping, and her reasoning, which was in places unorthodox, attracted criticism even from legal scholars who supported her conclusion.</p>
+        <p>In its public briefs, the government said Judge Taylor had taken ''the unprecedented step of permanently enjoining a foreign intelligence gathering program authorized by the commander in chief to protect the nation from foreign attacks in wartime.''</p>
+        <p>The government has also filed classified versions of its briefs and other documents, which are available only to the judges.</p>
+        <p>Judge Batchelder was appointed by President George Bush, Judge Gilman by President Bill Clinton, and Judge Gibbons by President George W. Bush.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

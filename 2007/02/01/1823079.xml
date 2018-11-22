@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lakers? Big Victory. The Bobcats? Big Problem.</title>
+    <meta content="01knicks" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/sports/basketball/01knicks.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823079"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <org class="indexing_service">Charlotte Bobcats</org>
+        <org class="indexing_service">New York Knickerbockers</org>
+        <person class="indexing_service">Bernstein, Viv</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/New York Knicks</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/Charlotte Bobcats</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/Los Angeles Lakers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <org class="online_producer">New York Knicks</org>
+        <org class="online_producer">Charlotte Bobcats</org>
+        <person class="online_producer">Crawford, Jamal</person>
+        <person class="online_producer">Curry, Eddy</person>
+        <person class="online_producer">Wallace, Gerald</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEFDA153FF932A35751C0A9619C8B63" item-length="780" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lakers? Big Victory. The Bobcats? Big Problem.</hl1>
+        <hl2 class="online_headline">Lakers? Big Victory. The Bobcats? Big Problem.</hl2>
+      </hedline>
+      <byline class="print_byline">By VIV BERNSTEIN</byline>
+      <byline class="normalized_byline">Bernstein, Viv</byline>
+      <dateline>CHARLOTTE, N.C., Jan. 31</dateline>
+      <abstract>
+        <p>Charlotte Bobcats defeat New York Knicks, 104-87; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Knicks arrived at Charlotte Bobcats Arena on Wednesday in search of some consistency, having struggled to put consecutive victories together through most of January. But the Knicks faced a Bobcats team that has inspired anything but consistency in them in recent seasons.</p>
+        <p>And the Bobcats confounded the Knicks once again. Gerald Wallace scored a career-high 42 points and Charlotte blew open a close game in the third quarter on its way to a 104-87 victory.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An 18-5 run to open the third quarter gave the Bobcats a 74-59 lead, and Charlotte never trailed after that. The Knicks have not won two games in a row since a three-game winning streak from Jan. 3-10.</p>
+      </block>
+      <block class="full_text">
+        <p>The Knicks arrived at Charlotte Bobcats Arena on Wednesday in search of some consistency, having struggled to put consecutive victories together through most of January. But the Knicks faced a Bobcats team that has inspired anything but consistency in them in recent seasons.</p>
+        <p>And the Bobcats confounded the Knicks once again. Gerald Wallace scored a career-high 42 points and Charlotte blew open a close game in the third quarter on its way to a 104-87 victory.</p>
+        <p>The loss came one night after an encouraging 99-94 victory at Madison Square Garden against the Los Angeles Lakers, who were without the suspended Kobe Bryant.</p>
+        <p>The Knicks (20-28) thought they had momentum. But they have not won consecutive games since putting together a three-game winning streak from Jan. 3-10. Charlotte ended that streak with a 126-110 victory against the Knicks at the Garden on Jan. 12. The Knicks are 4-7 since then.</p>
+        <p>''We take a step forward, we take a step backward,'' said Jamal Crawford, who led the Knicks with 28 points. Eddy Curry was second with 15 points, but he had only 3 after the first quarter.</p>
+        <p>The Knicks were without Quentin Richardson, who missed his second consecutive game with an elbow injury. Stephon Marbury played despite injuring a knee against the Lakers. He struggled against the Bobcats, shooting 1 of 7 from the field and contributing 7 points and 2 assists in 35 minutes.</p>
+        <p>''It was kind of tough coming into tonight to try to play the way I played last night as far as going to the basket and attacking the basket and doing some of the things that I'm normally capable of doing,'' said Marbury, who said he would be fine by Saturday, when the Knicks play on the road against the Orlando Magic.</p>
+        <p>Coach Isiah Thomas blamed injuries for the Knicks' inconsistency.</p>
+        <p>''It's like every time we get a little momentum going, we start playing a certain way, we get hit with a couple injuries that kind of knock things out,'' he said. ''If we can ever stay together for any length of time, hopefully we can run off some games.''</p>
+        <p>The Bobcats (17-28), half a game behind Atlanta in the battle to avoid last place in the Southeast Division, are 2-1 against the Knicks this season and 6-4 over all since joining the league in the 2004-5 season. The Knicks are one of four teams that have an overall losing record against Charlotte, joining Atlanta, Houston and Utah.</p>
+        <p>The Bobcats have become more competitive of late, and were 7-5 in their last 12 games going into Wednesday night. Wallace helped make it 8-5.</p>
+        <p>Marbury agreed when asked if Wallace was one of the most underrated players in the league. But David Lee, the Knicks' sixth man, said his team allowed Wallace to gain confidence early Wednesday night.</p>
+        <p>''He wouldn't even shoot a six-foot jump shot to start the game, and by the end of the game, he was raining 3s,'' said Lee, who had 10 points and 13 rebounds in 35 minutes. ''It is all a confidence game for him, and he got going early and he played a good game.''</p>
+        <p>The Knicks had played Charlotte evenly in the first half, with the Bobcats coming away with a 56-54 lead. But an 18-5 run to open the third quarter gave Charlotte a 74-59 advantage, and it never surrendered the lead after that.</p>
+        <p>The Knicks closed to 76-72 late in the third quarter with a 10-2 stretch. But the Bobcats stiffened and rebuilt a cushion, as Wallace scored 17 points in the fourth quarter.</p>
+        <p>Rebounds</p>
+        <p>Jared Jeffries of the Knicks wore a brace around his sore lower back and walked gingerly out of the locker room after the game. He started but was limited to 4 points in 16-plus minutes after falling on his back early in the game.  David Lee was named to the game between rookies and second-year players to be played Feb. 16 as part of the All-Star Game festivities in Las Vegas. Lee, a second-year forward, went into Wednesday's game averaging 11.2 points and 10.8 rebounds in 30 minutes a game. isiah Thomas said he was disappointed that Channing Frye was not selected. Frye, who had 13 points and 9 rebounds in 40 minutes Wednesday night, played in the game as a rookie last year.  Thomas said he was hoping that Eddy Curry would be named to the Eastern Conference roster for the All-Star Game. And how did Thomas vote? ''I like the Pistons,'' he said. ''They're good, and I like them. And whenever there's a Piston that has a chance, he's got my vote. I'm biased.''</p>
+        <p>BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

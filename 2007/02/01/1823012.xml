@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Driven by Ads, Net Income Nearly Triples At Google</title>
+    <meta content="01google" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1823012"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Google Inc</org>
+        <person class="indexing_service">Helft, Miguel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E1DB153FF932A35751C0A9619C8B63" item-length="741" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Driven by Ads, Net Income Nearly Triples At Google</hl1>
+      </hedline>
+      <byline class="print_byline">By MIGUEL HELFT</byline>
+      <byline class="normalized_byline">Helft, Miguel</byline>
+      <dateline>SAN FRANCISCO, Jan. 31</dateline>
+      <abstract>
+        <p>Google reports quarterly net income nearly tripled, to $1.03 billion, up from $372.2 million in final quarter of 2005; says quarterly revenue rose 67 percent from year ago, to $3.21 billion (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Continuing the blockbuster growth of its search-driven advertising business, Google reported a sharp rise Wednesday in both sales and profit in the fourth quarter.</p>
+        <p>Google, the largest Internet search engine, also continued to outpace rivals like Yahoo and Microsoft, which last week reported far slower growth in their online offerings.</p>
+      </block>
+      <block class="full_text">
+        <p>Continuing the blockbuster growth of its search-driven advertising business, Google reported a sharp rise Wednesday in both sales and profit in the fourth quarter.</p>
+        <p>Google, the largest Internet search engine, also continued to outpace rivals like Yahoo and Microsoft, which last week reported far slower growth in their online offerings.</p>
+        <p>''Business continues to be very, very good here at Google,'' Eric E. Schmidt, Google's chief executive, said in a conference call with investors and reporters.</p>
+        <p>In an interview, Mr. Schmidt said Google's business, which earns most of its revenue when users click on ads that appear next to search results, was strong in terms of traffic and advertising growth, both domestically and internationally.</p>
+        <p>Google is also showing fewer ads on each search, but those ads are more relevant to users, are clicked on more frequently, and hence, generate a better return for both Google and for advertisers, he said.</p>
+        <p>Derek Brown, an analyst with Cantor Fitzgerald, said, ''Their performance is extraordinary even in absolute terms, but particularly in comparison with the companies they are competing with.''</p>
+        <p>Google said net income for the quarter nearly tripled, to $1.03 billion, or $3.29 a share, up from $372.2 million, or $1.22 a share, in the final quarter of 2005. Excluding charges related to stock-based compensation and other adjustments, the company earned $997 million, or $3.18 a share.</p>
+        <p>Wall Street analysts had expected Google to earn $2.92 a share, excluding one-time items, according to Thomson Financial.</p>
+        <p>Google's quarterly revenue rose 67 percent from a year ago, to $3.21 billion. Google sells ads that are displayed on other sites, and passes most of the revenue from those ads to the sites' owners. Excluding those payments, Google's revenue was $2.23 billion.</p>
+        <p>Some analysts said Google's growth could even accelerate this year.</p>
+        <p>''I still see a lot of good things coming down the pike,'' Safa Rashtchy, an analyst with Piper Jaffray &amp; Company.</p>
+        <p>Shares of Google closed Wednesday at $501.50, up $7.18. After the earnings report, the stock was trading slightly below $500, apparently reflecting disappointment by some investors who had expected the results to be even more impressive.</p>
+        <p>Google's results come at a time when the company is rapidly expanding its product offerings, developing partnerships with the likes of AOL and MySpace, integrating its acquisition of the video search service YouTube and experimenting with new forms of advertising, including video, audio, print and displays on mobile phones. Both the company and analysts see many of these initiatives paying off financially over the next couple of years.</p>
+        <p>Mr. Schmidt said that while text ads linked to search results continued to perform extremely well, Google's diversification was essential to its growth. And he dismissed criticism that the company had introduced too many products -- including many that have not been hits with users -- and risks losing focus.</p>
+        <p>''We have concluded that we are expanding our mission, if anything, not fast enough,'' he said.</p>
+        <p>Google said YouTube, which it acquired for $1.65 billion during the fourth quarter, would continue to operate with a large degree of autonomy, but that Google would use its technology and expertise in online advertising to cash in on YouTube's growing popularity.</p>
+        <p>Just last week, Google announced that YouTube videos would appear among the results on Google's own video search service, and Mr. Schmidt said the company would experiment with a variety of advertising models on the video site.</p>
+        <p>But the acquisition remains clouded by the threat of potential litigation by movie studios against Google over the proliferation of copyrighted videos on YouTube.</p>
+        <p>Mr. Schmidt said that after the YouTube acquisition, Google executives began intense rounds of nearly continuous talks with copyright owners, and he sounded hopeful that litigation would be averted.</p>
+        <p>''A bunch of us got on airplanes to talk to everybody,'' Mr. Schmidt said. ''There is a relatively lengthy process of education on both sides. There is lots and lots of talking, and we have not hit any walls.''</p>
+        <p>Google continued to invest heavily in its infrastructure, like big data centers, which the company said was a continuing source of competitive advantage. The company said capital expenditures were $367 million during the quarter.</p>
+        <p>In the fourth quarter, Google also began heavy promotion of its Checkout service, an e-commerce payment system that competes with eBay's popular PayPal. During the holidays, Google offered consumers $10 rebates on purchases of $30 or more, and in some cases $20 rebates on purchases of $50 or more.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

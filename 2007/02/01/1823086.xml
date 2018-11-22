@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A DEAL THAT ISN'T A DEAL</title>
+    <meta content="01base-1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/sports/baseball/01bonds.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823086"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL: ROUNDUP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">San Francisco Giants</org>
+        <person class="indexing_service">Chass, Murray</person>
+        <person class="indexing_service">Bonds, Barry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/San Francisco Giants</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E7D9153FF932A35751C0A9619C8B63" item-length="324" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A DEAL THAT ISN'T A DEAL</hl1>
+        <hl2 class="online_headline">Bonds’s Deal Isn’t a Deal Yet</hl2>
+      </hedline>
+      <byline class="print_byline">By MURRAY CHASS</byline>
+      <byline class="normalized_byline">Chass, Murray</byline>
+      <abstract>
+        <p>San Francisco Giants' deal with Barry Bonds includes promotional provision that Major League Baseball declines to approve (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The contract that Barry Bonds and the San Francisco Giants signed Monday after a 52-day delay was not a completed contract after all.</p>
+        <p>The commissioner's office declined to approve it because it contained a promotional provision that management negotiators and the union agreed would not be permitted during the most recent labor talks.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The commissioner’s office declined to approve the contract signed on Monday, but it wasn’t because of a provision that would allow the Giants to terminate the contract if Bonds was indicted on charges.</p>
+      </block>
+      <block class="full_text">
+        <p>The contract that Barry Bonds and the San Francisco Giants signed Monday after a 52-day delay was not a completed contract after all.</p>
+        <p>The commissioner's office declined to approve it because it contained a promotional provision that management negotiators and the union agreed would not be permitted during the most recent labor talks.</p>
+        <p>The commissioner's office, however, had no problem with another provision that would allow the Giants to terminate the contract if Bonds was indicted on charges stemming from the Bay Area Laboratory Co-Operative steroids investigation. The union would have a problem with that provision and would challenge it if the Giants had reason to invoke it.</p>
+        <p>The promotional provision was an easy one to deal with compared with what could develop from the indictment clause. All players' contracts have a provision under which players are required to participate in their teams' promotional activities. It is a general provision, but the Giants made it specific in Bonds's contract, stating how many promotional appearances Bonds would make.</p>
+        <p>Clubs have often tried to make the provision specific, and the union has fought it. In the talks that produced a new labor contract last summer, the commissioner's office agreed with the union, so the clause had to be excised from the Bonds contract.</p>
+        <p>The Giants redid the contract without the promotional provision and sent it to Bonds, but Bonds did not initially sign it. It was not known last night whether he would or would not do so, or whether it was necessary for him to sign it at all, since he had already signed the contract Monday.</p>
+        <p>As for the indictment clause, Bonds agreed that if he were indicted for a criminal act, the Giants could terminate the $15.8 million contract. Bonds also agreed not to challenge such action if the Giants took it. But Bonds could not stop the union from filing a grievance, which it certainly would do.</p>
+        <p>MURRAY CHASS</p>
+        <p>BASEBALL: ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

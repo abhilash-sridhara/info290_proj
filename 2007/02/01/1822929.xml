@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Better Shoeboxes for Digital Photos</title>
+    <meta content="01basics" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/technology/01basics.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822929"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASICS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Adobe Systems Inc</org>
+        <org class="indexing_service">Apple Inc</org>
+        <person class="indexing_service">Austen, Ian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Photography</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Adobe Systems Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05EEDD153FF932A35751C0A9619C8B63" item-length="1368" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Better Shoeboxes for Digital Photos</hl1>
+        <hl2 class="online_headline">Better Shoeboxes for Digital Photos</hl2>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+      <abstract>
+        <p>Article on latest digital photo management software programs offered by Adobe Systems, maker of Photoshop, and iPhoto from Apple; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PHOTO management once meant finding room to stash yet another box filled with snapshots. While digital photography has freed up that closet space, sorting and retrieving pictures in the era of the 250-gigabyte hard drive has created a set of challenges of its own.</p>
+        <p>Recently, the declining cost of high-capacity camera memory cards has accelerated the pace at which many people accumulate photos. At the same time, the growing popularity of sophisticated digital single-lens-reflex cameras among amateur photographers is leading to larger file sizes and more interest in fine-tuning images.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>While digital photography has freed up closet space, sorting and retrieving pictures in the era of the 250-gigabyte hard drive has created a set of challenges of its own.</p>
+      </block>
+      <block class="full_text">
+        <p>PHOTO management once meant finding room to stash yet another box filled with snapshots. While digital photography has freed up that closet space, sorting and retrieving pictures in the era of the 250-gigabyte hard drive has created a set of challenges of its own.</p>
+        <p>Recently, the declining cost of high-capacity camera memory cards has accelerated the pace at which many people accumulate photos. At the same time, the growing popularity of sophisticated digital single-lens-reflex cameras among amateur photographers is leading to larger file sizes and more interest in fine-tuning images.</p>
+        <p>Two major software companies offered their latest answers to these problems this week, adding to the range of programs available for browsing and managing photos.</p>
+        <p>The Microsoft Windows operating system has lacked anything approaching the easy-to-use iPhoto program supplied with Apple Macintosh computers. But Windows Vista, which went on sale to consumers this week, includes an advanced photo management system that Microsoft calls Windows Photo Gallery.</p>
+        <p>On Monday, Adobe Systems, the maker of Photoshop, released a final version of Photoshop Lightroom, an organizing program that has been floating around in trial form for more than a year.</p>
+        <p>Photo management programs are not complete substitutes for full photo-editing software like Photoshop. That being said, they do offer the editing tools that photographers use most frequently to change the overall look of photos, like adjustments for exposure, brightness, contrast and color.</p>
+        <p>''It's not about pixel manipulation,'' said Rob Schoeben, vice president for applications product marketing at Apple. ''It's about pulling the beauty out of the image.''</p>
+        <p>Most of these programs assume that users want to fix and sort a large number of photos at the same time, for example after downloading them from a camera. Editing software like Photoshop offers batch processing options, but the working premise of those programs is that users will generally be intensively fiddling with one picture at a time.</p>
+        <p>One trick offered by many types of photo management software is nondestructive editing. Through various means, the programs make sure that the original image is always left intact during editing. In effect, the original image files play the role given to negatives in the film world. Among other things, that allows users to change their minds about edits. Unpopular relatives or political despots can be cropped out of photos one day and then restored when they return to favor.</p>
+        <p>Most makers of photo management software follow Apple's option and offer two flavors of products. IPhoto, for example, costs nothing when you buy a new Mac, while its more advanced sibling, Aperture 1.5, sells for $300.</p>
+        <p>People who rarely make adjustments to their photos and think of them as snapshots rather than personal expression will probably be more than satisfied with the basic programs. Owners of digital S.L.R.'s who frequently adjust photos or who often take photos using their camera's RAW setting, which saves all the color and exposure data gathered by the camera's sensor in a large file, may find working with the more costly, more capable programs easier.</p>
+        <p>Most high-end photo management programs are available as fully featured trial downloads that expire after a certain period. Because the programs approach some basic tasks in ways that may not suit every user's tastes, the no-cost trials have much to recommend them. They also allow owners of older computers to see if their machines can form a happy partnership with these demanding programs.</p>
+        <p>An Elegant Solution</p>
+        <p>The features and reliability of Photoshop long ago made it the editor of choice for serious photographers. But its interface, even for knowledgeable users, can be as intimidating as the instrument panel of a jumbo jet.</p>
+        <p>The new Photoshop Lightroom is a study in simplicity and elegance. One of its setup options enables photos to float on a black background, with the editing and navigation tools appearing only when the cursor is dragged near the monitor's edge.</p>
+        <p>While Lightroom, which will cost $200 for the next few months when purchased directly from Adobe (www.adobe.com), allows easy navigation through large numbers of photos, some of the other features need refinement. Lightroom cannot, for example, directly attach photos to e-mail messages.</p>
+        <p>Adobe Photoshop Elements is a variation of Photoshop CS2, Adobe's $650 flagship program, that offers its most important features for the bargain price of $100 in the Windows version or $80 for Mac users.</p>
+        <p>Perhaps Mac users are given a discount because iPhoto, which can easily be integrated with any version of Photoshop for high-level editing, is a much better way to manage their photos. For Windows users, Photoshop Elements is a relatively inexpensive way to get the leading editing program and a competent photo manager in the same box.</p>
+        <p>Microsoft's interest in photo management software is not confined to Vista. Last year, it bought iView Multimedia (www.iview-multimedia.com), the maker of MediaPro, a $200 program with a reputation for working quickly when searching through large numbers of photos. The program can also store other types of data, including video and music. This spring, MediaPro will become a new program, Microsoft Expression Media. It will include additional features and cost $100 more. Despite the new ownership, it will be sold in Mac and Windows versions.</p>
+        <p>Macintosh Software</p>
+        <p>IPhoto, which has been around since 2002, clearly inspired several photo management programs from other companies. For most Apple users, nothing else is as easy to use. Aperture, however, offers several features that may benefit people who frequently tweak their photos and who have large photo collections.</p>
+        <p>In a sense, the designers of iPhoto stuck to the shoebox school of organizing. It is designed with the idea that all images will be stored in a single library file. Aperture, by contrast, can track photos stored anywhere and in multiple locations, including external hard drives and those archived on CDs and DVDs.</p>
+        <p>Aperture's nondestructive editing system also consumes far less hard-drive space over time. IPhoto preserves its originals by duplicating the full image when it is edited. Aperture merely stores a compact set of instructions indicating how to alter the master image to recreate the edits.</p>
+        <p>If Lightroom excels in navigation, Aperture leads the way in easy-to-use editing tools. Its only drawback is that the screen display can seem a bit crowded when on a laptop. As with iPhoto, however, users can easily toggle to a full-screen display that hides the editing and navigation accessories.</p>
+        <p>Windows Software</p>
+        <p>Even Microsoft acknowledges that the photo features supplied with earlier Windows versions did little more than allow users to get pictures out of their cameras and into their computers. The Windows Photo Gallery in Vista promises to improve that situation. As a bonus, like Apple's Aperture program, it can also keep tabs on pictures that have been moved to CDs, DVDs or external hard drives.</p>
+        <p>For Windows users without Vista, one of the best options costs nothing to download: Google's Picasa (picasa.google.com). Unsurprisingly, it integrates well with other Google services and it offers efficient editing tools. While it can manage images on external hard drives, Picasa cannot deal with pictures on CDs or DVDs.</p>
+        <p>Twelve years ago, ACDSee from ACD Systems (www.acdsee.com) was a pioneer of photo management. Today, the company offers a basic version of its latest software, ACDSee 9, for $40. For an extra $90, ACDSee Pro handles RAW file conversion more quickly and allows greater customization.</p>
+        <p>Another software company, Corel (www .corel.com), bought Jasc Software, an early photo software developer, about two years ago. One result of the deal is Corel Snapfire, a free photo manager, although users must put up with a small, ever-changing ad for Corel products in one corner.</p>
+        <p>It is much like iPhoto in its basic concept and includes some relatively advanced editing functions, like the ability to straighten off-kilter snapshots. For the benefit of complete novices, the software automatically analyzes images and suggests which ones might benefit from basic editing.</p>
+        <p>The free version has a major shortcoming: it does not offer any direct way to back up photos. Doing that requires buying Snapfire Plus for $40, which adds a few editing features and allows users to switch off the ads. Neither version offers nondestructive editing because Corel decided that the concept was too confusing for novices.</p>
+        <p>BASICS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

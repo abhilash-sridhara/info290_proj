@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mexico Awaits Hague Ruling on Citizens on Death Row</title>
+    <meta content="16DEAT$02" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/01/16/national/16DEAT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1551184"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Capital Punishment</classifier>
+        <classifier class="indexing_service" type="descriptor">Sentences (Criminal)</classifier>
+        <location class="indexing_service">Mexico</location>
+        <location class="indexing_service">Oklahoma</location>
+        <org class="indexing_service">International Court of Justice (Un) (World Court)</org>
+        <person class="indexing_service">Liptak, Adam</person>
+        <person class="indexing_service">Torres, Osbaldo</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Mexico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Netherlands</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Oklahoma</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Plains</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Netherlands/The Hague</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Netherlands</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Oklahoma</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Mexico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Capital Punishment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sentences (Criminal)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Capital Punishment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <location class="online_producer">Mexico</location>
+        <location class="online_producer">United States</location>
+        <location class="online_producer">Hague (Netherlands)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E0D81E30F935A25752C0A9629C8B63" item-length="1651" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mexico Awaits Hague Ruling on Citizens on Death Row</hl1>
+        <hl2 class="online_headline">Mexico Awaits Hague Ruling on Citizens on U.S. Death Row</hl2>
+      </hedline>
+      <byline class="print_byline">By ADAM LIPTAK</byline>
+      <byline class="normalized_byline">Liptak, Adam</byline>
+      <abstract>
+        <p>Osbaldo Torres is one of 52 Mexican citizens in eight states whose convictions and death sentences are being challenged by Mexico in International Court of Justice in The Hague; Mexico says United States violated treaty guaranteeing that fareigners arrested in US have access to representatives of their government; court ordered US last Feb not to kill Torres and two compatriots, at least until it issues its final ruling; in Torres's case, Oklahoma attorney general asked appeals court to stay execution 'out of courtesy' to internatinal court; legal experts call this unprecedented act of deference by American official; Mexico seeks to void all 52 convictions and death sentences, contending that defendants should be retried, with statements obtained before their meeting with Mexican diplomats excluded; US, in filings in The Hague, calls Mexico's demands 'unjustified, unwise and ultimately unacceptable instrusion into United States criminal justice system'; acquiescence of Oklahoma attorney general may reflect tactical prudence, as international court is not likely to welcome being defied while larger case is pending; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Osbaldo Torres, a convicted murderer on death row in Oklahoma, should have been dead by now, his appeals exhausted, his time up.</p>
+        <p>But because 15 judges in The Hague, acting at the request of the government of Mexico, have forbidden his execution for now, he is alive in a cell in McAlester, awaiting the next move from the Netherlands.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In a struggle that has raised questions about the reach of international law, Mexico is challenging the death sentences of 52 Mexican citizens in the U.S.</p>
+      </block>
+      <block class="full_text">
+        <p>Osbaldo Torres, a convicted murderer on death row in Oklahoma, should have been dead by now, his appeals exhausted, his time up.</p>
+        <p>But because 15 judges in The Hague, acting at the request of the government of Mexico, have forbidden his execution for now, he is alive in a cell in McAlester, awaiting the next move from the Netherlands.</p>
+        <p>Mr. Torres belongs to a subset of death-row inmates at the center of a struggle that has crossed national borders and raised combustible questions about the death penalty, due process, the reach of international law and the United States' standing in the court of world opinion.</p>
+        <p>He is one of 52 Mexican citizens in eight states whose convictions and death sentences are being challenged by Mexico in the International Court of Justice in The Hague. Mexico says the United States violated a treaty guaranteeing that foreigners arrested in this country have access to representatives of their government.</p>
+        <p>The court ordered the United States last February not to kill Mr. Torres and two compatriots, at least until it issues its final ruling, which is expected to come in the spring.</p>
+        <p>None of the 52 Mexicans have been put to death. In Mr. Torres's case, the Oklahoma attorney general asked a state appeals court in November to stay the execution ''out of courtesy'' to the international court. It was an unprecedented act of deference by an American official, legal experts said.</p>
+        <p>Mexico is seeking to void all 52 convictions and death sentences, contending that its citizens were denied the right to meet promptly with Mexican diplomats. The defendants should be retried, Mexico says, with statements obtained before such meetings excluded.</p>
+        <p>Mexico also asked the court to require that the United States honor these so-called consular rights in the future, perhaps by rewriting the standard Miranda warning given suspects before they are questioned by the police.</p>
+        <p>In its filings in The Hague, the United States, represented by lawyers from the State and Justice Departments, called Mexico's demands ''an unjustified, unwise and ultimately unacceptable intrusion into the United States criminal justice system.''</p>
+        <p>The acquiescence of the Oklahoma attorney general, Drew Edmondson, given after consultations with the State Department, is thus remarkable. It may reflect tactical prudence, as the international court is not likely to welcome being defied while the larger case is pending. Or it may indicate a desire by the United States to maintain a level of international comity, even as the war in Iraq and the widespread use of the death penalty in the United States have been criticized by some of its allies.</p>
+        <p>The United States' arguments before The Hague are not quite those of a global scofflaw. This country has, in fact, been a party to the Vienna Convention on Consular Relations since 1969, as well as to a separate protocol in which it submitted to the jurisdiction of the international court to interpret the convention and to resolve disputes about it. Treaties are, under the Constitution, ''the supreme law of the land.''</p>
+        <p>Although the United States does not view the rulings of many international bodies as binding, it does acknowledge the jurisdiction of the International Court of Justice to decide cases brought under the consular relations convention and, in some circumstances, to order nations to comply with the court's interpretation of it. In the Mexican case, however, the United States contends that the court lacks jurisdiction to determine by ''highly specific means'' what nations must do to comply.</p>
+        <p>One hundred sixty-four other nations are also parties to the convention, and the United States invokes it often when its citizens are detained abroad.</p>
+        <p>''If you were arrested in Damascus and they gave you a dime,'' said Donald F. Donovan, a lawyer at Debevoise &amp; Plimpton, which represents Mexico in the case, ''would you want to call your court-appointed lawyer or the American embassy?''</p>
+        <p>The convention requires that arrested foreigners be told of their right to speak with consular officials. If they do, local officials must contact the appropriate consulate. Both actions, the convention says, must be taken ''without delay.''</p>
+        <p>Mexico contends that these obligations are often ignored in the United States, and that Mexican officials frequently learn of arrests of Mexican citizens only years later, and only by happenstance. The two nations differ about how well Mexico, which does not have the death penalty, complies with the convention.</p>
+        <p>The Mexican government says it did not learn of the 1993 arrest of Mr. Torres, then 18, until 1996. Mr. Torres had lived in the United States since he was 5, prosecutors said.</p>
+        <p>By the time Mexico learned of the charges against Mr. Torres, from relatives, he had already been twice tried for the murder of a couple in front of their children. The first trial ended in a mistrial because the jury could not agree about whether he was guilty. The second ended with a death sentence.</p>
+        <p>When Mr. Torres's lawyers then tried to raise the Vienna Convention in his defense, courts said that the defendant was too late, and that he would not have benefited from Mexican assistance in any event.</p>
+        <p>Mexico disputes that.</p>
+        <p>''When consular protection is permitted to function,'' Victor Manuel Uribe Avina of the Mexican foreign affairs ministry told the Hague court last month, ''life sentences are the likely outcome.''</p>
+        <p>Mexico says it provides an important ''cultural bridge'' when its citizens become entangled in the American criminal justice system. Such defendants are often confused, distrustful, unable to speak English and baffled by American procedures, Mexican officials say. If notified, the Mexican government provides lawyers, translators and investigators. It also helps round up evidence in Mexico, which can be very valuable in the sentencing phase in capital cases.</p>
+        <p>There are 122 foreign citizens from 31 countries on death row in the United States, in 14 states and in the federal system, according to Human Rights Research, a consulting firm that assists lawyers and consulates in capital cases involving foreigners. Almost half are from Mexico.</p>
+        <p>The issue has been an ongoing source of tension between Mexico and the United States, and in January 2003 Mexico took its case to the international court. Three Mexicans have been executed since 2000. In all three cases, the Vienna Convention was violated, Mexico argues. In 2002, Vicente Fox, the Mexican president, canceled a trip to President Bush's ranch in Texas to protest the execution of one of the men, Javier Suarez Medina.</p>
+        <p>There is little dispute that the United States violated the treaty in most or all of the 52 cases before the court in The Hague. The core issue during several days of arguments before the court last month was what should follow from that.</p>
+        <p>Until not long ago, the government's official position was that an apology should suffice. After a decision of the international court in 2001 that violations require ''review and reconsideration,'' the United States has taken the position that it has complied with that ruling, in cases including Mr. Torres's, by encouraging governors to consider Vienna Convention claims as part of clemency proceedings.</p>
+        <p>''The United States says the only remedy a defendant is entitled to is an opportunity to beg for mercy,'' said Sandra L. Babcock, a Minneapolis lawyer and the director of the Mexican Capital Legal Assistance Program. ''But we're talking about a legal right. It requires a legal remedy.''</p>
+        <p>At The Hague last month and in legal filings, State Department lawyers described ''the very substantial efforts undertaken by the United States to comply with its obligations,'' including the circulation of 100,000 copies of a compliance manual and 600,000 pocket cards to local law enforcement officials. Still, they noted, there are 700,000 law enforcement officials in the United States in 18,000 separate state and local jurisdictions.</p>
+        <p>Catherine W. Brown, a State Department lawyer, told the international court last month that asking more of the United States was unreasonable. ''As a practical matter, a country the size of the United States would never have accepted an obligation that would have put the ordinary conduct of criminal investigations and public safety at jeopardy,'' Ms. Brown said.</p>
+        <p>A State Department spokeswoman declined to comment on Mr. Torres's pending execution in Oklahoma and those of two defendants in Texas that would presumably have taken place by now, but for the case in The Hague.</p>
+        <p>In March, the department's top lawyer acknowledged in a speech to state attorneys general that the pending executions were a matter of concern. ''We have had a number of conversations with government lawyers in both states about these cases,'' the lawyer, William Howard Taft IV, said. In November, Mr. Torres asked the United States Supreme Court to honor the international court's interim order staying his execution. The Supreme Court declined to hear the case. Justices John Paul Stevens and Stephen Breyer indicated that they would be inclined to consider it once the international court rendered its final judgment.</p>
+        <p>''The answer to Lord Ellenborough's famous rhetorical question, 'Can the Island of Tobago pass a law to bind the whole world?,' may well be yes,'' Justice Breyer mused, ''where the world has conferred such binding authority through treaty.''</p>
+        <p>Mr. Edmondson, the Oklahoma attorney general, effectively stopped the execution the same day the Supreme Court failed to act, and Mr. Torres remains in a sort of limbo, caught between two legal systems. Charlie Price, a spokesman for Mr. Edmondson, said that would continue until the 15 judges in the Netherlands ruled.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>US Airways Ends Bid For Delta</title>
+    <meta content="01air" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/business/01air.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823052"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Organized Labor</classifier>
+        <org class="indexing_service">US Airways</org>
+        <org class="indexing_service">Delta Air Lines</org>
+        <person class="indexing_service">Grinstein, Gerald A</person>
+        <person class="indexing_service">Maynard, Micheline</person>
+        <person class="indexing_service">De La Merced, Michael J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organized Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">US Airways</org>
+        <org class="online_producer">Delta Air Lines Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E2DA153FF932A35751C0A9619C8B63" item-length="827" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>US Airways Ends Bid For Delta</hl1>
+        <hl2 class="online_headline">US Airways Withdraws Its $10.2 Billion Offer for Delta</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHELINE MAYNARD and MICHAEL J. DE LA MERCED</byline>
+      <byline class="normalized_byline">Maynard, Micheline; De La Merced, Michael J</byline>
+      <abstract>
+        <p>US Airways withdraws $10.2 billion offer for Delta Air Lines, after failing to win support of Delta's creditors; action is seen as win for Delta chief executive Gerald A Grinstein and pilots union, which opposed takeover; analysts still see consolidation as trend going forward for airline industry to achieve consistent profitability, even if it may take longer than expected (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Someday, the long-predicted wave of consolidation in the airline industry could occur.</p>
+        <p>But for now it will remain just that -- a prediction.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The withdrawal ends speculation of an imminent wave of consolidation in the troubled airline industry.</p>
+      </block>
+      <block class="full_text">
+        <p>Someday, the long-predicted wave of consolidation in the airline industry could occur.</p>
+        <p>But for now it will remain just that -- a prediction.</p>
+        <p>The latest chance at a merger ended yesterday, when US Airways withdrew its $10.2 billion offer for Delta Air Lines, after it failed to win the support of Delta's creditors, which included the Boeing Company and the federal pension agency.</p>
+        <p>The bid, originally made on Nov. 15 and subsequently raised, was scheduled to expire today.</p>
+        <p>The action was seen as a victory for Delta's chief executive, Gerald A. Grinstein, and its pilots' union, which led employees in a ''Keep Delta Our Delta'' campaign aimed at preserving the Atlanta-based airline's independence.</p>
+        <p>Mr. Grinstein, 73, a white-haired industry veteran, had vowed to rejuvenate his tradition-laden airline before he retired. To do so, he had to fend off W. Douglas Parker, 44, who knit together his previous airline, America West, and US Airways to form a nimble national carrier.</p>
+        <p>The deal's demise is the latest example of the difficulty any airline faces when it tries a hostile takeover of another carrier. Even friendly deals run into a myriad of problems in combining unions, routes and fleets. The task is even more complex in bankruptcy, where management essentially retains the right to put together a restructuring plan unless a judge decides otherwise, giving even the weakest carriers control over their fate.</p>
+        <p>So although industry specialists and executives have long predicted that airlines will eventually combine -- as perhaps the only way they can achieve consistent profitability -- others do not see that happening for the moment.</p>
+        <p>''I thought consolidation was a lot more likely a couple of years ago,'' when the industry was in the throes of its decline, said Herbert D. Kelleher, chairman and co-founder of Southwest Airlines.</p>
+        <p>Since then, however, lenders have come forward to help a number of airlines emerge from bankruptcy, including United Airlines, Aloha and Delta, which announced Tuesday that it had arranged $2.5 billion for its exit as soon as this spring.</p>
+        <p>''The carriers that went into Chapter 11 have done a very good job of getting their costs down and building up a lot of liquidity,'' Mr. Kelleher said. ''They're not as vulnerable as they once were, and you lessen the case for consolidation.''</p>
+        <p>Yet, some analysts say they believe that Delta will eventually find a partner. The leading candidate is Northwest Airlines, also operating in bankruptcy, which participates in a code-sharing agreement with Delta and Continental Airlines.</p>
+        <p>In January, Delta and Northwest held talks about a possible alliance or merger, people familiar with Delta's plan said.</p>
+        <p>Mr. Grinstein has since denied that characterization, saying that the airline hired an investment banker only to gather information from Northwest. Northwest's chief executive, Douglas M. Steenland, said yesterday that his airline would remain independent through the end of this year. Continental has held conversations with United, whose chief executive, Glenn F. Tilton, has repeatedly predicted consolidation will occur.</p>
+        <p>In a statement, Mr. Parker of US Airways said he continued to believe that a merger would provide more value for Delta's creditors, and suggested that their committee had overstated concerns about such a deal.</p>
+        <p>A deal would have combined Delta, the third-largest domestic airline by passenger volume, with US Airways, the fourth-largest. While US Airways claimed a merger would produce $1.65 billion in synergies and an airline with a dominant position in East Coast routes, Delta raised concerns about potential antitrust problems and the debt that a combined Delta-US Airways would carry.</p>
+        <p>Analysts, however, said the antitrust issues raised by Delta might have been overcome.</p>
+        <p>Philip A. Baggaley, an analyst with Standard &amp; Poor's, said that other merger proposals might not encounter the same level of opposition. But time is running out, given the changing economic and political climate, he added.</p>
+        <p>''The airlines seeking a merger are not more likely to find a more sympathetic Department of Justice than right now,'' Mr. Baggaley said. ''And there's a lot of money out there, with banks who are willing to finance combinations.''</p>
+        <p>Had Delta's bankruptcy gone on longer, US Airways might have had an easier time persuading creditors to consider its offer, said Fruman Jacobson, a partner with Sonnenschein Nath &amp; Rosenthal in Chicago. He represented the creditors' committee in the United case, which lingered more than three years.</p>
+        <p>By contrast, Delta may be out of court protection about 20 months after it filed for Chapter 11. ''The way they really got the upper hand is that they're ready to come out of bankruptcy,'' Mr. Jacobson said.</p>
+        <p>In a statement, Mr. Grinstein thanked the creditors' committee and Delta employees for supporting the airline's plans to remain independent. ''Using the bankruptcy process the right way, Delta people have transformed their company's business model,'' Mr. Grinstein said.</p>
+        <p>And last night, company executives gathered in Atlanta to reilluminate an airport sign that has long been a landmark there. It reads, ''Fly Delta Jets.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

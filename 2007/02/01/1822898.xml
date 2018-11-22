@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Citizen Anna</title>
+    <meta content="01WINTOUR" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/fashion/01WINTOUR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822898"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <org class="indexing_service">Vogue (Magazine)</org>
+        <person class="indexing_service">Wintour, Anna</person>
+        <person class="indexing_service">Horyn, Cathy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="descriptor">Models (Professional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Models (Professional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <org class="online_producer">Vogue</org>
+        <person class="online_producer">Wintour, Anna</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E6DD153FF932A35751C0A9619C8B63" item-length="2118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Citizen Anna</hl1>
+        <hl2 class="online_headline">Citizen Anna</hl2>
+      </hedline>
+      <byline class="print_byline">By CATHY HORYN</byline>
+      <byline class="normalized_byline">Horyn, Cathy</byline>
+      <abstract>
+        <p>Profile of Vogue editor Anna Wintour, focusing on her efforts to advance careers of younger designers she favors, seeing them established at fashion houses; these activities are widely seen as selfless and as being for general good of fashion industry, but they do prompt questions about how much influence is too much; photos (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IF there is one thing that no one doubts about Anna Wintour, the editor of Vogue, it is her power. To many she is the dominant figure in the fashion world, her influence greater than any contemporary editor and running close to a press baron, because she has sought through her magazine and its spinoffs to set the agenda for an industry and through her civic causes, like the Costume Institute of the Metropolitan Museum of Art, to influence the cultural life of New York.</p>
+        <p>And to millions of people to whom her power is less real (who know her only in connection with ''The Devil Wears Prada'') she is also a symbol: the small cross-armed woman in the front row, inscrutable behind her dark glasses and self-protecting English bob, her effect equal parts terrifying and calm, like the center of the storm she has dominated for 19 years.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Wielding power like a press baron, Anna Wintour extends her influence throughout the fashion industry.</p>
+      </block>
+      <block class="full_text">
+        <p>IF there is one thing that no one doubts about Anna Wintour, the editor of Vogue, it is her power. To many she is the dominant figure in the fashion world, her influence greater than any contemporary editor and running close to a press baron, because she has sought through her magazine and its spinoffs to set the agenda for an industry and through her civic causes, like the Costume Institute of the Metropolitan Museum of Art, to influence the cultural life of New York.</p>
+        <p>And to millions of people to whom her power is less real (who know her only in connection with ''The Devil Wears Prada'') she is also a symbol: the small cross-armed woman in the front row, inscrutable behind her dark glasses and self-protecting English bob, her effect equal parts terrifying and calm, like the center of the storm she has dominated for 19 years.</p>
+        <p>For as much as Ms. Wintour, 57, is scrutinized, her deal-making within the fashion industry is one activity that has received scant attention. In recent years she has gone beyond the editorial domain and involved herself in the placement of designers at fashion houses. Her efforts fall across a spectrum of involvement, from outright pitching the name of a person she likes to a chief executive, to putting her weight behind a pending decision, to effectively make a marriage.</p>
+        <p>She instigated the deal last year between the men's designer Thom Browne and Brooks Brothers, cultivating in a virtually unknown talent the idea of a larger audience and then urging the company's chief executive, Claudio Del Vecchio, to give him a chance. ''She put a lot of pressure on me,'' Mr. Del Vecchio said. ''She'd say, 'I think there's something here. Please keep talking.' ''</p>
+        <p>This fall, Mr. Browne's designs will be in 90 Brooks Brothers stores -- and, presumably, of course, in Vogue.</p>
+        <p>Ms. Wintour has also been busy trying to find a new employer for Phoebe Philo, the English star who left Chloé in 2005. Last May, Ms. Wintour invited Ms. Philo to a lunch in New York with François-Henri Pinault, the chief executive of PPR, the French luxury-goods group that owns brands like Gucci, Yves Saint Laurent and Balenciaga.</p>
+        <p>''It was quite simple,'' Mr. Pinault said of the lunch. ''She thought it would be interesting for me to meet Phoebe.'' He made it clear that PPR had no vacancies and no plans to start new labels. Nonetheless, Ms. Wintour pressed Ms. Philo's case in a later conversation, and Mr. Pinault said he expects her to do the same this week, when they meet in New York, to discuss the spring Costume Institute gala, of which Balenciaga is a sponsor.</p>
+        <p>''She's not too pushy,'' Mr. Pinault said. ''From my point of view, it's a very positive way of demonstrating her power. She lets you know it's not a problem if you can't do something she wants. But she makes you understand that if you could, she would be very supportive with her magazine. She really makes you understand that.''</p>
+        <p>Since the days of Diana Vreeland and John Fairchild, the former publisher of Women's Wear Daily, fashion editors have been regarded not only as journalists but as boosters for the industry. Without actually knowing whether an editor was advising a designer or telling the buyer at Macy's to order more blue shirts, readers assumed they were.</p>
+        <p>Then, in the buying frenzy of the 1990s, when nearly every big Paris house changed hands, editors like Ms. Wintour and Patrick McCarthy, Mr. Fairchild's successor, found themselves with even more influence over the industry. The new corporate owners, like Bernard Arnault, the chairman of LVMH Moët Hennessy Louis Vuitton, had come from the worlds of real estate, finance and timber. Important editors found themselves consulting about everything from the meaning of grunge to the importance of individual designers. ''I think Arnault asked a lot of people about Marc,'' Mr. McCarthy said, referring to the designer Marc Jacobs, now at Louis Vuitton. ''I don't think he knew his reputation.''</p>
+        <p>MS. Wintour, though, has used her influence more purposefully than anyone else: as a dealmaker. She seemed, in fact, to grasp that the arrival of the luxury moguls was an opportunity to scrape years of French dust off fashion, and make them pay for exciting new talent.</p>
+        <p>In the mid '90s, she got an executive at Paine Webber to help John Galliano, propelling him permanently onto the Paris stage. She helped Mr. Jacobs early in his career, getting Donald Trump to lend him a ballroom at the Plaza Hotel when Mr. Jacobs and his partner, Robert Duffy, had no money for a show. During the Vuitton negotiations she continually pressed Mr. Jacobs's case with Mr. Arnault. ''She would say, 'What do you need me to do.' '' Mr. Duffy said. ''I would say, 'When your have lunch with Mr. Arnault, will you put in a good word.' I don't know what Anna said or did not say.''</p>
+        <p>Ms. Wintour, who declined to be interviewed for this article, is a woman of seemingly limitless energy and a famously short attention span, who prefers to have her threats delivered by a lieutenant. (''Do you want me to go to Anna with this?'' is a typical line, according to fashion publicists.)</p>
+        <p>In more recent years she has made young designers her mission. This could be her legacy as an editor, though it may be a mixed one. She helped lay the groundwork for the CFDA/Vogue Fashion Fund, which, after years of industry lip service, provides the first practical support for young talent. But many fashion insiders and critics feel that by promoting labels of dubious design merit but with an obvious social or power connection, like Georgina Chapman of Marchesa, whose companion is the producer Harvey Weinstein, she leaves herself open to the complaint that her magazine promotes a kind of a pedantry.</p>
+        <p>This becomes a danger when she attempts to make a match. The chief executive of a top European house, who recently had a spot to fill, said he was surprised by the names she proposed, characterizing one as a socialite. ''The woman had designed maybe 10 dresses in her life,'' said the executive, who, like a number of the nearly two dozen people interviewed for this article, requested anonymity because of his relationship with Ms. Wintour.</p>
+        <p>How much one objects to this kind of influence depends on how much one is able to grasp the totality of Ms. Wintour's activities. Her efforts are widely seen as being for the general good of the industry. People who know her well say her motives are selfless and that her power is really concentrated on her magazines.</p>
+        <p>''Anna is not Machiavellian,'' said Michael Roberts, the fashion director of Vanity Fair. Mr. Lagerfeld agreed: ''She's honest. She tells you what she thinks. Yes is yes and no is no.''</p>
+        <p>In spite of the bitterness she felt at seeing her friend Tom Ford leave Gucci, and in spite of telling Mr. Pinault that he was making a terrible mistake to let him go, Mr. Pinault said she remained supportive of Gucci.</p>
+        <p>But you don't have to doubt Ms. Wintour's integrity to see the danger of too much influence. You just have to look at the magazine and its three spinoffs (Teen Vogue, Men's Vogue, Vogue Living), at the tendency to feature the same socialites and pretty dresses, in the same perfect settings, and then imagine what the implications would be if she could also determine where designers worked.</p>
+        <p>Candy Pratts Price, the executive fashion director of Style.com, the Web site for Vogue and W, said Vogue's editors now attempt to ''place'' clothes on socialites and other prominent women year-round, not just for the Costume Institute gala. That is, they arrange favored designers to lend dresses for public appearances. The pictures will run in Vogue, as well as in other magazines, reinforcing the importance of those designers. Julie Gilhart, the fashion director of Barneys, says she thinks women are more influenced today by party pictures than by editorial spreads of models. ''It's the People magazine-US Weekly syndrome,'' she said.</p>
+        <p>''Everyone wants to see what people are wearing.'' Ms. Price said, ''You can look at it as a good thing or a bad thing, but Anna has her finger in it.'' From the magazine's perspective, she said, a virtue of placement is that you can control how the clothes will be exposed. ''The end result is that Anna can control it all the way to the selling floor,'' Ms. Price said.</p>
+        <p>In its use of franchising and product placement and its glamorous, if predictable, formula, Vogue resembles the Hollywood blockbuster. ''Nobody else is doing that, and I don't think anyone has done that in the history of fashion magazines,'' Mr. McCarthy said of the clothes placement. He added, ''I don't think Vreeland had that kind of concentration. She wouldn't have dressed Babe Paley. Nor would Babe Paley have let her.''</p>
+        <p>The truth is, for good or bad, Ms. Wintour has identified the prime cultural coordinates -- the compliant, publicity-seeking socialite, the obsession with money, the struggling young designer, the deterioration of old aesthetics and the rise of the luxury-goods tycoon -- and aimed Vogue straight at them. ''I believe that Anna opened her arms to the big global picture before anyone else did,'' said Stan Herman, the former president of the Council of Fashion Designers of America.</p>
+        <p>At the same time, she has the readiness of an old-fashioned ward boss. She puts people in her due by making herself and the services of her magazine available to them.</p>
+        <p>Yet, according to any number of chief executives and designers, she does not extract advertising for editorial favors and, unlike a number of her counterparts in Europe, she does not run a side business as a consultant to fashion houses. Long before ''The Devil Wears Prada,'' her office (which has three executive assistants) was famous for its exotic efficiency. It comes as a surprise to people to have their phone calls returned immediately, to receive dossiers on the latest actresses (as she did for the designer Stefano Pilati) or to hear a rather shy but crisp English voice say, hurriedly, ''What can I do to help?''</p>
+        <p>IF it sometimes seems that the runways in New York -- and, by extension, the fashion pages of American Vogue -- reflect a homogeneous, vaguely timid point of view, it's understandable.</p>
+        <p>''No one says no to her,'' Mr. Roberts said. ''And, in a weird way, it's not her fault.''</p>
+        <p>Lacking mortal patience, Ms. Wintour is unlikely to help people who feel intimated by her, but at least by her efforts she can show them worlds that might have been unavailable to them, and maybe, in the process, allow them to see her as Shelley plain. ''I don't understand what people are scared of,'' Ms. Price said. ''That they're going to have a lesser relationship with Anna? I think they want to be closer, but they don't know how.''</p>
+        <p>Many talented American designers, notably Isabel Toledo and Alice Roi, have tended to keep themselves apart from Vogue, with no loss to their reputations, while others, like Derek Lam, imagined they needed some kind of school pass. ''I was waiting for the call to be summoned to her office,'' Mr. Lam said with a laugh. ''I thought it was so pretentious to call Anna.''</p>
+        <p>Next week, Ms. Toledo will present her first collection for Anne Klein during Fashion Week, and Mr. Lam, in addition to having his own label, is now creative director of Tod's, the Italian leather-goods house. Ms. Price believes that exposure from the Fashion Fund brought them these opportunities.</p>
+        <p>And Ms. Wintour thinks that Tod's is right for Mr. Lam, too. But initially she wasn't sure he was ready for the position. ''I got the blank look,'' said Ms. Price when she told Ms. Wintour that Diego Della Valle, the owner of Tod's, wanted to work with Mr. Lam. ''I think Anna believed that Derek hadn't yet achieved a signature look in his own line.''</p>
+        <p>Indeed, as Mr. Lam acknowledged, this was her criticism during a Fashion Fund interview. ''She said: 'I don't know what Derek Lam is about. Tell me what your focus is,' '' he recalled. ''Her advice was very concrete.''</p>
+        <p>It turns out that Ms. Wintour can say no. Maybe because corporate executives tend to know that the real power in fashion rests with the people who control the money, they don't see a downside to her influence. ''I don't feel I owe her anything, or that she owes me anything,'' Mr. Del Vecchio of Brooks Brothers said, adding: ''It's the passion that motivates her.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Digital Camera Accessory With a Creative Bag of Tricks</title>
+    <meta content="01lens" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/technology/01lens.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822933"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <classifier class="indexing_service" type="descriptor">Cameras</classifier>
+        <org class="indexing_service">Lensbabies.com</org>
+        <person class="indexing_service">Biggs, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cameras</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901EEDD153FF932A35751C0A9619C8B63" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Digital Camera Accessory With a Creative Bag of Tricks</hl1>
+        <hl2 class="online_headline">A Digital Camera Accessory With a Creative Bag of Tricks</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+      <byline class="normalized_byline">Biggs, John</byline>
+      <abstract>
+        <p>New Lensbaby lens system for digital cameras described; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Lensbaby 3G might look like a mini-hibachi grill, but it's actually a unique lens system for digital cameras. It creates odd images by allowing the point of focus to be selected anywhere in a scene.</p>
+        <p>The Lensbaby has three rods that hold an external lens over an internal lens. As the external lens is twisted and moved, changing the aperture, the lens puts some objects in focus while leaving the rest of the field slightly blurry and giving an interesting motion effect.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Lensbaby 3G might look like a mini-hibachi grill, but it actually creates odd images by allowing the point of focus to be selected anywhere in a scene.</p>
+      </block>
+      <block class="full_text">
+        <p>The Lensbaby 3G might look like a mini-hibachi grill, but it's actually a unique lens system for digital cameras. It creates odd images by allowing the point of focus to be selected anywhere in a scene.</p>
+        <p>The Lensbaby has three rods that hold an external lens over an internal lens. As the external lens is twisted and moved, changing the aperture, the lens puts some objects in focus while leaving the rest of the field slightly blurry and giving an interesting motion effect.</p>
+        <p>The 50-millimeter lens includes removable aperture rings that are held in place magnetically. The Lensbaby can also be locked into place to hold a focus.</p>
+        <p>The Lensbaby 3G works with Nikon, Sony and Canon digital single-lens reflex cameras. Attachments are also available for cameras from Olympus, Samsung and other makers. The lenses are compatible with many standard lens attachments, including filters and telephoto kits.</p>
+        <p>All of the lenses cost $270 and are available online at www .lensbabies.com and at retail stores. The Web site also has sample images.</p>
+        <p>The Lensbaby 3G allows amateur photographers to manipulate how the world looks, even before they begin tweaking their images in Photoshop.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

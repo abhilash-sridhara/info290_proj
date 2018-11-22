@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yankee Stadium Gets One Last All-Star Game</title>
+    <meta content="01base" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1823047"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BASEBALL: ROUNDUP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">All-Star Games</classifier>
+        <classifier class="indexing_service" type="descriptor">Yankee Stadium (NYC)</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">New York Yankees</org>
+        <person class="indexing_service">Curry, Jack</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">All Star Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stadiums and Arenas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E3DA153FF932A35751C0A9619C8B63" item-length="525" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yankee Stadium Gets One Last All-Star Game</hl1>
+      </hedline>
+      <byline class="print_byline">By JACK CURRY</byline>
+      <byline class="normalized_byline">Curry, Jack</byline>
+      <abstract>
+        <p>Yankee Stadium will host 2008 All-Star Game; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When the Yankees play their final season at the current Yankee Stadium in 2008, the days will be filled with nostalgia and emotion. The season will also include a final All-Star Game in the ballpark.</p>
+        <p>Commissioner Bud Selig made the announcement yesterday at City Hall with Mayor Michael R. Bloomberg in attendance, but the Yankees had known for months they would be the hosts. The game will be played July 15, 2008.</p>
+      </block>
+      <block class="full_text">
+        <p>When the Yankees play their final season at the current Yankee Stadium in 2008, the days will be filled with nostalgia and emotion. The season will also include a final All-Star Game in the ballpark.</p>
+        <p>Commissioner Bud Selig made the announcement yesterday at City Hall with Mayor Michael R. Bloomberg in attendance, but the Yankees had known for months they would be the hosts. The game will be played July 15, 2008.</p>
+        <p>''When you think of Yankee Stadium, it is the most famous cathedral in baseball, and, I think, the most famous stadium in the world,'' Selig said. ''So we really believe that this is the way we can honor the cathedral that has meant so much to this sport for so long.''</p>
+        <p>It will be the fourth time the All-Star Game will be played at the Stadium. The Yankees made it to the World Series in the three previous seasons in which the game was played in the Bronx -- 1977, 1960 and 1939 -- winning two titles.</p>
+        <p>''So while the 2008 All-Star Game will be one of the wonderful events staged in the Stadium's final season, my hunch is it won't be the only one,'' Bloomberg said.</p>
+        <p>Bloomberg said the city's Economic Development Corporation estimated that the five days of activities surrounding the game would generate $150 million in revenue for New York. The mayor noted that the game would be televised in 100 million homes in 226 countries, which is additional advertising for the city.</p>
+        <p>As Selig described some of the factors that prompted Major League Baseball to select Yankee Stadium, the first person he mentioned was George Steinbrenner, the principal owner of the Yankees. Selig said that the game would honor the Stadium, the franchise, New York City and Steinbrenner.</p>
+        <p>In the past, Steinbrenner would have stood beside Selig and Bloomberg at this kind of event and enjoyed the attention. But Steinbrenner, 76, who has not traveled to New York as frequently in recent years, was absent.</p>
+        <p>Instead, Steve Swindal, Steinbrenner's son-in-law and the general partner of the Yankees, was the team's chief representative. Swindal said that Steinbrenner had a scheduling conflict in Tampa, Fla., but added that Steinbrenner would be around the club throughout spring training.</p>
+        <p>The Mets will play their last season at Shea Stadium in 2008 before shifting to Citi Field in 2009. Busch Stadium in St. Louis will play host to the 2009 All-Star Game, and Selig said he would probably pick an American League city for 2010. But Selig said that ''the Mets are on my radar screen'' for being the hosts of the game in the near future.</p>
+        <p>Swindal dodged a question about Bernie Williams's future with the team by saying, ''It's up to our baseball people.'' Even though Swindal praised Williams for his contributions to the Yankees, he did not sound optimistic about the possibility of Williams playing with them in 2008. ''It's difficult when someone is at this point in his career,'' he said.</p>
+        <p>The Yankees have discussed inviting Williams to spring training as a nonroster player, but, because of his status as a lifelong Yankee, that could be an awkward situation.</p>
+        <p>BASEBALL: ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

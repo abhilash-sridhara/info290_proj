@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="01askk" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/technology/01askk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822930"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="descriptor">Fiber Optics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fiber Optics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EEDD153FF932A35751C0A9619C8B63" item-length="692" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+        <hl2 class="online_headline">Staying Updated on Security</hl2>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Staying Updated On Security</p>
+        <p>Q. Why does Windows say my antivirus program is out of date when I just recently installed it?</p>
+        <p>A. The Security Center feature in Windows XP (Service Pack 2) monitors the defensive readiness and state of your system's firewall and antivirus programs, as well as its Windows Automatic Updates settings. The Security Center has most likely detected that the antivirus program has not been updated.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Why does Windows say my antivirus program is out of date when I just recently installed it?</p>
+      </block>
+      <block class="full_text">
+        <p>Staying Updated On Security</p>
+        <p>Q. Why does Windows say my antivirus program is out of date when I just recently installed it?</p>
+        <p>A. The Security Center feature in Windows XP (Service Pack 2) monitors the defensive readiness and state of your system's firewall and antivirus programs, as well as its Windows Automatic Updates settings. The Security Center has most likely detected that the antivirus program has not been updated.</p>
+        <p>To keep your PC protected from new viruses, Trojan horses and other malicious software flying around the Internet, the antivirus program needs to download regular updates from the manufacturer.</p>
+        <p>Try opening and manually updating your antivirus program (most recent ones have an Update button on the main screen), or adjusting the program's settings so updates can be automatically downloaded more frequently. You may also get a Security Center alert if the subscription for your antivirus program has expired -- which means your PC is not currently protected against threats.</p>
+        <p>Cassette to MP3 For Less Than $10</p>
+        <p>Q. Is there a cheap and easy way to convert songs on cassette tape to MP3?</p>
+        <p>A. In many cases, you can rescue songs from cassette tapes and vinyl records -- and transform them into digital music files -- with an inexpensive stereo cable, audio-recording software and plenty of hard-drive space.</p>
+        <p>The type of cable you need depends on the device you're recording from. If dubbing from a cassette deck (or turntable and pre-amplifier that's part of a larger audio system), you may need a Y-shaped patch cable that has two RCA plugs that connect to the back of the stereo receiver and, on the other end, a 3.5-millimeter stereo miniplug that connects to the computer's sound card.</p>
+        <p>If you plan to record tapes from a portable cassette player, you need a patch cable with stereo miniplug on each end to link the player's headphones port to the computer's sound card. Most cables can be found for less than $10 at RadioShack and other electronics stores.</p>
+        <p>If you don't already have a program that can record audio on your computer, there are many to be found on the Web. Shareware sites like HitSquad Musician Network (www.hitsquad.com) point the way to plenty of audio programs. Audacity (audacity.sourceforge.net) is free open-source software for Windows, Mac OS X and Linux systems; an optional LAME MP3 encoder is also available for converting your recorded files to the MP3 format.</p>
+        <p>Once you have connected the tape player to your computer, you may have to adjust your system's sound controls to record from the audio line-in. Then you basically just pop in a cassette and push the Play button on both your tape machine and on the recording software to begin capturing the sound to a digital file. This may take tinkering with settings to get sound levels adjusted.</p>
+        <p>Once you record a song from a cassette to a digital file on your hard drive, you can make adjustments to the audio, then save the song as an MP3 file. Steps will vary by audio program.</p>
+        <p>Seeking Opinions On Broadband</p>
+        <p>Q. When I began cable-based Internet service all was well, but now I get interruptions almost every day. Are there surveys describing which high-speed connections are more reliable?</p>
+        <p>A. The quality and reliability of your broadband service can vary by provider, location and type of connection. If you are having regular problems with your cable service, you may want to have a technician from the company check your equipment to make sure that there is nothing wrong. If you are dissatisfied with the company's service and want to change providers, there are a number of sites around the Web offering advice.</p>
+        <p>Broadband Reports (www.broadbandreports.com) rates and reviews cable, D.S.L. and fiber optic Internet service from providers all over the country. The site also runs support and discussion forums and offers online tools for testing your connection.</p>
+        <p>CNet's reviews section (reviews.cnet.com) compares popular broadband services as well and offers a Bandwidth Meter to test your connection speed. The ConsumerSearch site (www.consumersearch.com) compiles reviews and surveys of Internet broadband providers.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

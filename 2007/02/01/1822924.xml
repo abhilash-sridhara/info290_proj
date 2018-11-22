@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Celebrity Architects Reveal a Daring Cultural Xanadu for the Arab World</title>
+    <meta content="01isla" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/arts/design/01isla.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822924"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United Arab Emirates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Architecture</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Engineering and Architecture</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/United Arab Emirates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/United Arab Emirates/Abu Dhabi</classifier>
+        <classifier class="online_producer" type="descriptor">Architecture</classifier>
+        <classifier class="online_producer" type="descriptor">Cultural Relations</classifier>
+        <classifier class="online_producer" type="descriptor">Art</classifier>
+        <classifier class="online_producer" type="descriptor">Museums</classifier>
+        <classifier class="online_producer" type="descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="descriptor">Culture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cultural Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Architecture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">United Arab Emirates</location>
+        <location class="online_producer">Abu Dhabi</location>
+        <org class="online_producer">Guggenheim, Solomon R, Museum</org>
+        <org class="online_producer">Louvre Museum</org>
+        <person class="online_producer">Gehry, Frank</person>
+        <person class="online_producer">Hadid, Zaha</person>
+        <person class="online_producer">Nouvel, Jean</person>
+        <person class="online_producer">Ando, Tadao</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E2DD153FF932A35751C0A9619C8B63" item-length="1196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Celebrity Architects Reveal a Daring Cultural Xanadu for the Arab World</hl1>
+        <hl2 class="online_headline">Celebrity Architects Reveal a Daring Cultural Xanadu for the Arab World</hl2>
+      </hedline>
+      <byline class="print_byline">By HASSAN FATTAH</byline>
+      <byline class="normalized_byline">Fattah, Hassan</byline>
+      <dateline>ABU DHABI, United Arab Emirates, Jan. 31</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In this land of big ambition and deep pockets, planners on Wednesday unveiled designs for an audacious multibillion-dollar cultural district whose like has never been seen in the Arab world.</p>
+        <p>The designs presented here in Abu Dhabi, the capital of the United Arab Emirates and one of the world's top oil producers, are to be built on an island just off the coast and include three museums designed by the celebrity architects Frank Gehry, Jean Nouvel and Tadao Ando, as well as a sprawling, spaceshiplike performing arts center designed by Zaha Hadid.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Planners in Abu Dhabi on Wednesday unveiled designs for an audacious multibillion-dollar cultural district whose like has never been seen in the Arab world.</p>
+      </block>
+      <block class="full_text">
+        <p>In this land of big ambition and deep pockets, planners on Wednesday unveiled designs for an audacious multibillion-dollar cultural district whose like has never been seen in the Arab world.</p>
+        <p>The designs presented here in Abu Dhabi, the capital of the United Arab Emirates and one of the world's top oil producers, are to be built on an island just off the coast and include three museums designed by the celebrity architects Frank Gehry, Jean Nouvel and Tadao Ando, as well as a sprawling, spaceshiplike performing arts center designed by Zaha Hadid.</p>
+        <p>Mr. Gehry's building is intended for an Adu Dhabi branch of the Guggenheim Museum featuring contemporary art and Mr. Nouvel's for a classical museum, possibly an outpost of the Louvre Museum in Paris. Mr. Ando's is to house a maritime museum reflecting the history of the Arabian gulf.</p>
+        <p>The project also calls for a national museum and a biennial exhibition space composed of 19 pavilions designed by smaller names and snaking along a canal that cuts through the island. Art schools and an art college are also planned.</p>
+        <p>In all, the project, known as the Cultural District of Saadiyat Island, would create an exhibition space intended to turn this once-sleepy desert city along the Persian Gulf into an international arts capital and tourist destination. If completed according to plan sometime in the next decade, consultants predict, it could be the world's largest single arts-and-culture development project in recent memory.</p>
+        <p>At times astonishing, at times controversial, the district is part of a far broader $27 billion development project on the island that includes hotels, resorts, golf courses and housing that could accommodate 125,000 residents or more.</p>
+        <p>The museum designs, displayed at an exhibition attended by dignitaries and the United Arab Emirates leadership, are a striking departure from Abu Dhabi's crumbling 1970s-style concrete buildings and more modern glass-and-steel high-rises. Still, because Saadiyat Island is undeveloped, architects faced the unusual challenge of an aesthetic and contextual tabula rasa.</p>
+        <p>The daring designs, some teeming with life and color, others more starkly formal, have one aspect in common: it probably would be hard to build them all in one district anywhere else.</p>
+        <p>''It's like a clean slate in a country full of resources,'' said Mr. Gehry, who appeared at the exhibition to show off his model for the Guggenheim Abu Dhabi. ''It's an opportunity for the world of art and culture that is not available anywhere else because you're building a desert enclave without the contextual constraints of a city.''</p>
+        <p>No cost estimates were given for the buildings unveiled on Wednesday, but each is certain to run into the hundreds of millions of dollars.</p>
+        <p>For the Guggenheim Abu Dhabi, Mr. Gehry envisions a 320,000-square-foot structure with 130,000 square feet of exhibition space built around a cluster of galleries, a space far larger than his Guggenheim Bilbao in Spain, which cost about $100 million. A jumble of blocks, glass awnings and open spaces, the Abu Dhabi Guggenheim would be centered on a core of galleries of varying height atop one another and forming a courtyard. A second ring of larger galleries is followed by a third ring of galleries housing raw industrial-looking spaces with exposed lighting and mechanical systems.</p>
+        <p>The design for the classical museum enters into a dialogue with its surroundings, suggesting a submerged archaeological field with a cluster of one-room buildings placed along a promenade. The complex is covered by a massive translucent dome etched in patterns that allow diffused light into the spaces below.</p>
+        <p>Mr. Ando's maritime museum design borrows from the maritime history of the emirates, with a reflective surface merging sea and land and a shiplike interior with floating decks.</p>
+        <p>Ms. Hadid's performing arts center concept, which seems part spaceship, part organism, is to house a music hall, concert hall, opera house and two theaters, one seating up to 6,300. Transparent and airy, the center hovers over the azure waters of the Persian Gulf.</p>
+        <p>''It's an inspiration from nature and an organic design, with a fluid design, as well as a space with good sound,'' Ms. Hadid said.</p>
+        <p>Abu Dhabi's sheiks dreamed up this sweeping cultural project in late 2004, after brainstorming ways to attract more tourism to the emirate, which is the richest of the seven in the United Arab Emirates confederation, but has largely missed out on the flood of visitors attracted by its neighbor Dubai.</p>
+        <p>Flush with cash from the oil boom, the emirate has embarked on a development spree intended to update its infrastructure after years of limited development. Abu Dhabi's tourist board insists it is not trying to one-up Dubai, but instead wants to complement Dubai's emphasis on other forms of entertainment.</p>
+        <p>''The real strategic decision here is that Dubai has established itself as a tourist destination, and Abu Dhabi is complementing what Dubai is doing,'' said Barry Lord, president of Lord Cultural Resources, which has helped manage the development of the cultural project. ''Cultural tourists are wealthier, older, more educated, and they spend more. From an economic view, this makes sense.''</p>
+        <p>Abu Dhabi's Tourism Development and Investment Company announced a deal to build the Guggenheim Abu Dhabi last year. Recently it reached a $1 billion accord to rent the name, art and expertise of the Louvre for a museum to be built on the island. Protests quickly arose in France that that country was selling its patrimony to the highest bidder. The emirate's tourism officials played down the Louvre plan on Wednesday, insisting the deal was not final.</p>
+        <p>Mr. Lord noted that the arts project was taking shape against the backdrop of continued turbulence in the Middle East.</p>
+        <p>''They are very conscious here that this can change the cultural climate in the region,'' Mr. Lord said. ''To be able to add high culture at the high end of international culture, this is a tremendous change.''</p>
+        <p>After oil booms in the 1970s and 80s in which their proceeds were not always used wisely, Persian Gulf governments are now focusing on spending their surpluses on infrastructure projects and real-estate development. A new generation of leaders in the gulf, especially in the emirates, where a new ruler was installed only in late 2004 and where several ministers are still in their 30s, has looked beyond traditional real-estate projects to efforts that would help their cities stand out on the world stage.</p>
+        <p>Other Persian Gulf countries have turned to the arts too. In Qatar the final touches are being added to I. M. Pei's latest structure, the Qatar Museum, built just off the coast of the capital, Doha, to house a new Islamic arts collection. In Sharjah, another emirate, which has fashioned itself as the cultural capital of the Persian Gulf, the Sharjah Art Museum continues to expand its collection and is planning its eighth biennial. And even Dubai is building a Culture Village, centered on an opera house also designed by Ms. Hadid and other arts and culture institutions.</p>
+        <p>''This is not just about tourism; it also has global cultural dimensions,'' Mubarak Muhairi, an Abu Dhabi tourism official, said. ''We believe the best vehicle for crossing borders is art. And this region is in need of such artistic initiatives.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

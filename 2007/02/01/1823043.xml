@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In an Enclave of Serious Wine Lovers, a Mesmerizing Theft</title>
+    <meta content="01wine" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/us/01wine.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070208T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1823043"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ATHERTON JOURNAL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="indexing_service" type="descriptor">Wines</classifier>
+        <classifier class="indexing_service" type="descriptor">Robberies and Thefts</classifier>
+        <location class="indexing_service">Atherton (Calif)</location>
+        <person class="indexing_service">Brown, Patricia Leigh</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Wines</classifier>
+        <classifier class="online_producer" type="descriptor">Robberies and Thefts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robberies and Thefts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+        <location class="online_producer">California</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E4DA153FF932A35751C0A9619C8B63" item-length="1008" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In an Enclave of Serious Wine Lovers, a Mesmerizing Theft</hl1>
+        <hl2 class="online_headline">In an Enclave of Serious Wine Lovers, a Mesmerizing Theft</hl2>
+      </hedline>
+      <byline class="print_byline">By PATRICIA LEIGH BROWN</byline>
+      <byline class="normalized_byline">Brown, Patricia Leigh</byline>
+      <dateline>ATHERTON, Calif.</dateline>
+      <abstract>
+        <p>Police in Atherton, Calif, are investigating theft of 450 bottles of fine wine; audacity of $100,000 crime has inspired fascination among oenophiles in area; wine was taken while homeowner was on vacation; there is no sign of forced entry into gated home, indicating possibility of inside job; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It was perhaps the most Californian of crimes. Behind the electronic gates and freshly clipped hedges of an exclusive cul-de-sac, the thieves worked in the dead of night, ignoring watches, laptops and other ho-hum booty to cart away the ultimate prize: 450 bottles of wine, including a rare $11,000 1959 magnum from the Château Pétrus in Bordeaux, France.</p>
+        <p>Thus began what the police in this Silicon Valley town, one of the country's most affluent ZIP codes, refer to as ''the big wine caper'' -- a $100,000 theft, still under investigation, whose audacity has inspired Agatha Christie-like fascination among sophisticated oenophiles in the Bay Area.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ignoring watches, laptops and other ho-hum booty, thieves in Atherton, Calif., carted away 450 bottles of wine, including one bottle worth $11,000.</p>
+      </block>
+      <block class="full_text">
+        <p>It was perhaps the most Californian of crimes. Behind the electronic gates and freshly clipped hedges of an exclusive cul-de-sac, the thieves worked in the dead of night, ignoring watches, laptops and other ho-hum booty to cart away the ultimate prize: 450 bottles of wine, including a rare $11,000 1959 magnum from the Château Pétrus in Bordeaux, France.</p>
+        <p>Thus began what the police in this Silicon Valley town, one of the country's most affluent ZIP codes, refer to as ''the big wine caper'' -- a $100,000 theft, still under investigation, whose audacity has inspired Agatha Christie-like fascination among sophisticated oenophiles in the Bay Area.</p>
+        <p>''It's a worrying thing,'' said Ken Chalmers, the assistant manager at Beltramo's, a local wine purveyor who sells hard-to-come-by vintages to customers with pebbled driveways and lavender-lined walks. ''If you drink a bottle of a '61 Bordeaux every five years and somebody swipes it, you're not going to be happy. You can't replace it. Wine is a very personal thing.''</p>
+        <p>Like a sauvignon blanc with an ash-covered chèvre, theft and wine make a heady pairing, especially in Atherton, the sought-after nesting place of venture capitalists and magnates like Charles Schwab, of the wealth management company, and Tom Proulx, the founder of the software company Intuit. Wine cellars are a fixture of daily life here, a common amenity along with home theaters, fitness centers and his-and-her offices.</p>
+        <p>At some point between Dec. 28 and Jan. 4, while the homeowner was on vacation, the police said, the thief or thieves made their way to the basement, where the collection, much of it distinguished Bordeaux, was stored at an optimal 55 degrees. The police have not identified the victim. There was no sign of forced entry, indicating the possibility of an inside job, said Detective Sgt. Joseph C. Wade, who is in charge of the investigation. The house is gated, and a code and a key would have been needed to enter it, he said.</p>
+        <p>The perpetrator had a discerning palate, leaving behind lesser vintages. The average bottle stolen was reported to be worth $3,000, and the collection included a magnum of 1959 Château Beychevelle and a magnum of 2002 Jones Family cabernet, a Napa Valley cult wine.</p>
+        <p>The mystery of the theft on Fair Oaks Lane has captivated a region obsessed with the vine, a place where The San Francisco Chronicle's weekly Wine section is required reading.</p>
+        <p>''The properties in Atherton are so large that it's possible to imagine no one would notice,'' said Stephen J. Bachmann, the chief executive of Vinfolio Inc., an online store and consultant service for private wine collectors, who also writes a blog. ''It's an interesting question of whether they had advanced knowledge of what was in the cellar. A lot of people don't think of wine as an asset that needs to be protected. But they should.''</p>
+        <p>In many ways, Bordeaux has assumed the status of liquid gold.</p>
+        <p>''Like chocolate was to the Aztecs, wine has become the ultimate currency,'' said Daphne Derven, an independent scholar on food and wine based in Eugene, Ore. ''It appears that the thieves, whoever they were, had more faith in the stability and accruing value of the ultimate bottle of wine than the American dollar.''</p>
+        <p>The crime is perhaps understandable given record increases in wine prices at auction, said Thomas Matthews, the editor of Wine Spectator, which recently reported on counterfeiting, in which labels are falsified. .</p>
+        <p>In 2005, major auction houses in the United States and abroad sold $166 million worth of wine, Mr. Matthews said. Last year, sales rose to $240 million, with numerous world records, like the 50 cases of 1982 Mouton-Rothschild that sold for $1.05 million at Sotheby's.</p>
+        <p>Although theft of private wine collections is uncommon, Mr. Matthews said theft at wine warehouses in the United States and Europe was on the rise. With yet-to-be released vintages, like a 2005 Château Latour, fetching $800 a bottle, ''that puts a lot of upward pressure on older wines,'' he said. ''In wine, the supply is finite. Rising prices are the result.''</p>
+        <p>The crime's swirling reach has extended even to New York, with the list of stolen wines making the rounds of retailers and distributors.</p>
+        <p>''It's going to be difficult to track,'' said John Kapon, the auction director at Acker Merrall &amp; Condit in New York. ''The sad truth is, it should be relatively easy for whoever stole it to sell this wine without anyone being able to figure it out.''</p>
+        <p>Unlike missing art and antiquities, hot wine has no official registry. ''Something like an Amber alert would be very useful,'' said George Derbalian, the president of Atherton Wine Imports, an importer of Burgundy and Bordeaux.</p>
+        <p>Theresa Lawless, a manager for the Fireman's Fund Insurance Company, in Novato, Calif., one of several major American insurers of private wine collections, said loss of wine was typically a result of fire or power failures, not theft. ''But this will definitely make people think twice,'' Ms. Lawless said.</p>
+        <p>Wine cellar designers are increasingly installing fingerprint and voice recognition systems and crisscrossing laser beams that trigger alarms (à la the movie ''Entrapment'' with Sean Connery and Catherine Zeta-Jones), said Tod Ban, a wine cellar designer in Atlanta who recently completed such a cellar for a private collector with 27,000 bottles.</p>
+        <p>Evan L. Goldenberg, an architect and owner of Design Build Consultants in Greenwich, Conn., said radio-frequency labels that allow the tracking of individual bottles were on the horizon. In Atherton, where cameras are embedded in oaks, the theft has caused deep unease.</p>
+        <p>''You've got to be careful,'' said a resident, speaking through her intercom. ''There's been a lot of trouble around here.''</p>
+        <p>The case has lingering overtones for Sergeant Wade, who also was working on a case in nearby East Palo Alto, a city that has long wrestled with high crime rates.</p>
+        <p>''An 18-year-old girl was shot point-blank in the head and I received no calls about it,'' he said. ''The wine theft? A gazillion. It kind of shows you where people's values lie.''</p>
+        <p>ATHERTON JOURNAL</p>
+        <p>Correction:  February 8, 2007, Thursday  An article last Thursday about the theft of 450 bottles of wine, valued at $100,000, in Atherton, Calif., misstated the price of the average bottle stolen in some copies. It was $222, not $3,000.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: February 8, 2007, Thursday</p>
+        <p>An article last Thursday about the theft of 450 bottles of wine, valued at $100,000, in Atherton, Calif., misstated the price of the average bottle stolen in some copies. It was $222, not $3,000.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

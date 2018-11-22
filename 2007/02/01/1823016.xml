@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ex-Players Dealing With Not-So-Glamorous Health Issues</title>
+    <meta content="01disability" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070215T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1823016"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Concussions</classifier>
+        <person class="indexing_service">Brown, Clifton</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEFDB153FF932A35751C0A9619C8B63" item-length="888" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ex-Players Dealing With Not-So-Glamorous Health Issues</hl1>
+      </hedline>
+      <byline class="print_byline">By CLIFTON BROWN</byline>
+      <byline class="normalized_byline">Brown, Clifton</byline>
+      <dateline>MIAMI, Jan. 31</dateline>
+      <abstract>
+        <p>Many former NFL players are dealing with long-term health problems, including chronic pain, depression, diabetes and brain damage; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bob Brudzinski turned 52 on Jan. 1, and he considers himself lucky for a man who played 13 seasons as a linebacker with the Los Angeles Rams and the Miami Dolphins. Sometimes, his memory fails him. But he sees former teammates the same age in far worse shape.</p>
+        <p>''I see guys that I've played with that are depressed; as a matter of fact, guys from college also,'' said Brudzinski, sitting in a doctor's office about 20 miles from Dolphin Stadium, site of Super Bowl XLI. ''It's sad. I don't think they had information back then. If they did, I think they wanted to keep it away from us.</p>
+      </block>
+      <block class="full_text">
+        <p>Bob Brudzinski turned 52 on Jan. 1, and he considers himself lucky for a man who played 13 seasons as a linebacker with the Los Angeles Rams and the Miami Dolphins. Sometimes, his memory fails him. But he sees former teammates the same age in far worse shape.</p>
+        <p>''I see guys that I've played with that are depressed; as a matter of fact, guys from college also,'' said Brudzinski, sitting in a doctor's office about 20 miles from Dolphin Stadium, site of Super Bowl XLI. ''It's sad. I don't think they had information back then. If they did, I think they wanted to keep it away from us.</p>
+        <p>''I can't say the owners and coaches didn't care. They wanted to see how tough you are. Anybody can play not injured. They wanted to see if you can play injured. There were a lot of injections and stuff like that.</p>
+        <p>''And the other thing is, you didn't want to sit out a game, because there's always somebody behind you who can take your spot. I never thought about concussions, never thought about blowing my knee out. The one thing I really wish is that I could remember more. We used our head too much, in the wrong way.''</p>
+        <p>As concern grows among former N.F.L. players about the impact of football on health, the medical community is working to gather more information. The Living Heart Foundation, the National Football League Players Association and the Baptist Hospital of Miami are sponsoring the third annual Super Bowl Health Screening Program, to examine current and retired players for cardiovascular disease and obstructive sleep apnea. Dozens of former N.F.L. players filed through the office of Dr. Arthur Agatston on Wednesday, being checked for sleep apnea, diabetes, high cholesterol, high blood pressure and other ailments.</p>
+        <p>Retired players have reason to be concerned about their long-term health. A neuropathologist recently determined that Andre Waters, a former Eagles safety who committed suicide in November at age 44, sustained brain damage from playing football that led to his depression and death. Last month, a United States Court of Appeals upheld a 2005 trial court ruling that the Hall of Fame center Mike Webster sustained brain damage from playing professional football, mostly for the Steelers.</p>
+        <p>According to a 2003 study published in The New England Journal of Medicine, 14 percent of N.F.L. players had obstructive sleep apnea, a disease that impairs breathing and is known to affect large, muscular individuals like football linemen more often than people of average size. Reggie White, a Hall of Fame defensive lineman, died at 43 in 2004 after having cardiac arrhythmia, but he also had sleep apnea, which may have contributed to his death.</p>
+        <p>With more football linemen weighing much more than 300 pounds, doctors said they expected sleep apnea to become more prevalent .</p>
+        <p>''The primary treatment for sleep apnea is to lose weight, and they can't,'' said Dr. Allan Levy, an associate team physician with the Giants, who is assisting with this week's screening. ''There's no such thing as a 225-pound offensive lineman. We try to make certain that they understand that they've got to come down in weight when they retire. All of my offensive lineman from the Giants' two Super Bowl wins have all lost at least 50 pounds. They're all in excellent health. You see some of the other guys, and they're just huge. They've got all kinds of problems.</p>
+        <p>''The problem with sleep apnea is in the neck. A 17 1/2-inch neck is usually where the problem begins. When they sleep, the muscles relax in the body. Now the weight of their neck clasps down on their airway. They stop breathing. They momentarily wake up, then the cycle starts over again, and they never get into deep sleep. They develop heart disease and hypertension. Sleep apnea is a killer. One of the kids that played for us, we did a sleep study on, had 440 awakenings during the night.''</p>
+        <p>The most common treatment for sleep apnea involves wearing a mask that supplies a stream of air through the nose during sleep. But some retired players have ailments that are far more debilitating. Tom Nowatzke, the president of the N.F.L. Alumni Detroit chapter, said more should be done by the league and the players union to help retired players with disabilities related to football.</p>
+        <p>''I get $843 a month, but some guys are only getting $300, $400 a month because of when they played,'' said Nowatzke, a 64-year-old former running back who scored a touchdown for the Baltimore Colts in Super Bowl V.</p>
+        <p>''Four hundred dollars a month won't pay for a car payment these days, not to mention doctor bills and medicine, and stuff that's not covered. I'm very fortunate to be as healthy as I am at my age. I'm going to see people this weekend who have trouble walking, and they're eight or nine years younger than I am.''</p>
+        <p>Nowatzke said he hoped that more players would stop to think how they may feel when they turn 60 and consider the health of players who have come before them.</p>
+        <p>''Not many do,'' Nowatzke said. ''Guys who played in the '30s, '40s, '50s probably died before they turned 70. Now guys are living to be 75 or 80. So it becomes a bigger problem.''</p>
+        <p>PRO FOOTBALL</p>
+        <p>Correction:  February 15, 2007, Thursday  A sports article on Feb. 1 about the health issues of former pro football players misstated a neuropathologist's observations about the suicide of Andre Waters, a 44-year-old former safety for the Philadelphia Eagles. The neuropathologist, Dr. Bennet Omalu, who has been quoted several times about the Waters case, but not by name in the article, said that Mr. Waters had sustained brain damage from playing football and that the depression that family members recalled Mr. Waters exhibiting in his final years was almost certainly exacerbated, if not caused, by the state of his brain. He has never said that brain damage led to the depression and death.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: February 15, 2007, Thursday</p>
+        <p>A sports article on Feb. 1 about the health issues of former pro football players misstated a neuropathologist's observations about the suicide of Andre Waters, a 44-year-old former safety for the Philadelphia Eagles. The neuropathologist, Dr. Bennet Omalu, who has been quoted several times about the Waters case, but not by name in the article, said that Mr. Waters had sustained brain damage from playing football and that the depression that family members recalled Mr. Waters exhibiting in his final years was almost certainly exacerbated, if not caused, by the state of his brain. He has never said that brain damage led to the depression and death.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

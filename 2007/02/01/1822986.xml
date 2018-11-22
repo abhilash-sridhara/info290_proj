@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bush Is the City's Guest, With 3 Mayors to Thank</title>
+    <meta content="01mayors" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20070209T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1822986"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <person class="indexing_service">Dinkins, David N</person>
+        <person class="indexing_service">Koch, Edward I</person>
+        <person class="indexing_service">Rutenberg, Jim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02EEDC153FF932A35751C0A9619C8B63" item-length="404" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bush Is the City's Guest, With 3 Mayors to Thank</hl1>
+      </hedline>
+      <byline class="print_byline">By JIM RUTENBERG</byline>
+      <byline class="normalized_byline">Rutenberg, Jim</byline>
+      <abstract>
+        <p>Pres Bush speaks at Federal Hall National Memorial on Wall Street, promoting strong national economic data and doing it in glow of what he calls New York City's 'booming' economy; Mayor Michael R Bloomberg and former Mayors David N Dinkins and Edward I Koch attend (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The sometimes tense relationship between presidents and New York City mayors was seemingly set in tabloid stone 30 years ago with the famous Daily News headline following President Gerald R. Ford's decision not to bail the city out from a financial crisis. (''Ford to City: Drop Dead,'' it read, as if it has to be spelled out anymore.)</p>
+        <p>But yesterday provided something of a role reversal: President Bush came to promote strong national economic data and to do it in the glow of a New York City economy that he said was ''booming -- with a bond rating at an all-time high, and unemployment near an all-time low.''</p>
+      </block>
+      <block class="full_text">
+        <p>The sometimes tense relationship between presidents and New York City mayors was seemingly set in tabloid stone 30 years ago with the famous Daily News headline following President Gerald R. Ford's decision not to bail the city out from a financial crisis. (''Ford to City: Drop Dead,'' it read, as if it has to be spelled out anymore.)</p>
+        <p>But yesterday provided something of a role reversal: President Bush came to promote strong national economic data and to do it in the glow of a New York City economy that he said was ''booming -- with a bond rating at an all-time high, and unemployment near an all-time low.''</p>
+        <p>The moment highlighted the unique relationship Mr. Bush has with New York City, to which he has been linked since the 2001 terrorist attacks, even though he is unpopular with many voters here.</p>
+        <p>And as he spoke at the Federal Hall National Memorial on Wall Street for an event held by the Association for a Better New York, he addressed an audience that included not only business leaders but also three New York City mayors -- one of them a Republican, two of them Democrats.</p>
+        <p>There was Mayor Michael R. Bloomberg, a late-blooming Republican, who kept his distance from the president throughout the 2005 mayoral campaign lest the president's low poll ratings rub off on him.</p>
+        <p>Mr. Bloomberg seemed to receive slightly louder applause than Mr. Bush did yesterday, though, to be fair, both were warmly received and many of Mr. Bloomberg's own officials were in the audience.</p>
+        <p>But Mr. Bush did not seem to take offense either way.</p>
+        <p>''Mr. Mayor, thanks for being here, I appreciate you coming,'' Mr. Bush told Mr. Bloomberg. ''You're doing what people want you to do, and that is to lead this city.''</p>
+        <p>Then there was former Mayor David N. Dinkins, the liberal Democrat. ''Mr. Mayor -- David Dinkins, thank you for being here,'' Mr. Bush said from the lectern. ''Proud you're here.''</p>
+        <p>His warmest words were for Mayor Edward I. Koch, the Democrat who crossed party lines to endorse Mr. Bush in 2004.</p>
+        <p>''And it's good to see my buddy, Mayor Ed Koch,'' Mr. Bush said. ''Mr. Mayor, thank you for coming.''</p>
+        <p>One former mayor who was not there: Rudolph W. Giuliani, the man at or near the top of many polls of possible Republican presidential contenders, who, according to an aide, was attending a fund-raiser out of town.</p>
+        <p>Correction:  February 9, 2007, Friday  An article on Feb. 1 about a visit to New York City by President Bush, and his relationship with the city, referred incorrectly to the ''Ford to City: Drop Dead'' headline that appeared in The Daily News following President Gerald R. Ford's decision not to bail the city out from a financial crisis. It was published more than 31 years ago, on Oct. 30, 1975 -- not 30 years ago.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: February 9, 2007, Friday</p>
+        <p>An article on Feb. 1 about a visit to New York City by President Bush, and his relationship with the city, referred incorrectly to the ''Ford to City: Drop Dead'' headline that appeared in The Daily News following President Gerald R. Ford's decision not to bail the city out from a financial crisis. It was published more than 31 years ago, on Oct. 30, 1975 -- not 30 years ago.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

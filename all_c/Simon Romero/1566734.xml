@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Aramcons Find Arabia Like Home, Sort Of</title>
+    <meta content="16SAUD$01" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="W" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/03/16/business/worldbusiness/16saudi.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1566734"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Social Conditions and Trends</classifier>
+        <classifier class="indexing_service" type="descriptor">Islam</classifier>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <location class="indexing_service">Saudi Arabia</location>
+        <org class="indexing_service">Saudi Aramco</org>
+        <person class="indexing_service">Romero, Simon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Saudi Arabia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Saudi Arabia</classifier>
+        <classifier class="online_producer" type="descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Islam</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Saudi Aramco</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040316T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7DA1631F935A25750C0A9629C8B63" item-length="1235" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Aramcons Find Arabia Like Home, Sort Of</hl1>
+        <hl2 class="online_headline">Aramcons Find Arabia Like Home, Sort Of</hl2>
+      </hedline>
+      <byline class="print_byline">By SIMON ROMERO</byline>
+      <byline class="normalized_byline">Romero, Simon</byline>
+      <dateline>DHAHRAN, Saudi Arabia, March 10</dateline>
+      <abstract>
+        <p>Saudi Aramco still employs 2,000 Americans, offering them attractive perks and a measure of American work environment, even as pressure from Islamic conservatives forces company to become more Saudi in makeup and management style; Aramco's female employees are allowed to wear Western clothing and drive company property; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Try not to make too much of the women driving sport utility vehicles, the baseball diamonds, the thousands of Americans and Britons or the cul-de-sacs with names like Prairie View at the well-guarded headquarters of Saudi Aramco, the world's largest oil company.</p>
+        <p>''We are not a state within a state,'' Abdallah S. Jumah, Aramco's chief executive, said in an interview as he discussed the company's influence through its control of more than 10 percent of the world's oil production.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Saudi Aramco, the worlds largest oil company, has been caught in the cross hairs of Islamic conservative objections to its American-style management approach.</p>
+      </block>
+      <block class="full_text">
+        <p>Try not to make too much of the women driving sport utility vehicles, the baseball diamonds, the thousands of Americans and Britons or the cul-de-sacs with names like Prairie View at the well-guarded headquarters of Saudi Aramco, the world's largest oil company.</p>
+        <p>''We are not a state within a state,'' Abdallah S. Jumah, Aramco's chief executive, said in an interview as he discussed the company's influence through its control of more than 10 percent of the world's oil production.</p>
+        <p>While Aramco's importance to the Saudi economy and the global energy industry is hard to underestimate, the company, like other Western-influenced areas of society, has been caught in the cross hairs of Islamic conservative objections to its American-style management approach.</p>
+        <p>For instance, while women nearly everywhere in Saudi Arabia are required by religious law to dress conservatively in black shawls and prohibited from driving, Aramco's female employees are allowed to wear Western clothing and drive on company property. Old-fashioned American business practices also persist at Aramco, down to the gold watch after 30 years of service.</p>
+        <p>And in a striking difference from many oil companies that were seized by governments in the developing world in the last century, Aramco never required its American employees to leave. Though its top executives are now Saudis, the official language remains English, making it easier for the 2,000 Americans who work for the company in Saudi Arabia, most of them living in this dusty city across the border from Bahrain.</p>
+        <p>''We've had a fortunate lifestyle here,'' said Thomas Owen, 51, an American who was born in Dhahran while his father worked for the company and returned to Saudi Arabia after attending college in the United States to work in the purchasing department. ''There's been little incentive to leave.''</p>
+        <p>The company still provides plentiful perks to attract American employees, who call themselves Aramcons. The benefits for Americans and other expatriates from rich countries include subsidized ranch-style suburban houses at Aramco's compound here, free health and dental care at the company's own hospitals, nearly 40 vacation days a year and free private education for children until high school, when the company will pay 80 percent of boarding-school costs in the United States.</p>
+        <p>Still, the attacks last year on Western residential compounds in the capital, Riyadh, and heightened awareness of anti-American sentiment throughout Saudi Arabia have reminded Aramco's employees of their tenuous position in Saudi society. Dhahran was the site of a bombing in 1996 that killed 19 American servicemen were killed and injured 64. Reacting to criticism from the religious conservatives and to economic pressures in a nation with growing unemployment, senior executives are purusing efforts to make Aramco more of a Saudi company.</p>
+        <p>American and European employees, for instance, are no longer assured lifetime employment when they are hired, as Aramco seeks to fulfill obligations to ''Saudi-ize'' its work force of 54,000 by hiring and training more Saudis. Critical areas of Aramco's operations are already entirely run by Saudis, like the futuristic control room where technicians manage the nation's oil output.</p>
+        <p>The emphasis on employing more Saudis is a priority. Out of a total population of about 24 million, Saudi Arabia has roughly 6 million foreign workers, most from Pakistan, India and other parts of Asia, who perform service jobs. Among Saudi men, the unemployment rate is 10 percent, according to government statistics, but is probably as high as 13 percent, said Nahed Taher, chief economist at National Commercial Bank in Jeddah. (Women, who are prevented from working in most areas of the economy, are not counted in unemployment figures.)</p>
+        <p>Aramco's field operations are another area where officials are seeking to hire more Saudis. At Shaybah, an isolated oil production site tucked between sand dunes in the windswept Empty Quarter, nearly all of the 300 Aramco staff employees are Saudis, and there is pressure from above to hire more Saudis for the 350 nonstaff contracted positions.</p>
+        <p>''It's a little like the opposite of outsourcing in other countries where the idea is to have fewer jobs,'' said Mohammed Hatlani, operations manager at Shaybah, which produces 500,000 barrels of oil a day. ''Sometimes these things are beneficial to the kingdom.''</p>
+        <p>A job at Aramco, to be sure, is a prize for many Saudis, too. Their benefits include relatively high salaries, no-interest home loans and, for some Saudi women, the opportunity to work in a Western-style environment. There is also no income tax in Saudi Arabia, making a stable job at Aramco, the nation's largest single employer, more lucrative.</p>
+        <p>About 85 percent of the work force is Saudi, up from less than 60 percent three decades ago, when Aramco was controlled by American oil concerns and called the Arabian American Oil Company. It was formed in the 1940's by oilmen from California and Texas.</p>
+        <p>Saudi Arabia nationalized the company in 1976 but kept its American management largely intact until the mid-1980's, when Ali al-Naimi became the first Saudi chief executive. Mr. Naimi, who later rose to his current position as oil minister, still serves as chairman of Aramco's board, which includes three American directors.</p>
+        <p>Traditionally loath to allow public scrutiny of its operations, Aramco recently opened up a bit after questions were raised about its reserves and its ability to remain the world's leading oil producer.</p>
+        <p>Commenting on the company's aversion to debt and its ability to finance its own extensive exploration, Nansen Saleri, the manager of reservoir management, said Aramco operated much as it did when it was owned by four American oil companies.</p>
+        <p>''We have not changed one iota in this regard,'' said Mr. Saleri, a Turkish-born American citizen based at Aramco's Dhahran headquarters.</p>
+        <p>Aramco, which produces about eight million barrels a day, generated an estimated $85 billion in oil revenue last year after prices climbed to their highest level in two decades, according to Brad Bourland, chief economist at the Samba Financial Group in Riyadh. The company's financial clout extends to other areas, like its fleet of jet aircraft used to travel inside and outside Saudi Arabia. All its pilots are trained in the United States or Britain.</p>
+        <p>''It feels almost normal here until you get outside the company and its compounds,'' said Richard Pattee, a native of Tacoma, Wash., who moved to Dhahran in October to pilot the company's new Boeing 737.</p>
+        <p>Few Aramcons speak fluent Arabic, even among second- or third-generation Americans who grew up in Aramco communities. Still, their privileged and relatively isolated life has at times been punctured by the fear of terrorist attacks when they venture outside the Aramco cocoon.</p>
+        <p>''I still think we have a safer life than people back in the States, but I'm a lot more aware now than I was before,'' said Cathy Rylands, who was born in Ras Tanura, another Aramco location, and returned to Saudi Arabia after marrying an Aramco employee.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

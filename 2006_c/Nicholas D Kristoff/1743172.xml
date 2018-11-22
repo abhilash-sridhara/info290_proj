@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Soldiers Speak. Will President Bush Listen?</title>
+    <meta content="28kristof" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/02/28/opinion/28kristof.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1743172"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Nicholas D Kristof</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <location class="online_producer">Iraq</location>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060228T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E4D91631F93BA15751C0A9609C8B63" item-length="834" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Soldiers Speak. Will President Bush Listen?</hl1>
+        <hl2 class="online_headline">The Soldiers Speak. Will President Bush Listen?</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS D. KRISTOF</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When President Bush held a public meeting with troops by satellite last fall, they were miraculously upbeat. And all along, unrepentant hawks (most of whom have never been to Iraq) have insisted that journalists are misreporting Iraq and that most soldiers are gung-ho about their mission.</p>
+        <p>Hogwash! A new poll to be released today shows that U.S. soldiers overwhelmingly want out of Iraq -- and soon.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A poll to be released today shows that U.S. soldiers overwhelmingly want out of Iraq  and soon.</p>
+      </block>
+      <block class="full_text">
+        <p>When President Bush held a public meeting with troops by satellite last fall, they were miraculously upbeat. And all along, unrepentant hawks (most of whom have never been to Iraq) have insisted that journalists are misreporting Iraq and that most soldiers are gung-ho about their mission.</p>
+        <p>Hogwash! A new poll to be released today shows that U.S. soldiers overwhelmingly want out of Iraq -- and soon.</p>
+        <p>The poll is the first of U.S. troops currently serving in Iraq, according to John Zogby, the pollster. Conducted by Zogby International and LeMoyne College, it asked 944 service members, ''How long should U.S. troops stay in Iraq?''</p>
+        <p>Only 23 percent backed Mr. Bush's position that they should stay as long as necessary. In contrast, 72 percent said that U.S. troops should be pulled out within one year. Of those, 29 percent said they should withdraw ''immediately.''</p>
+        <p>That's one more bit of evidence that our grim stay-the-course policy in Iraq has failed. Even the American troops on the ground don't buy into it -- and having administration officials pontificate from the safety of Washington about the need for ordinary soldiers to stay the course further erodes military morale.</p>
+        <p>While the White House emphasizes the threat from non-Iraqi terrorists, only 26 percent of the U.S. troops say that the insurgency would end if those foreign fighters could be kept out. A plurality believes that the insurgency is made up overwhelmingly of discontented Iraqi Sunnis.</p>
+        <p>So what would it take to win in Iraq? Maybe that was the single most depressing finding in this poll.</p>
+        <p>By a two-to-one ratio, the troops said that ''to control the insurgency we need to double the level of ground troops and bombing missions.'' And since there is zero chance of that happening, a majority of troops seemed to be saying that they believe this war to be unwinnable.</p>
+        <p>This first systematic look at the views of the U.S. troops on the ground suggests that our present strategy in Iraq is failing badly. The troops overwhelmingly don't want to ''stay the course,'' and they don't seem to think the American strategy can succeed.</p>
+        <p>It's tempting, but not very helpful, to repeat that the fatal mistake was invading Iraq three years ago and leave it at that. That's easy for a columnist to say; the harder thing for a policy maker is to figure out what we do next, now that we're already there.</p>
+        <p>I still believe that while the war was a dreadful mistake, an immediate pullout would also be a misstep: anyone who says that Iraq can't get worse hasn't seen a country totally torn apart by chaos and civil war. Mr. Bush is right about the consequences of an immediate pullout -- to Iraq, and also to American influence around the world.</p>
+        <p>But while we shouldn't rush for the exits immediately, we should lay out a timetable for withdrawal that would remove all troops by the end of next year. And we should state clearly that we will not keep any military bases in Iraq -- that's a no-brainer, for it costs us nothing, but our hedging on bases antagonizes Iraqi nationalists and results in more dead Americans.</p>
+        <p>Such a timetable would force Iraqis to prepare -- politically and militarily -- to run their own country. The year or two of transition would galvanize Iraqi Shiites to find a modus vivendi with Sunnis while undermining the insurgents' arguments that they are nationalists protecting the motherland from Yankee crusaders.</p>
+        <p>True, a timetable is arbitrary and risky, for it could just encourage insurgents to hang tight for another couple of years. But we're being killed -- literally -- because of nationalist suspicions among Iraqis that we're just after their oil and bases and that we're going to stay forever. It's crucial that we defuse that nationalist rage.</p>
+        <p>For now, we've become the piñata of Iraqi politics, something for Iraqi demagogues to bash to boost their own legitimacy. Moktada al-Sadr, one of the scariest Iraqi leaders, has very shrewdly used his denunciations of the U.S. to boost his own political following and influence across Iraq; that's our gift to him, a consequence of our myopia. And many ordinary Iraqis are buying into this scapegoating of the U.S. Edward Wong, one of my intrepid Times colleagues in Baghdad, quoted a clothing merchant named Abdul-Qader Ali as saying: ''I can tell you the main reason behind all our woes -- it is America. Everything that is going on between Sunnis and Shiites, the troublemaker in the middle is America.''</p>
+        <p>Will a timetable work? I don't know, but it's a better bet than our present policy of whistling in the dark. And it's what the troops favor -- and they're the ones who have Iraq combat experience. It's time our commander in chief stopped stage-managing his troops and listened to them.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ford and G.M. Expect January Sales Drops</title>
+    <meta content="01auto" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/automobiles/01auto.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822992"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Renting and Leasing</classifier>
+        <classifier class="indexing_service" type="descriptor">Sales</classifier>
+        <org class="indexing_service">Ford Motor Co</org>
+        <org class="indexing_service">General Motors Corp</org>
+        <person class="indexing_service">Bunkley, Nick</person>
+        <person class="indexing_service">Maynard, Micheline</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Michigan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Michigan/Detroit</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Michigan</classifier>
+        <classifier class="online_producer" type="descriptor">Sales</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Renting and Leasing</classifier>
+        <location class="online_producer">Detroit (Mich)</location>
+        <org class="online_producer">Ford Motor Co</org>
+        <org class="online_producer">General Motors Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6DB153FF932A35751C0A9619C8B63" item-length="650" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ford and G.M. Expect January Sales Drops</hl1>
+        <hl2 class="online_headline">Ford and G.M. Expect January Sales Drops</hl2>
+      </hedline>
+      <byline class="print_byline">By NICK BUNKLEY and MICHELINE MAYNARD; Nick Bunkley reported from Detroit and Micheline Maynard from Dearborn, Mich.</byline>
+      <byline class="normalized_byline">Maynard, Micheline; Bunkley, Nick</byline>
+      <dateline>DETROIT, Jan. 31</dateline>
+      <abstract>
+        <p>Ford Motor Co expects sales in US to drop about 20 percent in January; General Motors projects decreased sales; two companies are pulling back from deliveries to rental-car agencies to focus on more profitable transactions at dealerships (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sales by Detroit's two largest automakers are expected to be significantly lower in January as they pulled back from deliveries to rental-car agencies to focus on more profitable transactions at dealerships.</p>
+        <p>Executives from the Ford Motor Company said Wednesday that its sales in the United States dropped about 20 percent in January.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The automakers pulled back from deliveries to rental-car agencies to focus on more profitable transactions at dealerships.</p>
+      </block>
+      <block class="full_text">
+        <p>Sales by Detroit's two largest automakers are expected to be significantly lower in January as they pulled back from deliveries to rental-car agencies to focus on more profitable transactions at dealerships.</p>
+        <p>Executives from the Ford Motor Company said Wednesday that its sales in the United States dropped about 20 percent in January.</p>
+        <p>Ford also said sales to rental-car agencies each month this year should drop by double-digit percentages, which would drag down overall sales.</p>
+        <p>Ford expects to sell slightly more than 700,000 vehicles to rental car companies this year, down from 900,000 two years ago.</p>
+        <p>General Motors also projected decreased sales, although executives have not indicated how much; it planned to sell 35,000 fewer vehicles to rental agencies in January and 120,000 fewer this year.</p>
+        <p>Edmunds.com, a Web site that gives consumers car-buying advice, estimated last week that G.M.'s sales would be down 9.4 percent in January, when adjusted for an additional selling day this year.</p>
+        <p>The reduction in rental sales comes after both automakers have already given up considerable market share. Analysts say the strategy is needed to overcome billions of dollars in losses and earn a profit again.</p>
+        <p>''What they're finding is that in order to achieve better resale values for leasing, this is a practice that they have to cut back on,'' said Ron Pinelli, president of the Autodata Corporation, an industry statistics firm in Woodcliff Lake, N.J. ''It's painful, but it's the right move for them.''</p>
+        <p>G.M.'s vice president for North America sales and marketing, Mark R. LaNeve, said last week that the company intended eventually to compensate for fewer rental cars with more retail sales, which have larger profit margins. But, he said, ''our total sales will be down in January.''</p>
+        <p>Edmunds projects that overall sales for the industry were down 3.1 percent in January, when adjusted for an additional selling day this year. It estimated that sales declined 17.5 percent for Ford and 6.5 percent for the Chrysler Group, a division of the German-American automaker DaimlerChrysler.</p>
+        <p>Chrysler has not been as vocal about efforts to cut back on sales to rental companies. In fact, the percentage of its sales that went to rental companies increased to 30.1 percent through the first nine months of 2006 from 26.4 percent in 2005.</p>
+        <p>A Chrysler spokesman, Markus Mainka, said, ''We plan to bring rental fleet sales down in 2007,'' but declined to elaborate.</p>
+        <p>All three Detroit automakers have substantially reduced production to more closely match supply with demand.</p>
+        <p>Together, they are expected to account for 52.4 percent of the United States market in January, down from 57.1 percent a year ago, Edmunds said. Toyota and Honda are expected to gain market share.</p>
+        <p>January sales reports are scheduled for release Thursday afternoon.</p>
+        <p>The biggest reason for Ford's decline is its decision last fall to stop making the Ford Taurus, a midsize sedan that was once the best-selling car in the country but which ended its life as a staple in rental car fleets.</p>
+        <p>Ford also stopped building the Freestar minivan, which was also sold largely to rental car companies.</p>
+        <p>G.M. and Chrysler do not have any models sold primarily to rental agencies.</p>
+        <p>The decline in fleet sales is too big to be offset by new vehicles like the Ford Edge and Lincoln MKX, two crossover vehicles that Ford began selling late last year after a monthlong production delay.</p>
+        <p>About 20 percent of Ford dealers, or more than 900, still have not received shipments of the Edge, said Cisco Codina, a group vice president for sales and marketing, although the company has based its turnaround efforts on the success of the model.</p>
+        <p>Mr. Codina said bad weather in parts of the country had prevented shipments from reaching dealers but that a full supply of Edge models should be available by next week.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

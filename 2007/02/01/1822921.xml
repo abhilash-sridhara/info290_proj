@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Old Man Winter Takes Another Lap</title>
+    <meta content="01shop" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822921"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PERSONAL SHOPPER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Snow and Snowstorms</classifier>
+        <person class="indexing_service">Rohrlich, Marianne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden/Columns/Personal Shopper</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E3DD153FF932A35751C0A9619C8B63" item-length="425" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Old Man Winter Takes Another Lap</hl1>
+      </hedline>
+      <byline class="print_byline">By Marianne Rohrlich</byline>
+      <byline class="normalized_byline">Rohrlich, Marianne</byline>
+      <abstract>
+        <p>Personal Shopper column on products that come in handy when it snows; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THERE may have been daffodils blooming in Central Park last month, but there is still the chance that there will be at least one good snowstorm this winter. Being prepared is the best way to deal with unexpected snow, so why not invest in equipment like a new shovel that won't break your back, or a pair of gloves to keep your hands warm? For those who miss blizzards, there is synthetic snow: It lasts for several weeks, can be used for sledding or to build snowmen and gives off enough chill to create the illusion of the real stuff.</p>
+        <p>1. The 78-inch-high Snow Gauge makes it easy to measure how many feet of snow have fallen; $39.95 at Brookstone, brookstone.com or (866) 576-7337.</p>
+        <p>2. The 22-inch-wide Snow Scoop from Silver Bear has long been popular in northern Michigan, where the snowfall averages more than 200 inches a year. The scoop slides smoothly, which makes it easier on the back than conventional shovels, according to the manufacturer; $49.50 at silverbear.biz or (877) 388-9539.</p>
+        <p>3. The Wheeled-Leverage Snow Shovel requires no lifting or bending. The unit can be adjusted according to the user's height and the depth of the snow, and the whole thing comes apart for storage; $119.95 at Hammacher Schlemmer, hammacher.com or (800) 321-1484.</p>
+        <p>4. Heated gloves have high and low settings, and operate on AA batteries; $24.95 a pair at hammacher.com or (800) 321-1484.</p>
+        <p>5. The Dry Guy Thermanator Boot Dryer can be mounted on the wall or used with a floor stand. It plugs into an electrical outlet and dries shoes slowly; $89.95 at comforthouse.com or (800) 359-7701.</p>
+        <p>6. The Twister snow brush has a polycarbonate scraper blade for ice that will not harm paint or glass. The brush works in two directions and adjusts with the push of a button; $14.99 from oxo.com or (800) 545-4411.</p>
+        <p>7. If that snowstorm never arrives, there is Super Snow, a reusable nontoxic plastic resin that comes in powder form and, mixed with water, creates cold ''snow.'' It can be used for sledding and snowballs. A one-pound bag makes 11 1/2 gallons; $19.99 at dunecraft.com or (800) 306-4168.</p>
+        <p>8. The Inflatable Arctic Snow Igloo has multiple portholes and entrances. It is 84 inches long, 72 inches wide and 60 inches high; $199 at frontgate.com or (888) 263-9850.</p>
+        <p>9. The Aluminum Snow Rake is 22 inches wide and has a 16-foot handle that comes in four sections for storage; $49.95 at brookstone.com or (866) 576-7337.</p>
+      </block>
+      <block class="full_text">
+        <p>THERE may have been daffodils blooming in Central Park last month, but there is still the chance that there will be at least one good snowstorm this winter. Being prepared is the best way to deal with unexpected snow, so why not invest in equipment like a new shovel that won't break your back, or a pair of gloves to keep your hands warm? For those who miss blizzards, there is synthetic snow: It lasts for several weeks, can be used for sledding or to build snowmen and gives off enough chill to create the illusion of the real stuff.</p>
+        <p>1. The 78-inch-high Snow Gauge makes it easy to measure how many feet of snow have fallen; $39.95 at Brookstone, brookstone.com or (866) 576-7337.</p>
+        <p>2. The 22-inch-wide Snow Scoop from Silver Bear has long been popular in northern Michigan, where the snowfall averages more than 200 inches a year. The scoop slides smoothly, which makes it easier on the back than conventional shovels, according to the manufacturer; $49.50 at silverbear.biz or (877) 388-9539.</p>
+        <p>3. The Wheeled-Leverage Snow Shovel requires no lifting or bending. The unit can be adjusted according to the user's height and the depth of the snow, and the whole thing comes apart for storage; $119.95 at Hammacher Schlemmer, hammacher.com or (800) 321-1484.</p>
+        <p>4. Heated gloves have high and low settings, and operate on AA batteries; $24.95 a pair at hammacher.com or (800) 321-1484.</p>
+        <p>5. The Dry Guy Thermanator Boot Dryer can be mounted on the wall or used with a floor stand. It plugs into an electrical outlet and dries shoes slowly; $89.95 at comforthouse.com or (800) 359-7701.</p>
+        <p>6. The Twister snow brush has a polycarbonate scraper blade for ice that will not harm paint or glass. The brush works in two directions and adjusts with the push of a button; $14.99 from oxo.com or (800) 545-4411.</p>
+        <p>7. If that snowstorm never arrives, there is Super Snow, a reusable nontoxic plastic resin that comes in powder form and, mixed with water, creates cold ''snow.'' It can be used for sledding and snowballs. A one-pound bag makes 11 1/2 gallons; $19.99 at dunecraft.com or (800) 306-4168.</p>
+        <p>8. The Inflatable Arctic Snow Igloo has multiple portholes and entrances. It is 84 inches long, 72 inches wide and 60 inches high; $199 at frontgate.com or (888) 263-9850.</p>
+        <p>9. The Aluminum Snow Rake is 22 inches wide and has a 16-foot handle that comes in four sections for storage; $49.95 at brookstone.com or (866) 576-7337.  PERSONAL SHOPPER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

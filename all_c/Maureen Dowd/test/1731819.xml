@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Oprah! How Could Ya?</title>
+    <meta content="14dowd" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/14/opinion/14dowd.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1731819"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Maureen Dowd</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <person class="online_producer">Rosenbaum, David</person>
+        <person class="online_producer">Frey, James</person>
+        <person class="online_producer">Winfrey, Oprah</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEED9173FF937A25752C0A9609C8B63" item-length="778" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Oprah! How Could Ya?</hl1>
+        <hl2 class="online_headline">Oprah! How Could Ya?</hl2>
+      </hedline>
+      <byline class="print_byline">By MAUREEN DOWD</byline>
+      <dateline>WASHINGTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The day we mourned a man whose life was devoted to clarity, this city was hidden in fog. You couldn't see the Potomac, even on its bank.</p>
+        <p>There were many things to love about David Rosenbaum. He had a grin that always improved the weather. He was uncommonly generous to reporters he worked with and competed against. He was an exemplary husband, father, brother, uncle and grandfather.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>David Rosenbaum never settled for "essential" truths.</p>
+      </block>
+      <block class="full_text">
+        <p>The day we mourned a man whose life was devoted to clarity, this city was hidden in fog. You couldn't see the Potomac, even on its bank.</p>
+        <p>There were many things to love about David Rosenbaum. He had a grin that always improved the weather. He was uncommonly generous to reporters he worked with and competed against. He was an exemplary husband, father, brother, uncle and grandfather.</p>
+        <p>But the truly astonishing thing about David, the Times reporter who was killed in a random robbery a week ago, was his unglamorous, unsanctimonious, unvain sort of goodness. He had a black-and-white sense of honor that was oddly old-fashioned in a capital slimed by lies, bribery, greed, corruption and ends-justify-the-means malarkey.</p>
+        <p>The skells, as Detective Sipowicz would say, saw David walking in his neighborhood after dinner and whacked him in the head with a pipe. One low-life bought laundry detergent, gas and tires with David's credit card while he lay dying.</p>
+        <p>Our friend David Shribman, the executive editor of The Pittsburgh Post-Gazette, wrote in The St. Petersburg Times, where David Rosenbaum started: ''A thoughtful man struck down by the ultimate act of thoughtlessness. A man who taught others when to use 'that' and when to use 'which' only to be felled by that over which he had no control.''</p>
+        <p>Despite George Washington and the cherry tree, we no longer have a society especially consecrated to truth. The culture produces an infinity of TV shows and movies depicting the importance of honesty. But they're really talking only about the importance of being honest about your feelings. Sharing feelings is not the same thing as telling the truth. We've become a country of situationalists.</p>
+        <p>Journalism, politics and publishing have been tarred by scandals that have revealed a chilling insensitivity to right and wrong. Random House isn't concerned that an author makes up stuff in a book labeled nonfiction; it just kept counting the money after The Smoking Gun exposed James Frey's lies about his own life.</p>
+        <p>When Mr. Frey went on ''Larry King Live'' with his mom to defend his book's ''essential truths,'' Oprah Winfrey called in to back him up. She sounded disturbingly like Scott McClellan. Despite doubts about facts in the book, she said, ''the underlying message of redemption'' still ''resonates'' with her. She should have said: ''Had I known that many parts were fake, I wouldn't have recommended the book to millions of loyal viewers. I wouldn't have made this liar a lot of money.'' She should take a page from Stephen Colbert and put the slippery Frey on her ''Dead to me'' list.</p>
+        <p>For David Rosenbaum, just retired at 63 but still full of enthusiasms, there was a right way and a wrong way, and he possessed a natural knowledge of which was which.</p>
+        <p>''My father taught me the importance of always doing the right thing, always, even when it didn't really matter,'' his daughter, Dottie, said at the memorial service yesterday in a committee room at the Senate, David's old beat. ''At my 12th birthday party, my parents took me and a bunch of friends to see a movie, and they counted up how many of us were already 12 so that they could pay the adult fare.  even though none of us carried ID, and we all looked like total pipsqueaks.''</p>
+        <p>As his pal Robin Toner put it, David thought that behind every arcane tax provision and appropriations bill, ''there were real people, getting something or having something taken away by their government.'' You had to keep digging and arguing to find the truth in the fog. Even when he was smothered by conventional wisdom, Robin recalled, ''David's voice would break out: 'I disagree!' ''</p>
+        <p>He was practicing a lost art. Tough questioning now has no place in polite society. It's the wimpification of debate. Martha-Ann Alito cries, and the Democrats back off from examining why Samuel Alito was so opportunistic about his bigoted alumni club and whether he will curb women's rights for generations.</p>
+        <p>W. mau-maus the Democrats and the press on his administration's Freyish blurring of fact and fiction on Iraq, trying to stifle any debate over the phony genesis of the war as bad for morale. What's truly bad for our morale is when the president suggests it's dishonest to have an honest debate about the Bush cabal's dishonesty.</p>
+        <p>If only someone had said, ''I disagree!'' in W.'s presence long ago, on pre-emptive war, on kidnapping and torture, on illegal eavesdropping.</p>
+        <p>David's tortoise-shell reading glasses are still hanging on his computer. That scrupulous gaze will be missed.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>As Shocks Replace Police Bullets, Deaths Drop but Questions Arise</title>
+    <meta content="07TASE$05" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/03/07/national/07TASE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1564583"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Police</classifier>
+        <classifier class="indexing_service" type="descriptor">Stun Guns</classifier>
+        <classifier class="indexing_service" type="descriptor">Police Brutality and Misconduct</classifier>
+        <person class="indexing_service">Kershaw, Sarah</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Florida</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida/Miami</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington/Seattle</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington</classifier>
+        <classifier class="online_producer" type="descriptor">Police</classifier>
+        <classifier class="online_producer" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police Brutality and Misconduct</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <location class="online_producer">Seattle (Wash)</location>
+        <location class="online_producer">Miami (Fla)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040307T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE1DC1F3FF934A35750C0A9629C8B63" item-length="1603" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>As Shocks Replace Police Bullets, Deaths Drop but Questions Arise</hl1>
+        <hl2 class="online_headline">As Shocks Replace Police Bullets, Deaths Drop but Questions Arise</hl2>
+      </hedline>
+      <byline class="print_byline">By SARAH KERSHAW</byline>
+      <byline class="normalized_byline">Kershaw, Sarah</byline>
+      <dateline>SEATTLE, March 6</dateline>
+      <abstract>
+        <p>as shocks rep</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The police here have had their share of high-profile violent or deadly run-ins with protesters, mentally ill suspects and other lawbreakers. But in 2003, for the first time in 15 years, no one here was shot and killed by the police.</p>
+        <p>Miami, a city with a long history of police shootings and ensuing civil unrest, had no police shootings last year, fatal or otherwise, for the first time in 14 years. In Phoenix, where such shootings reached a level over the last several years that far outpaced the rate of much larger cities, deadly police shootings fell sharply in 2003, to their lowest rate in 14 years.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In a fast-growing number of the nation's police departments, officers are carrying a slick new weapon which looks a lot like a pistol but does not shoot to kill.</p>
+      </block>
+      <block class="full_text">
+        <p>The police here have had their share of high-profile violent or deadly run-ins with protesters, mentally ill suspects and other lawbreakers. But in 2003, for the first time in 15 years, no one here was shot and killed by the police.</p>
+        <p>Miami, a city with a long history of police shootings and ensuing civil unrest, had no police shootings last year, fatal or otherwise, for the first time in 14 years. In Phoenix, where such shootings reached a level over the last several years that far outpaced the rate of much larger cities, deadly police shootings fell sharply in 2003, to their lowest rate in 14 years.</p>
+        <p>In these cities and in a fast-growing number of the nation's police departments, officers are carrying a slick new weapon, the Taser gun, which looks a lot like a pistol but does not shoot to kill.</p>
+        <p>Though officials say the Taser gun, which fires a stunning jolt of electricity, is not solely responsible for a decline in police killings, many departments say it has made a huge difference. Its supporters say the Taser is saving lives, protecting officers and suspects in standoffs that might otherwise have left someone dead or seriously injured.</p>
+        <p>''This is 100 percent more humane,'' said Officer Tom Burns, who has carried a Taser gun for the past two and a half years on bicycle patrol in Seattle.</p>
+        <p>But as the Taser spreads rapidly, it is raising questions about whether the weapon, which can also be applied directly to the skin as a stun gun, could be abused by the police. The Taser zaps suspects with 50,000 volts of electricity, disabling them for five seconds at a time. Critics say the weapon is ripe for abuse because the shock leaves no obvious mark, other than what looks like a small bee sting. Human rights groups in the United States and abroad have called Tasers potential instruments of torture.</p>
+        <p>They are now being used by more than 4,000 police departments. Roughly 170 new departments are buying the high-tech electro-shock guns every month, and the Army has begun using them in Iraq, according to Taser International, the Arizona company that makes them. More than one-third of Seattle's 600 patrol officers carry Tasers. In Miami, Phoenix and a growing number of cities, every officer has one.</p>
+        <p>Tasers have often been introduced in the wake of public outcry over deadly police shootings. That was the case in Seattle, Denver, Austin, Tex., and Portland, Ore., as part of an effort to reduce killings through the use of training programs and ''less lethal'' weapons.</p>
+        <p>''You have to think about the alternatives,'' said Officer Burns, who also carries pepper spray and a .40-caliber Glock pistol. He said he had used the Taser five times on suspects who seemed eager to attack or were difficult to control. ''And without this technology you might have to break it down to very brutal methods.''</p>
+        <p>Officer Burns was on the scene in 2000 when the police here shot and killed a mentally ill man, a widely publicized incident that led to soul-searching in the department and a plan that among other things involved the purchase of Tasers.</p>
+        <p>The newest Tasers are an advanced version of technology that was developed in the 1970's but was not considered by the police to be effective until recently, The electrical pulses travel from the gun through two 21-foot-long wires that look like a stretched-out Slinky tipped with barbed probes. If the probes pierce skin or a layer of clothing two inches thick or less, the jolt contracts the muscles and throws the suspect off balance. It makes the suspect unable to move, and gives the police a full five seconds with every ''tasing'' to handcuff the suspect. The police say that 50,000 volts is a safe amount of electricity to absorb and that suspects shot with a Taser recover immediately.</p>
+        <p>But critics and watchdog groups say the Taser could be used to torture suspects and prison inmates to extract confessions or taunt them, and Amnesty International has called for a ban on their use pending studies on their long-term effects. Human rights and civil liberties groups are also questioning whether the electro-shocks that Tasers deliver are potentially deadly.</p>
+        <p>''Surely it's better than being killed,'' said Dan Handelman, a founder of Portland Copwatch, a group that has been critical of that city's growing use of Tasers over the last year. ''But it's not necessarily an acceptable replacement because it's not being used -- at least in Portland -- in place of lethal force, it's being used for compliance.''</p>
+        <p>Across the country in recent months, several suspects who were shot with Tasers, sometimes repeatedly, have died. But officials said other health problems, like heart conditions and drug overdoses, were the cause.</p>
+        <p>The American Civil Liberties Union of Colorado urged the Denver Police Department two weeks ago to limit its use of Tasers. The group cited a rising number of deaths nationally, saying 16 suspects in custody had died after being subdued with Tasers or stun guns in 2003, up from 10 in 2002 and 3 in 2001. But none of the deaths were officially attributed to the effect of the weapons.</p>
+        <p>In Las Vegas, William Lomax, 26, died last month after being arrested and, according to witnesses and the police, shot with a Taser four or five times, which critics of the Police Department said was an excessive use of force. Investigators said that Mr. Lomax had been under the influence of drugs, but that the cause of death was still under investigation.</p>
+        <p>Marsha Bell, 22, said she saw Mr. Lomax, her cousin, arrested on Feb. 21 at her apartment complex, where he often visited his family. After he had a run-in with security guards, the police were called.</p>
+        <p>''He was on the ground,'' Ms. Bell said in a telephone interview. ''He had two pairs of handcuffs on him, and I didn't know the Taser was being used until I heard him screaming. He kept screaming and screaming, saying, 'Oh God, Jesus, please no.' He was screaming in pain, he was hurt and he didn't resist.''</p>
+        <p>Lt. Tom Monahan of the Las Vegas Metropolitan Police Department, which bought several hundred Tasers last year, said that Mr. Lomax had struggled with officers, security guards and paramedics, and that the Taser was used while officers were trying to handcuff him.</p>
+        <p>Officer Thomas Miller, who conducts Taser training for the Las Vegas department, said that there were clear guidelines on when Tasers should be used.</p>
+        <p>''In the past, an officer would have to fight,'' Officer Miller said. ''Now we have an option to stop that before it gets to that point, greatly reducing the risk to the officer and the suspect.''</p>
+        <p>The police do say that a Taser would never replace lethal weapons if an officer felt his life was in imminent danger, like when a suspect is wielding a knife or a gun at close proximity, or when no other officer is available to provide ''lethal cover'' for an officer using the Taser. Most departments allow officers on the scene to make that judgment call.</p>
+        <p>In the New York City Police Department, supervisors and members of the large Emergency Service Unit, which helps patrol officers in violent situations, carry Tasers, but patrol officers do not, the police said.</p>
+        <p>The newest models cost $799 each, according to Taser International, the leading producer of the weapons. But company officials, who have seen their stock skyrocket over the last year, say the savings to police departments that might otherwise be sued over violent confrontations or shootings is potentially huge.</p>
+        <p>The police and other supporters of the new technology also say there are built-in safeguards to prevent abuse of the guns. Each Taser, which is powered by batteries, has a data port that records each shock and is used by police departments when they prepare incident reports, allowing supervisors to count how many times a Taser was fired.</p>
+        <p>Steve Tuttle, a spokesman for Taser International, which is based in Scottsdale, Ariz., said the company continually reviewed data and had found few instances among about 70,000 uses so far of abuse or inappropriate use.</p>
+        <p>''If there's a bad apple out there, the technology we made will catch that bad apple,'' Mr. Tuttle said. ''We've won the lottery in terms of great success, stock market-wise, but with that comes much more scrutiny.''</p>
+        <p>Officer Burns of the Seattle department said the police could not deny that a misguided officer could abuse any weapon. But he said that there had been numerous instances in Seattle where officers had used the Taser instead of fists, nightsticks, guns or pepper spray, which can have much longer effects than Taser shocks, and that suspects had recovered immediately.</p>
+        <p>''Shooting someone is not a badge of honor,'' Officer Burns said. ''It's something no one wants to do. No police officer in the world is paid to die, no police officer in the world is paid to get hurt.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Evening's Star Appears, But Only in Vivid Memories</title>
+    <meta content="01esse" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/arts/dance/01esse.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822923"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <org class="online_producer">New York City Ballet</org>
+        <person class="online_producer">Hayden, Melissa</person>
+        <person class="online_producer">Mitchell, David</person>
+        <person class="online_producer">Nichols, Kyra</person>
+        <person class="online_producer">Weese, Miranda</person>
+        <person class="online_producer">Whelan, Wendy</person>
+        <person class="online_producer">Fairchild, Megan</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E2DD153FF932A35751C0A9619C8B63" item-length="448" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Evening's Star Appears, But Only in Vivid Memories</hl1>
+        <hl2 class="online_headline">An Evening’s Star Appears, but Only in Vivid Memories</hl2>
+      </hedline>
+      <byline class="print_byline">By CLAUDIA LA ROCCO</byline>
+      <byline class="normalized_byline">La Rocco, Claudia</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>You have three chances this month to see ''Essential Balanchine,'' one of 11 thematic programs newly created by the New York City Ballet as a way of packaging its extensive repertory.</p>
+        <p>But none will include what audiences got Tuesday: a funny, touching tribute to the great ballerina Melissa Hayden by her former partner Jacques d'Amboise. He described her insistence on finishing a ballet after falling so hard she knocked herself out; her mischievous promise to kiss him every day from his 16th to his 17th birthday, only to tire of the game in a week; and how, when he saw her last, she removed her oxygen mask to say, ''Oh, Jacques, you came for my last dance.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A funny, touching tribute to the great ballerina Melissa Hayden was performed by her former partner Jacques d’Amboise.</p>
+      </block>
+      <block class="full_text">
+        <p>You have three chances this month to see ''Essential Balanchine,'' one of 11 thematic programs newly created by the New York City Ballet as a way of packaging its extensive repertory.</p>
+        <p>But none will include what audiences got Tuesday: a funny, touching tribute to the great ballerina Melissa Hayden by her former partner Jacques d'Amboise. He described her insistence on finishing a ballet after falling so hard she knocked herself out; her mischievous promise to kiss him every day from his 16th to his 17th birthday, only to tire of the game in a week; and how, when he saw her last, she removed her oxygen mask to say, ''Oh, Jacques, you came for my last dance.''</p>
+        <p>Hayden, who died of cancer last year at 83, is now one of the many ghosts that Mr. d'Amboise, like anyone long connected to dance, sees in the theater. But surely even ballet neophytes felt the ghosts circling in ''Liebeslieder Walzer,'' which followed his speech. The lush, multilayered dance for four couples takes its name from Brahms's haunting vocal works. Like the music, performed onstage by two pianists and four singers, it is sumptuous, romantic and -- especially on Tuesday -- ineffably sad.</p>
+        <p>As the couples whirl through David Mitchell's lavish ballroom, a host of stories are suggested. Yet Balanchine's choreography needs no narratives, not as interpreted by the likes of Kyra Nichols and Miranda Weese, both nearing the end of their City Ballet careers. It was an embarrassment of riches, particularly when Wendy Whelan (in the role originated by Ms. Hayden) and Nikolaj Hübbe held the floor. Their dancing was both celebration and elegy.</p>
+        <p>It can take a bit to sink into ''Liebeslieder,'' but once you're in, you never want out. ''Stars and Stripes,'' on the other hand, offers scant sustenance, despite the irresistible Ashley Bouder as Liberty Bell. It's not that the ballet is empty fun, but that it's not really much fun at all. All those flag-draped dancers grinning and spinning to Sousa like mad tops: just because you can adapt ballet to the marching band doesn't mean you should.</p>
+        <p>By night's end the ballet that began it three hours earlier had receded to a distant but still shimmering island, chiefly populated by Megan Fairchild and Sébastien Marcovici. Of the program's three works ''Square Dance'' offers perhaps the fullest union of disparate movement traditions. Corelli and Vivaldi show up for a toe-shoe hoedown, and something new is born. Everything is pared to its surprising but inevitable core, and the result is sublime. No. Essential.</p>
+        <p>The New York City Ballet performs through Feb. 25 at the New York State Theater, Lincoln Center; (212) 870-5570 or nycballet.com.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NYSE Makes Alliance With Tokyo Exchange</title>
+    <meta content="01exchange" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/business/worldbusiness/01exchange.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822995"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <org class="indexing_service">Nyse Group</org>
+        <org class="indexing_service">Tokyo Stock Exchange</org>
+        <person class="indexing_service">Anderson, Jenny</person>
+        <person class="indexing_service">Fackler, Martin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan/Tokyo</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">Tokyo (Japan)</location>
+        <org class="online_producer">NYSE Group Incorporated</org>
+        <org class="online_producer">Tokyo Stock Exchange</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E5DB153FF932A35751C0A9619C8B63" item-length="853" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NYSE Makes Alliance With Tokyo Exchange</hl1>
+        <hl2 class="online_headline">NYSE Makes Alliance With Tokyo Exchange</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNY ANDERSON and MARTIN FACKLER</byline>
+      <byline class="normalized_byline">Anderson, Jenny; Fackler, Martin</byline>
+      <abstract>
+        <p>New York Stock Exchange parent NYSE Group confirms it has signed letter of intent to form strategic alliance with Tokyo Stock Exchange; alliance calls for cooperation on joint listings, trading technology and marketing, with possibility of investing in each other in future; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a deal that allies the two biggest stock markets in the world, the NYSE Group, parent of the New York Stock Exchange, confirmed yesterday that it had signed a letter of intent to form a strategic alliance with the Tokyo Stock Exchange.</p>
+        <p>The alliance calls for cooperation on joint listings, trading technology and marketing, with the possibility of investing in each other in the future.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The alliance calls for cooperation on joint listings, trading technology and marketing, with the possibility of investing in each other in the future.</p>
+      </block>
+      <block class="full_text">
+        <p>In a deal that allies the two biggest stock markets in the world, the NYSE Group, parent of the New York Stock Exchange, confirmed yesterday that it had signed a letter of intent to form a strategic alliance with the Tokyo Stock Exchange.</p>
+        <p>The alliance calls for cooperation on joint listings, trading technology and marketing, with the possibility of investing in each other in the future.</p>
+        <p>''I strongly believe this agreement will be a good starting point for a much stronger tie-up,'' Taizo Nishimuro, chief executive of the Tokyo Stock Exchange, said at a news conference at the New York Exchange.</p>
+        <p>Its is the third international deal that the NYSE Group has announced in the last 12 months. Last spring, it merged with Euronext, the Paris-based European exchange, creating the first trans-Atlantic exchange. More recently it bought a 5 percent stake in the National Stock Exchange, India's largest marketplace.</p>
+        <p>All three of those deals, and the exchange's merger with the electronic trading operator Archipelago in 2005, were forged under the stewardship of John A. Thain, who became chief executive in January 2004, at a time of turmoil and uncertainty about the exchange's future.</p>
+        <p>The exchange's nonexclusive alliance with Tokyo --loosely defined and less substantive than its merger with Euronext or its ownership stake in India's national stock exchange -- is an agreement to work together, the chief executives from the two exchanges said. Working groups are in place to examine possible linkages in areas like trading technology, cross-listings, new products including exchange-traded funds and areas of corporate governance and regulation, Mr. Thain said.</p>
+        <p>Over the last few years, global exchanges have been radically transformed from staid not-for-profit membership organizations to for-profit, publicly traded technology hubs, struggling to capture soaring volumes and increasingly complex financial products.</p>
+        <p>Given the limited number of exchanges in the world and their monopolylike characteristics, investors have leaped at the opportunity to own a piece of what are considered by many to be toll roads for traders. Hedge funds, private pools of capital that control half to a third of trading on these exchanges, have been some of the biggest investors.</p>
+        <p>The exchanges themselves have been in a race to gobble one another up or strike alliances, seeking to corner the valuable liquidity that makes markets function. The Deutsche Börse lost out to NYSE in the bidding for Euronext, and NYSE's rival, Nasdaq, has made a hostile offer for the London Stock Exchange, so far without success. Yesterday's deal is expected to have more immediate importance for Tokyo than for NYSE. The Tokyo exchange is trying to restore its reputation after a series of embarrassing computer-related failures in late 2005 and early 2006 that paralyzed trading and resulted in huge losses for one brokerage firm.</p>
+        <p>Those failures shook investors' faith in the exchange, Asia's largest and most sophisticated market and No. 2 globally after New York.</p>
+        <p>The exchange has struggled to win back investor confidence, postponing its initial offering until 2009 and vowing to have its outdated computer trading system replaced by then.</p>
+        <p>Analysts speculated that the Tokyo exchange's biggest motivation in seeking an alliance with New York was to bolster its prestige and get outside help in improving its trading systems.</p>
+        <p>''The T.S.E. is still trying to put its house back in order and regain investor confidence,'' said Neil Katkov, a Tokyo-based analyst specializing in trading systems at Celent Communications ''A tie-up with a major foreign exchange makes them look competitive again.''</p>
+        <p>Analysts said the Tokyo exchange still faced a host of problems. The computer manufacturer chosen to build the new trading system, Fujitsu, also built the current problem-plagued system. And the new system, which is expected to cost some $300 million, will not be as fast or investor-friendly as the New York exchange's current computers -- which Nasdaq has frequently derided as antiquated and slow.</p>
+        <p>For the NYSE Group, an alliance with the Tokyo exchange brings access to Asia's largest market, with a capitalization of $4.6 trillion -- about one-third of the New York Exchange's.</p>
+        <p>Tokyo's stock market has re-emerged as an enormously popular place to invest. Foreign investors have been net buyers in recent years, drawn by rebounding stock and asset prices as Japan's economy finally recovers from a long slump in the 1990s.</p>
+        <p>In recent years, Japanese stock indexes have outperformed American indexes. The benchmark Nikkei 225 stock index has doubled since the start of 2003, compared with the Dow Jones industrial average's rise of about 50 percent during the period. On Tuesday, the Nikkei 225 closed at 17,490.19, close to a six-year high.</p>
+        <p>Analysts said the Tokyo market would probably benefit from higher profits as more companies overhaul themselves in the face of rising Chinese and other Asian competition. They said another boost would come as more of Japan's wealth of private savings and pension funds moves into stocks to take advantage of the bull market.</p>
+        <p>This and the foreign money pouring in have given Tokyo robust daily trading volumes similar to New York's. On Monday, 1.49 billion shares were traded in Tokyo, compared with 1.54 billion on the New York exchange.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

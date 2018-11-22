@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Berlusconi Flirts. His Wife's Fed Up. Read All About It.</title>
+    <meta content="01italy" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/world/europe/01italy.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822939"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="ROME JOURNAL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <location class="indexing_service">Italy</location>
+        <org class="indexing_service">La Repubblica (Italian Newspaper)</org>
+        <person class="indexing_service">Fisher, Ian</person>
+        <person class="indexing_service">Berlusconi, Silvio</person>
+        <person class="indexing_service">Lario, Veronica</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Italy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy</classifier>
+        <classifier class="online_producer" type="descriptor">Marriages</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Marriages</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Italy</location>
+        <org class="online_producer">La Repubblica</org>
+        <person class="online_producer">Berlusconi, Silvio</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E7DC153FF932A35751C0A9619C8B63" item-length="1128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Berlusconi Flirts. His Wife's Fed Up. Read All About It.</hl1>
+        <hl2 class="online_headline">Berlusconi Flirts. Wife’s Fed Up. Read All About It.</hl2>
+      </hedline>
+      <byline class="print_byline">By IAN FISHER; Peter Kiefer contributed reporting.</byline>
+      <byline class="normalized_byline">Fisher, Ian</byline>
+      <dateline>ROME, Jan. 31</dateline>
+      <abstract>
+        <p>All Italy has been riveted by letters former Prime Min Silvio Berlusconi and his angry wife Veronica Lario have been exchanging in newspapers; Lario wrote letter to her husband, demanding his apology for flirting publicly with other women, and sent it to La Repubblica, newspaper he hates most; Berlusconi has responded with open letter apologizing to her; unusual exchange of letters is seen as especially spicy episode in couple's long and complicated relationship; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Dear Editor,'' began a letter published Wednesday on the front page of La Repubblica, the newspaper that Silvio Berlusconi hates most. The scalding letter demanded an apology from Mr. Berlusconi for flirting publicly -- and it was signed by his wife.</p>
+        <p>And so, a nation bored and a little down at its return to semi-normal politics woke to a juicy news cycle with an inescapable conclusion: in or out of power, Mr. Berlusconi may behave reprehensibly, but Italy cannot keep its eyes off him.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The wife of Italy’s former prime minister asked her husband to apologize  in a front-page letter to the editor.</p>
+      </block>
+      <block class="full_text">
+        <p>''Dear Editor,'' began a letter published Wednesday on the front page of La Repubblica, the newspaper that Silvio Berlusconi hates most. The scalding letter demanded an apology from Mr. Berlusconi for flirting publicly -- and it was signed by his wife.</p>
+        <p>And so, a nation bored and a little down at its return to semi-normal politics woke to a juicy news cycle with an inescapable conclusion: in or out of power, Mr. Berlusconi may behave reprehensibly, but Italy cannot keep its eyes off him.</p>
+        <p>''We have had for eight months a notably boring government,'' said Giuliano Ferrara, an editor and informal aide to Mr. Berlusconi, referring to the stewardship of Prime Minister Romano Prodi, who beat Mr. Berlusconi in elections last spring.</p>
+        <p>''And right now there is an explosion of strange and weird vitality, the heart that keeps on pumping,'' he said. ''People miss very much that style. It's not healthy, but it's Italian.''</p>
+        <p>It turns out that the 70-year-old former prime minister, whose own heart now beats with a pacemaker, attended an awards ceremony last week and was overly friendly with two young and beautiful guests.</p>
+        <p>''If I weren't already married, I would marry you right now,'' he told one, according to Italian news media accounts. To another, he said, ''With you I would go anywhere.''</p>
+        <p>''These are statements I consider damaging to my dignity,'' wrote Veronica Lario, 50, who has been with Mr. Berlusconi for 27 years. His remarks could not be ''reduced to jokes,'' she said.</p>
+        <p>''To my husband and to the public man, I therefore ask for a public apology, not having received one privately.''</p>
+        <p>In divining what this could mean, Italians barely knew where to start.</p>
+        <p>Feminists called it an overdue rallying cry for Italian women like Ms. Lario, who has endured years of supposed infidelity (and no end of sexual remarks, like when Mr. Berlusconi opened a political conference by praising the legs of the women in the front row). Political analysts said Mr. Berlusconi, who wants a third turn as prime minister, could never again win the votes of women -- and so was finished.</p>
+        <p>Then, in early evening, Mr. Berlusconi, who can never be counted out, wrote his own open letter, released by Forza Italia, his political party.</p>
+        <p>''Your dignity should not be an issue: I will guard it like a precious material in my heart even when thoughtless jokes come out of my mouth,'' he wrote. ''But marriage proposals, no, believe me, I have never made one to anyone.</p>
+        <p>''Forgive me, however, I beg of you, and take this public testimony of private pride that submits to your anger as an act of love. One among many. A huge kiss. Silvio.''</p>
+        <p>In the end, it seemed an especially spicy episode in the long and complicated relationship not only between Silvio and Veronica, but also between Silvio and Italy. The private drama of Italy's richest man, the nation's shrewd, shady and irrepressible personification, became something public, possibly even relevant politically and psychically.</p>
+        <p>There seemed little question here that Ms. Lario's letter deserved its spot on the front page. ''It would be like Hillary Clinton asks for the public apology from Bill Clinton,'' said Ezio Mauro, La Repubblica's top editor.</p>
+        <p>Indeed, Italy's top three evening talk shows devoted all their time to the unusual exchange of letters. Beppe Severgnini, one of the most discerning commentators on Italian mores, quickly churned out a column for Corriere della Sera summing up its import.</p>
+        <p>''The man is a walking oxymoron, but it has not stopped him from working his way up,'' he wrote. ''Why? Simple: because he embodies the Italian dream of being everything, of pleasing everyone (and indulging himself in everything), without giving up anything.''</p>
+        <p>Perhaps all marriages are mysteries on some level, but the drama also shed light on one of Italy's most visible but ambiguous couples. They met in 1980, when he was a budding, and married, builder and she was a beautiful B-movie actress appearing in a play in Milan. He saw her on stage, the story goes, and fell deeply in love.</p>
+        <p>He left his first wife, they married and had three children (he already had two). He grew richer, entered politics in the mid-1990s, and the two seemed somehow together yet increasingly apart. No small amount of his public persona was linked to his constant, earthy joking about women and his mastery of them, amid rumors that monogamy was not among his virtues.</p>
+        <p>''I lost my hair because I had too many girlfriends,'' he once said (he has since had implants). In 2003, he gave a reason foreigners should invest in Italy: ''Aside from the good weather, we have beautiful businesswomen and also beautiful secretaries.''</p>
+        <p>Through it all, Ms. Lario remained largely silent -- a fact she noted acidly in the letter, which she pointedly signed ''Mrs. Berlusconi'' though she routinely uses her own name. ''I chose not to leave space for marital conflicts, even when his behavior created reasons to do so,'' she wrote.</p>
+        <p>But not entirely: she made no secret over the years that her personal political views were more to the left than her husband's. Maria Latella, an Italian journalist who wrote a biography of Ms. Lario, recalled that during Mr. Berlusconi's first term as prime minister, in 1994, a newspaper article appeared saying that every day he sent flowers to someone.</p>
+        <p>He contended they were to his wife. But Ms. Latella noted that Ms. Lario had sent the newspaper a brief letter saying that, in fact, she never received flowers from Palazzo Chigi, the prime minister's official residence.</p>
+        <p>''She considered it humiliating that flowers sent to another person were attributed to her,'' Ms. Latella said. ''It shows the character of the person.''</p>
+        <p>Ms. Lario also spoke candidly in the biography, saying that she rarely saw Mr. Berlusconi but that she considered their marriage stable and herself ''the perfect kind of wife for the kind of man Silvio is.''</p>
+        <p>''He can concentrate on himself and his work knowing his wife won't create a fuss if he's away from his family,'' she said in the biography.</p>
+        <p>As fate would have it, on the very same day that Ms. Lario fired off her letter, Mr. Berlusconi echoed his wife's comments, now possibly void, in an interview he gave, also to Ms. Latella, for her magazine, A.</p>
+        <p>''Veronica has always been a total passion,'' he said. ''When we met I lost my head for her. And she has been a marvelous mother.</p>
+        <p>''She has never made me look bad, never -- while the wives of certain other politicians,'' he said, trailing off his thought. ''And then she is so indulgent. What more could I want?''</p>
+        <p>Ms. Latella said, ''I think he was wrong this time.''</p>
+        <p>ROME JOURNAL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

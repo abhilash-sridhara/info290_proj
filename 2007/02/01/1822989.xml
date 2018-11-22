@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TODAY IN BUSINESS</title>
+    <meta content="01biztoday" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822989"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E6DB153FF932A35751C0A9619C8B63" item-length="860" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TODAY IN BUSINESS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>UNION DRIVE AMID LUXURY -- The Service Employees International Union, which has waged campaigns to organize janitors and other workers, has set its sights on Fisher Island, Fla., one of the most concentrated pockets of wealth in the nation. [Page C1.]</p>
+        <p>US AIRWAYS ENDS BID FOR DELTA -- US Airways withdrew its $10.2 billion offer for Delta Air Lines after it failed to win the support of Delta's creditors. The action was seen as a victory for Delta's chief executive, Gerald A. Grinstein, and its pilots' union. [C1.]</p>
+        <p>BUSH FAULTS HIGH EXECUTIVE PAY -- President Bush called on corporate boards to hold their chief executives more accountable by tying their pay to performance -- a new message from a president who is closely allied to the business community. [C11.]</p>
+        <p>A REFORM-MINDED FARM BILL -- The Bush administration proposed reducing farm payments by $10 billion over the next five years and cutting off money to wealthy farmers in what some critics said could be the most reform-minded farm bill in decades. [A20.]</p>
+        <p>DELL BACK IN CHARGE -- Michael S. Dell, below, has taken back the leadership of the computer company he founded, replacing Kevin B. Rollins after more than a year of mounting problems at Dell. The company announced that Mr. Rollins had resigned as chief executive and as a director. [C1.]</p>
+        <p>GOOGLE'S RISING PROFIT -- Google reported a sharp rise in both sales and profit in the fourth quarter, continuing the blockbuster growth of its search-driven advertising business. [C4.]</p>
+        <p>SENATORS CRITICAL OF S.E.C. -- Two prominent Republican senators renewed their criticism yesterday of how the Securities and Exchange Commission carried out its investigation into a prominent hedge fund, Pequot Capital Management. [C2.]</p>
+        <p>THE WRONG KIND OF ATTENTION -- A marketing campaign by Turner Broadcasting to promote a cartoon by using magnetic lights distributed in public places around Boston caused an uproar, as police closed off bridges, subway stations, an Interstate highway and part of the Charles River because of the suspicious packages. [A21.]</p>
+        <p>INTEREST RATES UNCHANGED -- The Federal Reserve left interest rates unchanged, as it has since June, but it was more optimistic than in the past that inflationary pressures were ebbing. [C10.]</p>
+        <p>DIMMING PROSPECTS -- Markets celebrated the Fed's action, but analysts warned the road ahead promises to be a hard slog. Corporate profits are starting to slow, and the chances of a rate cut this year have diminished. [C1.]</p>
+        <p>GOOD DAY ON THE STREET -- Stocks shot higher after the Federal Reserve answered two of Wall Street's major concerns, indicating that the economy remained healthy and that inflation pressures were easing. [C11.]</p>
+        <p>AUTOMAKERS FOCUS ON DEALERS -- Sales by General Motors and Ford are expected to be significantly lower in January as they pulled back from deliveries to rental-car agencies to focus on more profitable transactions at dealerships. [C11.]</p>
+        <p>HEARING ON NAZI-ERA CLAIMS -- A federal judge abruptly adjourned a hearing on the settlement of a dispute over unpaid life insurance policies of Holocaust victims after a Miami lawyer and a survivor of a Nazi concentration camp raised objections. [C3.]</p>
+        <p>TIMES CUTS PAPERS' VALUATION -- The New York Times Company said that it was writing down by $814.4 million the value of its New England newspapers, The Boston Globe and The Worcester Telegram &amp; Gazette, which have suffered from sluggish advertising and a migration of readers to the Internet. [C2.]</p>
+        <p>TWO BIG EXCHANGES IN DEAL -- The NYSE Group, parent of the New York Stock Exchange, has signed a letter of intent to form a strategic alliance with the Tokyo Stock Exchange, an agreement that brings together the world's two largest exchanges. [C3.]</p>
+        <p>THE VALUE OF PERKS -- Activities and perks that surprise and delight employees -- like the skydiving flight that a software executive sent her staff on -- can be a great way to help employees bond. Small Business. [C5.]</p>
+        <p>A BROAD RANGE OF READERS -- A variety of notables -- among them Sheryl Crow, Maya Lin, Tiki Barber and Alice Waters -- are appearing in ads for The Wall Street Journal to show that the paper appeals to readers other than those in pinstripes. Advertising. [C5.]</p>
+        <p>ONLINE</p>
+        <p>Business Briefing</p>
+        <p>Articles on these developments are at nytimes.com/business.</p>
+        <p>TIME WARNER, THE MEDIA conglomerate, said that quarterly profit rose 34 percent, bolstered by AOL asset sales in Europe, a rise in digital cable and phone customers, and online advertising sales. (REUTERS)</p>
+        <p>EASTMAN KODAK POSTED its first profit in nine quarters on higher revenue from photo kiosks and savings from eliminating jobs. (BLOOMBERG NEWS)</p>
+        <p>THE FEDERAL DEPOSIT INSURANCE Corporation has extended a moratorium on considering nonfinancial companies' applications to establish or acquire banks, suspending applications from companies like Wal-Mart Stores, Home Depot and DaimlerChrysler. (AP)</p>
+        <p>STARBUCKS SAID THAT first-quarter profit rose 18 percent as consumers spent more for holiday drinks like peppermint mocha. The company increased prices in October by about 5 cents a cup, the first rise in two years. (BLOOMBERG NEWS)</p>
+      </block>
+      <block class="full_text">
+        <p>UNION DRIVE AMID LUXURY -- The Service Employees International Union, which has waged campaigns to organize janitors and other workers, has set its sights on Fisher Island, Fla., one of the most concentrated pockets of wealth in the nation. [Page C1.]</p>
+        <p>US AIRWAYS ENDS BID FOR DELTA -- US Airways withdrew its $10.2 billion offer for Delta Air Lines after it failed to win the support of Delta's creditors. The action was seen as a victory for Delta's chief executive, Gerald A. Grinstein, and its pilots' union. [C1.]</p>
+        <p>BUSH FAULTS HIGH EXECUTIVE PAY -- President Bush called on corporate boards to hold their chief executives more accountable by tying their pay to performance -- a new message from a president who is closely allied to the business community. [C11.]</p>
+        <p>A REFORM-MINDED FARM BILL -- The Bush administration proposed reducing farm payments by $10 billion over the next five years and cutting off money to wealthy farmers in what some critics said could be the most reform-minded farm bill in decades. [A20.]</p>
+        <p>DELL BACK IN CHARGE -- Michael S. Dell, below, has taken back the leadership of the computer company he founded, replacing Kevin B. Rollins after more than a year of mounting problems at Dell. The company announced that Mr. Rollins had resigned as chief executive and as a director. [C1.]</p>
+        <p>GOOGLE'S RISING PROFIT -- Google reported a sharp rise in both sales and profit in the fourth quarter, continuing the blockbuster growth of its search-driven advertising business. [C4.]</p>
+        <p>SENATORS CRITICAL OF S.E.C. -- Two prominent Republican senators renewed their criticism yesterday of how the Securities and Exchange Commission carried out its investigation into a prominent hedge fund, Pequot Capital Management. [C2.]</p>
+        <p>THE WRONG KIND OF ATTENTION -- A marketing campaign by Turner Broadcasting to promote a cartoon by using magnetic lights distributed in public places around Boston caused an uproar, as police closed off bridges, subway stations, an Interstate highway and part of the Charles River because of the suspicious packages. [A21.]</p>
+        <p>INTEREST RATES UNCHANGED -- The Federal Reserve left interest rates unchanged, as it has since June, but it was more optimistic than in the past that inflationary pressures were ebbing. [C10.]</p>
+        <p>DIMMING PROSPECTS -- Markets celebrated the Fed's action, but analysts warned the road ahead promises to be a hard slog. Corporate profits are starting to slow, and the chances of a rate cut this year have diminished. [C1.]</p>
+        <p>GOOD DAY ON THE STREET -- Stocks shot higher after the Federal Reserve answered two of Wall Street's major concerns, indicating that the economy remained healthy and that inflation pressures were easing. [C11.]</p>
+        <p>AUTOMAKERS FOCUS ON DEALERS -- Sales by General Motors and Ford are expected to be significantly lower in January as they pulled back from deliveries to rental-car agencies to focus on more profitable transactions at dealerships. [C11.]</p>
+        <p>HEARING ON NAZI-ERA CLAIMS -- A federal judge abruptly adjourned a hearing on the settlement of a dispute over unpaid life insurance policies of Holocaust victims after a Miami lawyer and a survivor of a Nazi concentration camp raised objections. [C3.]</p>
+        <p>TIMES CUTS PAPERS' VALUATION -- The New York Times Company said that it was writing down by $814.4 million the value of its New England newspapers, The Boston Globe and The Worcester Telegram &amp; Gazette, which have suffered from sluggish advertising and a migration of readers to the Internet. [C2.]</p>
+        <p>TWO BIG EXCHANGES IN DEAL -- The NYSE Group, parent of the New York Stock Exchange, has signed a letter of intent to form a strategic alliance with the Tokyo Stock Exchange, an agreement that brings together the world's two largest exchanges. [C3.]</p>
+        <p>THE VALUE OF PERKS -- Activities and perks that surprise and delight employees -- like the skydiving flight that a software executive sent her staff on -- can be a great way to help employees bond. Small Business. [C5.]</p>
+        <p>A BROAD RANGE OF READERS -- A variety of notables -- among them Sheryl Crow, Maya Lin, Tiki Barber and Alice Waters -- are appearing in ads for The Wall Street Journal to show that the paper appeals to readers other than those in pinstripes. Advertising. [C5.]</p>
+        <p>ONLINE</p>
+        <p>Business Briefing</p>
+        <p>Articles on these developments are at nytimes.com/business.</p>
+        <p>TIME WARNER, THE MEDIA conglomerate, said that quarterly profit rose 34 percent, bolstered by AOL asset sales in Europe, a rise in digital cable and phone customers, and online advertising sales. (REUTERS)</p>
+        <p>EASTMAN KODAK POSTED its first profit in nine quarters on higher revenue from photo kiosks and savings from eliminating jobs. (BLOOMBERG NEWS)</p>
+        <p>THE FEDERAL DEPOSIT INSURANCE Corporation has extended a moratorium on considering nonfinancial companies' applications to establish or acquire banks, suspending applications from companies like Wal-Mart Stores, Home Depot and DaimlerChrysler. (AP)</p>
+        <p>STARBUCKS SAID THAT first-quarter profit rose 18 percent as consumers spent more for holiday drinks like peppermint mocha. The company increased prices in October by about 5 cents a cup, the first rise in two years. (BLOOMBERG NEWS)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

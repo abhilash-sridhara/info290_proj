@@ -1,0 +1,52 @@
+1569 file
+1448 file
+967 file
+./2004_c/Adam Liptak/Adam Liptak.txt
+1373 file
+1328 file
+1687 file
+./2004_c/Adam Nagoury/Adam Nagoury.txt
+1088 file
+1259 file
+1083 file
+./2004_c/Alan Ridding/Alan Ridding.txt
+1072 file
+752 file
+857 file
+./2004_c/Alessandra Stanley/Alessandra Stanley.txt
+796 file
+2846 file
+909 file
+./2004_c/ALLAN KOZINN/ALLAN KOZINN.txt
+1081 file
+1042 file
+942 file
+./2004_c/John Tierney/John Tierney.txt
+754 file
+748 file
+722 file
+./2004_c/Maureen Dowd/Maureen Dowd.txt
+774 file
+770 file
+750 file
+./2004_c/Nicholas/Nicholas.txt
+1320 file
+1129 file
+851 file
+./2004_c/Robert Pear/Robert Pear.txt
+1016 file
+1128 file
+1496 file
+./2004_c/Sarah Kreshaw/Sarah Kreshaw.txt
+1078 file
+1193 file
+1136 file
+./2004_c/Simon Romero/Simon Romero.txt
+1056 file
+847 file
+1185 file
+./2004_c/Stuart Elliot/Stuart Elliot.txt
+1440 file
+1382 file
+1280 file
+./2004_c/Terry Pristin/Terry Pristin.txt

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ferraro to Join Lobbyists</title>
+    <meta content="01firm" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/business/01firm.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823061"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Blank Rome Government Relations</org>
+        <person class="indexing_service">Ferraro, Geraldine</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Ferraro, Geraldine A</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E1DA153FF932A35751C0A9619C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ferraro to Join Lobbyists</hl1>
+        <hl2 class="online_headline">Ferraro to Join Lobbying Firm</hl2>
+      </hedline>
+      <abstract>
+        <p>Geraldine Ferraro, former New York representative and Democratic vice presidential candidate, will join lobbying and public relations firm Blank Rome Government Relations as principal (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Geraldine A. Ferraro, the former New York representative who was the Democratic candidate for vice president in 1984, will join the lobbying and public relations firm Blank Rome Government Relations as a principal, the firm said yesterday.</p>
+        <p>Ms. Ferraro, 71, will work out of New York City for the firm, a subsidiary of the Blank Rome law firm.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Geraldine A. Ferraro will join the lobbying and public relations firm Blank Rome Government Relations as a principal.</p>
+      </block>
+      <block class="full_text">
+        <p>Geraldine A. Ferraro, the former New York representative who was the Democratic candidate for vice president in 1984, will join the lobbying and public relations firm Blank Rome Government Relations as a principal, the firm said yesterday.</p>
+        <p>Ms. Ferraro, 71, will work out of New York City for the firm, a subsidiary of the Blank Rome law firm.</p>
+        <p>Ms. Ferraro served for six years as a representative from the Ninth Congressional District of New York.</p>
+        <p>Before Blank Rome Government Relations, she worked as a managing director of the Global Consulting Group, a communications company. She also provides political commentary on the Fox News Channel.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

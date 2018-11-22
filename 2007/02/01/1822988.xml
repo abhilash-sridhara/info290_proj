@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sports Briefing</title>
+    <meta content="01sportsbriefs" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822988"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <org class="indexing_service">Federal Communications Commission</org>
+        <org class="indexing_service">Directv Inc</org>
+        <person class="indexing_service">Sandomir, Richard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E7DB153FF932A35751C0A9619C8B63" item-length="760" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sports Briefing</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD SANDOMIR</byline>
+      <byline class="normalized_byline">Sandomir, Richard</byline>
+      <abstract>
+        <p>Federal Communications Commission will discuss Major League Baseball's deal to sell Extra Innings package to DirecTV (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASEBALL</p>
+        <p>EXTRA INNINGS AT SENATE -- Major League Baseball's pending deal to sell its Extra Innings package of out-of-market games to DirecTV will be discussed today when Kevin Martin, the Federal Communications Commission chairman, testifies before the Senate Commerce Committee.</p>
+        <p>Senator John Kerry, Democrat of Massachusetts and a member of the committee, said in a statement yesterday: ''I am opposed to anything that deprives people of reasonable choices. In this day and age, consumers should have more choices and not fewer.'' He added: ''I'd like to know how this serves the public.''</p>
+      </block>
+      <block class="full_text">
+        <p>BASEBALL</p>
+        <p>EXTRA INNINGS AT SENATE -- Major League Baseball's pending deal to sell its Extra Innings package of out-of-market games to DirecTV will be discussed today when Kevin Martin, the Federal Communications Commission chairman, testifies before the Senate Commerce Committee.</p>
+        <p>Senator John Kerry, Democrat of Massachusetts and a member of the committee, said in a statement yesterday: ''I am opposed to anything that deprives people of reasonable choices. In this day and age, consumers should have more choices and not fewer.'' He added: ''I'd like to know how this serves the public.''</p>
+        <p>Many fans have been angered by the seven-year, $700-million deal, which will move Extra Innings from cable, where it is available to 75 million subscribers, and the Dish Network into an exclusive arrangement with DirecTV, which has 15 million subscribers. Extra Innings had about 600,000 cable and satellite customers last year.</p>
+        <p>A spokesman for Kerry, Vincent Morris, said the DirecTV deal would be only one of several subjects raised during the hearing.</p>
+        <p>RICHARD SANDOMIR</p>
+        <p>SKIING</p>
+        <p>MILLER IS LAST BUT GAINS SPOT -- Bode Miller finally completed a World Cup slalom yesterday, ending a yearlong drought and virtually assuring himself of a spot in the slalom at the world championships beginning Saturday in Are, Sweden.</p>
+        <p>Miller made major mistakes during both runs on the floodlit course in Schladming, Austria, but eventually crossed the line in 25th and last place, a hefty 9.60 seconds behind the winner, Benjamin Raich of Austria. The United States head coach, Phil McNichol, said that Miller's selection for the slalom in the world championships was now a formality. Miller's rivals for the two remaining slalom places, Tom Rothrock and Tim Jitloff, both failed to qualify for yesterday's second run.</p>
+        <p>Miller told the American sports Web site wcsn.com on Tuesday that he might not defend his downhill title at the world championships because of injury concerns. Miller said he was worried about suffering a recurrence of the knee injury he sustained on the Are downhill course at the end of last season. (REUTERS)</p>
+        <p>COLLEGE FOOTBALL</p>
+        <p>SABAN APOLOGIZES FOR SLUR -- As an audiotape spread on the Internet, Nick Saban, the new Alabama coach, acknowledged yesterday having used a phrase considered derogatory to Cajuns but said he did not condone such language and merely was repeating something a friend had told him.</p>
+        <p>Saban, the former Louisiana State coach, who recently left the Miami Dolphins' head-coaching post to take the Alabama job, used the ethnic slur Jan. 3 while telling Florida reporters in Tuscaloosa an anecdote about an L.S.U. fan's angry reaction to his hiring by Alabama.</p>
+        <p>Warren Perrin, president of the Council for Development of French in Louisiana, said the term used by Saban ''is highly offensive to descendants of Acadians, who are commonly referred to as Cajuns.'' (AP)</p>
+        <p>SOCCER</p>
+        <p>AMERICAN BID FOR LIVERPOOL -- A Dubai-based consortium pulled out of a proposed $882 million takeover of Liverpool yesterday, clearing the way for an American businessman to buy the storied English soccer club. Dubai International Capital, owned by the ruler of Dubai, Sheik Mohammed bin Rashid al-Maktoum, called off negotiations with Liverpool, the five-time European champions, after hearing that the board was considering a rival bid from George Gillett Jr., a Colorado businessman who owns the N.H.L.'s Montreal Canadiens.</p>
+        <p>Liverpool said in a statement that the process of seeking new owners for the club was still open and that ''a decision on the future will be taken in the next few days.'' Liverpool has won a record 18 English league titles and is planning to build a new 60,000-seat stadium. (AP)</p>
+        <p>ITALIAN CUP FINAL -- As Roma cruised into the final of the Italian Cup yesterday, defeating AC Milan, 3-1, to complete a 5-3 win on aggregate goals. Roma gained a berth in the final for the fourth time in the last five years, having finished runners-up to Milan in 2003 and Inter Milan in 2005 and 2006. Roma will play the winner of today's semifinal between Inter Milan and Sampdoria. Inter led by 3-0 after the first leg. (REUTERS)</p>
+        <p>BASKETBALL</p>
+        <p>BUSINESSMAN BUYS COMETS -- Hilton Koch, who owns the Houston-based Hilton Furniture chain, bought the Houston Comets, making the four-time Women's National Basketball Associaton champions the league's fifth independently owned franchise. The W.N.B.A. board approved the sale yesterday.</p>
+        <p>The Comets were previously owned by Leslie Alexander, who also owns the N.B.A.'s Houston Rockets.</p>
+        <p>The purchase price was not disclosed. In December, the Los Angeles Sparks were sold for $10 million. (AP)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="01libby--refer" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1823014"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E0DB153FF932A35751C0A9619C8B63" item-length="339" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Defense in Libby Case Tests Reporter's Memory  A former reporter for The New York Times jousted for nearly two hours with a lawyer for I. Lewis Libby Jr. about her credibility and memory, fighting over the reporter's testimony about three conversations she had with Mr. Libby.</p>
+        <p>PAGE A16</p>
+        <p>Stocks Surge on Fed News  The Federal Reserve, leaving rates unchanged, indicated a strong economy and moderating inflation, and the markets surged. But as corporate earnings slow, that euphoria may not last.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Boston Threat Is Harmless  ''Suspicious devices'' led Boston to close parts of bridges, subway stations and a highway but turned out to be part of a marketing campaign for a television show.</p>
+        <p>PAGE A21</p>
+        <p>Molly Ivins, Columnist, Dies  The liberal writer cultivated the voice of a folksy populist and delighted in skewering politicians and interpreting, and mocking, her Texas culture. She was 62.</p>
+        <p>PAGE B7</p>
+        <p>Berlusconi Flirts. Wife's Fed Up. Read All About It.  Silvio Berlusconi's wife wrote a scalding letter to the editor of an Italian newspaper demanding her husband's apology for flirting publicly with Mara Carfagna (shown with him above last May) and another woman. The former prime minister later issued an apology. The drama has riveted Italy.</p>
+        <p>PAGE A4</p>
+        <p>Disclosure on Eavesdropping  The Justice Department announced that selected members of Congress would get secret details of the National Security Agency's eavesdropping program. Federal judges in Cincinnati weighed arguments in a lawsuit on the program's legality.</p>
+        <p>PAGE A12</p>
+        <p>Britain Seizes 9 in Terror Plot  The British police arrested nine suspects on terrorism charges, accusing them of plotting to kidnap and kill a British Muslim soldier and then broadcast the killing on the Internet. The Home Office in London called the arrests ''a major counterterrorism operation.''</p>
+        <p>PAGE A3</p>
+        <p>A Cultural Blueprint For the Arab World  Zaha Hadid, whose performing arts center is at left, and other architects unveiled designs for a cultural district in Abu Dhabi, in the United Arab Emirates.</p>
+        <p>THE ARTS,  PAGE E1</p>
+      </block>
+      <block class="full_text">
+        <p>Defense in Libby Case Tests Reporter's Memory  A former reporter for The New York Times jousted for nearly two hours with a lawyer for I. Lewis Libby Jr. about her credibility and memory, fighting over the reporter's testimony about three conversations she had with Mr. Libby.</p>
+        <p>PAGE A16</p>
+        <p>Stocks Surge on Fed News  The Federal Reserve, leaving rates unchanged, indicated a strong economy and moderating inflation, and the markets surged. But as corporate earnings slow, that euphoria may not last.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+        <p>Boston Threat Is Harmless  ''Suspicious devices'' led Boston to close parts of bridges, subway stations and a highway but turned out to be part of a marketing campaign for a television show.</p>
+        <p>PAGE A21</p>
+        <p>Molly Ivins, Columnist, Dies  The liberal writer cultivated the voice of a folksy populist and delighted in skewering politicians and interpreting, and mocking, her Texas culture. She was 62.</p>
+        <p>PAGE B7</p>
+        <p>Berlusconi Flirts. Wife's Fed Up. Read All About It.  Silvio Berlusconi's wife wrote a scalding letter to the editor of an Italian newspaper demanding her husband's apology for flirting publicly with Mara Carfagna (shown with him above last May) and another woman. The former prime minister later issued an apology. The drama has riveted Italy.</p>
+        <p>PAGE A4</p>
+        <p>Disclosure on Eavesdropping  The Justice Department announced that selected members of Congress would get secret details of the National Security Agency's eavesdropping program. Federal judges in Cincinnati weighed arguments in a lawsuit on the program's legality.</p>
+        <p>PAGE A12</p>
+        <p>Britain Seizes 9 in Terror Plot  The British police arrested nine suspects on terrorism charges, accusing them of plotting to kidnap and kill a British Muslim soldier and then broadcast the killing on the Internet. The Home Office in London called the arrests ''a major counterterrorism operation.''</p>
+        <p>PAGE A3</p>
+        <p>A Cultural Blueprint For the Arab World  Zaha Hadid, whose performing arts center is at left, and other architects unveiled designs for a cultural district in Abu Dhabi, in the United Arab Emirates.</p>
+        <p>THE ARTS,  PAGE E1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

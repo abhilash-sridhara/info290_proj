@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Poor Dido Finally Gets A Real Man</title>
+    <meta content="07KOZI" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/03/07/arts/music/07KOZI.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1564326"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="MUSIC"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Opera</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Audio)</classifier>
+        <org class="indexing_service">Le Concert d'Astree (Music Group)</org>
+        <person class="indexing_service">Haim, Emmanuelle</person>
+        <person class="indexing_service">Graham, Susan</person>
+        <person class="indexing_service">Bostridge, Ian</person>
+        <person class="indexing_service">Kozinn, Allan</person>
+        <person class="indexing_service">Purcell, Henry (1658?-95)</person>
+        <object.title class="indexing_service">Dido and Aeneas (Opera)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Opera</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Purcell, Henry</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040307T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EFDC143FF934A35750C0A9629C8B63" item-length="980" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Poor Dido Finally Gets A Real Man</hl1>
+        <hl2 class="online_headline">Poor Dido Finally Gets a Real Man</hl2>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+      <byline class="normalized_byline">Kozinn, Allan</byline>
+      <abstract>
+        <p>Allan Kozinn reviews recording of Henry Purcell's opera Dido and Aeneas by conductor and harpsichordist Emmanuelle Haim and period-instrument band Le Concert d'Astree, starring mezzo-soprano Susan Graham and tenor Ian Bostridge; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HENRY PURCELL'S little opera ''Dido and Aeneas'' has it all. Its plot turns on the kind of misplaced passions that give rise to tragic consequences and deeply felt arias. It offers a hunt, a thunderstorm, a hornpipelike sailor's song, some fabulously characterful dance music and choruses that range from a darkly comic witches' scene to the sublime verses that frame Dido's heartrending deathbed lament. And Purcell packs it all into just under an hour.</p>
+        <p>Yet it's a difficult opera to get right, particularly on record. Aeneas, to begin with, is a victim of Purcell's concision, and baritones have had a hard time making him seem much more than a wimp. He has no heroic arias, unless you count his moment of post-hunt bragging about the monster's head on his spear, and Dido is just then more concerned with the weather. Nor is there time for him to display either depth or fortitude. When he tells Dido that the gods have commanded him to leave Carthage for Italy, her anger quickly unnerves him, and he offers to stay, only to have Dido eject him for having considered leaving her.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new recording of Henry Purcells little opera "Dido and Aeneas" by Emmanuelle Haïm and Le Concert dAstrée is unorthodox and magnificent.</p>
+      </block>
+      <block class="full_text">
+        <p>HENRY PURCELL'S little opera ''Dido and Aeneas'' has it all. Its plot turns on the kind of misplaced passions that give rise to tragic consequences and deeply felt arias. It offers a hunt, a thunderstorm, a hornpipelike sailor's song, some fabulously characterful dance music and choruses that range from a darkly comic witches' scene to the sublime verses that frame Dido's heartrending deathbed lament. And Purcell packs it all into just under an hour.</p>
+        <p>Yet it's a difficult opera to get right, particularly on record. Aeneas, to begin with, is a victim of Purcell's concision, and baritones have had a hard time making him seem much more than a wimp. He has no heroic arias, unless you count his moment of post-hunt bragging about the monster's head on his spear, and Dido is just then more concerned with the weather. Nor is there time for him to display either depth or fortitude. When he tells Dido that the gods have commanded him to leave Carthage for Italy, her anger quickly unnerves him, and he offers to stay, only to have Dido eject him for having considered leaving her.</p>
+        <p>Dido's dramatic problems are the opposite. When we meet her, she is levelheaded enough to know that no good can come of her attraction to Aeneas, and if not for the encouragement of Belinda and the Second Woman, she would sensibly have kept him at arm's length. Her resolve returns at the end, when despite his sudden repentance she dismisses him, even though his departure will kill her.</p>
+        <p>Both are buffeted by fate, or by the malevolence of the Witches, who toy with Aeneas as a means to Dido's ruin. But Dido, at least, gets more and better music than her hapless suitor.</p>
+        <p>Until now, the best available recording of ''Dido and Aeneas'' was Andrew Parrott's (Chandos, 1981), with Emma Kirkby and David Thomas in the title roles. Performed by a small period string ensemble and a cast of early-music stars, it offered transparent textures, stylish ornamentation and brisk but well judged tempos. The performance had weaknesses: Mr. Thomas was unable to give Aeneas much life, and although Ms. Kirkby was mostly a wonder as Dido, the quality that is usually her strength -- her clear, light timbre -- made her sound oddly coquettish in her final encounter with Aeneas.</p>
+        <p>Still, none of the conductors who have tried to better this recording, including Mr. Parrott himself (Sony Classical, 1999), have succeeded until now. A new Virgin Veritas recording by Emmanuelle Haïm, a French conductor and harpsichordist who has worked with the redoubtable William Christie, finally surpasses Mr. Parrott's reading in every department.</p>
+        <p>Ms. Haïm leads a period-instrument band, Le Concert d'Astrée, which plays with a magnificent deftness, and a finely polished chorus, European Voices. But this reading is no exercise in musicological orthodoxy. Where Mr. Parrott and most of his successors kept to the string scoring given in Purcell's score, Ms. Haïm follows the practice of iconoclasts like Joel Cohen and Nikolaus Harnoncourt in adding a wind complement: in this case, oboes, recorders and bassoon. She uses them judiciously, adding or subtracting them in repeated sections.</p>
+        <p>There are other interpretive niceties. In an immediate bit of radical rethinking, Ms. Haïm repeats the opening section of the overture (offering it first with strings and winds, then with strings only). In another inventive touch, when the Spirit -- the Witches' counterfeit Mercury -- addresses Aeneas, a portentous organ accompaniment abets the illusion that he is a messenger from Jove; Aeneas's responses are accompanied by lute and harpsichord.</p>
+        <p>Tempos are unusually fluid. And the improvised guitar dances suggested in the edition by Margaret Laurie and Thurston Dart, generally ignored until the first Parrott recording, are executed with both greater imagination and a better sense of musical continuity than Mr. Parrott's players summoned.</p>
+        <p>BUT the real surprises are the vocal performances. Ms. Haïm has, for starters, reconsidered the ranges of the title roles, taking Dido from soprano to mezzo-soprano and making Aeneas a tenor. And Susan Graham and Ian Bostridge, who sing the title roles, are not generally known as early-music performers. Yet they do all the right things. The vocal lines are gracefully ornamented, and although no opportunity for embellishment is passed by, it never seems too much, even on repeated listening.</p>
+        <p>Ms. Graham does not abandon vibrato, but she uses it in a controlled, expressive way that paints Dido as passionate from the start. That makes all the difference: the quickness with which Dido lets Belinda and company make Aeneas's case becomes more comprehensible, as does Dido's desolation at his departure. And Ms. Graham's lament, ''When I Am Laid in Earth,'' is as wrenching an account as you'll find on disc.</p>
+        <p>Mr. Bostridge's Aeneas is dynamic and three-dimensional, a marvel in itself. At his first appearance, when he sidles up to Dido with talk of defying destiny for her, he sounds almost wily. He brings considerable forcefulness to his moment of reflection after his encounter with the Spirit. And he holds his own, to the slight degree Purcell allows, in his final encounter with Ms. Graham's furious Dido.</p>
+        <p>Camilla Tilling, as Belinda, and Cécile de Boever, as the Second Woman, make strong contributions. And there is a bit of luxury casting: David Daniels brings an ethereal quality to the Spirit, and Felicity Palmer makes the Sorceress perfectly menacing, avoiding the kind of exaggeration that can turn this witch into a cartoonish character.</p>
+        <p>MUSIC</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

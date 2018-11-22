@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Small-Town Guy Finds His Place in the Big Time</title>
+    <meta content="01clark" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/sports/football/01clark.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823019"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Super Bowl</classifier>
+        <org class="indexing_service">Indianapolis Colts</org>
+        <org class="indexing_service">Chicago Bears</org>
+        <person class="indexing_service">Brown, Clifton</person>
+        <person class="indexing_service">Clark, Dallas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Chicago Bears</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Indianapolis Colts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Super Bowl</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <org class="online_producer">Indianapolis Colts</org>
+        <person class="online_producer">Clark, Dallas</person>
+        <person class="online_producer">Manning, Peyton</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07EEDB153FF932A35751C0A9619C8B63" item-length="979" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Small-Town Guy Finds His Place in the Big Time</hl1>
+        <hl2 class="online_headline">Colts' Dallas Clark Finds His Place in the Big Time</hl2>
+      </hedline>
+      <byline class="print_byline">By CLIFTON BROWN</byline>
+      <byline class="normalized_byline">Brown, Clifton</byline>
+      <dateline>FORT LAUDERDALE, Fla., Jan. 31</dateline>
+      <abstract>
+        <p>Indianapolis Colts and receiver Dallas Clark prepare to face Chicago Bears in Super Bowl; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Something inside Dallas Clark has always driven him to accept challenges, to persevere, to overcome long odds and tough times. When Clark was a senior in high school, his mother, Jan, died of a heart attack at 49. A few days later, stricken with grief, Clark competed in a district track meet for Twin River Valley High School in Bode, Iowa.</p>
+        <p>''It was a terrible time for that family, but Dallas showed up,'' Eldon McKimmey, Clark's high school football coach, said Wednesday during a telephone interview. ''He set the school record that day in both the high hurdles and the low hurdles. It was an emotional day. I think he was just looking for somewhere to escape.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Indianapolis Colts tight end from the town of Livermore, Iowa (population: 431), has become Peyton Manning’s favorite target during the playoffs.</p>
+      </block>
+      <block class="full_text">
+        <p>Something inside Dallas Clark has always driven him to accept challenges, to persevere, to overcome long odds and tough times. When Clark was a senior in high school, his mother, Jan, died of a heart attack at 49. A few days later, stricken with grief, Clark competed in a district track meet for Twin River Valley High School in Bode, Iowa.</p>
+        <p>''It was a terrible time for that family, but Dallas showed up,'' Eldon McKimmey, Clark's high school football coach, said Wednesday during a telephone interview. ''He set the school record that day in both the high hurdles and the low hurdles. It was an emotional day. I think he was just looking for somewhere to escape.</p>
+        <p>''Everybody around here admires Dallas. He's a person you're really happy to see succeed in whatever he wants to do. He just works so darn hard. It's pretty amazing that a guy from a school with about 25 kids in each grade, a walk-on player in college, ended up where he did.''</p>
+        <p>From the town of Livermore, Iowa (population: 431), Clark has reached the big time as the starting tight end for the Indianapolis Colts and quarterback Peyton Manning's favorite target during the playoffs. With opposing defenses rotating their coverages to stop wide receivers Marvin Harrison and Reggie Wayne, Clark has team highs of 17 catches and 281 yards in three postseason games.</p>
+        <p>While Clark's focus is on defeating the Chicago Bears in the Super Bowl on Sunday, he is determined to savor the entire week, soaking up the atmosphere as a small-town kid who made good. He walked on as a freshman linebacker at the University of Iowa and was not awarded a scholarship until his junior year.</p>
+        <p>Clark was buried on the depth chart as a third-string linebacker until Iowa Coach Kirk Ferentz suggested that he switch to tight end as a sophomore. Clark blossomed into an all-American performer, and his path to a professional career was paved when the Colts made him a first-round draft choice in 2003.</p>
+        <p>''I thank Coach Ferentz about every time I see him,'' Clark, 27, said this week during an interview. ''I'd have been a third-string linebacker the rest of my life. He told me that he saw a lot of natural ability and instincts. I thought he was full of it. But from the first few days of playing tight end, running pass routes just felt natural.''</p>
+        <p>With reliable hands and a knack for finding open spaces in the secondary, Clark is a dependable third-down receiver, someone Manning looks for in key situations. In the American Football Conference championship game against New England, Clark caught 6 passes for 137 yards, repeatedly finding open seams in the middle of the field.</p>
+        <p>Ferentz saw the same qualities in Clark in college, a superb athlete who just needed to find the right spot. He found it at Iowa, and he has found it with the Colts.</p>
+        <p>''He gives us too much credit for his success,'' Ferentz said Wednesday in a telephone interview. ''You could see he had ability in linebacker, but he just wasn't reacting to plays as quickly as you'd expect a superb athlete would. It wasn't instinctive. You can't guarantee that a position switch is going to work, but for him, it worked right away.</p>
+        <p>''Dallas is a special guy, a grown man who in some ways still has some innocence about him. He just wants to help you win.''</p>
+        <p>Clark's talent will be tested during the Super Bowl, because on certain pass patterns, he is likely to be defended by Brian Urlacher or Lance Briggs, Chicago's All-Pro linebackers. After studying Urlacher for hours on videotape, Clark came away impressed.</p>
+        <p>''He's a great football player, great athlete, huge,'' Clark said. ''You love facing guys like that. It's going to be a challenge.''</p>
+        <p>Though Clark contributed immediately as a rookie with the Colts, he struggled to master the team's complicated offense. Manning changes plays at the line of scrimmage more than any other quarterback, and Clark said it took several years to feel confident that he would not miss an assignment.</p>
+        <p>''There is no other offense, especially in college, that can prepare you for this,'' Clark said. ''My rookie year, I remember saying to myself many times that there is no way I'm going to learn this offense. I would just learn one section of it. You realize how hard it is, and how many hours you spent falling asleep in your playbook, just trying to memorize all these plays and protections.</p>
+        <p>''You have to go out there and make your mistakes on the field and learn from it. I'm fortunate they have been pretty patient with me early in my career, and gave me this opportunity.''</p>
+        <p>Clark and his wife, Karen, live in Iowa City, but they visit Livermore often, where Clark is a local hero.</p>
+        <p>''There's a street there named after him'' said McKimmey, the high school coach.</p>
+        <p>A jeans and T-shirt kind of guy, Clark took some ribbing from his teammates on the flight to Miami, when he boarded the plane wearing a cream-colored suit with a mock turtleneck. Some of the Colts started calling him Crockett, referring to the character Sonny Crockett from the television show and movie, ''Miami Vice.''</p>
+        <p>''I figured we were coming to Miami, this is how they dress,'' Clark said with a sheepish grin.</p>
+        <p>McKimmey said that some students at Twin River Valley had made their own fashion statement this week by wearing Dallas Clark Colts jerseys to support their local star. And when Clark takes the field Sunday, he said a part of him would think about his mother, his family and friends in Iowa, and the journey that has taken him from a small town to the Super Bowl.</p>
+        <p>''This is great,'' Clark said. ''We've all made it to the biggest stage.''</p>
+        <p>PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

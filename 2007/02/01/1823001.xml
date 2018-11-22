@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Key Lawmakers Getting Files About Surveillance Program</title>
+    <meta content="01intel" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/washington/01intel.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823001"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="indexing_service" type="descriptor">Surveillance of Citizens by Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <org class="indexing_service">National Security Agency</org>
+        <person class="indexing_service">Mazzetti, Mark</person>
+        <person class="indexing_service">Gonzales, Alberto R (Atty Gen)</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="descriptor">Surveillance of Citizens by Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surveillance of Citizens by Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">National Security Agency</org>
+        <person class="online_producer">Gonzales, Alberto R</person>
+        <person class="online_producer">Bush, George W</person>
+        <person class="online_producer">Reyes, Silvestre</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E4DB153FF932A35751C0A9619C8B63" item-length="453" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Key Lawmakers Getting Files About Surveillance Program</hl1>
+        <hl2 class="online_headline">Key Lawmakers Getting Files About Surveillance Program</hl2>
+      </hedline>
+      <byline class="print_byline">By MARK MAZZETTI</byline>
+      <byline class="normalized_byline">Mazzetti, Mark</byline>
+      <dateline>WASHINGTON, Jan. 31</dateline>
+      <abstract>
+        <p>Justice Department announces that it is turning over to selected members of Congress secret documents with details of National Security Agency's eavesdropping program; decision comes two weeks after Attorney General Alberto Gonzales appeared before Senate committee; committee's threats of subpoena prompted negotiations between Justice Department and Congressional intelligence committees, resulting in handover of documents (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bowing to bipartisan pressure from lawmakers, the Justice Department announced Wednesday that it was turning over to selected members of Congress secret documents with details of the National Security Agency's eavesdropping program.</p>
+        <p>The decision was made two weeks after Attorney General Alberto R. Gonzales faced senators' withering questions about why the Bush administration had refused to provide details about the legal underpinnings of the program.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The decision was made two weeks after Attorney General Alberto R. Gonzales faced questions about why no details about the legal underpinnings of the program were available.</p>
+      </block>
+      <block class="full_text">
+        <p>Bowing to bipartisan pressure from lawmakers, the Justice Department announced Wednesday that it was turning over to selected members of Congress secret documents with details of the National Security Agency's eavesdropping program.</p>
+        <p>The decision was made two weeks after Attorney General Alberto R. Gonzales faced senators' withering questions about why the Bush administration had refused to provide details about the legal underpinnings of the program.</p>
+        <p>Last week, Representative Silvestre Reyes, the Texas Democrat who is chairman of the House Intelligence Committee, joined other committee members in threatening to subpoena documents related to the program.</p>
+        <p>Those threats prompted negotiations over the weekend between staff members of the House and Senate intelligence committees and Steven G. Bradbury, who leads the Office of Legal Counsel in the Justice Department.</p>
+        <p>The decision on the documents, which Mr. Gonzales confirmed Wednesday, will let members of the House and Senate intelligence committees, as well as a few Congressional leaders, review those court orders to determine whether the administration had significantly changed the program by putting it under the authority of the Foreign Intelligence Surveillance Court.</p>
+        <p>A central question is whether the court will approve requests case by case or issue broad orders giving the government wide leeway to choose targets.</p>
+        <p>The document package for the lawmakers includes the Justice Department application for surveillance warrants from the special court and the legal briefs before the court approved a request on Jan. 10 for eavesdropping warrants.</p>
+        <p>Lawmakers from both parties applauded the decision, but promised that the new Congress would continue to scrutinize closely the legality of the program.</p>
+        <p>''Only with an understanding of the contours of the wiretapping program and the scope of the court's orders can the Judiciary Committee determine whether the administration has reached the proper balance to protect Americans while following the law,'' said Senator Patrick J. Leahy, the Vermont Democrat who is chairman of the Senate Judiciary Committee.</p>
+        <p>Congressional officials said they were pressing the administration for more documents, including President Bush's original executive order that authorized the program, which was secretly established after the Sept. 11, 2001, attacks and did not require court warrants for certain wiretaps of calls between overseas and the United States.</p>
+        <p>Administration officials said they continued to want to limit future disclosures to Congress and were not agreeing to a precedent-setting arrangement in which everything that the special court reviewed would also be subject to Congressional review.</p>
+        <p>Just members of the intelligence committees and certain House and Senate leaders have been briefed on the highly classified program. Mr. Gonzales said a special provision would be made to allow the top members of the Judiciary Committees, who have not received the classified briefings, to review the FISA court documents.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

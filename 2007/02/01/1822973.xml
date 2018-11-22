@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Indefinitely Grounded</title>
+    <meta content="01thu4" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/opinion/01thu4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822973"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Delays (Transportation)</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="descriptor">Airports</classifier>
+        <classifier class="online_producer" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Delays (Transportation)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transportation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <org class="online_producer">Senate</org>
+        <org class="online_producer">House of Representatives</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE0DC153FF932A35751C0A9619C8B63" item-length="346" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Indefinitely Grounded</hl1>
+        <hl2 class="online_headline">Indefinitely Grounded</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial calls on Congress to hold hearings regarding rights of airline passengers who sit on tarmac for hours during delays; cites recent case of passengers trapped on plane for eight hours after it landed</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Travelers and airlines have a deal. In exchange for transporting them safely, passengers agree to give up a great deal of freedom of movement. Once aboard a plane, there's no getting off until the crew says so. People have to sit when they're told, buckle up and raise their seatbacks on command. In return, passengers expect the airlines to take care of them.</p>
+        <p>But several high-profile failures this past holiday travel season suggest that Congress needs to intervene and set some ground rules to enforce this deal for people unreasonably stranded on aircraft. Delays at the gate are a hassle, but extraordinary delays on planes can be dangerous for the handicapped, chronically ill, elderly or small children.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Delays at the gate are a hassle, but extraordinary delays on planes can be dangerous for the handicapped, chronically ill, elderly or small children.</p>
+      </block>
+      <block class="full_text">
+        <p>Travelers and airlines have a deal. In exchange for transporting them safely, passengers agree to give up a great deal of freedom of movement. Once aboard a plane, there's no getting off until the crew says so. People have to sit when they're told, buckle up and raise their seatbacks on command. In return, passengers expect the airlines to take care of them.</p>
+        <p>But several high-profile failures this past holiday travel season suggest that Congress needs to intervene and set some ground rules to enforce this deal for people unreasonably stranded on aircraft. Delays at the gate are a hassle, but extraordinary delays on planes can be dangerous for the handicapped, chronically ill, elderly or small children.</p>
+        <p>Take the passengers of American Airlines Flight 1348, whose flight from San Francisco to Dallas was diverted by bad weather to Austin, Tex. Obviously, weather is out of human control, and airlines rightly err on the side of safety rather than haste when it comes to bad weather or mechanical difficulties. Flying, particularly around the holidays, invariably entails a risk of delay.</p>
+        <p>But there is delay, and then there is detention. The passengers on Flight 1348 were trapped on the plane after it landed for another eight hours. They say there was nothing to eat but a box of pretzels, and the toilets began to stink. Passengers say they overflowed. The airline says they didn't. The difference is not worth debating.</p>
+        <p>Passengers from that flight have revived the idea of a Passengers' Bill of Rights, posting their ideas at www.strandedpassengers.blogspot.com. Among the common-sense notions are procedures to get passengers back to a gate when a plane has been sitting on the tarmac for more than three hours. When delays are that long, passengers' essential needs -- food, water, medical attention and sanitation -- must be met. These proposals are a good starting point for eventual legislation.</p>
+        <p>Following a similar incident in 1999, the airlines managed to avoid this sort of law through a voluntary customer service commitment. Congress should hold hearings to revisit their promises -- and replace them with some requirements.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

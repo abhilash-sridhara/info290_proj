@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Good, The Bad, The Amusing</title>
+    <meta content="01MEN" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/fashion/01MEN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822900"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FASHION REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <location class="indexing_service">Paris (France)</location>
+        <person class="indexing_service">Simons, Raf</person>
+        <person class="indexing_service">Slimane, Hedi</person>
+        <person class="indexing_service">Pilati, Stefano</person>
+        <person class="indexing_service">Galliano, John</person>
+        <person class="indexing_service">Horyn, Cathy</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Fashion Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France/Paris</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="descriptor">Men</classifier>
+        <classifier class="online_producer" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Men</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <location class="online_producer">Paris (France)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E6DD153FF932A35751C0A9619C8B63" item-length="979" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Good, The Bad, The Amusing</hl1>
+        <hl2 class="online_headline">The Good, the Bad, the Amusing</hl2>
+      </hedline>
+      <byline class="print_byline">By CATHY HORYN</byline>
+      <byline class="normalized_byline">Horyn, Cathy</byline>
+      <dateline>PARIS</dateline>
+      <abstract>
+        <p>Cathy Horyn reviews men's fall fashions shown in Paris by Raf Simons, Hedi Slimane, Stefano Pilati, John Galliano and others; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE fall 2007 men's collections demonstrated a virtuosity with cutting, new fabrics, old jokes and bad hair, but produced few laurels.</p>
+        <p>Raf Simons, in a collection with overtones of performance and futurism, pushed himself in a way that recalled the risk-taking of his shows in the late 1990s, when he had nothing to lose. Today, as the creative director of Jil Sander, he has everything to lose if he doesn't establish his own label as a buffer to big-brand predictability.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A show within the show: puffed hair, masked faces and even a light sculpture.</p>
+      </block>
+      <block class="full_text">
+        <p>THE fall 2007 men's collections demonstrated a virtuosity with cutting, new fabrics, old jokes and bad hair, but produced few laurels.</p>
+        <p>Raf Simons, in a collection with overtones of performance and futurism, pushed himself in a way that recalled the risk-taking of his shows in the late 1990s, when he had nothing to lose. Today, as the creative director of Jil Sander, he has everything to lose if he doesn't establish his own label as a buffer to big-brand predictability.</p>
+        <p>''It's really important to me now to keep my mind open,'' Mr. Simons said.</p>
+        <p>The other strong collections of the season were Yves Saint Laurent, where Stefano Pilati finally simmered down and showed an extremely believable collection for the label, and John Galliano, who touched on a criminal-warrior element that seems to rise simultaneously from a teenage comic book and the front pages of a newspaper.</p>
+        <p>Hedi Slimane's collection for Dior Homme moved neither forward nor backward, perhaps reflecting contract differences with his employer. The mood in the audience on Tuesday evening, the end of the shows, was just as flat, as the models, their hair puffed, did their customary speed walk in mostly dark, slim clothes. There were some excellent coats (classic Slimane), fresh takes on volume in English tweeds, draped jersey diaper pants and silky layers trailing out. Call it a pretty decent produce-replacement collection, if that is what you're looking for.</p>
+        <p>At the center of his presentation was a whirling wooden light sculpture by the British artist Conrad Shawcross. As the models walked a path in semidarkness, the piece -- part machine -- threw out light from two long latticelike arms that came, as near to the artist's satisfaction, to colliding.</p>
+        <p>Mr. Simons's clothes evoked a similar tension. It was apparent he had thought about the futuristic ideas presented in his last five collections, as well as in the women's shows here last fall, and realized he had to differentiate himself from the space thing. To my mind, the clothes are a little unsettling: hulky shapes, textured and shiny fabrics, long, articulated black leather gloves that suggest robot arms. Some of the fabrics were thickly woven, like a reed mat, and then tailored in jackets; others were made from two fabrics of contrasting texture.</p>
+        <p>The overall impression, though, was masculine and contemporary -- more contemporary than any collection on the Paris runway. With some of the padded jackets and the ribbed sweaters, you felt, in fact, that you were looking at the next thing a cool urban guy will be wearing. Underneath the technical polish, you saw the essential arm of the street: the bulky jacket, the romance with military symbolism. Mr. Simons said afterward that he was interested in shows that had the visual and emotional element of a performance. That mood is out there, too.</p>
+        <p>Mr. Galliano knows all about performance, having given a great one last week at the spring haute couture collections. His head is completely in the right place, and so were his blond curls. The makeup wizard Pat McGrath turned the models' faces into virtual masks, smudging lipstick on stocking-covered heads so that the boys' lips seemed to go sideways, and Stephen Jones supplied the helmets and the dreadlocked hats. With Mr. Galliano's tough-looking trousers, embroidered sweatshirts and twisted references to male anatomy, the show had a great, fierce energy.</p>
+        <p>In the past, Mr. Pilati has tended to present the YSL man as a pileup of commercial goods. This was his first men's collection that embraced the brand's potential. The news was the blend of proportions: lush, oversize coats with skinny trousers and neat jackets with wide wool flannels.</p>
+        <p>Dark colors dominated the collection, with a splash of deep red for a double-faced wool coat. The ribbed wool turtles, crunched inside coats, were a nice touch. A cropped black wool jacket over a black hooded sweater, with wide black wool trousers, ought to connect with an urban audience also looking for something a little bit elegant.</p>
+        <p>In the main, the collections favored a slim silhouette, with Paul Helbers, the men's designer at Louis Vuitton, focusing on snug, sporty jackets, lush greens and wine reds, and fabrics in color shadings. The clothes at Lanvin were ultraslim and maybe a tad too cutesy, with purple satin sneakers and paper-thin sweaters over matching ties and shirts. The coats were boss, though.</p>
+        <p>Speaking of boss, how much hairspray did the stylist Odile Gilbert pump into the models at Jean Paul Gaultier? And the candy-colored hair! Wild! Mr. Gaultier's fitted brick-color leather jackets, velvet suits, and '70s-cut trousers seemed a blend of pimp and mid-American mall. But it was hard not to savor the manic energy. And the sexy cutting, if it's your thing.</p>
+        <p>Yohji Yamamoto showed Alpine knits with cropped black trousers, fresh-looking coats in vanilla-colored wool, and knits and other wool colors embellished with the sort of female pinup images you see on old gas-station calendars or on the mudflaps of an 18-wheeler.</p>
+        <p>Biker leather with zipper-slashed pants was the punk-rock message at Junya Watanabe. Perfectly acceptable gear for the boys of fall, but not a great deal of news.</p>
+        <p>At Comme des Garçons, Rei Kawakubo based her collection around four men who played various roles in London life of the '60s. Their well-worn faces and transparent individuality seem to steal the thunder from the clothes, which included Indian suits in deep pastels, jaunty tailoring and some lovely tattered knits in washed-out patterns.</p>
+        <p>It was hard to figure out what was up with Dries van Noten's collection. Well, it didn't seem Dries. The slim silhouette, the blasts of chrome yellow and the silver leather shoes were clearly meant to suggest an edge. But the girlie sweaters, thin and asymmetrically buttoned, just took things over the edge. It's great to see any designer push against his limits, but a self-consciousness came through and through.</p>
+        <p>FASHION REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; 'House' Raises the Bar</title>
+    <meta content="01arts-3" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1823059"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE2DA153FF932A35751C0A9619C8B63" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; 'House' Raises the Bar</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN TOFF; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Toff, Benjamin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Getting a boost from ''American Idol,'' Fox's ''House,'' starring Hugh Laurie, below, posted its highest ratings ever Tuesday, drawing 27.8 million viewers, according to Nielsen's estimates. Among adults 18 to 49, the 9 p.m. episode of ''House'' had the best ratings of any scripted show on any network in nearly a year, and no other hour of drama on Fox has delivered more viewers in more than 10 years. Fox commanded the night as ''American Idol'' remained up over a year ago with 33.3 million viewers at 8. Opposite Fox's programming, NBC, CBS and ABC broadcast mostly reruns. A new installment of ABC's ''Boston Legal'' led at 10 in total viewers (9.4 million), but NBC's ''Law &amp; Order: Special Victims Unit'' repeat (8.3 million) finished on top among the 18-to-49 set. In January's cable news race, MSNBC continued narrowing the gap with CNN in prime time; Fox News has been No. 1 for five consecutive years. Among adults 25 to 54, MSNBC was up 45 percent compared with last January (to 217,000 from 150,000), while CNN had a 29 percent increase (to 260,000 from 202,000). Fox News improved 22 percent (to 389,000 from 319,000), remaining especially dominant in total viewers (1.6 million) compared with CNN (809,000) and MSNBC (530,000).</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+      <block class="full_text">
+        <p>Getting a boost from ''American Idol,'' Fox's ''House,'' starring Hugh Laurie, below, posted its highest ratings ever Tuesday, drawing 27.8 million viewers, according to Nielsen's estimates. Among adults 18 to 49, the 9 p.m. episode of ''House'' had the best ratings of any scripted show on any network in nearly a year, and no other hour of drama on Fox has delivered more viewers in more than 10 years. Fox commanded the night as ''American Idol'' remained up over a year ago with 33.3 million viewers at 8. Opposite Fox's programming, NBC, CBS and ABC broadcast mostly reruns. A new installment of ABC's ''Boston Legal'' led at 10 in total viewers (9.4 million), but NBC's ''Law &amp; Order: Special Victims Unit'' repeat (8.3 million) finished on top among the 18-to-49 set. In January's cable news race, MSNBC continued narrowing the gap with CNN in prime time; Fox News has been No. 1 for five consecutive years. Among adults 25 to 54, MSNBC was up 45 percent compared with last January (to 217,000 from 150,000), while CNN had a 29 percent increase (to 260,000 from 202,000). Fox News improved 22 percent (to 389,000 from 319,000), remaining especially dominant in total viewers (1.6 million) compared with CNN (809,000) and MSNBC (530,000).</p>
+        <p>BENJAMIN TOFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

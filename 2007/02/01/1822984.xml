@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In a Daylong Drill, an Agency Tries to Prepare for a Real Outbreak of Avian Flu</title>
+    <meta content="01flu" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822984"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Influenza</classifier>
+        <classifier class="indexing_service" type="descriptor">Avian Influenza</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <org class="indexing_service">Centers for Disease Control and Prevention</org>
+        <person class="indexing_service">Mcneil, Donald G Jr</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Avian Influenza</classifier>
+        <classifier class="online_producer" type="general_descriptor">Influenza</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06EEDC153FF932A35751C0A9619C8B63" item-length="1082" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In a Daylong Drill, an Agency Tries to Prepare for a Real Outbreak of Avian Flu</hl1>
+      </hedline>
+      <byline class="print_byline">By DONALD G. McNEIL Jr.</byline>
+      <byline class="normalized_byline">Mcneil, Donald G Jr</byline>
+      <dateline>ATLANTA, Jan. 31</dateline>
+      <abstract>
+        <p>Centers for Disease Control and Prevention conducts drill to determine how it would respond to outbreak of avian influenza; while there has never been case of avian flu in US, public health experts consider it major threat; drill takes place in real time and is observed by several members of media; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This is not a real article. This is an exercise.</p>
+        <p>Patient Zero in the 2007 avian flu pandemic died at 9:25 this morning.</p>
+      </block>
+      <block class="full_text">
+        <p>This is not a real article. This is an exercise.</p>
+        <p>Patient Zero in the 2007 avian flu pandemic died at 9:25 this morning.</p>
+        <p>It caused little fuss in the war room of the Centers for Disease Control and Prevention when it was announced.</p>
+        <p>In part, the death was expected -- there had been hints of what was coming in this first avian flu drill to involve the whole agency. Patient Zero was a fictional 22-year-old Georgetown University student who had just returned from visiting his family in Indonesia. The object of the drill was to determine how the C.D.C. would respond in a real epidemic.</p>
+        <p>So for the agency, the patient's death was beside the point; what was important was the diagnosis of avian flu. The question for Dr. Julie L. Gerberding, the agency's director, and her staff was whether it marked the beginning of a full-blown pandemic.</p>
+        <p>How many of the student's 10 roommates had he infected? How about the 40 others on the Georgetown swim team? One of them appeared to be dying in New York after a swim meet at Columbia University. And the woman in Chicago who had died after being on his plane from Jakarta -- were they all linked?</p>
+        <p>This was the C.D.C.'s first ''full functional'' avian flu exercise, meaning that virtually everyone at its headquarters here was involved in some way, including about 100 people packing the operations center, where banks of computers and phones faced a wall full of television screens. There has never been a case of avian flu reported in the United States, and it has not mutated into a pandemic strain. But it killed more people last year in Asia than it did in 2005 and in 2004, and public health experts consider it a major threat.</p>
+        <p>Four reporters, from The New York Times, The Washington Post, The Associated Press and The Canadian Press, were allowed to watch the exercise (and even to comment on how well C.D.C. public affairs officers played reporters during a mock news conference).</p>
+        <p>''This is new for us,'' said Dr. Gerberding. ''A lot of people feel it's really high-risk to let the press look inside the sausage factory while the sausage is being made.''</p>
+        <p>Instead, she said, she decided to stand the scrutiny even if mistakes were seen, partly to prod states and localities to conduct similar drills, and partly because news coverage of such a crisis ''can make or break your credibility, and give the feeling that no one's in charge.'' Reporters, she explained, need to understand how hard it is to make medical decisions based on a thin trickle of facts.</p>
+        <p>Like an episode of the television program ''24,'' the drill was supposed to be taking place in real time. So the reporters, freed at 6 p.m. to write up what they had seen, had no idea how it would all play out. Did millions die? Did I? The answer will not be known for months, since the scenario is supposed to play on indefinitely, with new drills meshing with it.</p>
+        <p>By day's end, though, things were getting rapidly worse: Hospitals in Indonesia were overwhelmed. Another country that officials would not name, because they had been given the information in a top-secret briefing, seemed to have an outbreak, too. In Hawaii, a severely ill passenger had been taken off a flight from Singapore. There were only nine probable cases, but three of the victims were already dead. (The 1918 flu killed about 2 percent of its victims.)</p>
+        <p>The day's last debate was over whether to divert all planes headed for the United States with sick passengers from Indonesia to one of 20 airports where they could be screened by medical teams. The disruption would be vast, and possibly premature, and would cause panic. One sick passenger could be a coincidence or a second ''infection seed'' like the Georgetown student.</p>
+        <p>The team decided to wait for laboratory tests on the patient and see what the Federal Aviation Agency had to say.</p>
+        <p>There were light moments. Top C.D.C. officials could use some remedial geography -- they seemed a little unclear about what borough Columbia University is in (hint: it's the long thin one) and where Borneo is.</p>
+        <p>And there were movie-within-the-movie moments, like when Dr. Gerberding asked if the C.D.C. had a local State Department liaison, got a noncommittal answer and then insisted: ''No, I mean in the real world. Do we?''</p>
+        <p>Or when the reporters explained that real reporters would have been more confused (and ruder) than the C.D.C. staff members who played reporters in the mock news conference.</p>
+        <p>At that news conference, Dr. Gerberding, who can be clear and incisive in questioning her own top staff, seemed less sure of herself and wary of eye contact as soon as her midlevel staff began playing the press.</p>
+        <p>Dr. Gerberding said she intended to display less alarm than she felt. She drew a distinction between a public health emergency, which she had declared, and a pandemic, which she had not. Some actions she had taken in the afternoon, like releasing the national Tamiflu stockpile to the states, were not really questioned at the mock news conference.</p>
+        <p>And though Dr. Gerberding was nominally in charge, the man pulling the strings was in a little room upstairs known as the Simulation Cell.</p>
+        <p>He was Pete Taylor, a 69-year-old retired general who spent 34 years running war games for the Pentagon and now does it for MPRI, a consulting group with many former military officers on staff.</p>
+        <p>His team tossed new facts into the scenario every hour or so, forcing the C.D.C. to react. On that team was a doctor who played a World Health Organization official in a conference call (he wished the United States ''all the best with your outbreak''). If the scenario had called for it, Mr. Taylor could have provided a mock President Bush.</p>
+        <p>''The secret in training,'' Mr. Taylor explained, ''is to keep the carrot in front of their nose. Just far enough so they keep reaching for it, but not so far out that they get demoralized.''</p>
+        <p>The exercise was scheduled to end on the morning of Feb. 1, and then Mr. Taylor's team would write an ''after-action report'' while the C.D.C. did its own analysis of what went right and wrong.</p>
+        <p>Future exercises may draw in officials from city or state health departments.</p>
+        <p>Asked whether the human race survives, Mr. Taylor gave only a hint: the exercise never really ends.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

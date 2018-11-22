@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Thief Of Baghdad</title>
+    <meta content="15DOWD$01" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/02/15/opinion/15DOWD.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1559148"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Weapons</classifier>
+        <classifier class="indexing_service" type="descriptor">Biological and Chemical Warfare</classifier>
+        <location class="indexing_service">Iraq</location>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Dowd, Maureen</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Chalabi, Ahmad</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Maureen Dowd</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biological and Chemical Warfare</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Central Intelligence Agency</org>
+        <person class="online_producer">Chalabi, Ahmad</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2DA1F3AF936A25751C0A9629C8B63" item-length="784" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Thief Of Baghdad</hl1>
+        <hl2 class="online_headline">The Thief of Baghdad</hl2>
+      </hedline>
+      <byline class="print_byline">By MAUREEN DOWD</byline>
+      <byline class="normalized_byline">Dowd, Maureen</byline>
+      <dateline>WASHINGTON</dateline>
+      <abstract>
+        <p>Maureen Dowd Op-Ed column contends that Bush administration relied on fabrications of Iraqi defector Ahmad Chalabi and spin material from Iraqi exiles to justify going to war; asserts that US government paid Chalabi to dupe it into war that is costing one billion dollars week and precious human lives (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the Ford White House, Dick Cheney's Secret Service name was Backseat, because he was the model of an unobtrusive staffer, the perfect unflashy deputy chief of staff for that lord of the bureaucratic dance, Donald Rumsfeld.</p>
+        <p>As James Mann writes in his new book, ''The Rise of the Vulcans: The History of Bush's War Cabinet,'' Mr. Cheney started out supervising such lowly matters as fixing a stopped-up drain in a White House bathroom sink; getting a headrest for Betty Ford's helicopter seat; and sorting out which salt shakers -- the regular ones or, as he put it, the ''little dishes of salt with funny little spoons'' -- would be best for stag dinners in the president's private quarters.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Swept up in big dreams, the foreign policy dream team became dupes in Ahmad Chalabis big con.</p>
+      </block>
+      <block class="full_text">
+        <p>In the Ford White House, Dick Cheney's Secret Service name was Backseat, because he was the model of an unobtrusive staffer, the perfect unflashy deputy chief of staff for that lord of the bureaucratic dance, Donald Rumsfeld.</p>
+        <p>As James Mann writes in his new book, ''The Rise of the Vulcans: The History of Bush's War Cabinet,'' Mr. Cheney started out supervising such lowly matters as fixing a stopped-up drain in a White House bathroom sink; getting a headrest for Betty Ford's helicopter seat; and sorting out which salt shakers -- the regular ones or, as he put it, the ''little dishes of salt with funny little spoons'' -- would be best for stag dinners in the president's private quarters.</p>
+        <p>Rummy's alter ego rose quickly, though, because he seemed to have no ego. Good old Dick could be counted on to be the man behind the man, a butler to power. The new President Bush, a tabula rasa in foreign affairs, put himself in Mr. Cheney's hands.</p>
+        <p>But W. had barely settled into the Oval when Backseat clambered into the front seat. Retracing the rush to war, the names Cheney and Chalabi are entwined in bold relief.</p>
+        <p>Back when Dick Cheney was fiddling with salt shakers, Ahmad Chalabi, a smooth-talking and wealthy young Iraqi M.I.T. graduate, was founding the Petra Bank in Jordan.</p>
+        <p>As Mr. Cheney moved up in the capital, Mr. Chalabi was tripped up in Jordan by a small matter of embezzlement from his own bank. Jordanian officials have said that the crime rocked their economy and that they paid $300 million to depositors to cover the bank's losses. By the time Mr. Chalabi was convicted and received a sentence of 22 years of hard labor, he was a fugitive in London.</p>
+        <p>During the early 90's, when Mr. Cheney was a fellow at the American Enterprise Institute, Mr. Chalabi was in a full courtship press with Washington's conservative and journalistic elites. He saw them as a springboard for his triumphant return to Iraq.</p>
+        <p>After 9/11, his passionate desire to take out Saddam coincided with that of conservatives. All they needed for their belli was a casus, so Mr. Chalabi obligingly conned the neocons.</p>
+        <p>He hoodwinked his pals Dick Cheney, Paul Wolfowitz and Richard Perle into believing Iraq would be a flowery cakewalk to democracy.</p>
+        <p>A wily expert in the politics of the bazaar, he knew he had to sell his scheme on what was good for Americans and their security. He was happy to funnel information to the vice president that painted a picture of Saddam hunkered on a hair-raising stockpile of W.M.D. His group, the Iraqi National Congress, tried to spin our government and media through its ''information collection program.'' Intelligence officials now say that the prewar information provided to Washington by this group was suspect and useless, even disinformation.</p>
+        <p>But here's the wild thing: the propaganda program was underwritten by U.S. government funds. So Americans paid Ahmad Chalabi to gull them into a war that is costing them a billion a week -- and a precious human cost. Cops dealing with their snitches check out the information better than the Bush administration did.</p>
+        <p>Mr. Chalabi's séances swayed the political set, the intelligence set and the journalistic set. In an effect Senator Bob Graham dubs ''incestuous amplification,'' the bogus stories spewed by Iraqi exiles and defectors ricocheted through an echo chamber of government and media, making it sound as if multiple, reliable sources were corroborating the same story. Rather, one self-interested source was replicating like computer spam.</p>
+        <p>The C.I.A. was stung to find out its analysts had mistakenly thought that Iraq weapons information had been confirmed by multiple sources, when it came from only a single source; that analysts had relied on a fabricating Iraqi defector and spin material from Iraqi exiles; and that this blather made its way into documents and speeches used by the Bush administration to justify war. George Tenet ordered a major change in procedure last week, removing barricades so that analysts can know more about the identities of clandestine agents' sources, and their possible motives.</p>
+        <p>But even incestuous amplification could not have drowned out reality if Bush officials had not glommed onto the Chalabi flummery for their own reasons -- to feed their fantasies about refashioning America's power, psyche and military, and making over the Middle East in our image.</p>
+        <p>Swept up in big dreams, the foreign policy dream team became dupes in Ahmad Chalabi's big con.</p>
+        <p>Op-Ed Columnist E-mail: liberties@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: liberties@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Mourning, and on a Mission</title>
+    <meta content="01officer" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1822965"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Hijacking</classifier>
+        <classifier class="indexing_service" type="descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">Dust</classifier>
+        <classifier class="indexing_service" type="descriptor">Respiratory Diseases</classifier>
+        <classifier class="indexing_service" type="descriptor">Pulmonary Fibrosis</classifier>
+        <classifier class="indexing_service" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <person class="indexing_service">Borja, Cesar (1954-2007)</person>
+        <person class="indexing_service">Borja, Caesar</person>
+        <person class="indexing_service">Borja, Eva</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hijacking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Respiratory Diseases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E1DC153FF932A35751C0A9619C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Mourning, and on a Mission</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo of Caesar Borja Jr, his mother, Eva, and two younger siblings after meeting with Pres Bush in Lower Manhattan to request more funding for 9/11 workers who became ill; his father, police officer who worked at ground zero, died from lung disorder</p>
+      </abstract>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

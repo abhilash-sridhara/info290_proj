@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Issues and (Possible) Answers: A Primer on the Alito Hearings</title>
+    <meta content="09legal" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/09/politics/politicsspecial1/09legal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1730769"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="COURT IN TRANSITION: THE HEARINGS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <org class="online_producer">Supreme Court</org>
+        <person class="online_producer">Alito, Samuel A Jr</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DA1F30F93AA35752C0A9609C8B63" item-length="1679" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Issues and (Possible) Answers: A Primer on the Alito Hearings</hl1>
+        <hl2 class="online_headline">Alito to Face Senators' Queriesat Confirmation Hearings Today</hl2>
+      </hedline>
+      <byline class="print_byline">By ADAM LIPTAK</byline>
+      <dateline>WASHINGTON, Jan. 8</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Judge John G. Roberts Jr. appeared before the Senate Judiciary Committee in September for hearings on his nomination to the Supreme Court, all of the participants were largely improvising. It had been 11 years since the last nomination, and the legal landscape, political climate and very state of the world had changed so radically that the old templates were of little use.</p>
+        <p>Judge Samuel A. Alito Jr., on the other hand, will have a fresh road map from the Roberts hearings when he sits to face the committee Monday for his own confirmation hearings. The topics to be covered, the nature and tenor of the senators' questions, and the limits on what Judge Alito will be willing to answer will almost certainly follow the path cut in September.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Judge Samuel A. Alito Jr. is likely to face questions on abortion, presidential and congressional power and voting rights.</p>
+      </block>
+      <block class="full_text">
+        <p>When Judge John G. Roberts Jr. appeared before the Senate Judiciary Committee in September for hearings on his nomination to the Supreme Court, all of the participants were largely improvising. It had been 11 years since the last nomination, and the legal landscape, political climate and very state of the world had changed so radically that the old templates were of little use.</p>
+        <p>Judge Samuel A. Alito Jr., on the other hand, will have a fresh road map from the Roberts hearings when he sits to face the committee Monday for his own confirmation hearings. The topics to be covered, the nature and tenor of the senators' questions, and the limits on what Judge Alito will be willing to answer will almost certainly follow the path cut in September.</p>
+        <p>But there will be distinct differences, too. Judge Roberts replaced Chief Justice William H. Rehnquist, meaning that his nomination was a one-for-one, conservative-for-conservative swap. If Judge Alito is confirmed, he will replace Justice Sandra Day O'Connor, whose vote was often the fulcrum on which the Rehnquist court's decisions turned.</p>
+        <p>Judge Roberts's judicial record was, moreover, comparatively thin, a product of less than two years as a judge on the United States Court of Appeals for the District of Columbia Circuit. Judge Alito, by contrast, has produced hundreds of opinions in his 15 years on the United States Court of Appeals for the Third Circuit, in Philadelphia. Unlike Judge Roberts, he has written at length on some of the most contentious issues of the day.</p>
+        <p>Judge Roberts was asked only a few questions about what has since become a burning issue: the scope of executive power. Several senators say they will question Judge Alito closely on the legal implications of the recently disclosed domestic surveillance program.</p>
+        <p>With the lessons of the Roberts hearings as a guide, then, here is a primer on the questions Judge Alito is likely to face and how he may be expected to answer.</p>
+        <p>Abortion</p>
+        <p>Supreme Court confirmation hearings employ a sort of code when it comes to abortion. Since nominees typically refuse to divulge their views about what the Constitution has to say on the subject, on the grounds that the issue may come before them, senators tend to ask instead about privacy and about precedent.</p>
+        <p>Roe v. Wade, the 1973 case that found a constitutional right to abortion, was largely based on the right to privacy described in a 1965 case, Griswold v. Connecticut. Senators eager to tease out some information about the fate of Roe ask instead about the validity of Griswold.</p>
+        <p>The Griswold case, which struck down a law making the use of contraceptives illegal, found a constitutional right to privacy in the ''penumbras'' and ''emanations'' of various provisions of the Bill of Rights.</p>
+        <p>Judge Robert H. Bork's harsh criticism of Griswold in his academic writings and his skepticism about the nature and scope of a constitutional right to privacy at his confirmation hearings helped doom his nomination in 1987.</p>
+        <p>A second proxy for abortion is precedent. Senator Arlen Specter, the Republican chairman of the Judiciary Committee and a supporter of abortion rights, pressed Judge Roberts, for instance, on whether the Supreme Court's reaffirmation of the core abortion right in a 1992 case, Planned Parenthood of Southeastern Pennsylvania v. Casey, made Roe a ''super-duper precedent.''</p>
+        <p>Judge Roberts did not adopt Mr. Specter's language and listed several factors on each side of the general question of when precedents should be overruled, many drawn from Casey itself.</p>
+        <p>Judge Alito may find it harder to take refuge in Casey's discussion of precedent, as the case presents something of a minefield for him. He participated in it as an appeals court judge, dissenting in 1991 from a ruling striking down a Pennsylvania law that required married women to notify their husbands before having an abortion. The Supreme Court disagreed with him in a 5-to-4 ruling the next year.</p>
+        <p>Though Judge Alito's decision in Casey was careful, technical and reflected an effort to interpret the Supreme Court's confusing abortion jurisprudence at the time, the fact that he found himself on the losing side of the most important abortion case since Roe will doubtless prompt many questions.</p>
+        <p>So, too, will a statement Mr. Alito made in a 1985 job application for a position in the Justice Department. He said he was proud to have helped advance ''legal positions in which I personally believe very strongly.'' One of those positions, he said, was that ''the Constitution does not protect a right to an abortion.''</p>
+        <p>While Judge Roberts was one of nine government lawyers who signed a brief urging the Supreme Court to overturn Roe, he said that positions he took as an advocate were not necessarily his own. Judge Alito may find it harder to distance himself, should he wish to, from his Casey dissent and his personal statement in 1985.</p>
+        <p>Presidential Power</p>
+        <p>Mr. Specter, in prepared remarks to be presented Monday, said, ''This hearing comes at a time of great national concern about the balance between civil rights and the president's national security authority,'' a reference to the domestic surveillance program. There is, he said, an apparent conflict between ''the president's constitutional war powers as commander in chief to conduct electronic surveillance'' and ''Congressional legislation in the Foreign Intelligence Surveillance Act.''</p>
+        <p>In September, Senator Patrick J. Leahy, the ranking Democrat on the Judiciary Committee, asked Judge Roberts about the scope of presidential power in the context of a 2002 Justice Department legal memorandum concerning harsh interrogations that were arguably forbidden by federal law. The Bush administration had by then disavowed aspects of the memorandum, but Mr. Leahy wanted to know about one of its more abstract assertions.</p>
+        <p>''Congress can no more interfere,'' the memorandum said, ''with the president's conduct of interrogations of enemy combatants than it can dictate strategic or tactical decisions on the battlefield.'' The Bush administration has made similar arguments in connection with the surveillance program.</p>
+        <p>Judge Roberts said the framework for analyzing the question of whether the president had exceeded his authority was in a concurring opinion by Justice Robert H. Jackson in a 1952 decision rejecting President Harry S. Truman's assertion that he had the inherent constitutional authority to seize private steel mills as a matter of national security during the Korean War.</p>
+        <p>''Where the president is acting contrary to Congressional authority,'' Judge Roberts said, ''what Justice Jackson said is, the president's authority is at its lowest ebb.''</p>
+        <p>It is not clear whether Judge Alito will also endorse Justice Jackson's approach. In a 2001 speech to the Federalist Society, a conservative legal group, Judge Alito spoke in favor of vigorous and expansive executive power. As a government lawyer, too, he frequently argued for a broad interpretation of executive authority.</p>
+        <p>Congressional Authority</p>
+        <p>Perhaps no issue engaged the senators questioning Judge Roberts more than a series of recent Supreme Court decisions limiting the ability of Congress to make federal law binding on the states or, sometimes, to legislate on a subject at all.</p>
+        <p>Judge Alito may expect questions about two of his decisions in this area. In one, a 1996 dissent, he voted to strike down a federal law regulating machine guns, saying Congress had not provided adequate evidence that those weapons facilitated crimes with an effect on interstate commerce.</p>
+        <p>In a similar vein, Judge Alito took a constrained view of Congressional power in a 2000 case involving the Family and Medical Leave Act. He said the states were immune from lawsuits under the act. The Supreme Court came to the opposite conclusion in a different case in 2003.</p>
+        <p>Voting Rights</p>
+        <p>In his 1985 job application, Mr. Alito said that his interest in constitutional law was motivated by disagreement with some decisions of the Warren Court, among them those concerning reapportionment. The decisions, from the 1960's, required states to draw voting districts with equal populations. Some legal scholars at the time contended that the decisions did not have a basis in the Constitution.</p>
+        <p>Judge Bork, too, was critical of the decisions at his confirmation hearings. ''There is nothing in our history that suggests 'one man one vote' is the only proper way of apportioning,'' he said.</p>
+        <p>In November, after the disclosure of the 1985 job application, the White House said that Judge Alito now believes that one person one vote is ''bedrock principle.''</p>
+        <p>COURT IN TRANSITION: THE HEARINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For Democrats, Lots of Verses, But No Chorus</title>
+    <meta content="06cong" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/03/06/politics/06cong.html" name="alternate_url"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20060308T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1744741"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Democratic Party</org>
+        <org class="online_producer">Congress</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060306T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E2DC1531F935A35750C0A9609C8B63" item-length="1900" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For Democrats, Lots of Verses, But No Chorus</hl1>
+        <hl2 class="online_headline">For Democrats, Many Verses, but No Chorus</hl2>
+      </hedline>
+      <byline class="print_byline">By ADAM NAGOURNEY</byline>
+      <dateline>WASHINGTON, March 5</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>From Arizona to Pennsylvania, from Colorado to Connecticut, Democratic candidates for Congress are reading from a stack of different scripts these days.</p>
+        <p>At the Capitol in Hartford the other morning, State Senator Christopher Murphy denounced the ''disastrous prescription drug benefit bill'' embraced by his Republican opponent, Representative Nancy L. Johnson.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Democratic candidates for Congress see a variety of Republican vulnerabilities but disagree on what will be a winning formula.</p>
+      </block>
+      <block class="full_text">
+        <p>From Arizona to Pennsylvania, from Colorado to Connecticut, Democratic candidates for Congress are reading from a stack of different scripts these days.</p>
+        <p>At the Capitol in Hartford the other morning, State Senator Christopher Murphy denounced the ''disastrous prescription drug benefit bill'' embraced by his Republican opponent, Representative Nancy L. Johnson.</p>
+        <p>Jeff Latas, a Democratic candidate in an Arizona race, is talking about the nation's dangerous reliance on oil imports from the Middle East. Ed Perlmutter, a Colorado Democrat, says he is running against ''the arrogance and cronyism'' displayed by Washington Republicans.</p>
+        <p>And in New Mexico, Patricia Madrid, the state attorney general, is urging the United States to set a timetable for quitting Iraq.</p>
+        <p>''We have a lot to run on,'' said Ms. Madrid, who is trying to unseat Representative Heather A. Wilson.</p>
+        <p>These scattershot messages reflect what officials in both parties say are vulnerabilities among Republicans on Capitol Hill, as well as President Bush's weakened political condition in this election year.</p>
+        <p>But they also reflect splits within the party about what it means to be a Democrat -- and what a winning Democratic formula will be -- after years in which conservative ideas have dominated the national policy debate and helped win elections.</p>
+        <p>And they complicate the basic strategy being pursued by Democratic leaders in Washington to capture control of Congress: to turn this election into a national referendum on the party in power, much the way Republicans did against Democrats in 1994.</p>
+        <p>Interviews with Democratic challengers in contested districts suggest that the party is far from settling on an overarching theme that will work as well in central Connecticut as it does in central Colorado.</p>
+        <p>And while Democrats have no shortage of criticism to offer, they have so far not introduced a strategy for governing along the lines of the Republican Party's Contract With America, the 1994 initiative that some Democrats hold up as their model for this year's elections.</p>
+        <p>''It's certainly worth the effort, but it's damned hard to do,'' Charles O. Jones, a professor emeritus of political science at the University of Wisconsin in Madison, said of the Democratic effort to emulate the Republicans.</p>
+        <p>''If you're going to run a national campaign,'' as the Republicans did in 1994, Dr. Jones said, ''it's helpful to have a message, not just 'The other guys don't know what they are doing.' If Democrats are using that strategy, I haven't heard that message yet.''</p>
+        <p>Republican leaders, while acknowledging concern about the political environment for their party, said Democrats were paying a price for being out of power and failing to propose their own program of ideas. Representative Thomas M. Reynolds of New York, the head of the National Republican Congressional Committee, said Democrats were throwing things ''against the wall to see what will stick.''</p>
+        <p>The Democrats' struggle to turn 435 Congressional races into a national election, analysts and party officials said, is critical to their hopes of capturing the 15 Republican seats they need to win back control of the House.</p>
+        <p>From the perspective of the country's mood, Democrats could hardly ask for a more hospitable environment, analysts said. There is strong discontent among voters with the way Mr. Bush and the Republican-controlled Congress have led the country. Corruption investigations have implicated Republican members of Congress. There is anxiety over the war in Iraq and distress among retirees over the new Medicare prescription drug program.</p>
+        <p>But Democratic ambitions have run up against a diminished political playing field, narrowed by states' partisan redistricting efforts that have put the vast majority of Congressional seats out of play.</p>
+        <p>Of 435 House seats, just 32 are in races considered competitive, compared with 110 at this time in 1994, according to the nonpartisan Cook Political Report. Of those, 11 are held by Democrats and 21 by Republicans.</p>
+        <p>Unless the political environment changes to make more Republican seats vulnerable, or more Republican incumbents retire before November, Democrats will have to hold on to all 11 of their competitive seats and win 15 of the 21 Republican seats in order to take back the House. (Representative Bernard Sanders of Vermont is considered a Democrat, even though he officially lists himself as an Independent.)</p>
+        <p>More Republican retirements are certainly possible, including those of Representatives Bill Thomas of California and Sherwood L. Boehlert of New York, both senior members running up against their term limits as committee chairmen.</p>
+        <p>Representative Rahm Emanuel, Democrat of Illinois and head of the Democratic Congressional Campaign Committee, said that Congressional elections had regularly turned on national issues over the past century, typically reflecting weariness with the party in power. Still, Mr. Emanuel said, his strategy is to no small extent born of necessity.</p>
+        <p>The Republicans ''gerrymandered this map,'' he said in an interview while campaigning for Mr. Murphy in Connecticut. ''You can't beat a gerrymandered map with the one-offs: a trick here and a trick there. You have got to nationalize it -- create something bigger than the map they've drawn.''</p>
+        <p>Representative Reynolds of New York said the Democratic strategy would fail, because Congressional elections are determined by local dynamics: voters, he said, are more likely to make decisions based on what their member of Congress has delivered for the district than on what happens in Washington.</p>
+        <p>''Anything is possible,'' Mr. Reynolds said. ''I mean, it's possible we're going to elect a Republican governor of New York. But is it likely? I'd say no,'' he said, reflecting widespread Republican pessimism about the party's strengths in his home state.</p>
+        <p>''Congress's approval rating is a little flat,'' he added. ''My self-esteem wants to see it a little higher. But it is what it is. The most important thing is people love their congressman, no matter what.''</p>
+        <p>In Iowa, Jeff Lamberti, the Republican co-president of the State Senate, who is challenging Representative Leonard L. Boswell, a Democrat, said: ''I'm not particularly concerned that the Third Congressional seat will be determined by some kind of nationalization of the election. The people of Iowa are going to make their decision based on who the candidates are on the ballot, how hard you work and how you connect with them.''</p>
+        <p>Of all the differences between now and 1994, perhaps most notable is that 12 years ago, 69 seats held by Democrats were up for grabs at this stage of the election cycle, compared with 21 Republican seats today.</p>
+        <p>But Amy Walter, an analyst for the Cook Political Report, said that as many as 25 additional Republican seats could become competitive by November. In most of those districts, Ms. Walter said, Democrats have good candidates in place.</p>
+        <p>Philip A. Klinkner, an associate professor of political science at Hamilton College in New York, said conditions were historically right for the Congressional election to turn on national issues.</p>
+        <p>''You tend to see it at times when you have really unpopular presidents or really popular presidents,'' Dr. Klinkner said.</p>
+        <p>As they try to encourage this development, Democrats have experimented with several themes: corruption in Washington, Medicare, a Republican Congress acting as a rubber stamp for the president, governmental incompetence and what Mr. Emanuel, borrowing a phrase from his former boss at the White House, President Bill Clinton, described as a choice between ''change and more of the same.''</p>
+        <p>The Democrats' effort would appear, at least from conversations with Democratic candidates, to be something of a work in progress. In Hartford, Mr. Murphy denounced restriction on stem cell research. In Indiana, Brad Ellsworth, the Vanderburgh County sheriff, criticized Representative John Hostettler, a Republican, for his vote against the Hurricane Katrina aid package.</p>
+        <p>State Senator Ron Klein of Florida, a Democratic challenger to Representative E. Clay Shaw Jr., a Republican, said, ''Medicare is the big issue in this area because we have so many seniors.''</p>
+        <p>Democrats pointed out that Republicans did not offer their Contract With America until the final weeks of the 1994 campaign and said that they were planning to offer their own version by summer.</p>
+        <p>Still, party officials said, it has been difficult to build a consensus. Some Democrats want to call for raising automobile mileage standards to conserve energy, but Democrats in Michigan have resisted that idea. While Democrats including Ms. Madrid of New Mexico want to set a timetable for pulling out of Iraq, others say that would be politically and militarily disastrous.</p>
+        <p>Mr. Emanuel, though, said he was not worried. ''What divide?'' he said.</p>
+        <p>''We agree on Social Security,'' he continued. ''We also agree on the war, which is, not more of the same.''</p>
+        <p>''Skelton has a position. Murtha has a position. Levin has a position,'' he said of Congressional Democrats who have raised questions about the war. ''But all of them have one thing in common: Staying the course is a fool's errand. O.K.? I'm happy that our party has a lot of different ideas about how to solve a problem.''</p>
+        <p>Correction:  March 8, 2006, Wednesday  A chart on Monday about closely contested Congressional races reversed the maps for the eighth and ninth districts of Indiana. The eighth district is in the west, the ninth in the southeast.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: March 8, 2006, Wednesday</p>
+        <p>A chart on Monday about closely contested Congressional races reversed the maps for the eighth and ninth districts of Indiana. The eighth district is in the west, the ninth in the southeast.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Peter, Paul, Mary . . . And God</title>
+    <meta content="28KRIS$07" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/02/28/opinion/28KRIS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1562353"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Christians and Christianity</classifier>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <person class="indexing_service">Kristof, Nicholas D</person>
+        <person class="indexing_service">Gibson, Mel</person>
+        <person class="indexing_service">King, Karen (Prof)</person>
+        <object.title class="indexing_service">Passion of the Christ, the (Movie)</object.title>
+        <object.title class="indexing_service">Da Vinci Code, the (Book)</object.title>
+        <object.title class="indexing_service">Gospel of Mary of Magdala, the (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Nicholas D Kristof</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="descriptor">Christians and Christianity</classifier>
+        <classifier class="online_producer" type="descriptor">Women</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Christians and Christianity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040228T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E0D91E3CF93BA15751C0A9629C8B63" item-length="792" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Peter, Paul, Mary . . . And God</hl1>
+        <hl2 class="online_headline">Peter, Paul, Mary . . . and God</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS D. KRISTOF</byline>
+      <byline class="normalized_byline">Kristof, Nicholas D</byline>
+      <abstract>
+        <p>Nicholas D Kristof Op-Ed column contends that for provocative look at emergence of Christianity two millenniums ago one should skip Mel Gibson's film Passion of the Christ and examine some of fascinating recent scholarship on early church; says interest in early church has blossomed because of Gibson's film and novel The Da Vinci Code; holds that both take great liberties with history, while serious research has gotten much less attention; notes that book Gospel of Mary of Magdala offers new translation by Harvard Divinity School Prof Karen King of obscure Gospel of Mary, which was lost for 1,500 years before two fragmentary versions were found (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For a provocative look at the emergence of Christianity two millenniums ago, skip Mel Gibson's ''Passion of the Christ'' and examine instead some of the fascinating recent scholarship on the early church.</p>
+        <p>Interest in the early church has blossomed because of ''Passion'' and the ''Da Vinci Code'' thriller. But ''Passion'' and especially ''The Da Vinci Code'' take great liberties with history, while serious research has gotten much less attention.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A lost proto-feminist text, "Gospel of Mary of Magdala," offers a more provocative look at early Christianity than even "The Passion."</p>
+      </block>
+      <block class="full_text">
+        <p>For a provocative look at the emergence of Christianity two millenniums ago, skip Mel Gibson's ''Passion of the Christ'' and examine instead some of the fascinating recent scholarship on the early church.</p>
+        <p>Interest in the early church has blossomed because of ''Passion'' and the ''Da Vinci Code'' thriller. But ''Passion'' and especially ''The Da Vinci Code'' take great liberties with history, while serious research has gotten much less attention.</p>
+        <p>Consider the newly published ''Gospel of Mary of Magdala.'' It offers a new translation by Karen King, a Harvard Divinity School professor, of the obscure Gospel of Mary, which was lost for 1,500 years before two fragmentary versions were found.</p>
+        <p>The Gospel of Mary offers a proto-feminist recounting of a scene in which the resurrected Jesus tells the disciples to preach, and then leaves them. The disciples are emotional and tearful -- until Mary Magdalene takes charge and bucks them up.</p>
+        <p>''Do not weep and be distressed,'' she tells them, and, sure enough, they pull themselves together. Then Mary begins to relate Jesus' private teachings to her, saying, ''I will teach you about what is hidden from you.''</p>
+        <p>But the disciples rebel at being instructed by a woman. Andrew and Peter virtually accuse Mary of making it all up, and she starts crying. Levi intercedes, scolding: ''Peter, you have always been a wrathful person. . . . Assuredly, the Savior's knowledge of her is completely reliable. That is why he loved her more than us.''</p>
+        <p>Bibles, like history, are written by the winners. There were innumerable early gospels and teachings (some 85 percent of Christian literature from the first two centuries has been lost). Some won approval and entered the New Testament, and the rest were condemned as heresies or died out on their own. The Gnostic Gospels and other early writings suggest that initially the role of women was hotly debated, but ultimately the idea prevailed that men should dominate.</p>
+        <p>''God's pattern is for men to be the leaders, both in the church and in the family,'' Pat Robertson writes in his best-selling book ''Bring It On.'' He cites I Timothy: ''Women should listen and learn quietly and submissively. I do not let women teach men or have authority over them.''</p>
+        <p>Likewise, Paul wrote to the Corinthians: ''Women should be silent during the church meetings. It is not proper for them to speak.''</p>
+        <p>That view is hard to square, though, with other accounts that portray Mary Magdalene as a favorite of Jesus'. The ''Pistis Sophia'' scripture quotes Jesus as telling Mary Magdalene: ''You are she whose heart is more directed to the Kingdom of Heaven than all your brothers.''</p>
+        <p>And the Gospel of Philip says of Mary Magdalene: ''She is the one the Savior loved more than all the disciples, and he used to kiss her on her mouth often. . . . The rest of the disciples . . . said to him, 'Why do you love her more than us?' ''</p>
+        <p>These gospels aren't necessarily suggesting a romance between Jesus and Mary Magdalene, and in any case their value is much debated -- traditionalists argue that they are prized to make ideological points rather than to clarify history. The Gospel of Mary was written in her name but not by her, and apparently was written in the early second century, long after the events it describes.</p>
+        <p>Still, the dispute over the role of women can be seen raging in many early Christian writings. The Gospel of Thomas even quotes Simon Peter as saying, ''Let Mary leave us, for women are not worthy of life.''</p>
+        <p>Susan Haskins, in her history of the idea of Mary Magdalene, says that egalitarian principles in the New Testament initially prevailed in the first-century Christian community. But then, she writes, Christianity gradually returned to the traditional patriarchal system of Judaism.</p>
+        <p>That suppression of female leadership may be behind the labeling of Mary Magdalene as a prostitute, starting with a sermon by Pope Gregory the Great in 591. And recent scholarship has established that Junius, whom Paul calls ''distinguished among the apostles,'' was actually Junia, a woman whose name was made masculine by later translators.</p>
+        <p>How should we regard these alternative versions of Biblical events? They are a reminder that there were competing strains in the early Christian church, and that different outcomes were possible. My guess is that the ordination of women would not have been controversial if Mary Magdalene, rather than St. Peter, had emerged as the first pope.</p>
+        <p>Op-Ed Columnist E-mail: nicholas@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: nicholas@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

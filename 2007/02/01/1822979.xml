@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Criticism of Israel, Or Anti-Semitism?</title>
+    <meta content="l01jews" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822979"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Anti-Semitism</classifier>
+        <location class="indexing_service">Israel</location>
+        <org class="indexing_service">American Jewish Committee</org>
+        <person class="indexing_service">Ludsin, Steven A</person>
+        <person class="indexing_service">Perlov, Dadie</person>
+        <person class="indexing_service">Russo, Karen</person>
+        <person class="indexing_service">Williams, C K</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anti-Semitism</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801EFDC153FF932A35751C0A9619C8B63" item-length="448" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Criticism of Israel, Or Anti-Semitism?</hl1>
+      </hedline>
+      <abstract>
+        <p>Four letters comment on Jan 31 article about American Jewish Committee essay suggesting progressive Jews are feeding rise in anti-Semitism by questioning whether Israel should exist; Steven A Ludsin, former member of President's Commission on Holocaust and US Holocaust Memorial Council says Jews need to take defensive stand in age of rising anti-Semitism; Dadie Perlov calls American Jewish Committee essay reprehensible; Karen Russo says anti-Semitism should not be confused with legitimate criticism of Israel; C K Williams, poet who contributed to collection of essays in question, contends large numbers of American Jews are dismayed about policies of Israeli government</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Essay Linking Liberal Jews and Anti-Semitism Sparks a Furor'' (Arts pages, Jan. 31):</p>
+        <p>The verbal onslaught against Zionism and the Jewish state is disturbing when it goes so far that it opposes Israel's right to exist. The condemnations from a former president as well as the outrageous comments from Iran's leader embolden anti-Semites. The line between legitimate criticism of Israel and anti-Semitic statements is blurry.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Essay Linking Liberal Jews and Anti-Semitism Sparks a Furor'' (Arts pages, Jan. 31):</p>
+        <p>The verbal onslaught against Zionism and the Jewish state is disturbing when it goes so far that it opposes Israel's right to exist. The condemnations from a former president as well as the outrageous comments from Iran's leader embolden anti-Semites. The line between legitimate criticism of Israel and anti-Semitic statements is blurry.</p>
+        <p>But we live in an era of religious extremism justifying inhumane violence. Jews need to play defense and avoid adding fuel to the fire of hatred that evades containment.</p>
+        <p>The Holocaust gave a basis for the creation of Israel. We shouldn't take the existence of Israel for granted. Perhaps circumspection on the part of its critics isn't too much to ask.</p>
+        <p>Steven A. Ludsin  East Hampton, N.Y., Jan. 31, 2007</p>
+        <p>The writer was a member of the President's Commission on the Holocaust and the original United States Holocaust Memorial Council.</p>
+        <p>To the Editor:</p>
+        <p>For the American Jewish Committee to question ''progressive'' Jews who speak out on issues that organized Jewry and Israel may not like to hear is remarkable.</p>
+        <p>At this time, when Jews are among many others openly and appropriately critical about the lack of Muslim voices decrying Muslim extremists and suicide bombers, the publication of an essay suggesting that liberal Jews who raise questions about Israel are enabling the increase in anti-Semitism is incomprehensible and terrifying.</p>
+        <p>Am I less a loyal American when I question American actions? Or more so?</p>
+        <p>Am I less a good Jew when I question Israel's actions? Or more so?</p>
+        <p>Dadie Perlov  New York, Jan. 31, 2007</p>
+        <p>To the Editor:</p>
+        <p>What Alvin H. Rosenfeld, the author of an essay criticizing liberal Jews, views as a rise in the ''new anti-Semitism'' is in actuality people's growing awareness of and willingness to speak out against the injustice done to the Palestinian people.</p>
+        <p>True anti-Semitism should never be confused with legitimate criticism of Israel or calls for a binational state with equal rights for both Israelis and Palestinians.</p>
+        <p>Karen Russo  Arlington, Vt., Jan. 31, 2007</p>
+        <p>To the Editor:</p>
+        <p>Somehow these vigilantes of proper Jewishness never mention the large numbers of Israelis who share with American Jews dismay about the self-defeating policies of the Israeli government.</p>
+        <p>Are David Grossman, Amos Oz, A. B. Yehoshua, to mention just a few of the most noteworthy, to be labeled anti-Semites, too?</p>
+        <p>C. K. Williams  Princeton, N.J., Jan. 31, 2007</p>
+        <p>The writer contributed a poem to ''Wrestling With Zion: Progressive Jewish-American Responses to the Israeli-Palestinian Conflict,'' a 2003 collection of essays criticized in Alvin H. Rosenfeld's essay.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Father With a Coffin, Telling of War's Grim Toll</title>
+    <meta content="01father" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Washington; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/nyregion/01father.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822964"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">Monuments and Memorials</classifier>
+        <location class="indexing_service">Iraq</location>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Boston (Mass)</location>
+        <person class="indexing_service">Arredondo, Carlos</person>
+        <person class="indexing_service">Arredondo, Alexander S (Lance Cpl)</person>
+        <person class="indexing_service">Lee, Trymaine</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Massachusetts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Plains</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Death and Dying</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts/Boston</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">Death and Dying</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Death and Dying</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Monuments and Memorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Times Square and 42nd Street (NYC)</location>
+        <location class="online_producer">Iraq</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E1DC153FF932A35751C0A9619C8B63" item-length="624" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Father With a Coffin, Telling of War's Grim Toll</hl1>
+        <hl2 class="online_headline">A Father With a Coffin, Telling of War’s Grim Toll</hl2>
+      </hedline>
+      <byline class="print_byline">By TRYMAINE LEE</byline>
+      <byline class="normalized_byline">Lee, Trymaine</byline>
+      <abstract>
+        <p>Carlos Arredondo of Boston travels country in pickup truck, carrying coffin draped with American flag to honor memory of his son, Cpl Alexander S Arredondo, marine killed in Iraq in 2004; coffin is filled with his son's prized possessions, and truck is adorned with poster-size photos of young marine; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Carlos Arredondo leaned toward the coffin in the back of his pickup truck yesterday and renewed a promise to his dead son, one that he has kept for more than two years.</p>
+        <p>In a whisper, he vowed never to let his son's death be forgotten. He closed his eyes and slid his right hand across the American flag stretched over the coffin, his fingertips tumbling over each of its faded red stripes.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The display is sad, personal and emotionally jarring, but this is how a father is honoring his son, who was slain in Iraq.</p>
+      </block>
+      <block class="full_text">
+        <p>Carlos Arredondo leaned toward the coffin in the back of his pickup truck yesterday and renewed a promise to his dead son, one that he has kept for more than two years.</p>
+        <p>In a whisper, he vowed never to let his son's death be forgotten. He closed his eyes and slid his right hand across the American flag stretched over the coffin, his fingertips tumbling over each of its faded red stripes.</p>
+        <p>''This is my whole world,'' he said, facing the truck, his arms open wide. ''This is my burden.''</p>
+        <p>Mr. Arredondo, 46, stood on West 43rd Street in Times Square, shivering in the morning chill. His son, Lance Cpl. Alexander S. Arredondo, 20, was a marine killed in Iraq in 2004 while fighting in Najaf.</p>
+        <p>Passers-by slowed or stopped to view Mr. Arredondo's mobile memorial: the coffin, filled with his son's prized possessions, and the green Nissan truck, each side adorned with poster-size photos of the young marine. Some pictures show him smiling, his teeth bright white. Others show a machine-gun-toting warrior in battle gear. Another shows him lying dead at his funeral.</p>
+        <p>The display is sad, personal and emotionally jarring. But this is how Mr. Arredondo honors and mourns his son, who was a fire team leader in Battalion Landing Team 1/4, 11th Marine Expeditionary Unit (Special Operations Capable), First Marine Expeditionary Force. This is how Mr. Arredondo heals.</p>
+        <p>''As long as there are marines fighting and dying in Iraq, I'm going to share my mourning with the American people,'' he said.</p>
+        <p>Mr. Arredondo, who lives in Boston, travels the country putting his sorrow on display. He accepts donations along the way. The coffin he takes with him holds some of his son's things: a soccer ball, a pair of his favorite shoes, a Winnie the Pooh. He also shows people his son's boots, uniform and dog tags.</p>
+        <p>Healing has been long and slow. First there was denial and self-destruction.</p>
+        <p>It all began on Aug. 25, 2004, Mr. Arredondo said, his 44th birthday. A government van eased in front of his home, then in Hollywood, Fla., and three Marine officers in dress blues stepped out.</p>
+        <p>At first Mr. Arredondo thought it was his son making a surprise birthday visit. Instead, the officers told him that his son had been killed in a hail of gunfire after being trapped in a four-story hotel that his platoon had been clearing. They were surrounded by enemy fighters. It was his son's second tour of duty in Iraq.</p>
+        <p>''I just screamed,'' he said. ''I said 'No, no! It can't be my son.' ''</p>
+        <p>Mr. Arredondo said he ''lost it.'' He ran to his garage and grabbed a gallon of gasoline and a propane torch.</p>
+        <p>He took a sledgehammer and smashed the government van's windshield and hopped inside. As the officers tried to calm him, Mr. Arredondo doused himself and the van with gasoline and lit the torch.</p>
+        <p>There was an explosion, and the officers dragged Mr. Arredondo to safety. He suffered second- and third-degree burns over 20 percent of his body.</p>
+        <p>''I went to my son's funeral on a stretcher,'' he said.</p>
+        <p>After nearly 10 months of healing, including several in the hospital, Mr. Arredondo became a full-time war protester, quitting work as a handyman to remind people across the country of the human price of war.</p>
+        <p>His son was posthumously awarded a Purple Heart. But no commendation will fill the void he left behind, Mr. Arredondo said.</p>
+        <p>''Every day we have G.I.'s being killed, and people don't really care enough or do enough to protest about how the war is going,'' Mr. Arredondo said yesterday. ''Some people say I'm dishonoring my son by doing this, but this is my pain, my loss.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

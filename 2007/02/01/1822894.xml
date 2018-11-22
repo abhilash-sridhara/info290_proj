@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fashion Muscles In</title>
+    <meta content="01RUNWAY" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Thursday Styles" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/fashion/01RUNWAY.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822894"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="LIFE AS A RUNWAY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Exercise</classifier>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Thursday Styles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="descriptor">Exercise</classifier>
+        <classifier class="online_producer" type="general_descriptor">Exercise</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <org class="online_producer">Reebok Sports Club</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E6DD153FF932A35751C0A9619C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fashion Muscles In</hl1>
+        <hl2 class="online_headline">Fashion Muscles In</hl2>
+      </hedline>
+      <byline class="print_byline">Text by RUTH LA FERLA</byline>
+      <abstract>
+        <p>Fashion surfaces even in gym clothes; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CONVENTIONAL wisdom dictates that gym clothes be low-key and functional -- a shredded T-shirt, a sweat-drenched tank -- the better to pump incognito, under cover of one's workout gear. But conventional wisdom has no place at Manhattan temples of fitness like the Reebok Sports Club or David Barton. Habitués seem to view them as platforms for showing off vulcanized chests, swelling abs and Popeye biceps, all enhanced by wildly colorful second-skin uniforms. Earlier this month some even chose to underscore the bird-of-paradise effect, wearing gobs of gold -- stacked rings and matching bangles, festoons of chains -- while others placed the accent on their shoes.</p>
+        <p>Brad Sgambati, sporting a fauxhawk, (right center) boasted that he owns 18 pairs of sneakers, each color-keyed to an item of his wardrobe. As Mr. Sgambati confided, ''I like to match.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Conventional wisdom dictates that gym clothes be low-key and functional, but conventional wisdom has no place at Manhattan temples of fitness.</p>
+      </block>
+      <block class="full_text">
+        <p>CONVENTIONAL wisdom dictates that gym clothes be low-key and functional -- a shredded T-shirt, a sweat-drenched tank -- the better to pump incognito, under cover of one's workout gear. But conventional wisdom has no place at Manhattan temples of fitness like the Reebok Sports Club or David Barton. Habitués seem to view them as platforms for showing off vulcanized chests, swelling abs and Popeye biceps, all enhanced by wildly colorful second-skin uniforms. Earlier this month some even chose to underscore the bird-of-paradise effect, wearing gobs of gold -- stacked rings and matching bangles, festoons of chains -- while others placed the accent on their shoes.</p>
+        <p>Brad Sgambati, sporting a fauxhawk, (right center) boasted that he owns 18 pairs of sneakers, each color-keyed to an item of his wardrobe. As Mr. Sgambati confided, ''I like to match.''  LIFE AS A RUNWAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

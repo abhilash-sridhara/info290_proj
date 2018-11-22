@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When the Stars and the Firmament Seem Well Suited</title>
+    <meta content="19SCHU" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/02/19/arts/music/19SCHU.html" name="alternate_url"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20040310T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1559952"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="LIEDER REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Kozinn, Allan</person>
+        <person class="indexing_service">Pape, Rene</person>
+        <person class="indexing_service">Von Otter, Anne Sofie</person>
+        <person class="indexing_service">Fleming, Renee</person>
+        <person class="indexing_service">Polenzani, Matthew</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Metropolitan Opera</org>
+        <person class="online_producer">Fleming, Renee</person>
+        <person class="online_producer">von Otter, Anne Sofie</person>
+        <person class="online_producer">Polenzani, Matthew</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6D8123DF93AA25751C0A9629C8B63" item-length="695" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When the Stars and the Firmament Seem Well Suited</hl1>
+        <hl2 class="online_headline">When the Stars and the Firmament Seem Well Suited</hl2>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+      <byline class="normalized_byline">Kozinn, Allan</byline>
+      <abstract>
+        <p>Allan Kozinn reviews recital of Schubert songs by Metropolitan Opera singers Rene Pape, Anne Sofie von Otter, Renee Fleming and Matthew Polenzani; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Four singers from the Metropolitan Opera, all particularly hot at the moment, convened at Carnegie Hall on Tuesday evening for a recital of Schubert songs that invited great expectations and then exceeded them.</p>
+        <p>Nearly everything about it seemed perfectly judged: the program offered an ample selection of favorites but passed over some of the chestnuts in favor of less frequently heard items in Schubert's canon of more than 600 songs.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Four singers from the Metropolitan Opera convened at Carnegie Hall on Tuesday for a recital of Schubert songs that invited great expectations and then exceeded them.</p>
+      </block>
+      <block class="full_text">
+        <p>Four singers from the Metropolitan Opera, all particularly hot at the moment, convened at Carnegie Hall on Tuesday evening for a recital of Schubert songs that invited great expectations and then exceeded them.</p>
+        <p>Nearly everything about it seemed perfectly judged: the program offered an ample selection of favorites but passed over some of the chestnuts in favor of less frequently heard items in Schubert's canon of more than 600 songs.</p>
+        <p>The singers -- Renée Fleming, the soprano; Anne Sofie von Otter, the mezzo-soprano; Matthew Polenzani, the tenor; and René Pape, the bass -- addressed the music not only with a distinct approach to vocal weight and color but also with the kind of emotional flexibility that can make a three-hour recital seem just the right length.</p>
+        <p>The stage was a picture of studied informality, with the singers seated in plush, matching chairs to either side of James Levine's piano, taking turns presenting two songs at a time, 32 in all.</p>
+        <p>It was an arrangement clearly meant to suggest the salon concerts at which these songs were first heard, and if the performance had been at Weill Recital Hall, or even Zankel Hall, an illusion of intimacy might have been easy to create. But this was a modern, big-ticket event and drew an audience that was both huge and varied: listeners spotted in the hall ranged from Milton Babbitt to Elvis Costello.</p>
+        <p>It was left to the performers, therefore, to shrink the space between them and their audience. They succeeded to a great if not entirely surprising extent, and quickly.</p>
+        <p>Mr. Pape, whose bass is fully powered but also remarkably supple, opened the program with quietly dramatic, dark-hued accounts of ''Der Wanderer'' and ''Der Einsame,'' and as the program unfolded, he seemed to have staked a claim on Schubert's more depressive, world-renouncing settings, that is, some of this composer's most soul-searing songs. His reading of ''In der Ferne'' prized introspection over bitterness, and his performances of two songs from ''Winterreise'' -- ''Das Wegweiser'' and ''Das Wirtshaus'' -- were highlights of the evening for their chilling immediacy.</p>
+        <p>Ms. von Otter was most striking for a technical fluidity that supported some daring interpretive moves: a touch of evocative gliding into phrases of ''Am See,'' for example, and a combination of clipped articulation and freely flowing phrasing in ''Frühlingsglaube.''</p>
+        <p>Often, though, her appeal was a matter of simplicity and directness, with her radiant performance of ''Im Abendrot'' and her acidic rendering of ''Der Zwerg'' as the most irresistible examples.</p>
+        <p>A deceptive simplicity was a salient feature of Ms. Fleming's singing as well. It takes a refined virtuosity to make these songs sound so easy to sing, particularly with the emotional range that Ms. Fleming brought to them.</p>
+        <p>She built ''Gretchen am Spinnrade,'' for instance, to a peak of almost manic energy, but the real power was in the closing repetition of the first verse, which Ms. Fleming sang with a hushed, almost breathless intensity. Much of the time she leaned on the tawny, almost mezzolike sound that is the most attractive side of her voice. But in her final song, ''Rastlose Liebe,'' she used the brighter edge as well, in a dramatic, painterly way.</p>
+        <p>Mr. Polenzani is the relative newcomer in this crowd, but he was not outclassed, something he proved in his opening pair, a playful, light-textured ''Fischerweise,'' followed by a heart-rending performance of ''Du Liebst Mich Nicht.'' A driven account of ''Mein!'' and a brisk, lively reading of ''Der Musensohn'' in the second half of the program extended the impression.</p>
+        <p>Schubert's songs have a lot of piano music in them, and it ranges from the picturesque to the more soulfully direct. Mr. Levine, deferring to the singers, touched on these qualities only fleetingly. Keeping out of a singer's way is generally a good rule for an accompanist, but there's no need to slip into near invisibility, particularly in this music.</p>
+        <p>LIEDER REVIEW  Correction:  March 10, 2004, Wednesday  A music review on Feb. 19 about a peformance of Schubert songs at Carnegie Hall by four singers from the Metropolitan Opera cited a composer erroneously among those in the hall. The composer, Milton Babbitt, was not there.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: March 10, 2004, Wednesday</p>
+        <p>A music review on Feb. 19 about a peformance of Schubert songs at Carnegie Hall by four singers from the Metropolitan Opera cited a composer erroneously among those in the hall. The composer, Milton Babbitt, was not there.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

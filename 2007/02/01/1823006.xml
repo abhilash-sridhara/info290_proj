@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Blow to a Law Firm Under Inquiry</title>
+    <meta content="01legal" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/business/01legal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823006"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Bribery</classifier>
+        <org class="indexing_service">Milberg Weiss &amp; Bershad</org>
+        <person class="indexing_service">Cooperman, Steven G (Dr)</person>
+        <person class="indexing_service">Creswell, Julie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Plea Bargaining</classifier>
+        <classifier class="online_producer" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Plea Bargaining</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bribery</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <person class="online_producer">Cooperman, Steven G</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E3DB153FF932A35751C0A9619C8B63" item-length="579" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Blow to a Law Firm Under Inquiry</hl1>
+        <hl2 class="online_headline">New Blow to a Law Firm Under Inquiry</hl2>
+      </hedline>
+      <byline class="print_byline">By JULIE CRESWELL</byline>
+      <byline class="normalized_byline">Creswell, Julie</byline>
+      <abstract>
+        <p>Federal prosecutors in Los Angeles file court documents showing that $175,000 personal check from partner in law firm Milberg Weiss &amp; Bershad, supposedly 'option payment' on art work, was actually secret payment made to former ophthalmologist Steven Cooperman for acting as named plaintiff in class-action suit filed by Milberg Weiss (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A few years before he faked the theft of two works of art from his home in Brentwood, Calif., Steven G. Cooperman, a former ophthalmologist, received a personal check from a partner of the law firm Milberg Weiss &amp; Bershad for $175,000 as an ''option payment'' on one of those works, Picasso's ''Nude Before a Mirror.''</p>
+        <p>But court documents filed by federal prosecutors in Los Angeles yesterday said the check was a secret payment made to Mr. Cooperman for acting as a named plaintiff in a class-action lawsuit filed by Milberg Weiss.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A plea deal is the latest move by federal prosecutors against the law firm Milberg Weiss &amp; Bershad.</p>
+      </block>
+      <block class="full_text">
+        <p>A few years before he faked the theft of two works of art from his home in Brentwood, Calif., Steven G. Cooperman, a former ophthalmologist, received a personal check from a partner of the law firm Milberg Weiss &amp; Bershad for $175,000 as an ''option payment'' on one of those works, Picasso's ''Nude Before a Mirror.''</p>
+        <p>But court documents filed by federal prosecutors in Los Angeles yesterday said the check was a secret payment made to Mr. Cooperman for acting as a named plaintiff in a class-action lawsuit filed by Milberg Weiss.</p>
+        <p>The government's agreement with Mr. Cooperman, contained in the documents, in which he agreed to plea guilty to a conspiracy charge, is another blow to Milberg Weiss. The law firm was indicted along with two of its partners last year by a federal grand jury in Los Angeles on charges that it participated in a scheme to make secret payments to numerous plaintiffs.</p>
+        <p>Mr. Cooperman's plea deal is the latest move by federal prosecutors, who have spent seven years investigating the firm and its tactics. Last year, another former Milberg Weiss plaintiff, Howard J. Vogel, pleaded guilty to making a false declaration to a court in connection with secret payments he received from the firm, court filings state.</p>
+        <p>Still, prosecutors have been unable to bring charges against their primary targets: Milberg's co-founder, Melvyn I. Weiss, and William S. Lerach, who started his own firm on the West Coast in 2004. People close to the investigation say the two men are identified as ''Partner A'' and ''Partner B,'' respectively, in court documents.</p>
+        <p>Mr. Cooperman, however, is a challenging witness for prosecutors. Convicted of insurance fraud in the staged theft of the artworks, Mr. Cooperman cut a deal with prosecutors in 1999, agreeing to provide them information on Milberg Weiss.</p>
+        <p>While serving a 30-month prison sentence, Mr. Cooperman committed additional crimes, which breached his cooperation agreement, the plea agreement states.</p>
+        <p>In an e-mailed statement, a lawyer for Milberg Weiss, William W. Taylor III, said Mr. Cooperman's allegations were not new and ''have never been credible.''</p>
+        <p>''Rewarding any witness for 'cooperation' is inherently suspect,'' Mr. Taylor's statement said. ''To do so twice, and in the face of crimes he committed blatantly from prison, demonstrates the lack of substance and inherent unfairness of the allegations against the firm.''</p>
+        <p>According to court filings, Mr. Cooperman received $6.4 million in payments from 1988 to 1999 for serving as a named plaintiff in about 70 class-action and shareholder derivative lawsuits that netted Milberg Weiss more than $133 million in fees.</p>
+        <p>To conceal the illegal kickbacks, the firm and many of its partners, according to prosecutors, made false and misleading statements in various court documents and often made payments in cash through Mr. Cooperman's lawyers.</p>
+        <p>In one case, however, Mr. Cooperman's secret payment was disguised as a false ''option payment'' made by ''Partner A,'' on the Picasso ''Nude Before a Mirror,'' court filings say. In a series of transactions involving Mr. Cooperman's brother-in-law, much of the $175,000 payment was returned to Partner A, while other payments were made to Mr. Cooperman.</p>
+        <p>A lawyer for Mr. Weiss, Benjamin Brafman, rejected any allegations of wrongdoing by his client and declared the art option agreement ''100 percent legitimate,'' noting that Mr. Weiss is an active collector of Picasso paintings.</p>
+        <p>''He changed his mind about the painting and it's that simple,'' Mr. Brafman said. ''It has absolutely nothing to do with the allegations in the case.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

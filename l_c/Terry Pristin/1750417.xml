@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Why Lease When You Can Own?</title>
+    <meta content="29retail" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/03/29/realestate/29retail.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1750417"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Square Feet"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Renting and Leasing</classifier>
+        <classifier class="indexing_service" type="descriptor">Cooperatives</classifier>
+        <classifier class="indexing_service" type="descriptor">Condominiums</classifier>
+        <classifier class="indexing_service" type="descriptor">Sales</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Real Capital Analytics</org>
+        <person class="indexing_service">Pristin, Terry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooperatives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooperatives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Condominiums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Renting and Leasing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Agriculture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060329T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E0DF1530F93AA15750C0A9609C8B63" item-length="1272" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Why Lease When You Can Own?</hl1>
+        <hl2 class="online_headline">Why Lease When You Can Own?</hl2>
+      </hedline>
+      <byline class="print_byline">By TERRY PRISTIN</byline>
+      <byline class="normalized_byline">Pristin, Terry</byline>
+      <abstract>
+        <p>Article on still relatively rare but increasing instances of retailers who are purchasing their own retail space, either as condominiums or co-ops; Real Capital Analytics reports $1.2 billion worth of retail condos across country were sold in 2004 and 2005 combined, compared with $120.8 million in 2002 and 2003; average sales price rose from $441 per square foot to $995; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After two decades in the same location -- a town house on 57th Street just west of Fifth Avenue -- Ascot Chang, a retailer of custom-made shirts that cost as much as $650, found itself facing an uncertain future. The building had a new owner and the store's $40,000-a-month lease was set to expire in 2007.</p>
+        <p>So, like an apartment dweller eager to break free from the risks of renting, Ascot Chang decided to buy its own storefront. Recently the company, which is based in Hong Kong, agreed to pay $4 million for 4,700 square feet of ground-floor space at the former Intercontinental Hotel on Central Park South. The hotel is being converted into residential units.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Retailer condos are in demand, and the supply is increasing.</p>
+      </block>
+      <block class="full_text">
+        <p>After two decades in the same location -- a town house on 57th Street just west of Fifth Avenue -- Ascot Chang, a retailer of custom-made shirts that cost as much as $650, found itself facing an uncertain future. The building had a new owner and the store's $40,000-a-month lease was set to expire in 2007.</p>
+        <p>So, like an apartment dweller eager to break free from the risks of renting, Ascot Chang decided to buy its own storefront. Recently the company, which is based in Hong Kong, agreed to pay $4 million for 4,700 square feet of ground-floor space at the former Intercontinental Hotel on Central Park South. The hotel is being converted into residential units.</p>
+        <p>''It's the Chinese mentality,'' said Thomas Yu, the general manager of United States operations for Ascot Chang, which also owns its store in Beverly Hills. ''We'd rather own our own store so that we don't have to move all the time.'' The purchase is expected to be completed in May.</p>
+        <p>It is still relatively rare in this country for retailers other than big-box chains like Wal-Mart and Home Depot to own their real estate. But with the wave of conversions, especially in New York, developers who specialize in residential or office construction are increasingly carving out a separate condo for their ground-floor space and putting it on the market. Prices for these retail spaces -- usually sold as condos, but occasionally as co-ops -- are rising rapidly.</p>
+        <p>According to Real Capital Analytics, a New York real estate company that tracks transactions of $5 million or more, $1.2 billion worth of retail condos across the country were sold in 2004 and 2005 combined, compared with $120.8 million in 2002 and 2003. From 2001 to 2005, the average sales price rose from $441 a square foot to $995 a square foot, said Robert M. White Jr., the company president.</p>
+        <p>''I think the high pricing that's been achieved by some of these retail condos is going to cause more investors to look real hard at their retail space,'' Mr. White said. ''More of them will create retail condos and sell it off separately.''</p>
+        <p>Hessam Nadji, the managing director of research services for Marcus &amp; Millichap, an investment brokerage company based in Encino, Calif., has identified about 250 retail condos on the market across the country. Of those aimed at retailers, rather than investors, the average asking price is about $285 a square foot, he said.</p>
+        <p>Brokers say that more of these properties are coming on the market. ''It used to be that developers would hold onto the retail when they converted the building,'' said James P. Nelson, a managing partner at Massey Knakal, an investment brokerage company that specializes in smaller New York properties, ''but now they see that when space is vacant, they can get a premium.''</p>
+        <p>Stephen L. Glascock, the president of Anbau Enterprises, the developer of 110 Central Park South where the Intercontinental once operated, said his investors had always planned to sell the retail space. ''We're not in the retail business,'' he said. ''We're in the business of residential development.''</p>
+        <p>Some sellers are seizing the moment. After holding onto 18,000 square feet of retail space with small neighborhood stores at 275 and 295 Greenwich Street in TriBeCa for nearly two decades, the Shaw Company of Chicago decided last year that it was time to sell, said Bruce Sinder, the president of Sinvin Realty, which represented Shaw.</p>
+        <p>A new project is rising across the street that will have a Whole Foods store, and several of the existing leases are about to expire, Mr. Sinder said. A company owned by the developer Donald Zucker bought the retail condo in December for $13.75 million. ''He was buying for the future,'' Mr. Sinder said.</p>
+        <p>Retail condos attract several types of buyers. Some seek to defer payment of capital gains by exchanging property of similar value under Section 1031 of the federal tax code, as the Shorenstein family of San Francisco did last year when it bought the Borders Books space on 57th Street and Park Avenue for an undisclosed price.</p>
+        <p>Others are foreign retailers, accustomed to owning real estate in their home countries. Parasuco Jeans, a Montreal company that sells jeans for $150 to $800, is about to open its first United States store in 6,000 square feet of ground-floor space in a former bank building at Spring and Lafayette Streets in SoHo.</p>
+        <p>''Why throw money away on rent if you can own the place?'' said Salvatore Parasuco, the chief executive of the company, which bought the store for $8.5 million from Leviev Boymelgreen, the developer that converted the rest of the building into residential condos. Some foreign retailers are so eager to acquire real estate that they are willing to become residential landlords or move to less-than-ideal locations. Custo Barcelona, an apparel chain based in Spain, recently bought a four-story building on Columbus Avenue and 71st Street with apartments on the three upper floors, said Joshua Strauss, a managing director at Robert K. Futterman &amp; Associates, a retail brokerage company.</p>
+        <p>Custo Barcelona also owns a retail condo on Broome Street. ''Broome Street is not the best location,'' he said. ''You'd rather be on Broadway. But they still want to buy, and only buy.''</p>
+        <p>Most of the costliest retail condos, however, are being sold to real estate investors. One of the most active buyers is the publicly traded Vornado Realty Trust, which set a record -- $6,647 a square foot) -- last May when it paid $113 million for retail space in the former Westbury Hotel, a residential conversion on Madison Avenue at 69th Street, that is leased until 2018 by the luxury retailers Cartier and Gucci.</p>
+        <p>Even condos with less glamorous tenants are commanding high prices. Storefronts on Lexington Avenue and 59th Street that are leased to the Gap and Banana Republic recently sold for $2,800 a square foot.</p>
+        <p>Chain stores based in this country are not in the habit of owning their real estate, brokers say. ''Americans don't do it because it takes away capital they need to expand their business,'' said Alan Victor, an executive vice president of the Lansco Corporation, which represents tenants. ''Most would rather open another store and generate more revenue.''</p>
+        <p>One United States company that prefers owning to renting is Valley National Bank of Wayne, N.J., which has nine branches in Manhattan and four more set to open this year. Banks have been rapidly expanding in Manhattan, paying annual rents of $200 a square foot or more.</p>
+        <p>Gerald H. Lipkin, the chief executive of Valley National for the last 17 years, said he liked the predictability that goes along with ownership. ''If you own, you've locked in your fixed costs for eternity,'' he said. And what if the branch fails at that location? ''So I sell it,'' he said.</p>
+        <p>For the most part though, retailers who own their space tend to be local entrepreneurs, Mr. Nadji said.</p>
+        <p>Several years ago, Howard A. Ellins and his wife, Jocelyn Serfaty, decided to turn a longtime interest in Asian antiques into a retail business. It took two years for them to find a retail condo in the right location for their store, Abhaya Home Furnishings, but eventually they bought a 5,000-square-foot space at 145 Hudson Street in TriBeCa for $1.8 million.</p>
+        <p>Had they rented space, the lease would have expired in a few years, forcing them to confront the higher rents that have accompanied the neighborhood's escalating residential prices, said Mr. Ellins, who retired this year as a litigator at Davis Polk &amp; Wardwell. ''This was the more sensible way for us to go at it,'' he said.</p>
+        <p>Square Feet</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

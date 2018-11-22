@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Black Students Lose Again</title>
+    <meta content="07tierney" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/07/opinion/07tierney.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1730102"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/John Tierney</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="descriptor">Vouchers</classifier>
+        <classifier class="online_producer" type="descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vouchers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <org class="online_producer">Democratic Party</org>
+        <org class="online_producer">Urban League</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E5D61E30F934A35752C0A9609C8B63" item-length="817" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Black Students Lose Again</hl1>
+        <hl2 class="online_headline">Black Students Lose Again</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN TIERNEY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Democrats once went to court to desegregate schools. But in Florida they've been fighting to kick black students out of integrated schools, and they've succeeded, thanks to the Democratic majority on the State Supreme Court.</p>
+        <p>The court's decision on Thursday was a legally incoherent but politically creative solution to a delicate problem. Ever since Florida's pioneering statewide voucher program began, Democrats have been struggling to deal with the program's success.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Judges in Florida don't let the law get in the way of a bad education.</p>
+      </block>
+      <block class="full_text">
+        <p>Democrats once went to court to desegregate schools. But in Florida they've been fighting to kick black students out of integrated schools, and they've succeeded, thanks to the Democratic majority on the State Supreme Court.</p>
+        <p>The court's decision on Thursday was a legally incoherent but politically creative solution to a delicate problem. Ever since Florida's pioneering statewide voucher program began, Democrats have been struggling to deal with the program's success.</p>
+        <p>Most of recipients have been black students like Adrian Bushell, whom I wrote about last year. Without a voucher, he would have attended Miami Edison, a big public high school in a poor area with a 94 percent black student body and a total of six non-Hispanic white students.</p>
+        <p>Instead, he's now a 10th grader at Monsignor Edward Pace, a Catholic school that is 24 percent black. His experience is typical. In other places that have tried vouchers, like Milwaukee and Cleveland, studies have shown that voucher recipients tend to move to less segregated schools.</p>
+        <p>Besides helping Adrian (who's got a 3.1 average and plans on college), the Florida program has also benefited students in public schools like Miami Edison. Because each voucher is worth less than what the public system spends per student, more money is left for each student in the public system. And studies have repeatedly shown that failing Florida schools facing voucher competition have raised their test scores more than schools not facing the voucher threat.</p>
+        <p>A program that desegregates schools and improves test scores wasn't easy to attack in the Legislature, but the courts offered a more promising battleground for the teachers' unions trying to stop it. Florida's Constitution has a version of the Blaine Amendment, a ban on aid to religious institutions that might be construed in some states (but not in others) to prohibit school vouchers.</p>
+        <p>A lower court in Florida ruled that the voucher program violated the ban on religious aid. The State Supreme Court could have simply affirmed that conclusion, which would have been legally defensible (although mistaken, in my view). But then it would have faced a messy new set of questions.</p>
+        <p>If the Blaine Amendment prohibited vouchers, couldn't it also prohibit the state aid now going to hospitals, colleges and preschool programs run by religious institutions? Would the court have to end programs that were popular with the public and inoffensive to Democratic teachers' unions?</p>
+        <p>The judges ducked these inconvenient questions by ignoring the Blaine Amendment and using another rationale. They ruled that the voucher program violated a state constitutional requirement to provide a ''uniform'' system of public schools.</p>
+        <p>The majority's decision was eviscerated in a dissent by two Republican judges who use adjectives like ''nonsensical'' to describe the legal reasoning. The dissenters argue persuasively that nothing in the Constitution forbids the Legislature from setting up other programs beyond the public school system.</p>
+        <p>The decision has disillusioned Adrian and his grandmother, Ramona Nickson. ''I just don't even want to think of sending him back to public school,'' she said. Other parents in Florida worry that more programs are in jeopardy, like the scholarships given to thousands of disabled students in private schools. Or the many charter schools in the state, which may not suit the judges' personal vision of a ''uniform'' system.</p>
+        <p>''It's difficult to predict what will happen next after a decision as devoid of legal principle as this one,'' said Clark Neily of the Institute for Justice, which represented the voucher recipients in the case. ''The judges decided what decision they wanted to reach and worked backward from there.''</p>
+        <p>Adrian was supported by the Urban League of Miami and other advocacy groups for blacks and Latinos, but not the N.A.A.C.P. It abandoned him -- and the majority of African-Americans, who favor school vouchers -- and sided with the teachers' unions.</p>
+        <p>The group that once battled the segregationists' fiction of ''separate but equal'' schools signed on to the legal fiction that there's something admirably ''uniform'' about a public school monopoly that keeps students in Adrian's neighborhood trapped in a segregated, inferior school.</p>
+        <p>It's sad to see the N.A.A.C.P. working to keep them there, but it's not surprising now that the group is virtually an arm of the Democratic Party. The unions dominating that party have no qualms about sending Adrian back to a segregated school that has just lost its chief incentive to improve. The party now has a new educational motto: separate but uniform.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

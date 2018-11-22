@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Nashville Near-Star, Downsizing For a Night</title>
+    <meta content="01mira" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/arts/music/01mira.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822918"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Country Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Country Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Lambert, Miranda</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E3DD153FF932A35751C0A9619C8B63" item-length="525" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Nashville Near-Star, Downsizing For a Night</hl1>
+        <hl2 class="online_headline">A Nashville Near-Star, Downsizing for a Night</hl2>
+      </hedline>
+      <byline class="print_byline">By KELEFA SANNEH</byline>
+      <byline class="normalized_byline">Sanneh, Kelefa</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Has Miranda Lambert's career developed in reverse? First came national television exposure: she finished third on the first season of ''Nashville Star,'' the country music version of ''American Idol.'' Then came the arena tours, as the opening act for Keith Urban, George Strait and, as of last week, Toby Keith. And then, on Tuesday night, came a low-key show at Mercury Lounge, the cozy downtown rock club. At this rate, she'll be busking in the subway by 2008.</p>
+        <p>She probably would busk if she had to, which is one reason she probably won't have to. She grew up in Lindale, Tex., and she is only 23, but she was already a singing-contest veteran by the time she made her not-quite-triumphant run on ''Nashville Star'' in 2003, at 19. And while reality-TV contestants often seem to release albums mere hours after the show is done, Ms. Lambert didn't release her debut album, ''Kerosene'' (Epic/Sony BMG), until two years later.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>During Ms. Lambert’s short set she had some problems with pitch; as a singer, she has more power than control.</p>
+      </block>
+      <block class="full_text">
+        <p>Has Miranda Lambert's career developed in reverse? First came national television exposure: she finished third on the first season of ''Nashville Star,'' the country music version of ''American Idol.'' Then came the arena tours, as the opening act for Keith Urban, George Strait and, as of last week, Toby Keith. And then, on Tuesday night, came a low-key show at Mercury Lounge, the cozy downtown rock club. At this rate, she'll be busking in the subway by 2008.</p>
+        <p>She probably would busk if she had to, which is one reason she probably won't have to. She grew up in Lindale, Tex., and she is only 23, but she was already a singing-contest veteran by the time she made her not-quite-triumphant run on ''Nashville Star'' in 2003, at 19. And while reality-TV contestants often seem to release albums mere hours after the show is done, Ms. Lambert didn't release her debut album, ''Kerosene'' (Epic/Sony BMG), until two years later.</p>
+        <p>The album was great: from feisty Southern rock to old-fashioned country balladry, she made every song sound like a pop song. (And no, that's not faint praise.) None of the album's four singles reached the country Top 10. But she kept touring and making videos and showing up on television until people paid attention. The album has sold nearly a million copies.</p>
+        <p>She played some of the old songs on Tuesday night, including the album's hard-charging title track, which she cheerfully called her ''big Top-13 single.'' But much of her short set was given over to songs from her second album, which is scheduled to be released in May.</p>
+        <p>If you saw the Country Music Association Awards last fall, then you have already heard the title track; her romp through it, ''Crazy Ex-Girlfriend,'' was one of that show's highlights, even though the single never caught on at country radio stations. She performed it on Tuesday night, along with others from the album, which were mostly about either getting over someone or getting even (for instance, ''Desperation'' and ''Gunpowder and Lead''; you can probably guess which is which).</p>
+        <p>As the ''Nashville Star'' judges surely would have pointed out, she had some problems with pitch; as a singer, she has more power than control. (Her voice echoes the characters she sings about, or vice versa.) That was a problem during slow songs like ''More Like Her,'' which she sang alone. She sounded much better with the band behind her, belting out ''Famous in a Small Town,'' which she said was her next single. It's not exactly a tribute: ''Everybody dies famous in a small town,'' she sang, as if she couldn't imagine anything worse.</p>
+        <p>By the show's end, she was already thinking about the next one. ''Hopefully, next time we see y'all in New York City, we're headlining some big arena somewhere,'' she said. Luckily, impatient New York listeners don't have to wait until next time. Tomorrow night she is scheduled to play the Continental Airlines Arena in East Rutherford, N.J., opening for Toby Keith. The place might not be full when she hits the stage, but don't be surprised if she doesn't seem to care.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

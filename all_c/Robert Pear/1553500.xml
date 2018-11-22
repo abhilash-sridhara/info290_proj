@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sluggish Start for Offer Of Tax Credit for Insurance</title>
+    <meta content="25INSU" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/01/25/politics/25INSU.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1553500"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="indexing_service" type="descriptor">Tax Credits</classifier>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <person class="indexing_service">Pear, Robert</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Health Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Tax Credits</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tax Credits</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905EFD61F39F936A15752C0A9629C8B63" item-length="1386" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sluggish Start for Offer Of Tax Credit for Insurance</hl1>
+        <hl2 class="online_headline">Sluggish Start for Offer of Tax Credit for Insurance</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBERT PEAR</byline>
+      <byline class="normalized_byline">Pear, Robert</byline>
+      <dateline>WASHINGTON, Jan. 24</dateline>
+      <abstract>
+        <p>Only estimated 25,000 of 500,000 eligible people take advantage of Health Coverage Tax Credit intended to help jobless workers buy health insurance; results have been modest in part because displaced workers are still required to spend substantial amounts on insurance premiums before they can get benefit of credit; only 29 states so far have designated health plans that will provide coverage to people receiving credit; Pres Bush wants program to succeed as model for similar tax credit programs to help the more than 43 million Americans without health insurance; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A program offering tax credits to jobless workers to buy health insurance has gotten off to a slow, sputtering start, despite energetic efforts by Bush administration officials who want the program to succeed as a model for a much more ambitious effort to help the uninsured.</p>
+        <p>The program, the Health Coverage Tax Credit, was created in 2002 to aid workers who lose jobs because of foreign imports.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If eventually successful, the program, which offers tax credits to jobless workers to buy health insurance, could serve as a model for a larger effort to help the uninsured.</p>
+      </block>
+      <block class="full_text">
+        <p>A program offering tax credits to jobless workers to buy health insurance has gotten off to a slow, sputtering start, despite energetic efforts by Bush administration officials who want the program to succeed as a model for a much more ambitious effort to help the uninsured.</p>
+        <p>The program, the Health Coverage Tax Credit, was created in 2002 to aid workers who lose jobs because of foreign imports.</p>
+        <p>With health care shaping up as a big issue in this year's elections, President Bush and other Republicans see the program as an important prototype. They hope to give similar tax credits to a much larger swath of the uninsured population, which exceeds 43 million.</p>
+        <p>Administration officials have hailed the program for displaced workers. In a letter to governors last February, Treasury Secretary John W. Snow and Tommy G. Thompson, the secretary of health and human services, said the tax credit ''could help over 500,000 Americans each year.'' And Mr. Snow described it last summer as ''a real innovation in tax policy, a bold step in the direction of affordable health care for all Americans.''</p>
+        <p>But the results to date are modest, in part because displaced workers are still required to spend substantial amounts of money on insurance premiums before they can get the benefits of the tax credit.</p>
+        <p>At the end of December, the Bush administration said, only 8,374 workers were receiving tax credits for health insurance under the program. The total number of people taking advantage of the program, including dependents, is perhaps 25,000, or 5 percent of those expected to benefit.</p>
+        <p>While the program has yet to enjoy wide success, President Bush proposed wider use of tax credits in his State of the Union address on Tuesday and in his weekly radio address on Saturday.</p>
+        <p>''I ask you to give lower-income Americans a refundable tax credit that would allow millions to buy their own basic health insurance,'' Mr. Bush said in his speech to Congress.</p>
+        <p>Under the existing program, tax credits will pay 65 percent of the premium for health insurance bought by a displaced worker. The individual must pay the other 35 percent, and that has proved an insurmountable hurdle for some workers.</p>
+        <p>''The tax credit would help if the insurance rates were affordable, but the rates were so high that I couldn't afford it,'' said Gloria J. Craven, 51, of Eden, N.C. ''Blue Cross and Blue Shield of North Carolina stepped forward to help the textile workers here. But when people started getting price quotes, we realized that we could not pay our share of the premiums.''</p>
+        <p>Mrs. Craven said she and her 61-year-old husband had lost their jobs in a Pillowtex mill where they worked for three decades. She has asthma. He is diabetic and has had a heart attack. Mrs. Craven said the premiums for the insurance offered to them ranged from $1,700 to $5,400 a month. Their share of the premiums would be $595 to $1,890 a month.</p>
+        <p>The couple, drawing $416 a month in unemployment benefits, was in no position to pay such costs, Mrs. Craven said.</p>
+        <p>Federal officials estimate that 14,000 workers are eligible for the tax credit in North Carolina. Michelle Douglas, a spokeswoman for Blue Cross and Blue Shield of North Carolina, said 1,800 workers had signed up for the health plan offered to displaced workers.</p>
+        <p>''There is a product available, but it's not as affordable as we had hoped,'' Ms. Douglas said.</p>
+        <p>The tax credit was approved by Congress as part of a trade bill that gave the president broad authority to negotiate trade deals.</p>
+        <p>Senator Olympia J. Snowe, Republican of Maine, one of the chief proponents of the tax credit, said: ''We have to find out immediately what's limiting the success of this program. We are talking about health insurance for people who have lost their jobs. The delays are troubling and unacceptable.''</p>
+        <p>Ms. Snowe said Maine had lost nearly one-fourth of its manufacturing jobs since 2000. Federal officials estimate that 2,000 people are eligible for the tax credit there. State officials say the number could be as high as 13,000.</p>
+        <p>But Ellen J. Schneiter, an aide to Gov. John Baldacci of Maine, a Democrat, said that fewer than 200 people were using the tax credit.</p>
+        <p>''We thought these folks were really hungry for health care coverage, but they can't pay their 35 percent share,'' Ms. Schneiter said. The premium for a family that includes a person over the age of 55 is $1,500 a month, or $18,000 a year, she said.</p>
+        <p>Federal officials said the average premium for family coverage under state-based health insurance programs was about $800 a month, or $9,600 a year.</p>
+        <p>Eligible individuals can claim the credit when they file their tax returns, or they can get it in advance, by arranging for the Treasury Department to make monthly payments to insurers. The credit is available to taxpayers and to those who do not owe federal income tax.</p>
+        <p>Roy J. Ramthun, senior adviser on health initiatives at the Treasury, said: ''We are surprised that more people have not signed up for the advance payment option. We've tried to do everything we can to make the process of qualifying for the credit as simple as possible.''</p>
+        <p>The credit is available not only to workers laid off because of foreign competition, but also to some retirees who receive payments from the Pension Benefit Guaranty Corporation because of the failure of their pension plans.</p>
+        <p>But so far, only 29 states have taken action to designate health plans that will provide coverage to people receiving the tax credit.</p>
+        <p>As a result, ''an eligible individual may have a 65 percent tax credit, but no place to spend it,'' said Janet S. Trautwein, vice president of the National Association of Health Underwriters.</p>
+        <p>In Texas, the federal government estimates that more than 8,600 people are eligible. But only 29 people are receiving it, according to Margaret Jarvis, a spokeswoman for Blue Cross and Blue Shield of Texas, which operates the health plan for displaced workers.</p>
+        <p>''We expect the program to grow,'' Ms. Jarvis said, ''but there's nothing we're doing to promote it.''</p>
+        <p>In New York, Empire Blue Cross and Blue Shield says that fewer than 10 people are taking advantage of its program for displaced workers.</p>
+        <p>Blue Cross and Blue Shield of Michigan says that more than 7,500 workers are eligible, but only 420 have signed up. The premium for a comprehensive family policy is $1,074 a month.</p>
+        <p>''If you're out of work, you might not be able to afford your share of that, $375 a month,'' said Timothy P. Cook, a spokesman for Michigan Blue Cross.</p>
+        <p>Federal officials said they had made substantial progress, setting up telephone call centers and establishing procedures for the Treasury to make monthly payments.</p>
+        <p>''We have demonstrated that the model works,'' said Ruben J. King-Shaw Jr., who ran the program for the Bush administration until he left the government in August. ''For the first time, tax credits are being used to address the problems of the uninsured. But workers are still finding out about the program. And some states have been more aggressive than others in making an insurance product available.''</p>
+        <p>The Children's Health Insurance Program, created by Congress in 1997, was also slow in getting started, federal and state officials recalled, but enrollment has increased.</p>
+        <p>In Illinois, Thomas F. Jerkovitz, executive director of the state's Comprehensive Health Insurance Plan, said he was puzzled by the fact that only 345 of the 12,000 workers eligible for the tax credit had enrolled. ''We are scratching our heads,'' Mr. Jerkovitz said.</p>
+        <p>In Ohio, 835 people have signed up. The federal government says more than 16,000 are eligible.</p>
+        <p>Ann Womer Benjamin, director of the Ohio Insurance Department, said: ''I've been a bit disappointed. This is a very positive program with great potential, but we have to do more to publicize it and to reach people who may be eligible.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Valley Of The Rolls</title>
+    <meta content="18dowd" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/03/18/opinion/18dowd.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1747597"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Sleep</classifier>
+        <classifier class="indexing_service" type="descriptor">Ambien (Drug)</classifier>
+        <classifier class="indexing_service" type="descriptor">Sleepwalking</classifier>
+        <person class="indexing_service">Dowd, Maureen</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Maureen Dowd</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Sleepwalking</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Sleep</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Insomnia</classifier>
+        <classifier class="online_producer" type="descriptor">Sleep</classifier>
+        <classifier class="online_producer" type="descriptor">Insomnia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sleep</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060318T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E0DA1E31F93BA25750C0A9609C8B63" item-length="784" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Valley Of The Rolls</hl1>
+        <hl2 class="online_headline">Valley of the Rolls</hl2>
+      </hedline>
+      <byline class="print_byline">By MAUREEN DOWD</byline>
+      <byline class="normalized_byline">Dowd, Maureen</byline>
+      <abstract>
+        <p>Maureen Dowd satirical Op-Ed column holds that she may be Ambien sleep-eater (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I'm not going all confessional, like one of these bare actresses baring her soul on the cover of Vanity Fair. But I have a desperate secret, as the actresses like to say, that may help others if I talk about it.</p>
+        <p>Or not.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Sleeping beauties and sleeping fatties.</p>
+      </block>
+      <block class="full_text">
+        <p>I'm not going all confessional, like one of these bare actresses baring her soul on the cover of Vanity Fair. But I have a desperate secret, as the actresses like to say, that may help others if I talk about it.</p>
+        <p>Or not.</p>
+        <p>I am a sleep-eater.</p>
+        <p>It has happened only a few times, and I'm not sure if it's connected to Ambien. It started last year when a jumbo pack of Oreos mysteriously went missing in my kitchen. I came down one morning to find the plastic sliced open and all the cookies gone. I called my exterminator, certain there was a crumb-covered critter lurking. He never found one.</p>
+        <p>A couple of other times, when I was staying in hotels with minibars, I found Snickers wrappers by the bed or telltale Toblerone chocolate smears.</p>
+        <p>I confided in a friend, a fellow occasional Ambien user, who said he woke up sometimes with Jackson Pollock-like splatters of Good &amp; Plenty on his white T-shirts.</p>
+        <p>New Yorkers have been calling their doctors and nutritionists this week to see whether they should switch hypnotics, now that Minnesota researchers have suggested that Ambien may be creating a new form of ravenous sleeper cells, an alarming development given that some people had actually been taking Ambien to avoid the urge to stay up and raid the fridge.</p>
+        <p>It may just be a new form of avoirdupois rationalization. (That's my story, dear, and I'm sticking to it.) But a California woman included in one of the studies said she gained 100 pounds from sleep-eating while on Ambien; a Minneapolis woman in a full body cast was discovered by her son sleepwalking to her kitchen, frying bacon and eggs on one night and turning on her oven to 500 degrees on another; a Tennessee nurse said she'd devoured a whole package of hamburger rolls ''like a grizzly bear.''</p>
+        <p>Susan Chana Lask, a New York City lawyer, has filed a class-action suit against the makers of Ambien on behalf of users -- who are overwhelmingly female. She gives examples of bad behavior by what she calls '' 'Night of the Living Dead' creatures'': driving impaired and eating raw eggs and even a buttered cigarette, and sleep-shoplifting DVD's.</p>
+        <p>Far more women suffer from insomnia, and far more women -- even young ones -- pop sleeping pills than men. As Ariel Levy wrote in New York magazine, pills are now seen as ''brain styling,'' not mind-altering, because ''the line between medication and recreation has become blurred.''</p>
+        <p>One girlfriend of mine wanted to call her Upper East Side doctor yesterday and switch to Lunesta. ''I have visions of myself in my Subaru crossing the George Washington Bridge at 3 in the morning covered in Cheetos dust,'' she said. But then she realized they'd probably find out something equally weird about Lunesta next week -- that it causes you to run off with a Starbucks barista and go to male strip clubs in your sleep.</p>
+        <p>The scary news of zombie hordes of Ambien sleep-eaters follows fast upon the scary news of zombie hordes of Ambien sleep-drivers and zombie hordes of Ambien sleep-sirens.</p>
+        <p>The New York Observer recounted the saga of an attractive editor at a fashion magazine who hooked up with a young man in Soho and took him back to her place.</p>
+        <p>''She was laying there and had taken her clothes off,'' he told the paper. ''Then, in completely slurred speech, she said: 'I just took two Ambien, so anything you're going to do, you better do it before I pass out.' ''</p>
+        <p>The next mishap is sure to be sleep-governing. A headline on Wednesday read ''Study: Ambien Users Invade Countries in Their Sleep; Wake Up With No Memory of Reasons for Invasion, No Exit Strategy.'' The story was written by the humorist Andy Borowitz, who also imagined that an Ambien side effect might be a tendency of some politicians to concoct incomprehensible prescription drug programs while asleep.</p>
+        <p>But real life once more outstrips satire, as the military in Iraq conducts Ambien air assaults. The president and some Pentagon officials have no memory of authorizing the strikes, and the generals in Iraq have no memory that they've already used these tactics without lasting success.</p>
+        <p>There is, after all, precedent for Sleepers in Chief. The first President Bush's doctor caught flak for giving him the sleeping pill Halcion -- fingered as a possible contributor to Poppy's embarrassing frow-up moment at a state dinner in Japan.</p>
+        <p>If you don't want to give up Ambien, doctors say, put chimes on your bedroom door. The tinkling may wake you up on the way to get a snack or take a drive to shoplift a new wardrobe for your fat zombie self.</p>
+        <p>Op-Ed Columnist John Tierney is on vacation.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">John Tierney is on vacation.</tagline>
+    </body.end>
+  </body>
+</nitf>

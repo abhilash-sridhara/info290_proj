@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>At the Debate, Speculations and Calculations Focus on Dean</title>
+    <meta content="Y23DEM$02" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/01/23/politics/campaign/23DEMS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1553043"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="THE 2004 CAMPAIGN: THE SCENE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2004</classifier>
+        <classifier class="indexing_service" type="descriptor">Debating</classifier>
+        <classifier class="indexing_service" type="descriptor">Primaries</classifier>
+        <location class="indexing_service">New Hampshire</location>
+        <location class="indexing_service">Iowa</location>
+        <person class="indexing_service">Tierney, John</person>
+        <person class="indexing_service">Dean, Howard (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Iowa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Hampshire</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/John F Kerry</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/Howard Dean</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Iowa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Hampshire</classifier>
+        <classifier class="online_producer" type="descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="descriptor">Debating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Debating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Primaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Democratic Party</org>
+        <person class="online_producer">Dean, Howard</person>
+        <person class="online_producer">Kerry, John F</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE0DF1E39F930A15752C0A9629C8B63" item-length="898" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>At the Debate, Speculations and Calculations Focus on Dean</hl1>
+        <hl2 class="online_headline">At the Debate, Speculations and Calculations Focus on Dean</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN TIERNEY</byline>
+      <byline class="normalized_byline">Tierney, John</byline>
+      <dateline>GOFFSTOWN, N.H., Jan. 22</dateline>
+      <abstract>
+        <p>Howard Dean garners closest scrutiny among Democratic candidates at New Hampshire debate following his screaming concession speech in Iowa; briefly alludes to it before launching into policy discussion; other debate highlights; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>John Kerry marched to the presidential debate accompanied by a firefighters' band of bagpipers, just the sort of touch you might expect from a candidate riding a surge. But even after his victory in Iowa and his lead in the New Hampshire polls, Mr. Kerry was still not quite the main attraction Thursdaynight, at least not at the start of the Democratic debate.</p>
+        <p>Howard Dean, the candidate who had overshadowed the rest of the field for months, was still the one getting the closest scrutiny. Nothing the other candidates could say about health care or tax policy seemed as immediately interesting as the questions being bandied by spectators: would he try atoning for his now much mocked speech in Iowa? Did he have a joke ready?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Even after his victory in Iowa and his lead in the New Hampshire polls, John Kerry was still not quite the main attraction on Thursday night.</p>
+      </block>
+      <block class="full_text">
+        <p>John Kerry marched to the presidential debate accompanied by a firefighters' band of bagpipers, just the sort of touch you might expect from a candidate riding a surge. But even after his victory in Iowa and his lead in the New Hampshire polls, Mr. Kerry was still not quite the main attraction Thursdaynight, at least not at the start of the Democratic debate.</p>
+        <p>Howard Dean, the candidate who had overshadowed the rest of the field for months, was still the one getting the closest scrutiny. Nothing the other candidates could say about health care or tax policy seemed as immediately interesting as the questions being bandied by spectators: would he try atoning for his now much mocked speech in Iowa? Did he have a joke ready?</p>
+        <p>He started out as the calm but hoarse physician, cheerfully alluding to his screaming concession speech but quickly changing the subject to why he opposed the Bush tax cuts. His economic lecture may not have satisfied all his critics or stopped the replays of his speech on Internet sites, but it was a safe answer that put him back in a familiar role: the outsider willing to stand up to President Bush. This was Dr. Dean as the no-nonsense policy wonk determined to be fiscally responsible.</p>
+        <p>Al Sharpton, though, could not resist putting Dr. Dean's yell to use. ''Don't be hard on yourself about hooting and hollering,'' he said to Dr. Dean. ''If I had spent the money you did and got 18 percent, I'd still be in Iowa hooting and hollering.''</p>
+        <p>Mr. Sharpton was the one who put Dr. Dean on the spot in the last debate in Iowa, when Dr. Dean looked stunned and defensive after Mr. Sharpton demanded to know why there had been no blacks or Hispanics in Dr. Dean's cabinet when he was governor of Vermont. The gibe last night might have been intended to achieve the same effect, but it was probably the biggest favor anyone could have done for Dr. Dean.</p>
+        <p>As the audience roared and applauded Mr. Sharpton's joke, Dr. Dean joined in the laughter and looked humbler than he had in months. Laughing at himself has not been one of Dr. Dean's strengths on the campaign trail so far, but he chose a good moment to do it.</p>
+        <p>On Thursday night it was Gen. Wesley K. Clark's turn to be uncomfortable when Peter Jennings, the ABC News anchorman who was serving as a moderator of the debate, asked him why he had said nothing when one of his supporters, the author and producer Michael Moore, recently stood next to General Clark and called President Bush a deserter. General Clark, looking like a student who never dreamed that would be on the test, said he did not know the facts of the case but mentioned that Mr. Moore was not the only one to make the charge, an answer that probably gladdened Republican strategists envisioning ways to exploit the issue.</p>
+        <p>This was hardly the first debate for the Democrats -- they were going at it almost weekly toward the end of last year -- but it was easily the one to generate the most excitement ahead of time.</p>
+        <p>While the audience of 440 people waited for the debate to start in the Dana Center auditorium at St. Anselm's College, a slightly larger horde, more than 500 journalists, was trading in speculation at a gym converted into a media center.</p>
+        <p>How would Mr. Kerry, written off as the worst campaigner of the year just a few weeks ago, adjust to his new status as alpha male? Would he come under attack from a fellow military veteran, General Clark? Could John Edwards charm New Hampshire as he charmed Iowa?</p>
+        <p>''The only New Hampshire debate with as much hype as this that I can remember was in 1980, after Bush upset Reagan in Iowa,'' said Jules Witcover, a columnist for The Baltimore Sun and a veteran of campaigns since 1968. ''But this race is even more wide open, and now there's the question of whether Dean can survive or not.''</p>
+        <p>The debate resolved neither the future of Dr. Dean nor the fate of the rest of the candidates, and to those who had watched previous debates it covered mostly familiar territory. But it did at least show that the debates have had some effect: most of the candidates have gotten better at their jobs.</p>
+        <p>Mr. Kerry, who was especially prone to long-winded answers early in the campaign, was more concise and forceful. Senator Joseph I. Lieberman, whose somber style has inspired comparisons to Eeyore, the glum donkey in ''Winnie the Pooh,'' seemed positively jovial and got some of the biggest laughs of the evening. Mr. Edwards has always been the smoothest talker, but this night he also had a touch of gravitas.</p>
+        <p>And by the end of the evening, Dr. Dean was still serene. Late in the debate, when Brit Hume said he was going to ask a question related to the scream heard 'round the Web, Dr. Dean quickly said, ''Please don't.'' But he was smiling.</p>
+        <p>THE 2004 CAMPAIGN: THE SCENE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Quid Pro Quack</title>
+    <meta content="21DOWD$01" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/03/21/opinion/21DOWD.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1568110"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Hunting and Trapping</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <org class="indexing_service">Supreme Court (US)</org>
+        <person class="indexing_service">Dowd, Maureen</person>
+        <person class="indexing_service">Scalia, Antonin (Assoc Justice)</person>
+        <person class="indexing_service">Cheney, Dick (Vice Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Maureen Dowd</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hunting and Trapping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Scalia, Antonin</person>
+        <person class="online_producer">Cheney, Dick</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040321T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E1D91131F932A15750C0A9629C8B63" item-length="805" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Quid Pro Quack</hl1>
+        <hl2 class="online_headline">Quid Pro Quack</hl2>
+      </hedline>
+      <byline class="print_byline">By MAUREEN DOWD</byline>
+      <byline class="normalized_byline">Dowd, Maureen</byline>
+      <dateline>WASHINGTON</dateline>
+      <abstract>
+        <p>Maureen Dowd Op-Ed column disputes Justice Antonin Scalia's 21-page memorandum explaining why he did not recuse himself in pending Supreme Court case involving his friend Vice Pres Cheney; cites Scalia's contention that many justices have reached court because they were friends of incumbent president or other senior officials; holds that one should not expect justice who helped put Cheney in White House to stop helping him now (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>That incandescent intellect, the Stephen Hawking of jurisprudence, has been kind enough to take time from his busy schedule to explain to us how the Republic really works.</p>
+        <p>Antonin Scalia has devoted 21 pages to illuminating the impertinence of those who suggest that it is wrong for a Supreme Court justice to take favors from a friend with a case before the court.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Justice Antonin Scalia deems it fine for him to be friends with Dick Cheney and hear his case.</p>
+      </block>
+      <block class="full_text">
+        <p>That incandescent intellect, the Stephen Hawking of jurisprudence, has been kind enough to take time from his busy schedule to explain to us how the Republic really works.</p>
+        <p>Antonin Scalia has devoted 21 pages to illuminating the impertinence of those who suggest that it is wrong for a Supreme Court justice to take favors from a friend with a case before the court.</p>
+        <p>Res ipsa loquitur, baby. Why should the justice who put Dick Cheney in the White House stop helping him now? It's the logrolling, stupid!</p>
+        <p>''Many justices have reached this court precisely because they were friends of the incumbent president or other senior officials,'' the justice sniffs.</p>
+        <p>That elite old boy network can really help in those dicey moments when you need to stop the wrong sort, like Al Gore, from getting ahead.</p>
+        <p>You don't stop ingratiating yourself with your powerful friends and accepting ''social courtesies'' from them just because you get on the court. Ingratitude is a terrible vice.</p>
+        <p>Anyway, what's the point of being in the ultimate insiders' club if you have to fly coach, eat at IHOP and follow silly rules on conflict of interest?</p>
+        <p>Justice Scalia proffers that while he accepted the vice president's offer of a ride on Air Force Two to Louisiana for a duck hunting trip, taking along his son and son-in-law, there was no quid pro quack. ''I never hunted in the same blind as the vice president,'' he says. No need for justice to be blind when the blinds are just.</p>
+        <p>Not since Tony Soprano discovered ducks in his swimming pool have ducks revealed so much about the man.</p>
+        <p>The justice elucidates that if he and his family had not accepted a free ride on Air Force Two, there would have been ''considerable inconvenience'' to his other friends, who would have had to meet a commercial plane in New Orleans and arrange car and boat trips to the hunting camp.</p>
+        <p>What is integrity compared to inconvenience?</p>
+        <p>''I daresay that, at a hypothetical charity auction, much more would be bid for dinner for two at the White House than for a one-way flight to Louisiana on the vice president's jet,'' he writes wittily. ''Justices accept the former with regularity.'' Now there's an argument that requires a first-rate mind: Everybody does it.</p>
+        <p>Only a few casuistical steps away from parsing the meaning of ''is,'' Justice Scalia writes that it is fine for him to be friends with Mr. Cheney and hear his case as long as it doesn't concern ''the personal fortune or the personal freedom of the friend.''</p>
+        <p>Holy Halliburton, whatever were we thinking?</p>
+        <p>The Sierra Club suit is against Mr. Cheney in his official capacity, not in his camouflage capacity.</p>
+        <p>''Political consequences are not my concern,'' says the justice. Unless, of course, it's about picking the president of the United States.</p>
+        <p>He reassures us that ''Washington officials know the rules, and know that discussing with judges pending cases -- their own or anyone else's -- is forbidden.'' We must simply trust them, for they were bred to lead. Watching Mr. Cheney and Justice Scalia in action is all the proof one needs that Washington officials would never break the rules or engage in cronyism.</p>
+        <p>''If it is reasonable to think that a Supreme Court justice can be bought so cheap, the nation is in deeper trouble than I had imagined,'' the justice scoffs.</p>
+        <p>That's for sure.</p>
+        <p>Justice Scalia says, ''The people must have confidence in the integrity of the justices, and that cannot exist in a system that assumes them to be corruptible by the slightest friendship or favor, in an atmosphere where the press will be eager to find foot-faults.'' He observes that it would be nonsensical for him to recuse himself simply because the press has the effrontery to point out when someone has done something wrong.</p>
+        <p>We, the press, are supposed to be the handmaidens and the manservants of our rulers. If we fulfilled our duties properly, our reports would go something like this:</p>
+        <p>In an admirable spirit of uncommon objectivity, in the pursuit of truth, justice and the American way, Associate Justice Scalia made time to poke around in the marshes of Louisiana with the equally scrupulous Dick Cheney, and then, refreshed by a well-deserved plane trip at our expense, he continued to transmit his enlightenment to a grateful nation.</p>
+        <p>Op-Ed Columnist E-mail: liberties@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: liberties@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Biden Unwraps His Bid for '08 With an Oops!</title>
+    <meta content="01biden" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/us/politics/01biden.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822961"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Indian-Americans</classifier>
+        <person class="indexing_service">Nagourney, Adam</person>
+        <person class="indexing_service">Biden, Joseph R Jr (Sen)</person>
+        <person class="indexing_service">Obama, Barack (Sen)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Issues/Civil Rights</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Democratic Party</org>
+        <person class="online_producer">Biden, Joseph R Jr</person>
+        <person class="online_producer">Stewart, Jon</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E2DC153FF932A35751C0A9619C8B63" item-length="1233" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Biden Unwraps His Bid for '08 With an Oops!</hl1>
+        <hl2 class="online_headline">Biden Unwraps ’08 Bid With an Oops!</hl2>
+      </hedline>
+      <byline class="print_byline">By ADAM NAGOURNEY; Jeff Zeleny and Helene Cooper contributed reporting from Washington, and Conrad Mulcahy from New York.</byline>
+      <byline class="normalized_byline">Nagourney, Adam</byline>
+      <dateline>WASHINGTON, Jan. 31</dateline>
+      <abstract>
+        <p>Sen Joseph R Biden Jr's just-announced campaign to seek presidential candidacy struggles to survive after he makes questionable remark about Sen Barack Obama; Biden is forced to spend day explaining his description of Obama, who is black and is also running for president, as 'clean'; Biden tells reporters that while he had been 'quoted accurately,' his remark was taken out of context; says he called Obama to express regret and Obama assured him he had nothing to explain; Biden comes under fire from some black leaders; Obama issues statement that approaches condemnation, noting he is not first 'articulate' black candidate for presidency, as Biden had claimed; Biden's comment focuses new attention on questionable remark he made about Indians last year; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In an era of meticulous political choreography, the staging of the kickoff for this presidential candidacy could hardly have gone worse.</p>
+        <p>Senator Joseph R. Biden Jr. of Delaware, who announced his candidacy on Wednesday with the hope that he could ride his foreign policy expertise into contention for the Democratic nomination, instead spent the day struggling to explain his description of Senator Barack Obama, the Illinois Democrat running for president, as ''the first mainstream African-American who is articulate and bright and clean and a nice-looking guy.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In an era of meticulous political choreography, the kickoff for Senator Joseph R. Biden Jr.’s presidential candidacy could hardly have gone worse.</p>
+      </block>
+      <block class="full_text">
+        <p>In an era of meticulous political choreography, the staging of the kickoff for this presidential candidacy could hardly have gone worse.</p>
+        <p>Senator Joseph R. Biden Jr. of Delaware, who announced his candidacy on Wednesday with the hope that he could ride his foreign policy expertise into contention for the Democratic nomination, instead spent the day struggling to explain his description of Senator Barack Obama, the Illinois Democrat running for president, as ''the first mainstream African-American who is articulate and bright and clean and a nice-looking guy.''</p>
+        <p>The remark, published Wednesday in The New York Observer, left Mr. Biden's campaign struggling to survive its first hours and injected race more directly into the presidential contest. The day ended, appropriately enough for the way politics is practiced now, with Mr. Biden explaining himself to Jon Stewart on Comedy Central's ''The Daily Show.''</p>
+        <p>Earlier, in a decidedly nonpresidential afternoon conference call with reporters that had been intended to announce his candidacy, Mr. Biden, speaking over loud echoes and a blaring television set, said that he had been ''quoted accurately.'' He volunteered that he had called Mr. Obama to express regret that his remarks had been taken ''out of context,'' and that Mr. Obama had assured him he had nothing to explain.</p>
+        <p>''Barack Obama is probably the most exciting candidate that the Democratic or Republican party has produced at least since I've been around,'' he said, adding: ''Call Senator Obama. He knew what I meant by it. The idea was very straightforward and simple. This guy is something brand new that nobody has seen before.''</p>
+        <p>Asked about Mr. Biden's comments, Mr. Obama said in an interview, ''I didn't take it personally and I don't think he intended to offend.'' Mr. Obama, who serves with Mr. Biden on the Foreign Relations Committee, added, ''But the way he constructed the statement was probably a little unfortunate.''</p>
+        <p>But later in the day, with Mr. Biden coming under fire from some black leaders, Mr. Obama issued a statement that approached a condemnation. ''I didn't take Senator Biden's comments personally, but obviously they were historically inaccurate,'' he said. ''African-American presidential candidates like Jesse Jackson, Shirley Chisholm, Carol Moseley Braun and Al Sharpton gave a voice to many important issues through their campaigns, and no one would call them inarticulate.''</p>
+        <p>For Mr. Biden, the chairman of the Senate Foreign Relations Committee, it was an inauspicious beginning to his first presidential campaign since 1988, when he dropped out after acknowledging using without attribution portions of a speech from a British politician. By the end of the day on Wednesday, Democrats were asking only half-jokingly whether Mr. Biden might be remembered for having the shortest-lived presidential campaign in the history of the Republic.</p>
+        <p>Shortly after 6 p.m., Mr. Biden issued a written statement. ''I deeply regret any offense my remark in the New York Observer might have caused anyone,'' he said. ''That was not my intent and I expressed that to Senator Obama.''</p>
+        <p>Under questioning from reporters at his announcement conference call, Mr. Biden was pressed on what he meant in his description of Mr. Obama, particularly in his use of the word clean.</p>
+        <p>''He understood exactly what I meant,'' Mr. Biden said. ''And I have no doubt that Jesse Jackson and every other black leader -- Al Sharpton and the rest -- will know exactly what I meant.''</p>
+        <p>When he was asked, again, what he meant, Mr. Biden -- known in Washington for his long-winded ways and his love of the microphone and the spotlight -- bristled as he struggled over the squawk of feedback and echoes.</p>
+        <p>''I'm not going to repeat everything I just said,'' he said. ''There is a vote that starts at 2:30, it takes 11 minutes to get to the floor. I can take one more question but not on the subject I have already spoken to.''</p>
+        <p>And after taking one more question, Mr. Biden did something entirely out of character: He announced he was done talking.</p>
+        <p>Mr. Biden's assurances notwithstanding, both Mr. Jackson and Mr. Sharpton -- African-Americans who have run for president -- said they had no idea what Mr. Biden meant. And both suggested they felt at least a little offended by the remarks.</p>
+        <p>Mr. Jackson described Mr. Biden's remarks to the Observer, which also included critical statements about the Iraq positions of two of his Democratic opponents -- Senator Hillary Rodham Clinton of New York and former Senator John Edwards of North Carolina -- as ''blabbering bluster.''</p>
+        <p>A wounded note to his voice, Mr. Jackson pointed out that he had run against Mr. Biden for the 1988 Democratic nomination, and had lasted far longer and drawn more votes than did Mr. Biden. Mr. Biden was forced out in September 1987.</p>
+        <p>''I am not sure what he means -- ask him to explain what he meant,'' Mr. Jackson said. ''I don't know whether it was an attempt to diminish what I had done in '88, or to say Barack is all style and no substance.''</p>
+        <p>Mr. Sharpton said that when Mr. Biden called him to apologize, Mr. Sharpton started off the conversation reassuring Mr. Biden about his hygienic practices. ''I told him I take a bath every day,'' Mr. Sharpton said.</p>
+        <p>No stranger to electoral intrigue, Mr. Sharpton was quick to offer a political motive: That Mr. Biden was drawing distinctions between Mr. Obama and African-American leaders like Mr. Sharpton and Mr. Jackson, to ''discredit Mr. Obama with his base.''</p>
+        <p>At the very least, Mr. Biden's remarks obscured a campaign roll-out in which he said that Mr. Bush had ''dug America into a very big hole'' with the war in Iraq and that the nation would need a leader experienced in foreign policy to take over during dangerous times. More than that, it seemed sure to harden Mr. Biden's image in political circles as politically undisciplined, an image he had been working scrupulously to change in what has emerged as a long-term political rehabilitation project for him.</p>
+        <p>In his conference call, Mr. Biden quoted his mother in trying to explain what he meant about Mr. Obama. ''My mother has an expression: Clean as a whistle and sharp as a tack,'' Mr. Biden said, showering more praise on one of his biggest opponents for the nomination.</p>
+        <p>On Comedy Central, he told Mr. Stewart: ''What got me in trouble was using the world clean. I should have said fresh. What I meant was he's got new ideas.''</p>
+        <p>Mr. Biden's comments also focused new attention on remarks he made about Indians last year, when he said, ''you cannot go to a 7-Eleven or a Dunkin' Donuts unless you have a slight Indian accent. I'm not joking.''</p>
+        <p>Before he went on television, Mr. Biden found himself sharing a stage with Mr. Obama at a Senate Foreign Relations Committee hearing on Iraq, where he was noticeably solicitous to his new presidential rival as members of the committee questioned Henry Kissinger, the former secretary of state. Mr. Biden chastised Senator John Kerry, the Massachusetts Democrat, to keep his comments short (''just one minute, Senator, or we will have everybody else'').</p>
+        <p>But he could not have been more accommodating to Mr. Obama as the senator from Illinois began wrapping up: ''I know I'm out of time.''</p>
+        <p>Mr. Biden would have none of that. ''That's O.K.,'' he told Mr. Obama. ''You're making a very salient point.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

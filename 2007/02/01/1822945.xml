@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Propane Blast Hits a Small Town Hard</title>
+    <meta content="01blast" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/us/01blast.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822945"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="indexing_service" type="descriptor">Propane</classifier>
+        <classifier class="indexing_service" type="descriptor">Explosions</classifier>
+        <location class="indexing_service">Ghent (West Virginia)</location>
+        <org class="indexing_service">Flat Top Little General Store (Ghent, W Va)</org>
+        <person class="indexing_service">Heyman, Daniel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/West Virginia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/West Virginia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Explosions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E6DC153FF932A35751C0A9619C8B63" item-length="606" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Propane Blast Hits a Small Town Hard</hl1>
+        <hl2 class="online_headline">Propane Blast Hits a Small Town Hard</hl2>
+      </hedline>
+      <byline class="print_byline">By DANIEL HEYMAN</byline>
+      <byline class="normalized_byline">Heyman, Daniel</byline>
+      <dateline>GHENT, W.Va., Jan. 31</dateline>
+      <abstract>
+        <p>Residents of Ghent, W Va, mourn seven people who died in explosion at Flat Top Little General Store; blast, fueled by propane leak, sent fireball hundreds of feet into air and registered on seismographs more than 50 miles away; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For the 800 people in this spartan town in southern West Virginia, the Ghent Fire Hall is the heart of the community. It is where gospel concerts and political debates are held in winter, and a town fair with rides and games is a summer favorite.</p>
+        <p>On Wednesday, the hall was at the center of the community response to the loss of four lives in an explosion on Tuesday that leveled the Flat Top Little General Store about a mile away. The blast, fueled by a propane leak, sent a fireball hundreds of feet into the air and registered on seismographs at Virginia Tech, more than 50 miles away.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>GHENT, W.Va., Jan. 31  For the 800 people in this spartan town in southern West Virginia, the Ghent Fire Hall is the heart of the community. It is where gospel concerts and political debates are held in winter, and a town fair with rides and games is a summer favorite.</p>
+      </block>
+      <block class="full_text">
+        <p>For the 800 people in this spartan town in southern West Virginia, the Ghent Fire Hall is the heart of the community. It is where gospel concerts and political debates are held in winter, and a town fair with rides and games is a summer favorite.</p>
+        <p>On Wednesday, the hall was at the center of the community response to the loss of four lives in an explosion on Tuesday that leveled the Flat Top Little General Store about a mile away. The blast, fueled by a propane leak, sent a fireball hundreds of feet into the air and registered on seismographs at Virginia Tech, more than 50 miles away.</p>
+        <p>Among those killed were a former Ghent fire chief, Frederick A. Burroughs, and a young emergency medical technician, Craig L. Dorsey. Five other people, including a volunteer firefighter from nearby Cool Ridge, were critically injured.</p>
+        <p>The vast majority of West Virginia depends on volunteer firefighters, according to the state fire marshal, Sterling Lewis Jr., and the blast took an enormous toll.</p>
+        <p>''For us, it's just like 9/11,'' said Roy Coalson, a retired coal miner who has volunteered as a Ghent firefighter for 25 years, since the days when mining dominated the local economy.</p>
+        <p>Mr. Coalson stood inside the fire hall on Wednesday and greeted a steady stream of townspeople as they delivered homemade lasagna and pot roast, cornbread and beans for the 30 or so remaining firefighters and the families of Mr. Burroughs and Mr. Dorsey.</p>
+        <p>As chief, Mr. Burroughs, who is survived by a wife and two teenage children, led a fund-raising drive for a badly needed new fire truck and to nearly double the size of the fire hall, said Patricia Reed, the president of the Raleigh County Commission. After Mr. Burroughs, 51, stepped down as fire chief, he worked as a county building inspector but continued volunteering for the Fire Department, heading for the hall whenever the alarm sounded.</p>
+        <p>''He was a hard worker, a good family man, and he really loved that department,'' Ms. Reed said.</p>
+        <p>Mr. Dorsey, 24, was responding to a report of a gas leak at the site. His partner, Christopher Cook, who arrived with Mr. Dorsey in their ambulance just as the explosion occurred, escaped with minor injuries.</p>
+        <p>''The guy who died got out the driver's side door and the other guy came out the other side,'' Mr. Coalson said. ''That made all the difference.''</p>
+        <p>Jo Crouser, the ambulance service coordinator for the Fire Department, said the report of a gas leak initially seemed like a routine call.</p>
+        <p>Ms. Crouser said she had just finished mopping the floor in the fire station kitchen when the blast knocked her against the wall.</p>
+        <p>She cried as she talked about Mr. Dorsey, who was planning a wedding to the mother of his year-old son.</p>
+        <p>''He always called me Mama Jo,'' Ms. Crouser said. ''I told him he was my baby. He was the youngest one I had back there.''</p>
+        <p>Jeffrey Lee Treadway, 21, and Glen Ray Bennett, 44, both from Beckley, also died at the scene. Steve Tanner, chief deputy for the Raleigh County Sheriff's Department, said that both men had responded to the propane-leak call and that ''the location of their bodies when we found them is consistent with that.''</p>
+        <p>Sam Peters of Cool Ridge said he knew most of the victims. Mr. Peters came to the fire hall on Wednesday with an armload of fried chicken that joined the pot roast and homemade desserts on folding tables in the kitchen.</p>
+        <p>''This is just something my wife wanted to make,'' he said. ''It's the least we could do.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

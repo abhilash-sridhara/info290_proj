@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Touched by Oil, and Hope</title>
+    <meta content="21belize" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/02/21/business/worldbusiness/21belize.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1741387"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Belize</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Belize</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="descriptor">Third World and Developing Countries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Third World and Developing Countries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Belize</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E2D8113EF932A15751C0A9609C8B63" item-length="1686" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Touched by Oil, and Hope</hl1>
+        <hl2 class="online_headline">Touched by Oil and Hope in Belize</hl2>
+      </hedline>
+      <byline class="print_byline">By SIMON ROMERO</byline>
+      <dateline>SPANISH LOOKOUT, Belize, Feb. 17</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Near this small Mennonite town carved out of the thick jungle, a farmer dug a shallow water well a few years ago and found a viscous black liquid seeping into the water. Given Belize's disappointing record of oil exploration, stretching back to its years under British rule, nearly everyone shrugged at the story except a stubborn Denver geologist.</p>
+        <p>Now Belize is the newest exporter of oil to the United States, a development that is starting to upend this small country of 280,000 people. A roughneck crew, backed by investors from Ireland and Colorado, struck oil in its first drilling attempt last year.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The discovery of oil on a Mennonite farm in Belize is proving that wildcatting is alive and well.</p>
+      </block>
+      <block class="full_text">
+        <p>Near this small Mennonite town carved out of the thick jungle, a farmer dug a shallow water well a few years ago and found a viscous black liquid seeping into the water. Given Belize's disappointing record of oil exploration, stretching back to its years under British rule, nearly everyone shrugged at the story except a stubborn Denver geologist.</p>
+        <p>Now Belize is the newest exporter of oil to the United States, a development that is starting to upend this small country of 280,000 people. A roughneck crew, backed by investors from Ireland and Colorado, struck oil in its first drilling attempt last year.</p>
+        <p>Their wells, dotting the dairy farms of German-speaking Mennonites who moved here a half-century ago from Canada and Mexico, are producing 2,000 barrels a day of oil similar in quality to the prized low-sulfur crude from the oil fields of West Texas.</p>
+        <p>''We need some help from fuel prices in this country, but people aren't too happy living near a smelly well,'' Jake Letkeman, the operator of the small Mennonite-controlled electricity plant here, said. ''We're waiting to see how this thing plays out.'' Much of Belize is on tenterhooks regarding the oil and its ramifications, but the small companies behind the discovery, Belize Natural Energy and CHX Energy of Denver, are reveling in their good fortune. Together with other independent companies that have recently struck oil and natural gas in locations once written off, including Paraguay, Syria and Uganda, these entrepreneurs are proving that wildcatting is alive and well.</p>
+        <p>As in Belize, the quantities of oil discovered in these places are relatively small, which partly explains why the largest and richest oil companies, Exxon Mobil, Chevron and Royal Dutch Shell, shun such gambles for larger so-called elephant projects with more promising returns.</p>
+        <p>But with oil fetching more than $60 a barrel on world markets, smaller companies are willing to risk just about everything these days in hopes of finding even tiny oil fields.</p>
+        <p>[Oil prices rose to $61.46 Monday in reaction to rebel attacks in Nigeria.]</p>
+        <p>''There were 50 dry wells drilled in Belize over 50 years until we came along,'' said Susan Morrice, a geologist from Denver. She is the wildcatter behind Belize Natural Energy, a venture she formed with the backing of her husband, the Colorado oil executive Alex Cranberg, and more than 70 small investors from her native Ireland. ''We simply felt we could not fail in our search for oil in such a promising, if neglected, country.''</p>
+        <p>Ms. Morrice's company has been remarkably swift in turning the discovery into cash. In January, Belize Natural Energy loaded 40,000 barrels onto a barge destined for a refinery in Houston, netting the company about $2 million.</p>
+        <p>With other wells planned in Spanish Lookout, it soon expects to be producing 5,000 barrels a day, and some geologists say Belize as a whole may one day produce 50,000 barrels a day.</p>
+        <p>That is a drop in the bucket compared with neighboring Mexico, where daily output is 3.4 million barrels a day. But it is significant for a small country on the margins of the global economy that has long scrounged for enough hard currency to import all its oil.</p>
+        <p>Belize imports about 5,000 barrels of oil a day, and gasoline costs nearly $5 a gallon. So the crude in Spanish Lookout has allowed this country to dream of energy independence.</p>
+        <p>Still, Belize, known as British Honduras until it was granted autonomy from Britain in 1981, faces some serious obstacles before it becomes anything resembling the Kuwait of Central America. About the same size as nearby El Salvador, it has only 4 percent of that country's population. It also has no refineries or pipelines and, unlike many developing countries, it has no national oil company or even an oil ministry.</p>
+        <p>But Belize does have a hidden asset in a civil servant, André Cho, who spends his time in a modest bungalow with linoleum floors and a screen door, in the capital city of Belmopan.</p>
+        <p>''I've been under a lot of stress lately, man,'' said Mr. Cho, 29, Belize's inspector of petroleum. The phone in Mr. Cho's office, which holds stacks of dog-eared copies of Oil &amp; Gas Journal and British-era geological maps, has been ringing repeatedly in recent weeks with inquiries about drilling licenses from small American and European oil companies.</p>
+        <p>''We don't want to repeat the mistakes of other oil countries, like Nigeria,'' said Mr. Cho, wearing jeans and a gold earring. He said the government had recently approved his request to hire more staff geologists, as well as a former United Nations consultant from India who specializes in organizing the petroleum industries of poor nations.</p>
+        <p>Despite such moves and the formation in December of a government petroleum advisory board, there is considerable skepticism throughout Belize that the country can develop its oil resources without the corruption and environmental damage that afflict other poor oil-producing countries.</p>
+        <p>''If oil wealth brings millions, even billions, to Belize, who is to say that the wealth will not vanish just the same?'' Amandala, the country's largest-circulation newspaper, said in a recent editorial, citing a string of recent corruption scandals. In one report, government pension funds were said to have been used to pay the foreign obligations of a telecommunications start-up. ''Belizeans,'' the editorial said, ''need to keep their eyes on the oil and the money.''</p>
+        <p>Much of the tension around the oil discovery is focused on the 7.5 percent royalty that Belize Natural Energy is required to pay the government, which is much less than in other oil-producing countries. (Royalties to Norway for exploration in the North Sea, for instance, are more than 70 percent.)</p>
+        <p>Prime Minister Said W. Musa has said the royalty was kept low to provide a strong incentive for companies to explore in a country where oil had never been found before.</p>
+        <p>Sheila McCaffrey, a director in Belmopan of Belize Natural Energy, said the government would end up collecting overall taxes of about 30 percent on the oil. That includes the royalty and agreements that give the government a minority stake in the company, along with control of 10 percent of production from the oil wells.</p>
+        <p>The company is also trying to avoid ill will among Belizeans by channeling 1 percent of its revenue to a fund for protecting the country's fragile environment, which is about 40 percent jungle.</p>
+        <p>In Spanish Lookout, no one is waiting to find ways of profiting from the oil. The 1,400 Mennonites in the town still want a small share of the government's royalties to be transferred to them, but many are already using some of the low-sulfur oil by mixing it directly with diesel fuel in their small electricity plant, tractors and pickup trucks.</p>
+        <p>George Remple, the owner of Farmer's Choice Gas, said he had a steady stream of customers dropping in to buy the fuel, which he acquired from Belize Natural Energy for $1.60 a gallon and sold to customers for $1.80. ''As long as the engine isn't too computerized,'' he said, ''it runs fine.''</p>
+        <p>Oil here is low in impurities, or ''sweet'' in the parlance of the oil industry, making it relatively easy to process into fuel. So Belize Natural Energy, according to Ms. McCaffrey, plans to import a small plant that would enable it to produce diesel fuel from crude locally, which would alleviate the country's need to import some of its refined fuel.</p>
+        <p>On the drawing board as well, she said, was a project to use natural gas from the oil wells to fuel electricity plants, which might allow Belize to avoid costly and environmentally controversial hydroelectric dams. Other projects include a pipeline and an export terminal on thecoast.</p>
+        <p>These ambitious plans, though, hinge on a smooth political environment in Belize. The United States is transferring its embassy from hurricane-battered Belize City to Belmopan, the centrally planned capital in the interior, laid out by the British in the 1970's, that resembles a small Brasília. The American embassy complex, under construction, would dwarf the capital's other structures, including federal buildings designed along Mayan temple motifs.</p>
+        <p>The most acute political risk for Belize's nascent oil industry may be a long-festering territorial dispute with neighboring Guatemala, the most densely populated country in Central America and home to 12 million people. Guatemala waited until 1992 to recognize Belize's independence officially.</p>
+        <p>Generations of Guatemalans have been taught in school that ''Belice es nuestro,'' or ''Belize is ours,'' a slogan that might acquire new resonance if abundant oil is found in Belize.</p>
+        <p>Representatives of the two countries agreed this month to begin negotiations to resolve territorial claims, but areas of Belize where oil exploration is taking place or planned remain squarely in land still claimed by Guatemala. Spanish Lookout is just a 20-minute drive from the Guatemalan border, where migrants seeking available land, many of them Maya Indians, have settled.</p>
+        <p>Irma Uck, a shopkeeper at the border crossing of Benque Viejo del Carmen, and who said her father was Guatemalan, said the oil discovery would add to tension in the area.</p>
+        <p>''Guatemala has a little oil, but they want more,'' Ms. Uck, 52, said. ''Everyone here has heard that Belize now has oil.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="01btmcxns-1" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; Washington; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1823030"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Arms Sales Abroad</classifier>
+        <classifier class="indexing_service" type="descriptor">Bombs and Explosives</classifier>
+        <location class="indexing_service">Israel</location>
+        <location class="indexing_service">Lebanon</location>
+        <org class="indexing_service">Hezbollah</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Lebanon</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Arms Sales Abroad</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE6DA153FF932A35751C0A9619C8B63" item-length="72" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction; Jan 28 article about preliminary State Department finding that Israel may have violated agreements in using American-supplied cluster munitions in fight against Hezbollah misstated number of Israeli citizens killed by Hezbollah rocket attacks; it was about 40, not 159</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Sunday about a preliminary State Department finding that Israel may have violated agreements with the United States in using American-supplied cluster munitions in southern Lebanon during the fight against Hezbollah last summer misstated the number of Israeli citizens killed by Hezbollah rocket attacks in the conflict. It was about 40 -- not 159, which was the total number of Israeli fatalities. (Most were Israeli soldiers killed in fighting inside Lebanon.)</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Sunday about a preliminary State Department finding that Israel may have violated agreements with the United States in using American-supplied cluster munitions in southern Lebanon during the fight against Hezbollah last summer misstated the number of Israeli citizens killed by Hezbollah rocket attacks in the conflict. It was about 40 -- not 159, which was the total number of Israeli fatalities. (Most were Israeli soldiers killed in fighting inside Lebanon.)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

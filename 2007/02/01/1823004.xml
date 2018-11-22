@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Why We Mourn Barbaro</title>
+    <meta content="01neuman" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/opinion/01neuman.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823004"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Horse Racing</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <classifier class="indexing_service" type="descriptor">Kentucky Derby</classifier>
+        <person class="indexing_service">Neuman, Jeff</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="descriptor">Horse Racing</classifier>
+        <classifier class="online_producer" type="descriptor">Kentucky Derby</classifier>
+        <classifier class="online_producer" type="descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="descriptor">Horses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Kentucky Derby</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horse Racing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E3DB153FF932A35751C0A9619C8B63" item-length="299" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Why We Mourn Barbaro</hl1>
+        <hl2 class="online_headline">Why We Mourn Barbaro</hl2>
+      </hedline>
+      <byline class="print_byline">By Jeff Neuman</byline>
+      <byline class="normalized_byline">Neuman, Jeff</byline>
+      <abstract>
+        <p>Op-Ed article by Jeff Neuman offers tongue-in-cheek explanation for outpouring of grief for Kentucky Derby-winning horse Barbaro, noting he lacked failings of so many human celebrities (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HE never talked about himself in the third person.</p>
+        <p>He didn't trash-talk, taunt or hang on the rim. Down the stretch of the Kentucky Derby, he didn't turn and point at Bluegrass Cat, and he didn't somersault over the finish line. After crossing the line, he didn't pull out a Sharpie and autograph his saddle for his business manager.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Down the stretch of the Kentucky Derby, he didn’t turn and point at Bluegrass Cat, and he didn’t somersault over the finish line. After crossing the line, he didn’t pull out a Sharpie and autograph his saddle for his business manager.</p>
+      </block>
+      <block class="full_text">
+        <p>HE never talked about himself in the third person.</p>
+        <p>He didn't trash-talk, taunt or hang on the rim. Down the stretch of the Kentucky Derby, he didn't turn and point at Bluegrass Cat, and he didn't somersault over the finish line. After crossing the line, he didn't pull out a Sharpie and autograph his saddle for his business manager.</p>
+        <p>He never referred to his handlers as ''my supporting cast.''</p>
+        <p>He never tried to renegotiate his contract. He never turned down an eight-figure offer by saying, ''I've got a family to feed, man.''</p>
+        <p>His only tattoo was discreetly hidden.</p>
+        <p>He did no commercials for cellphone plans, credit cards, fast food chains or time shares.</p>
+        <p>He never had his agent issue a statement in which he apologized ''if anybody took my actions the wrong way.''</p>
+        <p>He never appeared before a Congressional committee and lied about his steroid use.</p>
+        <p>He never dated Paris Hilton.</p>
+        <p>He was never involved in an altercation with a belligerent fan outside a club at 4 in the morning. He was never arrested for drunken driving. He did not own an unregistered handgun.</p>
+        <p>He never claimed he'd been disrespected. He never left his competitors in the dust and then said, ''I didn't have my A game.'' He did not attribute his victories to the glory of his personal Savior.</p>
+        <p>Isiah Thomas never tried to trade for him.</p>
+        <p>He was never a presenter at the ESPYs.</p>
+        <p>He never claimed he was misquoted in his autobiography. He never confessed to a double murder in the subjunctive tense.</p>
+        <p>He trained, ate and slept. He ran his races, gave his best effort, accepted plaudits graciously, went back to his stall and prepared to do it again the next time out.</p>
+        <p>He never fathered multiple offspring out of wedlock. Alas.</p>
+        <p>Op-Ed Contributor Jeff Neuman is the co-author of ''A Disorderly Compendium of Golf.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Jeff Neuman is the co-author of ''A Disorderly Compendium of Golf.''</tagline>
+    </body.end>
+  </body>
+</nitf>

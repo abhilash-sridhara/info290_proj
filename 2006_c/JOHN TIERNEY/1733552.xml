@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Party Of Pain</title>
+    <meta content="21tierney" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/21/opinion/21tierney.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1733552"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/John Tierney</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Republican Party</org>
+        <org class="online_producer">Drug Enforcement Administration</org>
+        <person class="online_producer">Ashcroft, John</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2D7123FF932A15752C0A9609C8B63" item-length="787" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Party Of Pain</hl1>
+        <hl2 class="online_headline">Party of Pain</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN TIERNEY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As the baby boomers age, more and more Americans will either be enduring chronic pain or taking care of someone in pain. The Republican Party has been reaching out to them with a two-step plan:</p>
+        <p>1. Do not give patients medicine to ease their pain.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Doctors are now going to prison merely for prescribing more pain pills than the Drug Enforcement Agency and prosecutors deem a "legitimate medical purpose."</p>
+      </block>
+      <block class="full_text">
+        <p>As the baby boomers age, more and more Americans will either be enduring chronic pain or taking care of someone in pain. The Republican Party has been reaching out to them with a two-step plan:</p>
+        <p>1. Do not give patients medicine to ease their pain.</p>
+        <p>2. If they are in great pain and near death, do not let them put an end to their misery.</p>
+        <p>The Republicans have been so determined to become the Pain Party that they've brushed aside their traditional belief in states' rights. The Bush administration wants lawyers in Washington and federal prosecutors with no medical training to tell doctors how to treat patients.</p>
+        <p>As attorney general, John Ashcroft decided that Oregon's law allowing physician-assisted suicide violated the federal Controlled Substances Act because he didn't consider this use of drugs to be a ''legitimate medical purpose.'' Karen Tandy, the head of the Drug Enforcement Administration, has been using this same legal theory to decree how doctors should medicate patients with pain, and those who disagree with her medical judgment can be sent to prison.</p>
+        <p>You know Republicans have lost their bearings when they need a lesson in states' rights from Janet Reno, who considered the Oregon law when she was attorney general. For the federal government to decide what constituted legitimate medicine, she wrote, would wrongly ''displace the states as the primary regulators of the medical profession.''</p>
+        <p>The Supreme Court agreed with her this week in upholding the Oregon law. In the majority opinion, Justice Anthony Kennedy said the federal drug law did not empower the attorney general ''to define general standards of medical practice.'' It merely ''bars doctors from using their prescription-writing powers as a means to engage in illicit drug dealing and trafficking as conventionally understood.''</p>
+        <p>That's news to the D.E.A. and the federal prosecutors, who have gone way beyond any ''conventionally understood'' idea of drug trafficking. They've been prosecuting doctors for prescribing painkillers like OxyContin, even where there's no evidence of any of the drugs being resold on the streets. It doesn't matter that the doctor genuinely believed that the patient needed the drugs and was not abusing them. It doesn't matter that the patient was in pain.</p>
+        <p>No, doctors are now going to prison merely for prescribing more pain pills than the D.E.A. and prosecutors deem a ''legitimate medical purpose.'' These drug warriors are not troubled by the enormous range in the level of pain medication that different patients need.</p>
+        <p>They don't even seem to worry much about the potency of the pills, just the number. They want enough pills of any dosage to make a good photo at a press conference. In some cases, doctors have been too careless or gullible, but those are offenses to be disciplined by state medical authorities, not criminal courts.</p>
+        <p>Tandy claims that only a few corrupt doctors have anything to fear from the D.E.A. She responded to a column of mine last year by saying that her agency had investigated only 0.1 percent of the 600,000 doctors in the U.S. But she was far too modest. Most doctors, after all, write few if any prescriptions for opioid painkillers.</p>
+        <p>The doctors who matter are the small number of specialists in pain treatment who prescribe opioids. Ronald Libby, a professor of political science at the University of North Florida, estimates that 17 percent of those doctors were investigated during one year by the D.E.A., and an even greater number of others were investigated by local and state authorities, typically in concert with the drug agency. That means a pain specialist might have a one-in-three chance of being investigated for prescribing opioids.</p>
+        <p>Faced with those odds, doctors are understandably afraid. As noted in The New England Journal of Medicine this month, the D.E.A. has made doctors reluctant to give opioids to desperately ill patients, even when these drugs are the most effective pain treatment. The article warned that a victory for the Bush administration in the Oregon case, besides affecting terminally ill patients in Oregon, could cause doctors across the country to ''abandon patients and their families in their moment of greatest need.''</p>
+        <p>The Supreme Court's decision is a victory for patients and their doctors -- including, I hope, some of the ones in prison for violating the federal legal theory that has now been rejected by the court. The doctors should go free, and Republicans in the White House and Congress should restrain the drug warriors who locked them up. When this year's budget is drawn up, it's the D.E.A.'s turn to feel pain.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

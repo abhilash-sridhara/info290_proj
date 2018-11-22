@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Truth, Fiction and the Rosenbergs</title>
+    <meta content="21rose" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts; Theater; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/21/books/21rose.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1733546"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Culture</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <person class="indexing_service">Liptak, Adam</person>
+        <person class="indexing_service">Doctorow, E L</person>
+        <person class="indexing_service">Kushner, Tony</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/People</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/People/Tony Kushner</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Kushner, Tony</person>
+        <person class="online_producer">Doctorow, E L</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E2D7123FF932A15752C0A9609C8B63" item-length="985" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Truth, Fiction and the Rosenbergs</hl1>
+        <hl2 class="online_headline">Truth, Fiction and the Rosenbergs</hl2>
+      </hedline>
+      <byline class="print_byline">By ADAM LIPTAK</byline>
+      <byline class="normalized_byline">Liptak, Adam</byline>
+      <abstract>
+        <p>Panel discussion by author E L Doctorow and playwright Tony Kushner addresses obligation of artist to be truthful in rendering creative versions of factual events; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The discussion was supposed to be about Julius and Ethel Rosenberg, who were executed in 1953 for espionage and have haunted the artistic imagination ever since.</p>
+        <p>E. L. Doctorow was there, and he talked about his 1971 novel ''The Book of Daniel,'' which considers a couple modeled on the Rosenbergs through the eyes of their orphaned son. So was Tony Kushner, who placed the ghost of Ethel Rosenberg at the deathbed of her prosecutor Roy Cohn in his Pulitzer Prize-winning play ''Angels in America.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Tony Kushner and E.L. Doctorow touched upon a wide range of topics during their panel discussion at the Park Cafe in the Time Warner Center on Thursday night.</p>
+      </block>
+      <block class="full_text">
+        <p>The discussion was supposed to be about Julius and Ethel Rosenberg, who were executed in 1953 for espionage and have haunted the artistic imagination ever since.</p>
+        <p>E. L. Doctorow was there, and he talked about his 1971 novel ''The Book of Daniel,'' which considers a couple modeled on the Rosenbergs through the eyes of their orphaned son. So was Tony Kushner, who placed the ghost of Ethel Rosenberg at the deathbed of her prosecutor Roy Cohn in his Pulitzer Prize-winning play ''Angels in America.''</p>
+        <p>But their conversation, sponsored by Fordham Law School and presented Thursday night at the Park Cafe in the Time Warner Center before an audience of about 200 people, soon moved from the Rosenberg trial to more timely issues. ''Do artists worry about getting it right at all?'' asked Thane Rosenbaum, a novelist and law professor who served as the evening's moderator. ''Is that the burden of the artist?''</p>
+        <p>Mr. Doctorow and Mr. Kushner touched on the recently released Steven Spielberg film ''Munich.'' (The script, about the targeted killings Israel is said to have conducted after 11 of its athletes were murdered at the 1972 Olympics, was written by Mr. Kushner and Eric Roth.) The panelists went on to discuss James Frey's disputed memoir, ''A Million Little Pieces,'' as well as reality television and the arguments offered for the Iraq war, trying to locate the varying obligations of art and other kinds of discourse to historical truth.</p>
+        <p>''There's a tolerance for lying and a tolerance for confusing fact and fiction that has grown and grown and grown,'' Mr. Kushner said. ''It's interesting,'' he added, that the liberties Mr. Frey took in his memoir have ''both provoked outrage and not.''</p>
+        <p>Attempting what he called ''some badly articulated French theory,'' Mr. Kushner said, ''We're making a kind of reality that's coming increasingly to supplant the rock we are standing on.''</p>
+        <p>But though both writers have appropriated historical events and figures for their fictions, neither admitted to complicity in the trend.</p>
+        <p>''Our justification and our salvation is that people know we're liars,'' Mr. Doctorow said. ''The kind of genre-blurring done by the president of the United States is quite different. He is a storyteller, a fabulist, and presents as truth and facts stuff that is totally fictive.''</p>
+        <p>Mr. Doctorow, unhurried and reflective and occasionally aphoristic, said ''The Book of Daniel'' had been a sort of turning point for him. His later novels, from ''Ragtime'' in 1975 through ''The March'' last year, featured actual named historical figures. In ''The Book of Daniel,'' the Rosenbergs were fictionalized, becoming Paul and Rochelle Isaacson. ''I didn't want to write about the Rosenbergs,'' Mr. Doctorow said. ''I wanted to write about what happened to them.''</p>
+        <p>Moreover, he said, he could not find a place in his book for Ethel Rosenberg's brother, David Greenglass, whose testimony helped send the couple to the electric chair. ''No work of fiction could make that believable,'' Mr. Doctorow said. ''It's too incredible and unnatural and hideous.''</p>
+        <p>His later novels, Mr. Doctorow said, contained versions of historical figures akin to painted portraits. ''The compact between you and your audience is clear: this is my rendering.'' In any event, he added, ''public figures make fictions of themselves long before you get to them.''</p>
+        <p>''If you really want to read fiction about J. P. Morgan,'' who was a character in ''Ragtime,'' ''read his authorized biography,'' Mr. Doctorow said.</p>
+        <p>Mr. Kushner, wiry and alert, said his indelible version of Roy Cohn in ''Angels in America'' was firmly rooted in the historical record.</p>
+        <p>''I loved writing Roy Cohn,'' Mr. Kushner said. ''More than any other character, I loved writing in his voice.''</p>
+        <p>In a clip from the HBO version of ''Angels in America'' played for the audience, Al Pacino, playing Cohn, explained his role in assuring Ethel Rosenberg's death. ''That sweet unprepossessing woman, two kids, boo-hoo, reminded us all of our little Jewish mamas -- she came this close to getting life,'' the Cohn character said. ''I pleaded till I wept to put her in the chair.''</p>
+        <p>The Rosenbergs' sons, Robert and Michael Meeropol, watched from the front row.</p>
+        <p>Mr. Kushner said he did not use historical figures for instruction or verisimilitude. ''There is a power that you access that doesn't have to do with credibility but with a shared understanding,'' he said, adding that there was a transgressive thrill to it, too.</p>
+        <p>Mr. Kushner said that the controversy over ''Munich,'' which has largely concerned accusations of a false equivalence between the murder of the athletes and the retribution that followed, had caused him to think hard about art and responsibility. ''There is no doubt, there is no question whatsoever, that this program took place,'' Mr. Kushner said. ''The debate about 'Munich' is completely politically overdetermined.''</p>
+        <p>But, he said, there are two essential questions about the artistic presentation of history. ''The first question is, Did this happen?'' he said, adding that the only responsible answer must be yes. The second question, he said, is ''Did this happen in this way?''</p>
+        <p>''The answer to that,'' Mr. Kushner said, ''if you're a grown-up, is 'Not necessarily.' ''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

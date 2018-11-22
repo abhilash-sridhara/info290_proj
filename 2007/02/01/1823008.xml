@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Long Battles Ahead, But a Short Honeymoon</title>
+    <meta content="01york" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health; Education; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/nyregion/01york.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823008"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="NEWS ANALYSIS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Hospitals</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <location class="indexing_service">New York State</location>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Spitzer, Eliot (Gov)</person>
+        <classifier class="online_producer" type="types_of_material">News Analysis</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Pediatrics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Hospitals</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Albany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Albany (NY)</location>
+        <location class="online_producer">New York State</location>
+        <person class="online_producer">Spitzer, Eliot L</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE3DB153FF932A35751C0A9619C8B63" item-length="933" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Long Battles Ahead, But a Short Honeymoon</hl1>
+        <hl2 class="online_headline">Long Battles Ahead, but a Short Honeymoon</hl2>
+      </hedline>
+      <byline class="print_byline">By MICHAEL COOPER</byline>
+      <dateline>ALBANY, Jan. 31</dateline>
+      <abstract>
+        <p>News analysis: Gov Eliot Spitzer needs cooperation of Assembly and Senate to pass proposed budget that takes aim squarely at two of holiest of Albany's sacred cows: health care and education; he wants to throw out arcane formula for providing school aid, which is jealously protected by Senate Republicans because it benefits suburban school systems; also wants to redirect health care spending so that it benefits patients, and not, as he claims, hospitals and unions, which have many allies in Legislature; Spitzer's political honeymoon is proving very short, and he is aggressively marketing his budget directly to public (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gov. Eliot Spitzer was already fighting a two-front war with the leaders of the Legislature when he unveiled an ambitious budget on Wednesday that seemed certain to escalate hostilities.</p>
+        <p>Mr. Spitzer is battling with a fellow Democrat, Sheldon Silver, the Assembly speaker, over the Assembly's desire to choose one of its own as the next state comptroller. And he had infuriated State Senator Joseph L. Bruno, the Republican majority leader, by daring to campaign for a Democrat in a special Senate election in Nassau County -- breaking the long electoral nonaggression pact between governors and legislative leaders.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Gov. Eliot Spitzer was already fighting a two-front war with the leaders of the Legislature when he unveiled an ambitious budget.</p>
+      </block>
+      <block class="full_text">
+        <p>Gov. Eliot Spitzer was already fighting a two-front war with the leaders of the Legislature when he unveiled an ambitious budget on Wednesday that seemed certain to escalate hostilities.</p>
+        <p>Mr. Spitzer is battling with a fellow Democrat, Sheldon Silver, the Assembly speaker, over the Assembly's desire to choose one of its own as the next state comptroller. And he had infuriated State Senator Joseph L. Bruno, the Republican majority leader, by daring to campaign for a Democrat in a special Senate election in Nassau County -- breaking the long electoral nonaggression pact between governors and legislative leaders.</p>
+        <p>Now the new governor will need the cooperation of the Assembly and the Senate to pass his budget proposals, which take aim squarely at two of the holiest of Albany's sacred cows, health care and education. Past governors have tried, and failed, to enact some of his proposals. Other requests are new. Many, though, are sure to face strong opposition from powerful interests -- and lawmakers -- bent on preserving the status quo.</p>
+        <p>Mr. Spitzer wants to throw out the state's arcane formula for providing school aid -- a formula that is jealously protected by Senate Republicans because it benefits suburban school systems. He wants to redirect health care spending so that it benefits patients, and not, he claims, hospitals and unions -- which have many allies in the Legislature.</p>
+        <p>The new governor is taking on one of those unions -- 1199 S.E.I.U. -- one of the most politically potent unions in the state, with his call for cutting a health care recruitment and retention program the union created; 1199, which is the state's largest health care union, has been known to use multimillion-dollar advertising campaigns in the past to humble governors who cross them.</p>
+        <p>Mr. Spitzer's budget also calls for collecting up to $200 million in sales taxes that the state says it is owed by Indian tribes for businesses on their reservations. Those efforts were abandoned after some tribal members shut down part of the New York Thruway and clashed with state troopers during protests in 1997.</p>
+        <p>The political skirmishes and policy battles that play out over the coming months will offer the first real test of the brash, sometimes confrontational style of Mr. Spitzer.</p>
+        <p>Governors typically have a honeymoon period when they can get things approved by a recalcitrant Legislature. Gov. George E. Pataki managed to cut spending and taxes in his first year, even though he was elected by a slim margin.</p>
+        <p>Mr. Spitzer's political honeymoon, by contrast, is proving very short indeed. But he is vowing to aggressively ''market'' his budget directly to the public, and he is not shy about reminding people about the size of his landslide victory.</p>
+        <p>''I was elected with a mandate to change the direction of Albany, and the direction of the budget,'' Mr. Spitzer said as he briefed reporters. ''I have two pens. I have one with which to sign laws, and one with which to veto. And I'm saying, right here, right now, we are going to defend the principles in this budget.''</p>
+        <p>Mr. Spitzer offered a spoonful of honey for each dose of bitter medicine. He vowed to cut health care spending, but also to provide low-cost health insurance for the state's 400,000 uninsured children. He sought to scrap the school aid formula, but he vowed to increase school spending across the board, and coupled that proposal with a property tax cut to make it more palatable to lawmakers. And his budget is not exactly austere: it calls for spending $120.6 billion over all.</p>
+        <p>Mr. Silver and Mr. Bruno, who, between them, have sunk many a gubernatorial wish list in recent years, reacted cautiously, sounding at times like older, more jaded upperclassmen rolling their eyes at an enthusiastic but naïve freshman.</p>
+        <p>Mr. Silver praised the governor's proposals for spending more on schools, but was cool to his plans to cut health care spending and create more charter schools.</p>
+        <p>''The Legislature will determine what's good for the individual communities that they represent,'' he said, when asked if lawmakers would work to preserve the status quo. ''The governor can classify it any way he wishes to classify it,'' he said of Mr. Spitzer's claim that powerful interests would do everything they could to protect that status quo. ''That's not what it is. This should be a budget by consensus.''</p>
+        <p>Much of the talk in the Capitol on Wednesday was about remarks Mr. Spitzer reportedly made during a heated telephone conversation with Assemblyman James N. Tedisco, the Republican minority leader, in which the governor was said to have used salty language to compare himself to a ''steamroller.'' The remarks were reported by The New York Post.</p>
+        <p>Senator Bruno -- who dwelt on the prosecutorial style of Mr. Spitzer, the former state attorney general and a former assistant district attorney -- had some words of warning for him, in the form of an anecdote about his horse farm.</p>
+        <p>''I got a steamroller up in my place a few years back, a big one,'' he said. ''The back fields, the horses are all out there, and they cut the fields all up, and you try and level them out, flatten them out. So I thought it was ingenious that I get this big steamroller and take it back into the fields to flatten the fields. A damn good idea, I thought. ''I took the steamroller down this little incline and turned it around, and I couldn't get it back up this little hill. It started to spin. And guess what? When the going gets a little bit tough, a steamroller spins. It doesn't advance''</p>
+        <p>NEWS ANALYSIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

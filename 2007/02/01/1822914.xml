@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WHAT'S ON TONIGHT</title>
+    <meta content="01tube" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/arts/television/0201tvcol.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822914"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Tonight's TV Listings"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE4DD153FF932A35751C0A9619C8B63" item-length="453" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WHAT'S ON TONIGHT</hl1>
+        <hl2 class="online_headline">What’s on Thursday Night</hl2>
+      </hedline>
+      <byline class="print_byline">By KATHRYN SHATTUCK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>9:30 P.M. (Showtime) BUD GREENSPAN PRESENTS PRIDE AGAINST PREJUDICE: THE LARRY DOBY STORY -- Mr. Doby (1923-2003) joined the Cleveland Indians in 1947 just 11 weeks after Jackie Robinson signed with the Brooklyn Dodgers. But until a Sports Illustrated article in 1997, his accomplishments had been largely forgotten. In this 90-minute documentary, Mr. Greenspan chronicles Mr. Doby's (above) three-decade career, his induction into the Baseball Hall of Fame and the restoration of his rightful place in sports history. Louis Gossett Jr. narrates.</p>
+        <p>8 P.M. (NBC) MY NAME IS EARL -- Host with the mostest: Earl (Jason Lee) flies Pierre (Ernie Grunwald), a foreign-exchange student he tortured all the way home to France, back to America to show him the great things this country has to offer. Meanwhile, Randy (Ethan Suplee) and Catalina (Nadine Velazquez) explore the power of love as their marriage heats up.</p>
+        <p>8 P.M. (11) SMALLVILLE -- Clark's other self goes on a Valentine's Day rampage after he is kissed with lipstick made of red kryptonite. Maybe that's why he has kidnapped Lana from her wedding dinner with Lex.</p>
+        <p>8 P.M. (ABC) UGLY BETTY -- Tim Gunn (left), the design guru of ''Project Runway,'' tries his hand at acting in this two-part episode in which he plays a fashion reporter intent on getting at the heart of the scandal rocking the runway of Mode's Fashion Week show. Katherine McPhee of ''American Idol'' plays a celebrity guest.</p>
+        <p>8:30 P.M. (NBC) THE OFFICE -- Michael brings two entertainers into the office in honor of Phyllis's wedding shower. One is a stripper. The other is Ben Franklin.</p>
+        <p>9 P.M. (NBC) SCRUBS -- Divide and conquer: when Dr. Kelso befriends a veteran of the Iraq war, staff members start arguing politics -- forgetting the patient they're supposed to be treating.</p>
+        <p>9 P.M. (ABC) GREY'S ANATOMY -- The doctors compete for the chief's affection as they jockey for his position; a surgical patient endangers the lives of those around her; and the medical condition of Meredith's mother changes.</p>
+        <p>9:30 P.M. (NBC) 30 ROCK -- Is this what you call a date? Liz accompanies Jack to a birthday celebration for a prince (Paul Reubens). And then they run into Jack's ex-wife (Isabella Rossellini). Back in the office, Tracy tempts Pete with a beer-and-babe-filled party, while Kenneth the page tries to keep him on the straight and narrow.</p>
+        <p>10:30 P.M. (Comedy Central) THE SARAH SILVERMAN PROGRAM -- It's her, but then again, it's not: in this new series, Ms. Silverman (right) plays a character named Sarah Silverman, and her sister is played by, who else, her real-life sister Laura. But that's where reality ends. Sort of.</p>
+        <p>KATHRYN SHATTUCK</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>9:30 P.M. (Showtime) BUD GREENSPAN PRESENTS PRIDE AGAINST PREJUDICE: THE LARRY DOBY STORY Mr. Doby (1923-2003) joined the Cleveland Indians in 1947 just 11 weeks after Jackie Robinson signed with the Brooklyn Dodgers. But until a Sports Illustrated article in 1997, his accomplishments had been largely forgotten. In this 90-minute documentary, Mr. Greenspan chronicles Mr. Doby’s three-decade career, his induction into the Baseball Hall of Fame and the restoration of his rightful place in sports history. Louis Gossett Jr. narrates.</p>
+      </block>
+      <block class="full_text">
+        <p>9:30 P.M. (Showtime) BUD GREENSPAN PRESENTS PRIDE AGAINST PREJUDICE: THE LARRY DOBY STORY -- Mr. Doby (1923-2003) joined the Cleveland Indians in 1947 just 11 weeks after Jackie Robinson signed with the Brooklyn Dodgers. But until a Sports Illustrated article in 1997, his accomplishments had been largely forgotten. In this 90-minute documentary, Mr. Greenspan chronicles Mr. Doby's (above) three-decade career, his induction into the Baseball Hall of Fame and the restoration of his rightful place in sports history. Louis Gossett Jr. narrates.</p>
+        <p>8 P.M. (NBC) MY NAME IS EARL -- Host with the mostest: Earl (Jason Lee) flies Pierre (Ernie Grunwald), a foreign-exchange student he tortured all the way home to France, back to America to show him the great things this country has to offer. Meanwhile, Randy (Ethan Suplee) and Catalina (Nadine Velazquez) explore the power of love as their marriage heats up.</p>
+        <p>8 P.M. (11) SMALLVILLE -- Clark's other self goes on a Valentine's Day rampage after he is kissed with lipstick made of red kryptonite. Maybe that's why he has kidnapped Lana from her wedding dinner with Lex.</p>
+        <p>8 P.M. (ABC) UGLY BETTY -- Tim Gunn (left), the design guru of ''Project Runway,'' tries his hand at acting in this two-part episode in which he plays a fashion reporter intent on getting at the heart of the scandal rocking the runway of Mode's Fashion Week show. Katherine McPhee of ''American Idol'' plays a celebrity guest.</p>
+        <p>8:30 P.M. (NBC) THE OFFICE -- Michael brings two entertainers into the office in honor of Phyllis's wedding shower. One is a stripper. The other is Ben Franklin.</p>
+        <p>9 P.M. (NBC) SCRUBS -- Divide and conquer: when Dr. Kelso befriends a veteran of the Iraq war, staff members start arguing politics -- forgetting the patient they're supposed to be treating.</p>
+        <p>9 P.M. (ABC) GREY'S ANATOMY -- The doctors compete for the chief's affection as they jockey for his position; a surgical patient endangers the lives of those around her; and the medical condition of Meredith's mother changes.</p>
+        <p>9:30 P.M. (NBC) 30 ROCK -- Is this what you call a date? Liz accompanies Jack to a birthday celebration for a prince (Paul Reubens). And then they run into Jack's ex-wife (Isabella Rossellini). Back in the office, Tracy tempts Pete with a beer-and-babe-filled party, while Kenneth the page tries to keep him on the straight and narrow.</p>
+        <p>10:30 P.M. (Comedy Central) THE SARAH SILVERMAN PROGRAM -- It's her, but then again, it's not: in this new series, Ms. Silverman (right) plays a character named Sarah Silverman, and her sister is played by, who else, her real-life sister Laura. But that's where reality ends. Sort of.</p>
+        <p>KATHRYN SHATTUCK  Tonight's TV Listings</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

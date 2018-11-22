@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Spacewalkers Start Work On Station's Cooling System</title>
+    <meta content="01station" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/science/space/01station.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823068"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">International Space Station</classifier>
+        <classifier class="indexing_service" type="descriptor">Space Stations</classifier>
+        <person class="indexing_service">Leary, Warren E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E0DA153FF932A35751C0A9619C8B63" item-length="421" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Spacewalkers Start Work On Station's Cooling System</hl1>
+        <hl2 class="online_headline">Spacewalkers Start Switch of Station’s Cooling System</hl2>
+      </hedline>
+      <byline class="print_byline">By WARREN E. LEARY</byline>
+      <byline class="normalized_byline">Leary, Warren E</byline>
+      <dateline>WASHINGTON, Jan. 31</dateline>
+      <abstract>
+        <p>Two astronauts switch International Space Station's coolant lines into permanent cooling system; spacewalk is first of three scheduled over nine days (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Working gingerly in a cramped area outside the International Space Station, two spacewalking astronauts successfully switched half the outpost's coolant lines on Wednesday into a permanent cooling system.</p>
+        <p>The spacewalk was the first of three scheduled over nine days, an unusually short time for ventures outside the station by its crew. The trip outside the station officially ended at 6:09 p.m. Eastern time, lasting 7 hours 55 minutes. The astronauts exceeded a planned time of six and one-half hours as they labored to switch electrical and fluid lines from interim to permanent locations on the station's girderlike supporting truss.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The spacewalk was the first of three scheduled over nine days, an unusually short time for ventures outside the station by its crew.</p>
+      </block>
+      <block class="full_text">
+        <p>Working gingerly in a cramped area outside the International Space Station, two spacewalking astronauts successfully switched half the outpost's coolant lines on Wednesday into a permanent cooling system.</p>
+        <p>The spacewalk was the first of three scheduled over nine days, an unusually short time for ventures outside the station by its crew. The trip outside the station officially ended at 6:09 p.m. Eastern time, lasting 7 hours 55 minutes. The astronauts exceeded a planned time of six and one-half hours as they labored to switch electrical and fluid lines from interim to permanent locations on the station's girderlike supporting truss.</p>
+        <p>The spacewalkers, Capt. Michael E. Lopez-Alegria and Cmdr. Sunita L. Williams, both of the Navy, took extra time moving four fluid lines carrying toxic ammonia coolant to avoid being contaminated with the material, as occurred in a 2001 spacewalk. On that mission, the astronaut Robert L. Curbeam Jr. had to brush flakes of frozen ammonia from his suit and spend extra time outside so sunlight could evaporate the rest.</p>
+        <p>Removing thermal covers over the connections, the astronauts carefully relocated the fluid lines and tested the new attachments for a sure fit before replacing the insulating covers.</p>
+        <p>Commander Williams, a flight engineer, said she saw no evidence of an ammonia leak, but Captain Lopez-Alegria, the station commander, said he noticed a large flake floating away at one point that might have been ammonia or a paint chip. Mission planners do not want astronauts to take ammonia back into the station, where it would evaporate and contaminate the air.</p>
+        <p>The two astronauts are to perform a nearly identical spacewalk on Sunday to complete the cooling system switch, and on Feb. 8 they will remove some thermal blankets from part of the truss and set up two external platforms for stowing cargo.</p>
+        <p>A fourth, but unrelated, spacewalk is scheduled for Feb. 22, when Captain Lopez-Alegria and Mikhail Tyurin, a flight engineer, will venture outside to free a stuck antenna on a Progress cargo craft docked to the station.</p>
+        <p>It is common for astronauts to have closely timed spacewalks when a space shuttle is visiting the station and the shuttle crew does the outside work. During the last shuttle mission, in December, for example, the Discovery's crew performed four ventures outside to rewire the station and retract a solar panel.</p>
+        <p>But spacewalks for a three-member station crew are rare because of astronauts' additional duties of maintaining the outpost during long stays and having fewer people available to help with the outside work.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

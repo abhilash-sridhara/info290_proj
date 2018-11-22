@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Home Furnishings At Reduced Prices</title>
+    <meta content="01whoo" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822909"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CURRENTS: WHO KNEW?"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Home Furnishings</classifier>
+        <org class="indexing_service">Mxyplyzyk (Store)</org>
+        <person class="indexing_service">Rohrlich, Marianne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Furnishings</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E4DD153FF932A35751C0A9619C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Home Furnishings At Reduced Prices</hl1>
+      </hedline>
+      <byline class="print_byline">By MARIANNE ROHRLICH</byline>
+      <byline class="normalized_byline">Rohrlich, Marianne</byline>
+      <abstract>
+        <p>Mxyplyzyk has sale on home furnishings; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mxyplyzyk, the design store that proved that it is not important to have a name that everyone can spell, will hold a storewide sale later this month. Sale items include Chilewich vinyl placemats, $10 (they were $12.50), walnut-veneer vases, above, $24 to $48 (were $30 to $60), a clear acrylic stool with built-in magazine rack designed by Karim Rashid, $212 (was $265), and wooden LED clocks, $148 (were $185). Bath items, desk accessories and children's toys will also be discounted. The sale will run from Feb. 15 through Feb. 28 at 125 Greenwich Avenue (13th Street), (800) 243-9810, or mxyplyzyk.com.</p>
+        <p>MARIANNE ROHRLICH</p>
+      </block>
+      <block class="full_text">
+        <p>Mxyplyzyk, the design store that proved that it is not important to have a name that everyone can spell, will hold a storewide sale later this month. Sale items include Chilewich vinyl placemats, $10 (they were $12.50), walnut-veneer vases, above, $24 to $48 (were $30 to $60), a clear acrylic stool with built-in magazine rack designed by Karim Rashid, $212 (was $265), and wooden LED clocks, $148 (were $185). Bath items, desk accessories and children's toys will also be discounted. The sale will run from Feb. 15 through Feb. 28 at 125 Greenwich Avenue (13th Street), (800) 243-9810, or mxyplyzyk.com.</p>
+        <p>MARIANNE ROHRLICH  CURRENTS: WHO KNEW?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

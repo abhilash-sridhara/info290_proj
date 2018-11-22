@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Film Festival With Weighty Themes to Go With the Star Power</title>
+    <meta content="10BERL" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/02/10/movies/10BERL.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1557702"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Berlin International Film Festival</classifier>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <person class="indexing_service">Kosslick, Dieteri</person>
+        <person class="indexing_service">Boorman, John</person>
+        <person class="indexing_service">Bresan, Vinko</person>
+        <person class="indexing_service">Moland, Hans Petter</person>
+        <person class="indexing_service">Riding, Alan</person>
+        <object.title class="indexing_service">Country of My Skull (Movie)</object.title>
+        <object.title class="indexing_service">Svjedoci (Movie)</object.title>
+        <object.title class="indexing_service">Beautiful Country (Movie)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Film Festivals/Berlin International Film Festival</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Film Festivals</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany/Berlin</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <location class="online_producer">Berlin (Germany)</location>
+        <person class="online_producer">Boorman, John</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EEDB173AF933A25751C0A9629C8B63" item-length="1164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Film Festival With Weighty Themes to Go With the Star Power</hl1>
+        <hl2 class="online_headline">A Film Festival With Weighty Themes</hl2>
+      </hedline>
+      <byline class="print_byline">By ALAN RIDING</byline>
+      <byline class="normalized_byline">Riding, Alan</byline>
+      <dateline>BERLIN, Feb. 9</dateline>
+      <abstract>
+        <p>Article on 54th annual Berlin International Film Festival; director Dieter Kosslick says one of this year's themes is South Africa, to note 10th anniverary of end of apartheid; films include John Boorman's Country of My Skull, Vinko Bresan's Svjedoci and Hans Petter Moland's Beautiful Country; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Political movies may rank alongside biopics as worthy endeavors that rarely succeed at the box office, but at least they have a safe haven at the Berlin International Film Festival. Born of the politics of the cold war, the Berlinale, as it is known, continues to address serious political and social issues.</p>
+        <p>''As long as I am director, the Berlinale will always be in some way political because I am working in the tradition of the festival,'' Dieter Kosslick said on Thursday just before the 54th edition, which will end on Sunday. Of course it also needs star power, provided this year by American movies like ''Cold Mountain'' and ''Something's Gotta Give,'' which used Berlin to start their European releases. But there are enough political movies in competition to secure the festival's identity.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Political movies may rank alongside biopics as worthy endeavors that rarely succeed at the box office, but at least they have a safe haven at the Berlin International Film Festival.</p>
+      </block>
+      <block class="full_text">
+        <p>Political movies may rank alongside biopics as worthy endeavors that rarely succeed at the box office, but at least they have a safe haven at the Berlin International Film Festival. Born of the politics of the cold war, the Berlinale, as it is known, continues to address serious political and social issues.</p>
+        <p>''As long as I am director, the Berlinale will always be in some way political because I am working in the tradition of the festival,'' Dieter Kosslick said on Thursday just before the 54th edition, which will end on Sunday. Of course it also needs star power, provided this year by American movies like ''Cold Mountain'' and ''Something's Gotta Give,'' which used Berlin to start their European releases. But there are enough political movies in competition to secure the festival's identity.</p>
+        <p>One of this year's themes, Mr. Kosslick said, was South Africa, to note the 10th anniversary of the end of apartheid. And he was helped by John Boorman's ''Country of My Skull,'' which combined a weighty subject with Juliette Binoche and Samuel L. Jackson in leading roles. Sony Pictures Classics acquired North American rights to the film even before it was shown.</p>
+        <p>The film, based on a nonfiction book of that name by Antjie Krog, follows South Africa's Truth and Reconciliation Commission as it tries to heal the wounds of apartheid by inviting perpetrators of racial violence to confess their crimes in front of their victims. The screen version then injects a love story between a white South African radio reporter, Anna Malan (Ms. Binoche), and a black Washington Post reporter, Langston Whitfield (Mr. Jackson).</p>
+        <p>The film centers on Anna as an Afrikaaner who faces the horrors done in the name of her race, Mr. Boorman (''Deliverance'' and ''Hope and Glory'') told reporters. ''Her relationship with Langston mirrors the larger situation in the commission and the country -- people finding ways of coming together and finding love,'' he said.</p>
+        <p>The strongest scenes show the commission as it travels around South African villages to hear witnesses and confessions. But halfway through the movie the love story begins to swamp the political story in sentimentality, and in the end the movie disappointed most film critics here.</p>
+        <p>If one purpose of political movies is to raise moral issues, ''Svjedoci'' (''Witnesses'') by the Croatian director Vinko Bresan proved more convincing. Based on Jurica Pavicic's novel ''Alabaster Sheep,'' it is set in the early 1990's during Croatia's war with Serbia and opens with three Croatian soldiers on leave from the front who decide to blow up the home of a Serb still living in Croatia. Through incompetence, they end up shooting the man and kidnapping his small daughter.</p>
+        <p>What follows is more unexpected. Even as dead and wounded Croats are being brought back from the war front, a few people in the town, notably a police detective and a journalist, decide that the cold-blooded murder of a Serb civilian, even one said to be getting rich as a smuggler, is not acceptable. To scrutinize this question from all sides, Mr. Bresan breaks the linear narrative by returning to key moments and seeing them from the point of view of different characters.</p>
+        <p>While the moral dilemmas raised are universal, Mr. Bresan also sought to draw attention to crimes committed by Croatians. ''In our society, our war crimes are not yet fully discussed or even defined,'' he said. ''It is necessary to talk of a system of evil created within our own society. And it is something difficult to fight, even with laws. If the film's ending is optimistic, it is not our reality, but what we would like to wish for.''</p>
+        <p>Less directly political but no less effective is Hans Petter Moland's ''Beautiful Country,'' based on an idea by Terrence Malick, who is also one of its producers. The movie follows Binh (Damien Nguyen), a young Vietnamese fathered by a G.I. during the Vietnam War, as he leaves his village for Ho Chi Minh City and eventually heads for the United States to find his father.</p>
+        <p>Accompanied by his small half-brother, Binh arrives in a small boat in Malaysia where, in a refugee camp, he meets Ling (Ling Bai), a beautiful Chinese woman who also dreams of reaching America. They soon find themselves with scores of other migrants in the hold of a dilapidated ship run by a smuggler captain (Tim Roth). Binh's little brother dies on board, but Binh and Ling make it to New York, where Binh continues to search for his father (Nick Nolte).</p>
+        <p>What makes the movie so gripping is not only the fine acting by Mr. Nguyen and Ms. Bai but also the ordinariness of the experience of the migrants: on any day there may be thousands of similar refugees from Asia and Africa crossing the seas in such perilous rust buckets.</p>
+        <p>''We did not want to glorify anything,'' said Mr. Molland, a Norwegian director (''Aberdeen''). ''The film is an odyssey and we tried to be true to the spirit of the voyage, which is not heroic.''</p>
+        <p>The migration issue, so topical in Europe today, is also examined in two films to be shown later this week. Ken Loach's ''Ae Fond Kiss'' echoes the ''Romeo and Juliet'' theme as Casim, the son of Pakistani immigrants to Scotland, falls in love with a young Catholic woman. And ''Gegen die Wand'' (''Head-On''), by the Turkish-German director Faith Akin, dwells on Sibel, the daughter of Turkish immigrants to Germany, who is trying to escape her strict Muslim home.</p>
+        <p>Perhaps the surprise of the festival so far is ''El Abrazo Partido'' (''Lost Embrace'') by the young Argentine director Daniel Burman. Made for under $1 million, it follows Ariel (Daniel Hendler), the grandson of Jews from Poland, as he tries to obtain a Polish passport to escape the narrow world of Jewish shopkeepers in the Barrio del Once in Buenos Aires. What holds him is the mystery of why his father left one day for Israel and never returned.</p>
+        <p>In its portrayal of the daily lives and loves of the struggling shopkeepers in a run-down mall, the movie provided the first humor of the festival's competition program, a humor that is both Jewish and Argentine.</p>
+        <p>The movie also explores the absent father-son relationship that consumes Ariel. ''I think it is interesting to show that father-son relationships are fictitious,'' the director said. ''They have to be built, compared to the mother-son relationship, which is a given. So the film is also about how someone goes about constructing the image of his father.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

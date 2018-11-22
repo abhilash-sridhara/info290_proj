@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kidnapping Investigation Expanded</title>
+    <meta content="01abduct" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/us/01abduct.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822983"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Kidnapping</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <location class="indexing_service">Kirkwood (Mo)</location>
+        <location class="indexing_service">Livingston County (Ill)</location>
+        <person class="indexing_service">Gay, Malcolm</person>
+        <person class="indexing_service">Ownby, William</person>
+        <person class="indexing_service">Hornbeck, Shawn</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Illinois</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Missouri</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Missouri</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Missouri/St. Louis</classifier>
+        <classifier class="online_producer" type="descriptor">Kidnapping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Kidnapping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <location class="online_producer">St Louis (Mo)</location>
+        <location class="online_producer">Illinois</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907EEDC153FF932A35751C0A9619C8B63" item-length="308" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kidnapping Investigation Expanded</hl1>
+        <hl2 class="online_headline">Kidnapping Investigation Expanded</hl2>
+      </hedline>
+      <byline class="print_byline">By MALCOLM GAY</byline>
+      <byline class="normalized_byline">Gay, Malcolm</byline>
+      <dateline>ST. LOUIS, Jan. 31</dateline>
+      <abstract>
+        <p>Authorities expand investigation of Michael Devlin, who is accused of kidnapping Shawn Hornbeck and William Ownby, to include search of one of his previous apartments in Kirkwood, Mo; Livingston County, Ill, sheriff is investigating whether he could be implicated in 2003 unsolved murder of another child (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The authorities said Wednesday that they had expanded the investigation of a man accused of kidnapping two boys, to include a search of one of his previous apartments, as well as looking into whether he may have had a connection to an unsolved Illinois killing in 2003.</p>
+        <p>The man, Michael Devlin, 41, of Kirkwood, Mo., a St. Louis suburb, is charged in the abductions of Shawn Hornbeck, 15, and William Ownby, 13, who were found Jan. 12 in a search of Mr. Devlin's apartment.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Authorities were investigating whether a man accused of kidnapping two boys in St. Louis was could be linked to the 2003 killing in Illinois.</p>
+      </block>
+      <block class="full_text">
+        <p>The authorities said Wednesday that they had expanded the investigation of a man accused of kidnapping two boys, to include a search of one of his previous apartments, as well as looking into whether he may have had a connection to an unsolved Illinois killing in 2003.</p>
+        <p>The man, Michael Devlin, 41, of Kirkwood, Mo., a St. Louis suburb, is charged in the abductions of Shawn Hornbeck, 15, and William Ownby, 13, who were found Jan. 12 in a search of Mr. Devlin's apartment.</p>
+        <p>Across the Mississippi River in Illinois, the Livingston County sheriff, Robert McCarty, said his deputies were investigating whether Mr. Devlin could be linked to the 2003 killing of 7-year-old Dalton Mesarchik.</p>
+        <p>''I don't know if we're at the point where we'd consider him a person of interest,'' the sheriff said of Mr. Devlin. ''We're not even saying there is a connection, but we do have an interest in making sure there's nothing that would place him in Livingston County around the time of Dalton's death.''</p>
+        <p>In Kirkwood, a police officer who said he was not authorized to speak publicly said the search of Mr. Devlin's former apartment was part of a ''routine investigation.''</p>
+        <p>The Washington County prosecutor, John Rupp, said Mr. Devlin had waived his right to a formal arraignment, opting that a not-guilty plea be entered on his behalf.</p>
+        <p>A former pizzeria manager, Mr. Devlin has been charged with kidnapping and armed criminal action in the 2002 abduction of the Hornbeck boy.</p>
+        <p>The authorities said Mr. Devlin had brandished a gun when he abducted Shawn, then 11, near the boy's home in Richwoods, Mo.</p>
+        <p>In neighboring Franklin County, Mr. Devlin has pleaded not guilty to one count of kidnapping in the Ownby abduction. The boy, known as Ben, disappeared Jan. 8 from an area near his home in Beaufort, Mo.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

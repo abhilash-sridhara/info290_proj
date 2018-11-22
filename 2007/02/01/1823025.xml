@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>After Police Search, Hells Angels Brace for Fight</title>
+    <meta content="01angels" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/nyregion/01angels.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823025"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Assaults</classifier>
+        <classifier class="indexing_service" type="descriptor">Motorcycles, Motor Bikes and Motorscooters</classifier>
+        <classifier class="indexing_service" type="descriptor">Police Brutality and Misconduct</classifier>
+        <classifier class="indexing_service" type="descriptor">Search and Seizure</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Hells Angels (Motorcycle Club)</org>
+        <person class="indexing_service">Lueck, Thomas J</person>
+        <person class="indexing_service">Kuby, Ronald L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Motorcycles, Motor Bikes and Motorscooters</classifier>
+        <classifier class="online_producer" type="descriptor">Police</classifier>
+        <classifier class="online_producer" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Assaults</classifier>
+        <classifier class="online_producer" type="general_descriptor">Search and Seizure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police Brutality and Misconduct</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motorcycles, Motor Bikes and Motorscooters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <org class="online_producer">Hells Angels</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E6DA153FF932A35751C0A9619C8B63" item-length="1039" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>After Police Search, Hells Angels Brace for Fight</hl1>
+        <hl2 class="online_headline">After Police Search, Hells Angels Brace for Fight</hl2>
+      </hedline>
+      <byline class="print_byline">By THOMAS J. LUECK; Kate Hammer contributed reporting.</byline>
+      <byline class="normalized_byline">Lueck, Thomas J</byline>
+      <abstract>
+        <p>Hells Angels refuse to cooperate with police search of their building in East Village after woman is found beaten and in coma in doorway; dozens of heavily armed police officers spend hours outside fortresslike tenement, while police helicopter circled overhead and sharpshooters looked on from rooftops, until search warrant is issued; club members and lawyer Ronald L Kuby condemn police tactics; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>By the time a search warrant was issued late Monday, dozens of heavily armed police officers had spent hours in the biting cold outside a fortresslike East Village tenement that has served for decades as the New York headquarters of the Hells Angels. As sharpshooters looked on from rooftops and a police helicopter circled overhead, the standoff lasted all afternoon.</p>
+        <p>Officers were first dispatched to the building Monday morning, after the brutal beating of a woman who was found at its front door on Sunday night. They were especially cautious before entering because past confrontations with the motorcycle club have proved both embarrassing and expensive for the city.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A dispute with the police has again highlighted an unlikely relationship between the secretive Hells Angels and their East Village neighbors.</p>
+      </block>
+      <block class="full_text">
+        <p>By the time a search warrant was issued late Monday, dozens of heavily armed police officers had spent hours in the biting cold outside a fortresslike East Village tenement that has served for decades as the New York headquarters of the Hells Angels. As sharpshooters looked on from rooftops and a police helicopter circled overhead, the standoff lasted all afternoon.</p>
+        <p>Officers were first dispatched to the building Monday morning, after the brutal beating of a woman who was found at its front door on Sunday night. They were especially cautious before entering because past confrontations with the motorcycle club have proved both embarrassing and expensive for the city.</p>
+        <p>Since 1999, the city has paid more than $800,000 to settle two lawsuits by the Hells Angels claiming that the police illegally raided their headquarters. And after Monday's police action, the Hells Angels promised to be back in court after complaining about excessive force and what they said was the illegal detention of one of their members by the police.</p>
+        <p>Perhaps the biggest victory for the local Hells Angels came in the early 1990s, when they fended off a long effort by the city to seize their building because the police said it was being used for drug deals. In 1994, a Federal District Court jury in Manhattan found that the city had failed to make its case, and the Angels have remained in place at 77 East Third Street, their Harleys parked in rows outside.</p>
+        <p>''These men are remarkably sophisticated consumers of legal talent,'' said Ronald L. Kuby, one of several lawyers who have represented the club over the years. Whatever the outcome of the group's latest dispute with the police, the search has again highlighted an unlikely and sometimes volatile relationship between the secretive, mostly middle-aged Angels and their East Village neighbors.</p>
+        <p>The club owns the building and has occupied it since 1969.</p>
+        <p>''They feel like they own the block, and everybody else is just sort of here,'' said one resident of the block, between First and Second Avenues, who spoke on the condition of anonymity for fear of a violent reprisal. ''They can be nice, but just don't cross them.''</p>
+        <p>The police said the assault on Sunday left the woman, who is 52, in a coma. After an argument in a nearby bar, witnesses said, the woman attempted to push her way into the clubhouse, and shouted insults from the sidewalk before she was beaten.</p>
+        <p>When the first officers arrived on Monday morning to investigate, the Angels refused to let them inside, the police said.</p>
+        <p>''Based on the seriousness of the victim's injury, the history of the location and the refusal of those present to cooperate with the police, local commanders used appropriate resources to complete the initial investigation and entry,'' said Chief Michael Collins, a police spokesman. Over the course of the day, a police canine unit, hostage negotiators and an armored police vehicle arrived at the scene, and a full block of Third Street was closed off.</p>
+        <p>The next day, in a rare public appearance outside the clubhouse, several club members and Mr. Kuby held a news conference to condemn the police tactics and deny any involvement in the beating.</p>
+        <p>''We don't bully people'' or beat up women, said one member, Bartlet Dowling. ''You treat us with respect, and you get respect back.''</p>
+        <p>The officers who conducted the search on Monday took one club member, Richard West, into custody, but he was released hours later without being charged. There have been no other arrests in the case. Mr. Kuby said Mr. West planned to file suit in federal court charging the police with false arrest.</p>
+        <p>He said the club might also sue over the search itself if it finds that the warrant issued Monday was obtained by the police using misleading information. Mr. Kuby said yesterday that he had requested but had not yet received documents that had been submitted in application for the warrant.</p>
+        <p>The clubhouse is owned by the Hells Angels through the Church of Angels, a nonprofit religious organization formed by the club under state law. From the outside, the building is an anomaly on a block where several others have been transformed from decaying rentals to stylish condominiums, and where recent developments include a sleek New York Law School residence next door. The building's interior is a mystery since almost no one besides club members are admitted.</p>
+        <p>The clubhouse is easily distinguished by two signs that read ''Hells Angels New York City,'' security cameras aimed at the sidewalk, and something that resembles an official city parking sign that reads, ''No Parking Except Authorized Hells Angels.''</p>
+        <p>Some neighbors point out that there is one advantage to having a Hells Angels clubhouse nearby: Their reputation helps keep crime to a minimum. Instead of intimidating residents, they say, the Angels normally keep to themselves.</p>
+        <p>But one resident recalled making the mistake recently of parking a small motorcycle in a space that the club members had designated as their own. To make matters worse, the resident argued when a club member explained the rules.</p>
+        <p>A few days later, two Angels ''approached me on the street,'' said the person, who spoke on the condition of anonymity. ''They weren't really threatening, but I think that's because I said I was sorry, which they thought was cool.''</p>
+        <p>The club's relations with the police have been rocky.</p>
+        <p>The biggest police action was a 1985 raid on the Manhattan clubhouse, resulting in 15 arrests on drug trafficking and racketeering charges. That provided evidence used by the city in its unsuccessful attempt to seize the building under a federal law that enables the government to take possession of real estate, cars or other property used for drug dealing.</p>
+        <p>The more recent lawsuits by the Angels against the city both charged that the police had searched the clubhouse illegally, once in 1999 with a warrant that authorized officers to search only the first floor, and again in 2000 with no warrant.</p>
+        <p>The damages paid by the city, which were provided by Mr. Kuby and confirmed by the office of the corporation counsel, included $565,000 for the 1999 search and $247,000 for the one in 2000.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

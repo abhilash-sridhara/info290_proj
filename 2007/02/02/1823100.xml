@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GALIN, JAY</title>
+    <meta content="dn020207" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1823100"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">GALIN, JAY</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070202T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E3DE163AF931A35751C0A9619C8B63" item-length="323" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GALIN, JAY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GALIN--Jay. The Gift of Life Bone Marrow Foundation is deeply saddened by the loss of Jay Galin. Jay was responsible for recruiting many lifesaving donors to Gift of Life's Registry during the search for his own donor, and supported the Foundation through his philanthropic efforts. His enthusiastic guidance inspired us in our mission to save lives. We offer our deepest condolences to his wife, Emily, and his beloved family. Jay Feinberg, Exec. Director, The Board of Trustees, Staff and Volunteers</p>
+        <p>GALIN--Jay, died January 31st, 2007 after a long and courageous battle with his illness. He lived with honor and died with dignity. Loving husband of Emily, devoted father of Scott and Joyce, Jeffrey, Marcie, stepfather of Sheri, Beth and Billy, Jeffrey and Liza. Cherished grandfather of Zachary, Alex, and Kyle. Services Friday 11:45 am at ''The Riverside'' 76th Street and Amsterdam Avenue. Contributions may be made to the Bone Marrow Transplant Fund, care of Dr. Michael Schuster, New York Hospital.</p>
+        <p>GALIN--Jay. Our heartfelt condolences to Emily, Marcie, Scott, Joyce, Jeffrey and the entire family. Jay was truly a prince among men. His warmth, elegance, wisdom and generosity enriched the lives of everyone who was fortunate to have known him. We loved him dearly and will miss him always. Peggy, Steve and Erin</p>
+        <p>GALIN--Jay. Dearest Jay, when you came into our mother's life, you also brought us so much joy. You were a man respected by all who knew you. We cherished the moments we spent together both individually and as a family. We trusted your opinion knowing you had our best interests at heart. You will be greatly missed and never forgotten. We love you always, Sheri,Beth,Billy,Liza,Jeffrey</p>
+        <p>GALIN--Jay. Temple Shaaray Tefila records with profound sorrow the death of our cherished member. Heartfelt condolences are extended to his wife, Emily, their children, grandchildren and family. May his memory be for blessing. Rabbi Jonathan A. Stein Lois S. Nyren, President</p>
+      </block>
+      <block class="full_text">
+        <p>GALIN--Jay. The Gift of Life Bone Marrow Foundation is deeply saddened by the loss of Jay Galin. Jay was responsible for recruiting many lifesaving donors to Gift of Life's Registry during the search for his own donor, and supported the Foundation through his philanthropic efforts. His enthusiastic guidance inspired us in our mission to save lives. We offer our deepest condolences to his wife, Emily, and his beloved family. Jay Feinberg, Exec. Director, The Board of Trustees, Staff and Volunteers</p>
+        <p>GALIN--Jay, died January 31st, 2007 after a long and courageous battle with his illness. He lived with honor and died with dignity. Loving husband of Emily, devoted father of Scott and Joyce, Jeffrey, Marcie, stepfather of Sheri, Beth and Billy, Jeffrey and Liza. Cherished grandfather of Zachary, Alex, and Kyle. Services Friday 11:45 am at ''The Riverside'' 76th Street and Amsterdam Avenue. Contributions may be made to the Bone Marrow Transplant Fund, care of Dr. Michael Schuster, New York Hospital.</p>
+        <p>GALIN--Jay. Our heartfelt condolences to Emily, Marcie, Scott, Joyce, Jeffrey and the entire family. Jay was truly a prince among men. His warmth, elegance, wisdom and generosity enriched the lives of everyone who was fortunate to have known him. We loved him dearly and will miss him always. Peggy, Steve and Erin</p>
+        <p>GALIN--Jay. Dearest Jay, when you came into our mother's life, you also brought us so much joy. You were a man respected by all who knew you. We cherished the moments we spent together both individually and as a family. We trusted your opinion knowing you had our best interests at heart. You will be greatly missed and never forgotten. We love you always, Sheri,Beth,Billy,Liza,Jeffrey</p>
+        <p>GALIN--Jay. Temple Shaaray Tefila records with profound sorrow the death of our cherished member. Heartfelt condolences are extended to his wife, Emily, their children, grandchildren and family. May his memory be for blessing. Rabbi Jonathan A. Stein Lois S. Nyren, President</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

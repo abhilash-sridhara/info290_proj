@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Judge Throws Out a Conviction in Enron Case</title>
+    <meta content="01enron" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/business/01enron.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822994"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Embezzlement</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Bankruptcies</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="indexing_service" type="descriptor">Accounting and Accountants</classifier>
+        <org class="indexing_service">Enron Corp</org>
+        <org class="indexing_service">Securities and Exchange Commission</org>
+        <person class="indexing_service">Gilmore, Vanessa D (Judge)</person>
+        <person class="indexing_service">Howard, Kevin</person>
+        <person class="indexing_service">Murphy, Kate</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Texas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Accounting</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Texas/Houston</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Texas</classifier>
+        <classifier class="online_producer" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="descriptor">Judges</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accounting and Accountants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Judges</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bankruptcies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Embezzlement</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">Houston (Tex)</location>
+        <org class="online_producer">Enron Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E5DB153FF932A35751C0A9619C8B63" item-length="482" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Judge Throws Out a Conviction in Enron Case</hl1>
+        <hl2 class="online_headline">Judge Throws Out a Conviction in Enron Case</hl2>
+      </hedline>
+      <byline class="print_byline">By KATE MURPHY</byline>
+      <byline class="normalized_byline">Murphy, Kate</byline>
+      <dateline>HOUSTON, Jan. 31</dateline>
+      <abstract>
+        <p>Federal District Judge Vanessa Gilmore throws out conviction of former Enron Broadband chief financial officer Kevin Howard; cites ruling by US Court of Appeals that exonerated employees who provide so-called honest services while keeping with corporate goals and do not rob their employers of any money; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A federal judge in Houston on Wednesday threw out the conviction of Kevin A. Howard, the former chief financial officer for Enron's Broadband unit, citing a ruling in a similar case in which the jury's verdict was vacated.</p>
+        <p>The decision was based on a ruling in August by the United States Court of Appeals for the Fifth Circuit, in New Orleans, that essentially exonerates employees who provide so-called honest services while keeping with corporate goals and do not rob their employers of any money.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A federal judge threw out the conviction of Kevin A. Howard, citing a ruling in a similar case in which the jury’s verdict was vacated.</p>
+      </block>
+      <block class="full_text">
+        <p>A federal judge in Houston on Wednesday threw out the conviction of Kevin A. Howard, the former chief financial officer for Enron's Broadband unit, citing a ruling in a similar case in which the jury's verdict was vacated.</p>
+        <p>The decision was based on a ruling in August by the United States Court of Appeals for the Fifth Circuit, in New Orleans, that essentially exonerates employees who provide so-called honest services while keeping with corporate goals and do not rob their employers of any money.</p>
+        <p>''We are very pleased,'' Mr. Howard's lawyer, Jack Zimmerman, said.</p>
+        <p>The first trial against Mr. Howard lasted three months in 2005 and ended in a hung jury. He was tried along with five other Broadband employees. His conviction on five charges of conspiracy and fraud occurred during a retrial last year.</p>
+        <p>His only co-defendant in the second trial was Michael W. Krautz, Enron Broadband's former accountant, who was acquitted of all charges because the jury contended he was only following orders.</p>
+        <p>In a 19-page decision filed on Wednesday, Judge Vanessa Gilmore of Federal District Court said her ruling matched the Fifth Circuit's in another Enron fraud case involving Merrill Lynch and Nigerian barges.</p>
+        <p>In that case, the appeals court overturned several convictions against four former Merrill Lynch executives found guilty of helping engineer Enron's sale of mobile power plants to the brokerage firm in 1999 to help Enron appear to have met earnings targets.</p>
+        <p>The court said the government did not prove that defendants had deprived the company of ''honest services.''</p>
+        <p>Federal prosecutors had conceded that four of the five convictions against Mr. Howard should be dropped because of the Fifth Circuit's opinion but held that the fifth, for falsifying records, should stand. The judge disagreed because the jury could have relied on the convictions on the other counts to determine his guilt on the final charge.</p>
+        <p>''Kevin's a very happy man,'' Mr. Zimmerman said. ''We've always told him to have faith in the legal system.''</p>
+        <p>The government can now either accept the ruling, appeal or retry Mr. Howard a third time using a different argument.</p>
+        <p>''I've learned a long time ago not to anticipate what the government will do,'' Mr. Zimmerman said.</p>
+        <p>A spokesmen for the Justice Department, Bryan Sierra said, ''We are reviewing our options,'' but declined to comment further.</p>
+        <p>Two former Enron Broadband executives, Kenneth Rice and Kevin Hannon, pleaded guilty in 2004 and testified in both of Mr. Howard's trials. They are awaiting sentencing.</p>
+        <p>Mr. Howard's co-defendants in the first trial -- Joseph Hirko, F. Scott Yeager and Rex Shelby -- are awaiting retrial.</p>
+        <p>Mr. Shelby's lawyer, Edwin Tomko, said that while he was pleased with today's decision, ''It doesn't really help us because our cases have nothing in common.''</p>
+        <p>As in Mr. Yeager's and Mr. Hirko's cases, the charges against Mr. Shelby include securities fraud, which cannot be defined as ''honest services.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

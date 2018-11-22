@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dell Chief Is Replaced By Founder</title>
+    <meta content="01dell" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/technology/01dell.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823053"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Accounting and Accountants</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Dell Inc</org>
+        <org class="indexing_service">Securities and Exchange Commission</org>
+        <org class="indexing_service">Justice Department</org>
+        <person class="indexing_service">Dell, Michael S</person>
+        <person class="indexing_service">Rollins, Kevin B</person>
+        <person class="indexing_service">Darlin, Damon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Accounting</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accounting and Accountants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <org class="online_producer">Dell Inc</org>
+        <person class="online_producer">Rollins, Kevin B</person>
+        <person class="online_producer">Dell, Michael S</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E2DA153FF932A35751C0A9619C8B63" item-length="925" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dell Chief Is Replaced By Founder</hl1>
+        <hl2 class="online_headline">Dell Chief Is Replaced by Founder</hl2>
+      </hedline>
+      <byline class="print_byline">By DAMON DARLIN</byline>
+      <byline class="normalized_byline">Darlin, Damon</byline>
+      <abstract>
+        <p>Michael S Dell returns as Dell Inc's chief executive, succeeding Kevin B Rollins; Rollins is not entitled to severance or pension plan but will walk away with $30 million in stock options; changes come after year of slowed revenue growth and accounting problems that sparked Securities and Exchange Commission and Justice Department investigations (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Michael S. Dell has taken back the leadership of the computer company he founded, succeeding Kevin B. Rollins after more than a year of mounting problems at Dell.</p>
+        <p>The company announced yesterday that Mr. Rollins had resigned as chief executive and as a director. Mr. Dell, who is the chairman, immediately assumed Mr. Rollins's duties as well.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Michael S. Dell has taken back the leadership of the computer company he founded, replacing Kevin B. Rollins.</p>
+      </block>
+      <block class="full_text">
+        <p>Michael S. Dell has taken back the leadership of the computer company he founded, succeeding Kevin B. Rollins after more than a year of mounting problems at Dell.</p>
+        <p>The company announced yesterday that Mr. Rollins had resigned as chief executive and as a director. Mr. Dell, who is the chairman, immediately assumed Mr. Rollins's duties as well.</p>
+        <p>The company presented the change, which had been speculated about by Wall Street analysts and industry insiders for more than a year, as a decision by the board, which met this week. Sam Nunn, the former Georgia senator who is the presiding director of Dell's board, was quoted in a company release as saying: ''The board believes that Michael's vision and leadership are critical to building Dell's leadership in the technology industry for the long term.''</p>
+        <p>The company also said that it expected fourth-quarter revenue and earnings to fall below the consensus predictions on Wall Street. That was also not an unexpected announcement after industry analysts said several weeks ago that other PC makers had strong sales in the fourth quarter, while Dell's sales lagged.</p>
+        <p>Mr. Rollins is not entitled to severance or a pension plan. Still, he will walk away with stock options worth about $30 million that he earned during his tenure, according to earlier company filings. According to Equilar, which analyzes executive pay, Mr. Rollins earned $42 million in total direct compensation as the chief executive. A Dell spokeswoman said Mr. Rollins's departure agreement had not yet been completed.</p>
+        <p>Mr. Dell and Mr. Rollins had a close relationship, sharing an office at company headquarters in Round Rock, Tex., even after Mr. Dell turned over the chief executive job to Mr. Rollins in 2004. Mr. Rollins joined the company 10 years ago as Mr. Dell's top lieutenant and had served as a consultant to Mr. Dell for three years before that.</p>
+        <p>The question of how long Mr. Rollins would remain in the top job was asked frequently after Dell began disclosing problems, beginning in late 2005. They included slowing revenue growth and, last year, accounting problems that have spurred investigations by the Securities and Exchange Commission and the Justice Department.</p>
+        <p>Mr. Rollins's departure ''is an expression of dissatisfaction with the current status of the company and its rate of change,'' said A. M. Sacconaghi, an analyst with Sanford C. Bernstein &amp; Company. Wall Street seemed to applaud the news, pushing the company's shares up 3.88 percent, to $25.16, in after-hours trading.</p>
+        <p>Mr. Dell, who founded the company in 1984, had stood steadfastly by Mr. Rollins. During a company technology conference in New York City in September, he said, ''Kevin and I run the business together, so if you want to blame somebody you can blame me, too. But, more importantly, we believe we have a very strong team in our company. Kevin is obviously a key part of that, as am I.'' He added that speculation about changes at the top of the company was useless, ''but feel free to speculate, because everyone else does, but it's not going to happen.''</p>
+        <p>In a brief interview yesterday after the news was announced, Mr. Dell refused to comment on what had changed, and he declined to reflect on the long relationship he had had with Mr. Rollins.</p>
+        <p>Mr. Dell said he was excited about coming back to run the company. ''It feels like 1984 and I am starting over again,'' he said. ''Only this time I have a little more capital.''</p>
+        <p>Mr. Dell said that he intended to push the company to do more in the business of providing consulting services to its larger corporate customers. Services are a high-margin business, but the sector is currently dominated by I.B.M. and business consultants like Electronic Data Systems. Hewlett-Packard, Dell's biggest rival in the computer business, has recently revamped its services business because it sees it as an important way to sell more hardware and software. Dell recently hired Stephen F. Schuckenbrock, an E.D.S. executive, to head its services business.</p>
+        <p>According to IDC, a market analysis firm, Hewlett-Packard's worldwide share of the PC market increased to 18.1 percent in the fourth quarter, from 15.9 percent a year ago, while Dell's share slipped to 14.7 percent, from 17.5 percent.</p>
+        <p>''Consulting and outsourcing would be a departure for Dell,'' Mr. Sacconaghi said. But he added that it could make sense ''to grow the part of the company that has twice the profit margins of the rest of the business.''</p>
+        <p>Mr. Dell did not rule out the possibility that the company would be willing to re-examine its direct-sales business model, which he developed to build the company. ''It is an interesting question,'' he said. ''That's where you'll see new ideas and some experiments.''</p>
+        <p>The company recently opened two mall storefronts where Dell products are displayed. The stores do not carry inventory; products are ordered there or online for delivery later.</p>
+        <p>While the consumer market makes up only about 15 percent of Dell's overall global business, consumer sales, particularly notebook sales in the United States, have been the strongest segment of the PC industry, growing well over 50 percent in 2006. Dell has not been particularly strong in that segment, hurting its profits.</p>
+        <p>Samir Bhavnani, research director at the electronics industry analysis firm Current Analysis, blamed Mr. Rollins for missing the industry shift to more distinctive industrial design and for cutting back customer service. The company has made a concerted effort in the last year to fix both problems.</p>
+        <p>The company ''is well positioned to right the ship,'' Mr. Bhavnani said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

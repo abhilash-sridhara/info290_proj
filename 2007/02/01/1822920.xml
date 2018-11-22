@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GARDEN Q. &amp; A.</title>
+    <meta content="01qna" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/garden/01qna.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822920"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Gardens and Gardening</classifier>
+        <classifier class="indexing_service" type="descriptor">Centrantus Ruber (Plant)</classifier>
+        <classifier class="indexing_service" type="descriptor">Ivy</classifier>
+        <person class="indexing_service">Land, Leslie</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Gardens</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="descriptor">Gardens and Gardening</classifier>
+        <classifier class="online_producer" type="descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gardens and Gardening</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E3DD153FF932A35751C0A9619C8B63" item-length="378" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GARDEN Q. &amp; A.</hl1>
+        <hl2 class="online_headline">Garden Q.&amp;A.</hl2>
+      </hedline>
+      <byline class="print_byline">By Leslie Land</byline>
+      <byline class="normalized_byline">Land, Leslie</byline>
+      <abstract>
+        <p>Garden Q&amp;A on Centranthus ruber and ivy; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Perennial With Good P.R.</p>
+        <p>Q. Centranthus ruber sounds like my ideal perennial: tough, adaptable and long-blooming. But I have had trouble finding it at nurseries. Seems to me it should be as common as coreopsis. Am I missing something?</p>
+        <p>A. Gardeners are attracted to Centranthus ruber, a k a Jupiter's beard or red valerian, for just the merits you mention. Bees and butterflies flock to it too, drawn by the spurred red flowers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A perennial with good P.R.</p>
+      </block>
+      <block class="full_text">
+        <p>A Perennial With Good P.R.</p>
+        <p>Q. Centranthus ruber sounds like my ideal perennial: tough, adaptable and long-blooming. But I have had trouble finding it at nurseries. Seems to me it should be as common as coreopsis. Am I missing something?</p>
+        <p>A. Gardeners are attracted to Centranthus ruber, a k a Jupiter's beard or red valerian, for just the merits you mention. Bees and butterflies flock to it too, drawn by the spurred red flowers.</p>
+        <p>But the more enthusiastic descriptions do sometimes omit a few useful details.</p>
+        <p>Most important is this plant's preference for well-drained, slightly alkaline soil. Centranthus will grow briefly almost anywhere. But brief is the operative word in wet or acid conditions, particularly in Zone 5, the northern edge of its range.</p>
+        <p>Also, the color is odd. In species plants the red is a pinkish brick, not unattractive in itself but frequently failing to play well with others.</p>
+        <p>And then there is fragrance. Like the medicinal herb valerian (Valeriana officinalis), to which it is distantly related, C. ruber smells like vanilla to many, but some find cat urine a closer analogy.</p>
+        <p>For best results, choose the clearer red C. ruber Coccineus or the white C. ruber Albus. Plant away from sitting areas, in full sun, in fast-draining soil. Cut back often to promote bushy growth and rebloom and prevent invasive self-seeding.</p>
+        <p>Sources include High Country Gardens, highcountrygardens.com or (800) 925-9387; and Bluestone Perennials, bluestoneperennials.com or (800) 852-5243.</p>
+        <p>Red Doesn't Mean Dead</p>
+        <p>Q. The ivy under the trees in my terrace planters turns red each fall, forcing me to replant each spring. Yet I see green winter ivy all over town. What am I doing wrong?</p>
+        <p>A. If the ivy's only problem is that it turns red in fall, the only thing you are doing wrong is assuming that means it has died. Many varieties of English ivy (Hedera helix) turn red or purple in temperatures below 40 degrees. Ivy that enjoyed summer shade often turns red in winter sun, especially if the site is windy.</p>
+        <p>This spring, wait a while before replanting. As the weather warms and the trees start providing shade, the ivy will probably make new leaves, and those leaves will be green.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

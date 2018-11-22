@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What Could Bog Down the Bull; Slowing Earnings Threaten to Turn the Easy Going Into a Slog Through Mud</title>
+    <meta content="01markets" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/business/01markets.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823055"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Gross Domestic Product</classifier>
+        <org class="indexing_service">Commerce Department</org>
+        <person class="indexing_service">Bajaj, Vikas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gross Domestic Product</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leading Economic Indicators</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Federal Reserve System</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E2DA153FF932A35751C0A9619C8B63" item-length="1546" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What Could Bog Down the Bull; Slowing Earnings Threaten to Turn the Easy Going Into a Slog Through Mud</hl1>
+        <hl2 class="online_headline">What Could Bog Down the Bull</hl2>
+      </hedline>
+      <byline class="print_byline">By VIKAS BAJAJ</byline>
+      <byline class="normalized_byline">Bajaj, Vikas</byline>
+      <abstract>
+        <p>Analysts predict good year for stock market despite decline in last year's leading sectors; Commerce Department reports gross domestic product grew at 3.5 percent annual pace in fourth quarter, higher than 2 pecent pace in third quarter and 3 percent analysts expected; graph of rate expectations; graph of strong sectors for investors; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stocks surged yesterday afternoon, sending the Dow Jones industrial average to within a hair of a new high, after the Federal Reserve pointed to strength in the economy and a moderation in inflation.</p>
+        <p>Investors may want to enjoy it while they can.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Markets celebrated the Fed’s action but analysts warned that the road ahead promises to be a long, hard slog as corporate profits are starting to slow.</p>
+      </block>
+      <block class="full_text">
+        <p>Stocks surged yesterday afternoon, sending the Dow Jones industrial average to within a hair of a new high, after the Federal Reserve pointed to strength in the economy and a moderation in inflation.</p>
+        <p>Investors may want to enjoy it while they can.</p>
+        <p>The road ahead promises to be a long, hard slog as corporate profits are starting to slow.</p>
+        <p>And while Wall Street focused yesterday on the signs that the Fed will not raise rates anytime soon, there is also the glum realization that no rate cut -- a hope that had buoyed stocks as recently as December -- is likely to materialize this year. The Fed noted that ''some inflation risks remain,'' as it left short-term rates steady at 5.25 percent.</p>
+        <p>Earlier, the Commerce Department reported that the gross domestic product grew at a 3.5 percent annual pace in the fourth quarter, far faster than the 2 percent pace in the third quarter and the 3 percent most analysts had expected.</p>
+        <p>Yet even amid evidence that the economy remains healthy, corporate earnings, which have been growing at a double-digit pace for more than four years, are expected to slip into single digits in the coming months, if they did not already do so in the fourth quarter. As a result, investors are left with a quandary.</p>
+        <p>''Will there be an inflationary scare or will the economy get very weak?'' said Marc D. Stern, the chief investment officer at Bessemer Trust, a money management firm based in New York. ''At various times in the year, each side of that debate will look correct. That will lead to sharp rallies and corrections.''</p>
+        <p>Sectors like energy, utilities and financials that had led the stock market on its run-up since the summer have now turned into laggards, and few contenders have emerged to take their place.</p>
+        <p>This bull market may indeed be weary. The Standard &amp; Poor's 500-stock index has climbed at an average annual pace of 12.7 percent in the last four years -- a run that has had no 10 percent correction, something that usually occurs at least once during most long-running bull markets.</p>
+        <p>But there was clearly life in the bull yesterday: The Standard &amp; Poor's 500-stock index closed up 0.66 percent, or 9.42 points, to 1,438.24, and the Nasdaq composite index closed up 0.62 percent, or 15.29 points, to 2,463.93. The Dow rose 0.79 percent, or 98.38 points, to 12,621.69 -- a fraction of a point less than its record high set last week. And more bullish market watchers point to a long string of hopeful signs and developments, including the continuing wave of acquisitions and buyouts, Microsoft's introduction of its Vista operating system and consumers who are still spending despite a slump in the housing market. Personal consumption increased 4.4 percent in the fourth quarter, the Commerce Department reported yesterday.</p>
+        <p>Many forecasters on Wall Street say these factors, along with stronger growth in sectors like health care, give them confidence that the market will move higher, albeit at a slower and more volatile pace than last year's 13.6 percent advance.</p>
+        <p>''We are going to have an O.K. year,'' said Robert C. Doll, vice chairman at Black Rock. ''But its not going to be as easy as last year.''</p>
+        <p>The S.&amp; P. 500 is up 1.41 percent for the year, with about half of that coming in yesterday's rally. The Dow Jones industrial average is up 1.27 percent and the Nasdaq composite index is up 2.01 percent. The Russell 2000 index of smaller companies is up 1.61 percent.</p>
+        <p>Last year, virtually every sector of the market ended up, but the rally had a few strong and distinct leaders. Energy stocks led the way with a 22 percent advance, diversified financial institutions were close behind at 21 percent and utilities were up 17 percent. But as crude oil prices have fallen from a high of $77.03 a barrel and settled in a band from $50 to $60, profits at energy companies have slowed. Stocks in the sector are down about 1.9 percent so far in 2007; utilities are down 0.4 percent.</p>
+        <p>Many financial companies reported strong fourth-quarter earnings, but analysts expect them to come under increasing pressure from higher long-term rates and rising defaults. Stocks in the diversified financial sector ended January up 1.5 percent.</p>
+        <p>''The market is looking for new leadership,'' said Owen B. Fitzpatrick, a managing director at Deutsche Bank's private-wealth management division. ''Everyone is watching to see what will lead the market higher.''</p>
+        <p>So far this year, real estate stocks, which did well last year as well, have led the way, with an advance of 9.7 percent largely because of the bidding war over Equity Office Properties Trust, the nation's largest manager of office buildings. But analysts say that surge is unlikely to continue once a deal is set.</p>
+        <p>The stocks of auto and parts makers, mining and materials companies, consumer services and health care companies are also doing well, but many market specialists are skeptical about the sustainability of the lift in sectors like cars and materials. Specialists are more optimistic about consumer services and health care, but the sectors may not completely make up for the role played by last year's leaders.</p>
+        <p>''The leadership has been shifting by fits and starts,'' said John A. Carey, a portfolio manager and executive vice president at Pioneer Investments, a Boston-based mutual fund company.</p>
+        <p>Many forecasters including Mr. Carey say technology companies, which struggled for much of last year but had a good run in the second half, may finally be ready to lead the market again since the sector's bust in 2000. The optimism is pinned in large part to new products and services including Vista, which could prove to be a catalyst that pushes businesses and consumers to purchase computers and related gear.</p>
+        <p>''The product cycle is in the process of changing,'' said Jim T. Swanson, chief investment strategist with MFS Investments in Boston. ''There is a lot of new software and old equipment.''</p>
+        <p>But it remains to be seen how widely the spoils will be shared across the technology sector. Bellwethers like Dell and Intel are still facing significant competitive challenges, and analysts have been disappointed by their recent earnings reports and the companies' outlooks for the coming year.</p>
+        <p>Investors have also been forced to rethink their views on interest rates and the broader economy. As recently as the start of December, the futures markets predicted that the Federal Reserve would start lowering short-term rates by April. As of yesterday, investors were betting that the first rate cut would not come until November. The yield on the 10-year Treasury note, which moves in the opposite direction from its price, has risen from 4.39 percent in early December to 4.81 percent yesterday.</p>
+        <p>''The Fed is on hold in the near term as they watch the data,'' said Dean M. Maki, chief United States economist at Barclays Bank, who expects the Fed to raise rates to 6 percent this year, beginning in June.</p>
+        <p>Until late last year, many investors appeared to have convinced themselves that the housing market would have slowed the economy enough to spur the Fed into action by the spring. Their recent shift in thinking seems to have little do with any new statements from Fed officials, who have repeatedly and consistently said they remained more worried about inflation than they were by the prospect for weaker economic growth, a clear indication that policy makers were not ready to lower rates.</p>
+        <p>Rather, investors have come around to the Fed's view after reports on employment and manufacturing showed that the economy remained resilient in the face of the weakness in housing. Also, falling energy prices and a spell of unseasonably warmer weather early this year bolstered consumer spending and nonresidential construction.</p>
+        <p>''We could argue that perhaps the market got ahead of itself in projecting rate cuts for early 2007,'' said Douglas M. Peta, a senior vice president and market strategist with J.&amp; W. Seligman &amp; Company.</p>
+        <p>Another force that may have restrained American stocks in the last year is investor apathy toward the shares of large domestic corporations relative to the markets for bonds, commodities and foreign stocks, all of which have risen. Investors poured $13.2 billion into funds specializing in domestic equities last year, compared with $138.9 billion in nondomestic stock funds and $75 billion in taxable bond funds, according to AMG Data Services. A far larger sum, $312.7 billion, has been parked in money market funds. Specialists note that the flows are odd given that equities in the United States are cheap on a price-to-earnings basis relative to other assets like commodities and stocks in other developed countries. It appears that at least some of the flow of investments into other areas is driven by a desire on the part of investors to ride more buoyant markets and to take advantage of the weakness in the dollar, which fell 11.4 percent against the euro in 2006. So far this year, the dollar is up 1.45 percent.</p>
+        <p>In a way, however, specialists say investors' ambivalence toward equities is a good sign that the market has not overextended itself. ''It is a good sign to the contrarian,'' Mr. Peta said. ''The market has room to run. It has not gotten out of hand.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

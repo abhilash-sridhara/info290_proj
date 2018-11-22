@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>From the Tall Grass Emerges a Speeding Star</title>
+    <meta content="01hester" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/sports/football/01hester.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823017"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Super Bowl</classifier>
+        <org class="indexing_service">Chicago Bears</org>
+        <org class="indexing_service">Indianapolis Colts</org>
+        <person class="indexing_service">Jenkins, Lee</person>
+        <person class="indexing_service">Hester, Devin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Chicago Bears</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Indianapolis Colts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Super Bowl</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <org class="online_producer">Chicago Bears</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905EEDB153FF932A35751C0A9619C8B63" item-length="1108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>From the Tall Grass Emerges a Speeding Star</hl1>
+        <hl2 class="online_headline">Bears' Hester Emerges From the Tall Grass</hl2>
+      </hedline>
+      <byline class="print_byline">By LEE JENKINS</byline>
+      <byline class="normalized_byline">Jenkins, Lee</byline>
+      <dateline>RIVIERA BEACH, Fla., Jan. 29</dateline>
+      <abstract>
+        <p>Chicago Bears and player Devin Hester prepare to face Indianapolis Colts in Super Bowl; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The players who grow up by the sugar-cane farms like to say that they get their speed from racing jackrabbits along country roads.</p>
+        <p>The players who grow up on the coast like to say that they get their speed from running through sand pits on the hottest summer days.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Devin Hester, a rookie with the Chicago Bears, famous for returning punts, kickoffs, and anything else he can get his gloves on, is the kind of player who could change this year’s Super Bowl with one cutback.</p>
+      </block>
+      <block class="full_text">
+        <p>The players who grow up by the sugar-cane farms like to say that they get their speed from racing jackrabbits along country roads.</p>
+        <p>The players who grow up on the coast like to say that they get their speed from running through sand pits on the hottest summer days.</p>
+        <p>And the players who grow up in Riviera Beach, Fla., like to say that they get their speed from a football field with no grounds crew.</p>
+        <p>''The grass isn't mowed here in the winter, so it gets really high and thick,'' 15-year-old Tavis Hester said. ''It kills your legs, but it also builds them. My grandfather played on this field. My uncle played here. And, you know, my brother played here.''</p>
+        <p>His brother, Devin Hester, is a rookie with the Chicago Bears, famous for returning punts, kickoffs, missed field goals and anything else he can get his gloves on. He is the kind of player who could change this year's Super Bowl with one cutback.</p>
+        <p>As Hester and the Bears worked out Monday in Miami, Tavis and his buddies played an impromptu game of seven-on-seven flag football at Wells Recreation Complex, 70 miles north. They went skins versus skins. They did not keep score.</p>
+        <p>Wells Field, as it is known in Riviera Beach, is bordered on one end by a set of railroad tracks, on the other by a row of palm trees. It serves as a yearlong playground for anyone who wants to work on his wheels.</p>
+        <p>College recruiters have spent decades trying to figure out why South Florida produces so many of the nation's fastest football players. Tavis's theory -- the tall grass and the steady pickup games at Wells Field -- is as plausible as any.</p>
+        <p>''That's where I grew up playing,'' Devin Hester said. ''When I was 4 years old, I couldn't wait to get out of preschool and go there and play football.''</p>
+        <p>Hester has now made it to a field that is mowed, painted and manicured like no other. Standing on the sideline at Dolphin Stadium this week, he studied the blades of grass like a golfer reading a green. ''It can't get better,'' he said.</p>
+        <p>In the past year, Hester made the Pro Bowl, set a record for touchdown returns in a season (six), got his second nickname (Windy City Flyer to go with Anytime), and repaired his mother's house, which was damaged by a hurricane.</p>
+        <p>In the past week, Indianapolis Coach Tony Dungy called him ''a nuclear weapon,'' Deion Sanders called him ''my baby,'' and Desmond Howard flew to Chicago to teach him how to become the Super Bowl Most Valuable Player.</p>
+        <p>Ten years ago, while playing for the Green Bay Packers, Howard became the first return man to win the Super Bowl M.V.P award. His accomplishment will be toasted at a cocktail party in Miami on Friday, and possibly duplicated at the game Sunday.</p>
+        <p>''Devin can do it,'' Howard said. ''He has serious speed and wonderful instincts. He has the desire to get out there and make a difference every time he touches the ball.''</p>
+        <p>Hester is relishing all the attention, as he should, because great return men traditionally fade as quickly as they emerge. They tend to shoot across television screens a handful of times and then disappear.</p>
+        <p>Four years ago, Kansas City's Dante Hall was the one setting touchdown records and inspiring multiple nicknames (Human Joystick, X Factor). Since then, he has not even been ranked among the best.</p>
+        <p>Of course, it does not help career expectancy that return men are asked to run as fast as they can into 11 players who have been running as fast as they can for 50 yards. High-impact collisions are part of the job.</p>
+        <p>''It's hard to avoid injuries,'' Howard said. ''You've got guys coming from all the way down the field, and just as you catch the ball, they get a free shot. It's a pounding.''</p>
+        <p>Few understand the fleeting nature of the return business better than Sanders, for whom every punt and kickoff was a spectacle. Sanders danced on the field and waved his arms before he even received the ball.</p>
+        <p>Sitting at home one night in October 2004, watching a college football game, Sanders spotted a return man who shared his sense of theater. Hester played for the University of Miami. Sanders went to Florida State. But they had plenty of common ground.</p>
+        <p>''We are Floridians,'' Sanders said. ''We have a bond that precedes being a Hurricane or a Seminole or a Gator. We're hungrier, we're thirstier. We're competitors who think outside the box. We have a swagger you can't teach.''</p>
+        <p>Sanders may be an unlikely adviser, but Hester is one of many young players to accept his advice. When Hester returned two kickoffs for touchdowns this season against St. Louis and taunted an opposing player, Sanders admonished him via text message.</p>
+        <p>On the flip side, Sanders sent a glowing text message after Hester returned a missed field goal 108 yards against the Giants, demonstrating superior vision and guile. Hester duped the Giants by taking a couple of casual steps, then sped right by them.</p>
+        <p>''Devin is so fast that you don't have to hold your block very long,'' said Gabe Reid, a member of the Bears' kickoff return team. ''I feel like I always end up on the ground looking at the bottom of his shoe.''</p>
+        <p>For now, Hester is satisfied returning kicks and playing a little defensive back. But eventually, any elite return man must ask if there is something more valuable -- and less dangerous -- that he could be doing.</p>
+        <p>Coaches have spent years trying to figure out how to use Hester. As a junior in high school, he was a defensive back and a return man who scored five touchdowns. As a senior, he lined up at quarterback, running back and receiver, scoring 26 touchdowns.</p>
+        <p>Miami let him play some offense, but probably not enough. The Bears lined him up at receiver a few times, but they pulled him back so he could focus on returns.</p>
+        <p>''Back here, we gave him passes, pitchouts, handoffs and direct snaps,'' said Jimmie Bell, who coached Hester at Suncoast High. ''You have to use that speed.''</p>
+        <p>Sitting in a black sport utility vehicle, in the parking lot next to Wells Recreation Complex, Bell tried to explain how such speed is developed, and why it is so common in South Florida. He looked out at the tall grass and shook his head.</p>
+        <p>''You've got guys who talk about chasing rabbits,'' Bell said. ''You got guys who run every day in the sand. And here -- we've just got this field.''</p>
+        <p>PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

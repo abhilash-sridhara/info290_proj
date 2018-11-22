@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ms. Chicago, Party of 39? Your Table's Ready in Brooklyn</title>
+    <meta content="01party" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/arts/design/01party.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822913"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="descriptor">Art</classifier>
+        <classifier class="online_producer" type="descriptor">Women</classifier>
+        <classifier class="online_producer" type="descriptor">Feminist Movement</classifier>
+        <classifier class="online_producer" type="descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Feminist Movement</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <org class="online_producer">Brooklyn Museum</org>
+        <person class="online_producer">Chicago, Judy</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E4DD153FF932A35751C0A9619C8B63" item-length="1235" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ms. Chicago, Party of 39? Your Table's Ready in Brooklyn</hl1>
+        <hl2 class="online_headline">Ms. Chicago, Party of 39? Your Table’s Ready in Brooklyn</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBIN POGREBIN</byline>
+      <byline class="normalized_byline">Pogrebin, Robin</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Judy Chicago says that even at 67 her early struggles as a female artist remain fresh. So, yes, seeing ''The Dinner Party'' in its permanent home -- a luminous new gallery at the Brooklyn Museum, expressly designed for her provocative installation of plates -- qualifies as progress after 33 years. But Ms. Chicago is not triumphant.</p>
+        <p>''It's important to understand that this didn't just happen,'' she said, dressed in jeans and black sneakers on a trip to New York from her New Mexico home. ''It's also important to understand that resistance can be overcome. One of the reasons I was able to stand up to it was because I knew my history. I knew what the women on the table had been through.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Seeing Judy Chicago’s “The Dinner Party” in its permanent home at the Brooklyn Museum qualifies as progress after 33 years. But Ms. Chicago is not triumphant.</p>
+      </block>
+      <block class="full_text">
+        <p>Judy Chicago says that even at 67 her early struggles as a female artist remain fresh. So, yes, seeing ''The Dinner Party'' in its permanent home -- a luminous new gallery at the Brooklyn Museum, expressly designed for her provocative installation of plates -- qualifies as progress after 33 years. But Ms. Chicago is not triumphant.</p>
+        <p>''It's important to understand that this didn't just happen,'' she said, dressed in jeans and black sneakers on a trip to New York from her New Mexico home. ''It's also important to understand that resistance can be overcome. One of the reasons I was able to stand up to it was because I knew my history. I knew what the women on the table had been through.''</p>
+        <p>'' 'The Dinner Party's' work isn't done yet,'' she added.</p>
+        <p>The ''women on the table'' -- Ms. Chicago also calls them ''the girls'' -- are 39 place settings, each representing a historical female figure. They begin in ancient civilization (Ishtar of Mesopotamia, the Hindu goddess Kali) and proceed through Western history (Eleanor of Aquitaine, Elizabeth I) to Sojourner Truth, Virginia Woolf and Georgia O'Keeffe. The plates are anchored by elaborate runners decorated with symbolic details, like hand-tanned animal skins for Sacajawea, who traveled with the Lewis and Clark expedition, a papoose on her back.</p>
+        <p>The plates feature deeply colored motifs based on vulvar and butterfly forms. ''We look at phallic forms all the time and never bat an eye,'' said Ms. Chicago, who has cascading red curls and red-tinted glasses. ''It's part of our visual language. There is no reason female forms can't also be extended into public space.''</p>
+        <p>The triangular table on which the plates sit forms the heart of the museum's new Elizabeth A. Sackler Center for Feminist Art, set to open on March 23. A gallery in the 8,300-square-foot center will be inaugurated that day with ''Global Feminisms,'' an exhibition of international feminist art since 1990. Another gallery will have a series highlighting various ''Dinner Party'' women, beginning with a show devoted to Egyptian pharaohs, queens and goddesses.</p>
+        <p>''The point was to use the wealth of 'The Dinner Party' for education, to take it as a starting point, to have it be available to the public,'' said Ms. Sackler, a philanthropist and member of the museum's board who began collecting Ms. Chicago's work after meeting her in 1988. ''What became an inspiration to me was imagining the magnificence of 'The Dinner Party' in a space as magnificent as 'The Dinner Party.' ''</p>
+        <p>It was Susan T. Rodriguez, an architect at Polshek Partnership, who came up with a triangular room that echoes and envelops the table. Focused lights illuminate each place setting and the table's ceramic tile base, where the names of 999 more women are inscribed. The room's sloped walls, which are partly glass, reflect the space and viewers.</p>
+        <p>''You're aware of yourself and others as they relate to the piece,'' Ms. Rodriguez said. ''The influence of it needed to be expressed architecturally.''</p>
+        <p>The influence of ''The Dinner Party'' grew from its start in 1974, when Ms. Chicago, who had discovered china painting, decided to ''tell a woman's story through a woman's craft.'' She spent the next five years working on the piece, which was first shown in 1979 at the San Francisco Museum of Art and at the Brooklyn Museum a year later.</p>
+        <p>The project evolved into something of a movement, inspiring about 400 women and a few men from all over the world to lend a hand in making the piece. ''They were astounded and empowered by discovering this information,'' Ms. Chicago recalled, ''and they were determined to help get it out into the world. Women's history was alive for us.''</p>
+        <p>A documentary film -- ''Right Out of History: The Making of Judy Chicago's 'Dinner Party' '' by Johanna Demetrakas -- shows the project as a mix of artistic collaboration, consciousness-raising session and commune: the women work on the project, then debate feminist issues around the table. ''We are not only documenting feminist history,'' one volunteer says in the film, ''we are in the process of building a feminist approach to the world.''</p>
+        <p>About 5,000 people came to the San Francisco opening, and many said it changed their lives. But ''The Dinner Party'' was panned by major critics like Hilton Kramer and Robert Hughes, said Ms. Chicago, who turned 40 that summer. She recalls being demoralized and $30,000 in debt.</p>
+        <p>Ultimately her fans came through with small donations of $5, $10 and $15, and offers to help on future projects. ''Most artists have the support of curators, collectors or critics,'' Ms. Chicago said. ''The only thing I had was the power of my art, and in the end it was enough.''</p>
+        <p>Ms. Chicago set up a nonprofit organization, Through the Flower, which has continued to support feminist art, including her own projects.</p>
+        <p>Beginning in 1980 ''The Dinner Party'' went on tour, returning to the Brooklyn Museum in 2002, when Roberta Smith in The New York Times called it ''almost as much a part of American culture as Norman Rockwell, Walt Disney, W.P.A. murals and the AIDS quilt'' and ''similarly, subject to debate.''</p>
+        <p>Ms. Chicago comes from a politically radical family in Chicago (thus her adopted last name) and was ''brought up to believe I could be and do what I wanted.'' So she had a rude awakening in the 1960s when she found herself fighting to break through as a female artist in California.</p>
+        <p>It was then, she said, that she decided her art would address the scarcity of historical information about women. ''Women's history was neglected or added on, as opposed to integrated into the full history of the human species,'' she said. ''Both implicitly and explicitly the message that is communicated is that what women did wasn't important.''</p>
+        <p>This interest continued in her other large-scale works, like ''International Quilting Bee,'' for which women created small triangular quilts honoring a woman of their choice; ''Birth Project,'' with a network of needleworkers helping Ms. Chicago make images of birth and creation; ''Holocaust Project: From Darkness Into Light,'' a traveling exhibition by Ms. Chicago and her husband, the photographer Donald Woodman; and ''Resolutions: A Stitch in Time,'' a postmodern reinterpretation of traditional proverbs using needlework techniques.</p>
+        <p>It's important to Ms. Chicago that ''The Dinner Party'' not be the only artwork for which she is remembered. ''The goal is to see it as a huge body of work,'' she said. ''I hope, before I die, that is understood -- one work in a huge body of art that has continued to evolve.''</p>
+        <p>Ms. Chicago ''demanded attention for women,'' said Brookie Maxwell, a New York artist. ''And a place at the table is a very good metaphor for that.''</p>
+        <p>Ms. Chicago's painting ''Through the Flower'' -- which Ms. Sackler owns -- will be included in ''Wack! Art and the Feminist Revolution,'' to open March 4 at the Museum of Contemporary Art in Los Angeles. Such shows, Ms. Chicago acknowledges, represent a step forward.</p>
+        <p>''It's not some small movement of the 70s that's now passé,'' said Ms. Chicago, who said she won't visit the new Museum of Modern Art because ''I'm not paying $20 to see the white, male, Eurocentric art movement reinstalled.'' So she is heartened that the Brooklyn Museum has established a space for feminist art and a permanent public place for her plates.</p>
+        <p>''The girls,'' she said, ''are very happy to have a home.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Where Have All The Supermarkets Gone?</title>
+    <meta content="22grocer" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/03/22/realestate/commercial/22grocer.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1748753"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Square Feet"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Supermarkets</classifier>
+        <classifier class="indexing_service" type="descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="indexing_service" type="descriptor">Renting and Leasing</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">D'Agostino Supermarkets</org>
+        <org class="indexing_service">Morton Williams Associated Supermarkets</org>
+        <org class="indexing_service">Food City Markets</org>
+        <org class="indexing_service">Freshdirect (Co)</org>
+        <person class="indexing_service">Pristin, Terry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Supermarkets</classifier>
+        <classifier class="online_producer" type="descriptor">Renting and Leasing</classifier>
+        <classifier class="online_producer" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Supermarkets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Renting and Leasing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+        <org class="online_producer">D'agostino</org>
+        <org class="online_producer">Morton Williams Associated Supermarkets</org>
+        <org class="online_producer">Whole Foods Market Incorporated</org>
+        <org class="online_producer">FreshDirect</org>
+        <org class="online_producer">Food Emporium</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060322T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DC1630F931A15750C0A9609C8B63" item-length="1214" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Where Have All The Supermarkets Gone?</hl1>
+        <hl2 class="online_headline">Where Have All the Supermarkets Gone?</hl2>
+      </hedline>
+      <byline class="print_byline">By TERRY PRISTIN</byline>
+      <byline class="normalized_byline">Pristin, Terry</byline>
+      <abstract>
+        <p>Escalating rents, especially in prime Manhattan neighborhoodsk, are helping to drive out traditional supermarkets; one small supermarket chain, Morton Williams Associated Markets, would like to expand in New York City but has been unable to find space it can afford; Food City Markets once had six stores in Manhattan and is now down to one; FreshDirect, online grocery service, has made big impact in New York area since it opened its Long Island City plant in 2002; company has about 150,000 customers and takes in about $200 million each year--as much as 80 percent of it coming from Manhattan; D'Agostino supermarket on University Place is closing after two decades; photo (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Once you could find them every few blocks or so in prime neighborhoods of Manhattan, but these days the local chain supermarket seems to be heading the way of the five-and-dime. Among the latest casualties is a D'Agostino market on University Place near Union Square, which is closing after two decades in that location.</p>
+        <p>The last A.&amp; P. in Manhattan, at 70th Street and West End Avenue, shut its doors in January. Gristedes, which has 39 supermarkets in Manhattan, gave up a store it has had for 30 years at 62nd Street and Second Avenue after being outbid by Chase Bank, said John A. Catsimatidis, chief executive of the chain.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Manhattan's traditional markets are being squeezed by Web grocers, discount retailers and upscale stores.</p>
+      </block>
+      <block class="full_text">
+        <p>Once you could find them every few blocks or so in prime neighborhoods of Manhattan, but these days the local chain supermarket seems to be heading the way of the five-and-dime. Among the latest casualties is a D'Agostino market on University Place near Union Square, which is closing after two decades in that location.</p>
+        <p>The last A.&amp; P. in Manhattan, at 70th Street and West End Avenue, shut its doors in January. Gristedes, which has 39 supermarkets in Manhattan, gave up a store it has had for 30 years at 62nd Street and Second Avenue after being outbid by Chase Bank, said John A. Catsimatidis, chief executive of the chain.</p>
+        <p>''If you look at the previous 10 years,'' Mr. Catsimatidis said, ''you have 50 percent fewer supermarkets than you had then, and going forward 10 years the number will probably halve again.''</p>
+        <p>New Yorkers are not exactly going hungry, but their shopping habits have changed. These days, apartment dwellers are likely to find themselves walking a bit farther than they used to, buying meat and produce in one place and staples in another. Many supermarkets that once occupied 6,000 to 10,000 square feet have been replaced by chain drugstores that also carry paper towels and cereal, often at lower prices.</p>
+        <p>In Manhattan, the number of food stores that are 5,000 square feet or larger has actually grown in the last decade, to 196 from 154, because markets are turning up in neighborhoods that were previously underserved, according to Lawrence Sarf, the president of F&amp;D Reports, a retail consulting company in Great Neck, N.Y. But, he said, the proportion of markets on the Upper West Side, Upper East Side and Midtown had declined to about 30 percent of the total, from 70 percent.</p>
+        <p>Escalating rents, especially in prime Manhattan neighborhoods, are helping to drive out traditional supermarkets. On Third Avenue and Broadway, banks -- Commerce Bank, Washington Mutual and Wachovia, among others -- are willing to pay $250 a square foot a year or more for storefronts that once commanded a fraction of that rent.</p>
+        <p>''This last deluge of bank expansions has escalated value of retail space, almost everywhere, way past what a normal retailer can pay,'' said C. Bradley Mendelson, an executive director at Cushman &amp; Wakefield.</p>
+        <p>Supermarkets are a low-margin business, in part because a large proportion of their stock consists of perishable goods. A decade or so ago, a supermarket would pay an amount equivalent to 2 percent of its sales in rent in affluent neighborhoods, Mr. Catsimatidis said. Now, it has to pay as much as 8 percent of sales, he said. To hold onto a store on University Place and Eighth Street, Mr. Catsimatidis said, he had to agree to twice the previous rent.</p>
+        <p>One small supermarket chain, Morton Williams Associated Markets, would like to expand -- the company has 10 New York stores, 8 of them in Manhattan -- but has been unable to find space it can afford, said Morton Sloan, one of the owners.</p>
+        <p>Food City Markets once had six stores in Manhattan and is now down to one, at Columbus Avenue and 94th Street. ''When a supermarket decides to pay big rents, they've got to get big prices in the store,'' said Jeffrey L. Berger, the chief executive of Food City, which has two stores outside Manhattan. ''The customers don't understand. You don't make any friends.'' High rents, however, are not the sole reason traditional supermarkets are disappearing.</p>
+        <p>Supermarkets are having a tough time everywhere. In the suburbs, they are being squeezed by competition from discount retailers like Wal-Mart. In New York, particularly Manhattan, much of the pressure is coming from the opposite direction -- upscale markets like Whole Foods Market and Citarella that cater to less price-conscious customers and carry a large selection of prepared foods, which can be marked up higher, making them more profitable for store owners.</p>
+        <p>''You're dealing with a city with an incredibly large affluent population that can afford to shop on a regular basis at specialty shops,'' said Benjamin Fox, an executive vice president at the real estate firm Newmark Knight Frank.</p>
+        <p>In contrast to the older chains, most of these specialty shops employ nonunion labor. Pat Purcell, the director of organization for the United Food and Commercial Workers Union Local 1500, which has 23,000 New York area members, said that as specialty stores had come to play a more important role, the proportion of unionized supermarket employees had declined to about 50 percent, from 70 percent a decade ago.</p>
+        <p>Many Manhattan customers have been all too willing to desert their local supermarket, with its narrow aisles cluttered with cartons, dirty floors and indifferent service, retail specialists say.</p>
+        <p>''The supermarkets have been inferior for decades,'' said Burt P. Flickinger III, the managing director of Strategic Resource Group, a retail consulting group.</p>
+        <p>Often, co-op boards and developers would prefer to have a gourmet store as a tenant, or, better still, a retailer outside the food industry. ''The buildings don't want the vermin; they'd rather have a drugstore,'' said Jeff Winick, the chief executive of the Winick Realty Group, a brokerage company that has represented Duane Reade in about 250 lease transactions in the last 10 years.</p>
+        <p>FreshDirect, the online grocery service, has also made a big impact in the New York area since it opened its Long Island City plant in 2002. The company has about 150,000 customers and takes in about $200 million a year -- as much as 80 percent of it coming from Manhattan, a spokeswoman said.</p>
+        <p>''FreshDirect is putting a dent into everybody -- a big dent,'' Mr. Sarf said. He estimated that Manhattan grocery shoppers spend $2.1 billion a year.</p>
+        <p>Some supermarket chains, like Mr. Sloan's, are trying to compete with the gourmet stores by offering more takeout food. A.&amp; P. recently announced plans to upgrade its 16 Food Emporium stores in Manhattan.</p>
+        <p>A.&amp; P. officials did not respond to requests for an interview. But at a March 1 investors' meeting sponsored by CIBC, Christian W. E. Haub, the executive chairman of the Great Atlantic &amp; Pacific Tea Company, said the new Food Emporium concept was designed ''to really attract the kind of consumer who does not care about price, where it's all about quality and service.''</p>
+        <p>One particularly challenging location for Food Emporium and other conventional supermarkets is Union Square, where the competition includes the city's premier Greenmarket, a Whole Foods store, a Garden of Eden market and the city's first Trader Joe's. Even before the arrival of Whole Foods, the D'Agostino market that occupies 6,000 square feet in a four-story commercial building at 64 University Place, three blocks from Union Square, was not successful, according to the landlord, Bernard Posner.</p>
+        <p>Mr. Posner, an owner of Bernard-Charles Realty, said the supermarket's rent was $84.70 a square foot plus a percentage of earnings over $15 million. ''They never reached that amount,'' he said.</p>
+        <p>Nicholas D'Agostino III, the chief executive of the third-generation family business, declined to comment.</p>
+        <p>Now that D'Agostino is leaving, Mr. Posner said he had raised the asking rent to $135 a square foot. He said he hoped the next tenant would be another supermarket or an upscale restaurant.</p>
+        <p>''We may end up with a chain drugstore,'' he said, ''but we'll try to avoid it if we can.''</p>
+        <p>Square Feet</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

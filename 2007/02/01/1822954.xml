@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mystery Arises Over Identity Of Militia Chief in Najaf Fight</title>
+    <meta content="01iraq" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World; Washington" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/world/middleeast/01iraq.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822954"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <location class="indexing_service">Iraq</location>
+        <location class="indexing_service">Najaf (Iraq)</location>
+        <location class="indexing_service">Iran</location>
+        <org class="indexing_service">Al Qaeda (Terrorist Group)</org>
+        <person class="indexing_service">Cave, Damien</person>
+        <person class="indexing_service">Maliki, Nuri Kamal Al- (Prime Min)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iran</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Iraq</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iran</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">Shiite Muslims</classifier>
+        <classifier class="online_producer" type="descriptor">Sunni Muslims</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sunni Muslims</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shiite Muslims</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Iraq</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E4DC153FF932A35751C0A9619C8B63" item-length="730" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mystery Arises Over Identity Of Militia Chief in Najaf Fight</hl1>
+        <hl2 class="online_headline">Mystery Arises Over Identity of Militia Chief in Najaf Fight</hl2>
+      </hedline>
+      <byline class="print_byline">By DAMIEN CAVE; Qais Mizher and Ali Adeeb contributed reporting.</byline>
+      <byline class="normalized_byline">Cave, Damien</byline>
+      <dateline>BAGHDAD, Jan. 31</dateline>
+      <abstract>
+        <p>New questions arise about sectarian identity of man who led renegade militia into battle last weekend against American and Iraqi troops near Najaf; some Iraqi officials claim leader of militia was Sunni militant masquerading as Shiite; they hint at links to Al Qaeda, which is Sunni; others say group was financed by Shiite Iran; Prime Min Nuri Kamal al-Maliki continues to provide lukewarm support for White House plan to add troops for new Baghdad security plan; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New questions arose Wednesday about the sectarian identity of the man who led a renegade militia into battle last weekend against American and Iraqi troops near the holy city of Najaf.</p>
+        <p>At a news conference on Wednesday meant to clarify details of the skirmishes, which left at least 250 militants dead, Iraqi officials declared that Ahmad bin al-Hassan al-Basri, identified as the leader of the militia, was actually a Sunni militant who had been able to take control of the militia group by masquerading as a Shiite. Gen. Qais Hamza al-Mamouri, chief of police for Babil Province, said that while Mr. Basri led a Shiite splinter group known as the ''Soldiers of Heaven,'' he was in fact an impostor from Zubair, a Sunni stronghold on the southwestern edge of Basra. He said the man's real name was Ahmed Ismail Katte.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Iraqi officials declared that the leader of a militia that battled American and Iraqi troops last weekend was a Sunni militant who took control of the militia by masquerading as a Shiite.</p>
+      </block>
+      <block class="full_text">
+        <p>New questions arose Wednesday about the sectarian identity of the man who led a renegade militia into battle last weekend against American and Iraqi troops near the holy city of Najaf.</p>
+        <p>At a news conference on Wednesday meant to clarify details of the skirmishes, which left at least 250 militants dead, Iraqi officials declared that Ahmad bin al-Hassan al-Basri, identified as the leader of the militia, was actually a Sunni militant who had been able to take control of the militia group by masquerading as a Shiite. Gen. Qais Hamza al-Mamouri, chief of police for Babil Province, said that while Mr. Basri led a Shiite splinter group known as the ''Soldiers of Heaven,'' he was in fact an impostor from Zubair, a Sunni stronghold on the southwestern edge of Basra. He said the man's real name was Ahmed Ismail Katte.</p>
+        <p>''He is a Wahhabi from a Sunni town,'' General Hamza said, referring to the austere sect of radical Sunni Islam founded in Saudi Arabia. ''His family is Sunni, and his family trained him to be Shiite.''</p>
+        <p>Two clerics from another renegade Shiite sect -- loyal to Mahmoud al-Hassani al-Sarkhi, a Basri rival -- offered the same assessment privately, lingering after the news conference in Hilla, about 50 miles north of Najaf, to confirm that Mr. Basri was not in fact one of their own.</p>
+        <p>But their only evidence seemed to be a link to Zubair. And after days of widely varying assertions from Iraqi officials regarding the number of battle casualties and the nationalities and beliefs of the militants, the claims about Mr. Basri only added to confusion about who exactly the Americans and Iraqis had fought in a long battle, beginning Sunday.</p>
+        <p>The fight -- less than two months after the American military handed control of this province to Iraqi forces -- raised questions about the Iraqis' ability to handle their security. Since many of the militants were believed to be Shiites, it also highlighted the risk of rifts within Iraq's majority Shiite sect. Shiite leaders have sought to distance themselves from the estimated 1,000 fighters who were in bunkers 10 miles from Najaf, apparently with plans to assassinate Shiite leaders and occupy the city's Imam Ali mosque.</p>
+        <p>On the first day of the battle, Asad Abu Ghalal, the governor of Najaf Province, said that the militants were Sunni extremists, Iraqis and foreigners dressed in Afghan and Pakistani garb. Several Shiite clerics then said that the group was a splinter Shiite sect loyal to Mr. Basri, who studied at Hawza, a revered Shiite seminary in Najaf but later broke with the established Shiite leadership. The reports that he was a Sunni, if true, raise the question of whether he studied at a Shiite seminary to establish Shiite credentials.</p>
+        <p>Some officials have said that Mr. Basri's group was financed by Shiite Iran, yet the claims on Wednesday hinted at links to Al Qaeda, which is Sunni. Shiite politicians have also said that the group was infiltrated by former intelligence officers of Saddam Hussein. Zubair has been considered a center for loyalists and spies from the old government, which was dominated by Sunnis.</p>
+        <p>''I'm 100 percent sure that the group's deputy'' -- Diyah Abdul Zahraa Khadom, also known as Ahmed Hassan al-Yamani -- ''was a security officer from the old regime,'' Jalal Adin al-Sagheer, a Shiite member of Parliament, said Wednesday. ''And he was killed in this operation.''</p>
+        <p>''Now you can clearly see this operation was very strong and determined to destroy the new Shiite-led government,'' he added.</p>
+        <p>Also on Wednesday, Prime Minister Nuri Kamal al-Maliki continued to provide lukewarm support for the White House plan to add troops for a new Baghdad security plan. ''We believe that the existing number, with a slight addition, will do the job,'' he said, in an interview with CNN. ''But if there seems to be more need, we will ask for more troops.''</p>
+        <p>The United States military reported the deaths of four American service members. Two soldiers and a marine were killed Tuesday in Anbar Province. Another soldier died Wednesday from combat in Salahuddin Province.</p>
+        <p>In Baghdad, 10 bodies were found, handcuffed and blindfolded, an Interior Ministry official said. About 10 mortars fell on the northern Baghdad neighborhood of Adhamiya, killing four people and wounding 20. At least four other people were killed in the capital by shootings and bombs.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

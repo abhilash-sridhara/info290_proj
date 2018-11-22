@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Girls For Sale</title>
+    <meta content="17KRIS$02" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/01/17/opinion/17KRIS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1551310"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Prostitution</classifier>
+        <location class="indexing_service">Cambodia</location>
+        <location class="indexing_service">Poipet (Cambodia)</location>
+        <person class="indexing_service">Kristof, Nicholas D</person>
+        <person class="indexing_service">Srey Neth</person>
+        <person class="indexing_service">Srey Mom</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Nicholas D Kristof</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Cambodia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Cambodia</classifier>
+        <classifier class="online_producer" type="descriptor">Slavery</classifier>
+        <classifier class="online_producer" type="descriptor">Prostitution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prostitution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Slavery</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <location class="online_producer">Cambodia</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DEEDF1639F934A25752C0A9629C8B63" item-length="843" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Girls For Sale</hl1>
+        <hl2 class="online_headline">Girls for Sale</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS D. KRISTOF</byline>
+      <byline class="normalized_byline">Kristof, Nicholas D</byline>
+      <dateline>POIPET, Cambodia</dateline>
+      <abstract>
+        <p>Nicholas D Kristof Op-Ed column on plight of Srey Neth and Srey Mom, teenage girls forced to work as prostitutes in brothel in Poipet, Cambodia, and his decision to try to buy their freedom and return them to their families (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One thinks of slavery as an evil confined to musty sepia photographs. But there are 21st-century versions of slaves as well, girls like Srey Neth.</p>
+        <p>I met Srey Neth, a lovely, giggly wisp of a teenager, here in the wild smuggling town of Poipet in northwestern Cambodia. Girls here are bought and sold, but there is an important difference compared with the 19th century: many of these modern slaves will be dead of AIDS by their 20's.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>One thinks of slavery as an evil confined to musty sepia photographs. But there are 21st-century versions of slaves as well, girls like Srey Neth.</p>
+      </block>
+      <block class="full_text">
+        <p>One thinks of slavery as an evil confined to musty sepia photographs. But there are 21st-century versions of slaves as well, girls like Srey Neth.</p>
+        <p>I met Srey Neth, a lovely, giggly wisp of a teenager, here in the wild smuggling town of Poipet in northwestern Cambodia. Girls here are bought and sold, but there is an important difference compared with the 19th century: many of these modern slaves will be dead of AIDS by their 20's.</p>
+        <p>Some 700,000 people are trafficked around the world each year, many of them just girls. They form part of what I believe will be the paramount moral challenge we will face in this century: to address the brutality that is the lot of so many women in the developing world. Yet it's an issue that gets little attention and that most American women's groups have done shamefully little to address.</p>
+        <p>Poipet, 220 miles on bouncy roads from Phnom Penh, is a dusty collection of dirt alleys lined with brothels, where teenage girls clutch at any man walking by. It has a reputation as one of the wildest places in Cambodia, an anything-goes town ruled by drugs, gangs, gambling and prostitution.</p>
+        <p>The only way to have access to the girls is to appear to be a customer. So I put out the word that I wanted to meet young girls and stayed at the seedy $8-a-night Phnom Pich Guest House -- and a woman who is a pimp soon brought Srey Neth to my room.</p>
+        <p>Srey Neth claimed to be 18 but looked several years younger. She insisted at first (through my Khmer interpreter) that she was free and not controlled by the guesthouse. But soon she told her real story: a female cousin had arranged her sale and taken her to the guesthouse. Now she was sharing a room with three other prostitutes, and they were all pimped to guests.</p>
+        <p>''I can walk around in Poipet, but only with a close relative of the owner,'' she said. ''They keep me under close watch.They do not let me go out alone. They're afraid I would run away.''</p>
+        <p>Why not try to escape at night?</p>
+        <p>''They would get me back, and something bad would happen. Maybe a beating. I heard that when a group of girls tried to escape, they locked them in the rooms and beat them up.''</p>
+        <p>''What about the police?'' I asked. ''Couldn't you call out to the police for help?''</p>
+        <p>''The police wouldn't help me because they get bribes from the brothel owners,'' Srey Neth said, adding that senior police officials had come to the guesthouse for sex with her.</p>
+        <p>I asked Srey Neth how much it would cost to buy her freedom. She named an amount equivalent to $150.</p>
+        <p>''Do you really want to leave?'' I asked. ''Are you sure you wouldn't come back to this?''</p>
+        <p>She had been watching TV and listlessly answering my questions. Now she turned abruptly and snorted. ''This is a hell,'' she said sharply, speaking with passion for the first time. ''You think I want to do this?''</p>
+        <p>Another girl, Srey Mom, grabbed at me as I walked down the street. She wouldn't let go, tugging me toward the inner depths of her brothel -- but she looked so young and pitiable that I couldn't help thinking that she really wanted me to tug her away.</p>
+        <p>So I did. I paid the owner $8 to spring her for the evening and then took her away for an interview. (Photographs of both girls are at www.nytimes.com/kristof.)</p>
+        <p>The owner let Srey Mom go out unsupervised, it turned out, partly because she had been a prostitute for several years and was trusted to return -- and partly because her dark complexion meant that she was of little value anyway. The brothel sold her to men for just $2.50, compared with the $10 commanded by the lighter-skinned Srey Neth.</p>
+        <p>I asked Srey Mom what her freedom would cost. Payment of about $70 in debts to her brothel owner, she said. Two girls in her brothel had been freed after they found boyfriends who paid their debts, she said, and she spoke of her longing to see her sisters and the rest of her family in her village on the other side of Cambodia.</p>
+        <p>''Do you really want to leave the brothel?'' I asked.</p>
+        <p>''I love myself,'' she answered simply. ''I do not want to let my life be destroyed by what I'm doing now.''</p>
+        <p>That's when I made a firm decision I'd been toying with for some time: I would try to buy freedom for these two girls and return them to their families. I'll tell you in my column on Wednesday what happens next.</p>
+        <p>Op-Ed Columnist E-mail: nicholas@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: nicholas@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

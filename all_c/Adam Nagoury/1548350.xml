@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>RIVALS IN DEBATE TAKE AIM AT DEAN</title>
+    <meta content="05DEBA$01" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/01/05/politics/campaigns/05DEBA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1548350"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="THE 2004 CAMPAIGN: THE DEBATE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2004</classifier>
+        <classifier class="indexing_service" type="descriptor">Debating</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <location class="indexing_service">Iowa</location>
+        <location class="indexing_service">Johnston (Iowa)</location>
+        <person class="indexing_service">Nagourney, Adam</person>
+        <person class="indexing_service">Dean, Howard (Dr)</person>
+        <person class="indexing_service">Gephardt, Richard A (Rep)</person>
+        <person class="indexing_service">Kerry, John (Sen)</person>
+        <person class="indexing_service">Lieberman, Joseph I (Sen)</person>
+        <person class="indexing_service">Edwards, John (Sen)</person>
+        <person class="indexing_service">Kucinich, Dennis J (Rep)</person>
+        <person class="indexing_service">Moseley Braun, Carol</person>
+        <person class="indexing_service">Clark, Wesley K (Gen) (Ret)</person>
+        <person class="indexing_service">Sharpton, Al (Rev)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Iowa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/Wesley K Clark</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/John Edwards</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/John F Kerry</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/Howard Dean</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/Richard A Gephardt</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/Joseph I Lieberman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/Al Sharpton</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/Dennis J Kucinich</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Iowa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="descriptor">Debating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Debating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Democratic Party</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E5D81531F936A35752C0A9629C8B63" item-length="1437" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>RIVALS IN DEBATE TAKE AIM AT DEAN</hl1>
+        <hl2 class="online_headline">Rivals in Debate Take Aim at Dean</hl2>
+      </hedline>
+      <byline class="print_byline">By ADAM NAGOURNEY</byline>
+      <byline class="normalized_byline">Nagourney, Adam</byline>
+      <dateline>JOHNSTON, Iowa, Jan. 4</dateline>
+      <abstract>
+        <p>Democratic presidential candidates repeatedly pummel Howard Dean at debate in Johnston, Iowa, in raucous series of exchanges on taxes and trade that reflect how tight Iowa caucuses have become 15 days before the vote; for two hours, seven of nine contenders promote themselves, lay out themes of their campaigns and attack their opponents; when candidates are offered opportunity to question one another, four turn their fire on Dean, leaving no doubt about pressure they feel to block him from victory in Iowa that could propel him to his party's nomination; debate in Iowa marks start of what all campaigns view as final and most intense phase of contest in Iowa; two candidates who are skipping caucuses, Wesley K Clark and Al Sharpton, also skip this debate; Sen Joseph Lieberman, who will skip caucuses, appears for debate, hoping to present himself to television audience outside Iowa as Democrat willing to make strongest challenge to Dean; in face of many attacks, Dean shows little sign of backing down; photo (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Democratic presidential candidates repeatedly pummeled Howard Dean at a debate here on Sunday, in a raucous series of exchanges on taxes and trade that reflected how tight the Iowa caucuses have become 15 days before the vote.</p>
+        <p>For two hours, during a blustery afternoon snowstorm, seven of the nine contenders took advantage of what is likely to be one of the most prominent platforms left before the Jan. 19 caucuses. They promoted themselves, laid out the themes of their campaigns and attacked their opponents, underscoring the pivotal nature of the contest.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Democratic presidential candidates pummeled Howard Dean in a raucous series of exchanges on taxes and trade.</p>
+      </block>
+      <block class="full_text">
+        <p>The Democratic presidential candidates repeatedly pummeled Howard Dean at a debate here on Sunday, in a raucous series of exchanges on taxes and trade that reflected how tight the Iowa caucuses have become 15 days before the vote.</p>
+        <p>For two hours, during a blustery afternoon snowstorm, seven of the nine contenders took advantage of what is likely to be one of the most prominent platforms left before the Jan. 19 caucuses. They promoted themselves, laid out the themes of their campaigns and attacked their opponents, underscoring the pivotal nature of the contest.</p>
+        <p>The debate also highlighted an emerging subplot here: the fight for No. 2 -- or, in the tradition of Iowa caucuses, with their wide field and first position on the calendar, No. 3.</p>
+        <p>Senator John Edwards of North Carolina, a low-voltage presence in past debates, repeatedly took on Representative Richard A. Gephardt of Missouri. The two clashed in particular over the depth of their opposition to free trade treaties, an issue that Mr. Gephardt has made a centerpiece of his appeal in a state where there is strong opposition among Democrats to pacts like the North American Free Trade Agreement.</p>
+        <p>Still, the candidate of the day was, once again, Dr. Dean, the former governor of Vermont. When the candidates were offered an opportunity to question one another, four turned their fire on Dr. Dean, leaving no doubt about the pressure they feel to block him from a victory here that could propel him to his party's nomination.</p>
+        <p>''My question, not surprisingly, is to Howard Dean,'' said Senator Joseph I. Lieberman of Connecticut. Mr. Lieberman noted that Dr. Dean had declined to release all public papers from when he was governor, and pressed him to settle the issue here, before the cameras at a television studio on the outskirts of Des Moines.</p>
+        <p>''The people of America, who are judging your candidacy for president now, have a right to know what you did as governor to determine whether you're suitable and capable of being president of the United States,''' Mr. Lieberman said. ''I have in my hand the memorandum of understanding between you and the secretary of state, which makes very clear that all it takes to open up your records, Mr. Governor, is one stroke of a pen.''</p>
+        <p>But Dr. Dean brushed aside the entreaty from across the stage (he was too far away for Mr. Lieberman to walk over). He said a Vermont court would decide the question, which he defined as protecting the privacy of individuals who had written him. In particular, he cited Vermonters involved in the dispute over his signing of legislation allowing same-sex civil unions.</p>
+        <p>''Governors seal records for particular amounts of time -- in my case, some of the records -- to protect people's privacy, to protect the privacy that was given to advisers,'' Dr. Dean said.</p>
+        <p>''That is an unsatisfactory and disappointing answer,'' Mr. Lieberman responded. ''Why should you have to force a judge to force you to do what you know is right?''</p>
+        <p>A moment later, Senator John Kerry of Massachusetts cited a series of pronouncements on foreign and domestic policy that Dr. Dean has made and then backed away from as evidence of Dr. Dean's potential weakness as a Democratic candidate, or as a president.</p>
+        <p>''When you were asked by The Concord Monitor about Osama bin Laden, you said you couldn't prejudge his guilt for September 11th,'' Mr. Kerry said, scrunching up his face and turning incredulously to Dr. Dean. ''What in the world were you thinking?''</p>
+        <p>Dr. Dean responded by citing the primacy of law.</p>
+        <p>''As an American, I want to see Osama bin Laden get what he deserves, which is the death penalty,'' Dr. Dean responded. ''But I was asked that question as a candidate for president of the United States. And a candidate for president of the United States is obligated to stand for the rule of law.''</p>
+        <p>The debate here, sponsored by The Des Moines Register and Iowa Public Television, marked the start of what all the campaigns view as the final and most intense phase of the contest in Iowa.</p>
+        <p>Even so, two of the Democratic candidates skipped the event: Gen. Wesley K. Clark and the Rev. Al Sharpton, neither of whom has been campaigning here.</p>
+        <p>Mr. Lieberman also made a decision to skip the caucuses. But he flew in specifically for this debate, and to seize the opportunity to present himself to an audience outside Iowa as the Democrat willing to make the strongest challenge to Dr. Dean.</p>
+        <p>In the face of the attacks, Dr. Dean showed little sign of backing down. Refusing to assent to a call by Representative Dennis J. Kucinich of Ohio to agree to withdraw the troops in Iraq, he asserted that President Bush had made Iraq more dangerous.</p>
+        <p>''The president has created a national security danger in Iraq when none existed before,'' Dr. Dean said. None of his opponents challenged him on that statement.</p>
+        <p>And he reasserted, in the face of warnings by Democrats that the remark displayed naïveté about foreign policy, that the capture of Saddam Hussein had not improved safety for Americans at home.</p>
+        <p>Dr. Dean called Mr. Hussein ''a dreadful person,'' adding, ''I am delighted to see him behind bars, and I hope he gets what he deserves.'' But, he added: ''The fact is that since Saddam Hussein has been caught we've lost 23 additional troops. We now have for the first time American fighter jets escorting commercial airliners through American airspace.''</p>
+        <p>The candidates covered a vast amount of policy ground, for the most part restating what have become familiar positions after more than 25 debates. But some new avenues of discussion emerged.</p>
+        <p>Mr. Gephardt used the debate to remind voters of his vigorous opposition to free trade.</p>
+        <p>''Everybody up here, except Dennis, voted for Nafta and voted for the China agreement,'' he said. ''They did the wrong thing. I don't think we can win this race against George Bush with a trade policy that's exactly like George Bush's. I'm the only one who has led on this issue for over 20 years, and let me tell you what I think we need to do.''</p>
+        <p>Mr. Edwards, who has become increasingly vocal in opposing trade treaties, took issue with Mr. Gephardt's characterization, noting that he had not even been in Congress when Nafta was passed, and that he had opposed it.</p>
+        <p>''I think it is really important, as we go forward in this debate -- and we have a long time left -- that we be completely accurate and straightforward and honest with Iowa's caucusgoers about where we stand,'' he said sternly to Mr. Gephardt.</p>
+        <p>Mr. Gephardt responded, ''Well, John, you weren't in Congress when Nafta came up, so you couldn't vote, but you voted for the China ----'' before Mr. Edwards cut him off.</p>
+        <p>Mr. Edwards said, ''But you said I voted for it.'' Mr. Gephardt said, ''I understand.''</p>
+        <p>As Mr. Gephardt appeared to redden a bit, Mr. Edwards said, ''You understand?''</p>
+        <p>Mr. Gephardt responded: ''I'm quite willing to say that you weren't there, and you didn't vote for it. But you voted for the China agreement, and it's had a bad impact here in Iowa.''</p>
+        <p>The candidates also clashed over how much Mr. Bush's tax cut should be reinstated. Dr. Dean and Mr. Gephardt have called for rolling back all the tax cuts, and Dr. Dean disputed the suggestion by Mr. Edwards, Mr. Lieberman and Mr. Kerry that the middle-class tax cut included in the Bush plan was significant.</p>
+        <p>''Middle-class people did not see a tax cut,'' he said. ''There was no middle-class tax cut. It was a Bush tax increase with tuitions, with property taxes, with health care.''</p>
+        <p>Suddenly, and finally, Dr. Dean found a rare and unlikely ally as he talked against the Bush tax plan.</p>
+        <p>''I agree with Howard on this,'' Mr. Gephardt said. ''I think we have got to offer a real choice, if we are going to beat George Bush. I'm ready to say to the people of the country, if you like the Bush tax cuts, vote for Bush. But if you want health care that can never be taken away from you, vote for me.''</p>
+        <p>THE 2004 CAMPAIGN: THE DEBATE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

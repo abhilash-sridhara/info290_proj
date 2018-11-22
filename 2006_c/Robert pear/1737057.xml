@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BUSH TO PROPOSE CURBING GROWTH IN MEDICARE COST</title>
+    <meta content="04budget" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; Health; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/02/04/politics/04budget.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1737057"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicare</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="indexing_service" type="descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="indexing_service" type="descriptor">Hospitals</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">Medicare Payment Advisory Commission</org>
+        <person class="indexing_service">Pear, Robert</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Hospitals</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Medicare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E3D7163EF937A35751C0A9609C8B63" item-length="1066" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BUSH TO PROPOSE CURBING GROWTH IN MEDICARE COST</hl1>
+        <hl2 class="online_headline">Bush to Propose Curbing Growth in Medicare Cost</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBERT PEAR</byline>
+      <byline class="normalized_byline">Pear, Robert</byline>
+      <dateline>WASHINGTON, Feb. 3</dateline>
+      <abstract>
+        <p>Pres Bush will propose substantial savings in Medicare in his 2007 budget, stepping up his efforts to rein in growing costs of social insurance programs; administration officials and health care lobbyists say Bush will try to reduce projected Medicare payments to hospitals and other health care providers by $30 billion to $35 billion in next five years; say Bush intends to seek further increases in Medicare premiums for high-income people, beyond those already scheduled to take effect next year; many of Bush's proposals follow recommendations from Medicare Payment Advisory Commission (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In his budget next week, President Bush will propose substantial savings in Medicare, stepping up his efforts to rein in the growing costs of social insurance programs, administration officials and health care lobbyists said Friday.</p>
+        <p>For the first time since taking office five years ago, they said, Mr. Bush will try to reduce projected Medicare payments to hospitals and other health care providers by billions of dollars over the next five years. In addition, they said, Mr. Bush intends to seek further increases in Medicare premiums for high-income people, beyond those already scheduled to take effect next year.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>President Bush intends to seek further increases in premiums for high-income people and reduce payments to hospitals.</p>
+      </block>
+      <block class="full_text">
+        <p>In his budget next week, President Bush will propose substantial savings in Medicare, stepping up his efforts to rein in the growing costs of social insurance programs, administration officials and health care lobbyists said Friday.</p>
+        <p>For the first time since taking office five years ago, they said, Mr. Bush will try to reduce projected Medicare payments to hospitals and other health care providers by billions of dollars over the next five years. In addition, they said, Mr. Bush intends to seek further increases in Medicare premiums for high-income people, beyond those already scheduled to take effect next year.</p>
+        <p>Despite the failure of his plan to overhaul Social Security last year, Mr. Bush has signaled that he intends to curb rapid increases in federal spending linked to the aging of the population. ''The retirement of the baby boom generation will put unprecedented strains on the federal government,'' Mr. Bush said in his State of the Union address on Tuesday.</p>
+        <p>Administration officials, Congressional aides and lobbyists said the president was contemplating a package of proposals that would cut the projected growth in Medicare spending by $30 billion to $35 billion in the next five years. That represents less than 1.5 percent of total Medicare spending in those years. But whether Congress has the appetite to trim popular benefit programs in an election year is unclear.</p>
+        <p>The House passed another deficit-reduction bill this week by just two votes, underscoring the qualms among moderate Republicans about how far to go in limiting the growth of domestic programs at a time when the administration continues to push tax cuts.</p>
+        <p>Mr. Bush plans to send his budget for next year to Congress on Monday. Many of his proposals follow recommendations from the Medicare Payment Advisory Commission, an independent federal panel.</p>
+        <p>At a meeting last month, the panel said hospitals did not have to be fully compensated for the increased costs of the goods and services they used. These costs are expected to rise 3.4 percent in the fiscal year 2007. But the panel said that hospitals could get along with a smaller increase, 2.95 percent, if they became more efficient.</p>
+        <p>Jack Ashby, a research director at the commission, said, ''We expect the recommendation to have no effect on hospitals' ability to furnish care to Medicare beneficiaries.''</p>
+        <p>But Richard J. Pollack, executive vice president of the American Hospital Association, said the cutback could damage the quality of hospital care. Already, he said, two-thirds of hospitals lose money serving Medicare patients.</p>
+        <p>''At the same time cuts are being proposed,'' Mr. Pollack said, ''demands on hospitals are increasing. We are taking care of a rising number of uninsured, we are investing in new technology to increase patient safety and to move toward electronic medical records, and we are preparing for emergencies, including the threat of pandemic disease.''</p>
+        <p>The president's 2007 budget also calls for a freeze in Medicare payments to nursing homes and home health agencies, as recommended by the commission. In addition, he proposes to reduce payments for oxygen equipment provided to Medicare beneficiaries.</p>
+        <p>This proposal is likely to touch off protests from a coalition of patients and oxygen suppliers. The coalition has been running television commercials against a powerful California congressman who has supported such changes.</p>
+        <p>In one commercial, an Air Force veteran, with an oxygen tube in his nose, asks the congressman, Representative Bill Thomas: ''I was proud to fight for my country. Why are you not willing to fight for me?''</p>
+        <p>Mr. Thomas, who is a Republican and the chairman of the Ways and Means Committee, denounced the commercials. ''It's outrageous that some companies are trying to scare seniors,'' he said Friday.</p>
+        <p>Mr. Bush's budget does not seek any change in Medicare payments for doctors. Their payments were frozen this year. Under current law, they will be cut more than 4 percent next year.</p>
+        <p>Beneficiaries now pay premiums of $88.50 a month -- more than $1,000 a year -- for coverage of doctors' visits and other outpatient care.</p>
+        <p>Under the 2003 Medicare law, any beneficiary with more than $80,000 of annual income will have to pay higher premiums in 2007 and later years. For people with incomes of $100,000 to $150,000, premiums would more than double.</p>
+        <p>Under the law, the income thresholds are increased each year to reflect inflation. Mr. Bush's proposal would eliminate these adjustments, so that more people would have to pay the higher premiums each year.</p>
+        <p>The last three presidents regularly proposed to cut Medicare payments to hospitals below the levels needed to keep up with inflation. But in the last five years, Mr. Bush generally avoided making such proposals. In 2002 and 2003, he was trying to persuade Congress to expand the program by adding a drug benefit. In later years, he did not want to reopen the debate over Medicare, for fear that Congress would alter the drug benefit.</p>
+        <p>Medicare spending totaled $333 billion last year. Under current law, it will climb by one-third in two years, reaching $445 billion in 2007, as the new prescription drug program gets under way, the Congressional Budget Office says.</p>
+        <p>William A. Dombi, vice president of the National Association for Home Care, a trade group, said that a freeze in Medicare payments to home care agencies in 2007, coming on top of a freeze this year, would reduce access to such services for patients in some parts of the country.</p>
+        <p>But the Medicare payment commission said that home care agencies could reduce the number of visits for a patient or reduce the cost of services to offset the effects of a freeze. Sharon Bee Cheng, an analyst at the commission, said she expected ''no adverse impacts'' on patients or providers of home care.</p>
+        <p>Nursing home operators said it would be absurd to freeze their Medicare payments at a time when patients, their relatives and the Bush administration were demanding improvements in the quality of care. But the staff of the Medicare payment commission said current rates were ''more than adequate.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

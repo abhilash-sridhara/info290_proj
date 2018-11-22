@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Search for Remains Will Go Beneath an Asphalt Lot</title>
+    <meta content="01blocks" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/nyregion/01blocks.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822947"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="BLOCKS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Hijacking</classifier>
+        <classifier class="indexing_service" type="descriptor">World Trade Center (NYC)</classifier>
+        <location class="indexing_service">New York City</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Columns/Blocks</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hijacking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE6DC153FF932A35751C0A9619C8B63" item-length="804" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Search for Remains Will Go Beneath an Asphalt Lot</hl1>
+        <hl2 class="online_headline">Search for Remains Will Go Beneath an Asphalt Lot</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID W. DUNLAP</byline>
+      <abstract>
+        <p>Search for remains of victims of 9/11 attacks will intensify as excavations begin on asphalt-covered staging area opposite ground zero, which has remained pretty much undisturbed for five years; debris field, most notably a multi-story, multi-ton section of south tower facade, may reveal bone fragments and help family members who have not received any remains identify their relatives; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE unending hunt for the body parts of 9/11 victims is likely to intensify this month as excavations begin on an asphalt-covered staging area opposite ground zero. This was once an entire city block, where the little St. Nicholas Greek Orthodox Church stood, and the rubble under that asphalt has lain pretty much undisturbed for five years.</p>
+        <p>''It is virgin territory in the search for human remains,'' said a construction superintendent who was involved in the cleanup of the World Trade Center site and requested anonymity for this column because he was bound by confidentiality rules.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The unending hunt for the body parts of 9/11 victims will focus on an area opposite ground zero.</p>
+      </block>
+      <block class="full_text">
+        <p>THE unending hunt for the body parts of 9/11 victims is likely to intensify this month as excavations begin on an asphalt-covered staging area opposite ground zero. This was once an entire city block, where the little St. Nicholas Greek Orthodox Church stood, and the rubble under that asphalt has lain pretty much undisturbed for five years.</p>
+        <p>''It is virgin territory in the search for human remains,'' said a construction superintendent who was involved in the cleanup of the World Trade Center site and requested anonymity for this column because he was bound by confidentiality rules.</p>
+        <p>What makes the search so important is that family members of 1,148 victims have still not received any remains identified as their relatives'. And in the civic realm, it is a visceral reminder -- as the rebuilding begins in earnest -- of what was lost in the first place.</p>
+        <p>According to the chief medical examiner, 1,063 body parts, mostly bone fragments less than four inches long, have been found around ground zero since September 2005: 766 at the former Deutsche Bank building, 209 in abandoned manholes under a haul road along West Street and 88 in the fill and debris beneath the asphalt surface of the haul road.</p>
+        <p>Last week, two pieces of structural steel from the trade center were found about two to three feet under the haul road surface, roughly midway between Vesey and Liberty Streets, the Port Authority of New York and New Jersey said yesterday. Each piece is about 18 feet long, 4 feet wide and 2 feet deep. They will be taken to Hangar 17 at Kennedy International Airport for storage with other large-scale artifacts.</p>
+        <p>Similar discoveries almost certainly await workers as they approach the staging area, bounded by Liberty, Washington, Cedar and West Streets, where St. Nicholas Church stood. The rest of the block was a parking lot, so there was little to obstruct falling material from penetrating the ground after American Airlines Flight 11 hit the north tower, 200 yards away, and after the south tower collapsed, directly across Liberty Street.</p>
+        <p>The four-story church was leveled.</p>
+        <p>WHAT was left was a field of debris, most notably a multi-story, multi-ton section of the south tower facade, which lodged at the base of the 90 West Street building on the corner of Cedar Street. This was documented by the Multidisciplinary Center for Earthquake Engineering Research at the University at Buffalo.</p>
+        <p>''I believe it may have been cut off at grade level and never pulled out,'' said Stephen V. DeSimone, president and chief executive of DeSimone Consulting Engineers. He was among the first engineers on the site after the attack, under a volunteer effort organized by the Structural Engineers Association of New York.</p>
+        <p>''That area was probably cleared and repaved before any of the other areas, which may have resulted in the encapsulation of human remains,'' Mr. DeSimone said.</p>
+        <p>It is still largely a paved area. On the Liberty Street side are huts maintained by the Port Authority. One is used by family members, one by the police, one as a conference room and one as a security booth.</p>
+        <p>Deputy Mayor Edward Skyler, who is overseeing the renewed search effort, said two perpendicular exploratory trenches, about five feet wide, will be dug through the staging area, beginning early this month.</p>
+        <p>''We will excavate further based on what we find during the exploratory phase,'' he said, adding that exploratory excavations will include the ground beneath the huts.</p>
+        <p>Ground-penetrating radar will be used to locate utility lines and ''any other underground structures,'' Mr. Skyler said, when asked about the possibility of encountering buried steel from the twin towers.</p>
+        <p>Some family advocates and elected officials, including Senators Charles E. Schumer and Hillary Rodham Clinton, have called on the city to request the help of the Joint P.O.W./M.I.A. Accounting Command, a special military unit. They were joined last month by Community Board 1 in Lower Manhattan.</p>
+        <p>A spokesman for the command, Troy Kitch, noted yesterday that city officials had their own plan and said, ''It's our position that they clearly have the forensic expertise to implement it.'' He added that there have been informal, collegial exchanges between the city's scientists and those at the command.</p>
+        <p>Mr. Skyler said the city would not request the command to ''divert personnel'' to New York. And Gov. Eliot Spitzer's press secretary, Christine Anderson, said on Tuesday that the governor is ''confident that the current search is being done respectfully and carefully.''</p>
+        <p>Mr. DeSimone, for one, does not second-guess the absence of painstaking forensic archaeology in the immediate aftermath of the attack.</p>
+        <p>''Nobody really understood the magnitude of the devastation,'' he said. ''There was this hopeful notion that you'd find people intact. It only became evident much later on that this would be more like finding grains of sand than remains.''</p>
+        <p>BLOCKS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

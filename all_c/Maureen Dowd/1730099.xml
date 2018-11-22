@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reach Out And Touch No One</title>
+    <meta content="07dowd" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/07/opinion/07dowd.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1730099"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Maureen Dowd</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <person class="online_producer">Bush, George W</person>
+        <person class="online_producer">McNamara, Robert</person>
+        <person class="online_producer">Albright, Madeleine K</person>
+        <person class="online_producer">Powell, Colin</person>
+        <person class="online_producer">Baker, James A III</person>
+        <person class="online_producer">Scowcroft, Brent</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E5D61E30F934A35752C0A9609C8B63" item-length="899" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reach Out And Touch No One</hl1>
+        <hl2 class="online_headline">Reach Out and Touch No One</hl2>
+      </hedline>
+      <byline class="print_byline">By MAUREEN DOWD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Doing the math, you've got to figure that the 12 wise men and one wise woman had about 30 seconds apiece to say their piece to the president about Iraq, where vicious assaults this week have killed almost 200 and raised U.S. troop fatalities to at least 2,189.</p>
+        <p>It must have been like a performance by the Reduced Shakespeare Company, which boils down the great plays and books to their essence. Proust is ''I like cookies.'' Othello raps that he left Desdemona ''all alona, didn't telephona.'' ''The Iliad'' and ''The Odyssey'' condense into ''The Idiodity.'' ''Henry V'' is ''A king's gotta do what a king's gotta do,'' and ''Antony and Cleopatra'' is ''Never get involved in Middle Eastern affairs.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>President Bush couldn't devote 60 minutes to getting our kids home rather than just a few for a "Message: I Care" photo-op faking sincerity?</p>
+      </block>
+      <block class="full_text">
+        <p>Doing the math, you've got to figure that the 12 wise men and one wise woman had about 30 seconds apiece to say their piece to the president about Iraq, where vicious assaults this week have killed almost 200 and raised U.S. troop fatalities to at least 2,189.</p>
+        <p>It must have been like a performance by the Reduced Shakespeare Company, which boils down the great plays and books to their essence. Proust is ''I like cookies.'' Othello raps that he left Desdemona ''all alona, didn't telephona.'' ''The Iliad'' and ''The Odyssey'' condense into ''The Idiodity.'' ''Henry V'' is ''A king's gotta do what a king's gotta do,'' and ''Antony and Cleopatra'' is ''Never get involved in Middle Eastern affairs.''</p>
+        <p>Beyond taking a class picture spaced around Mr. Bush's bizarrely empty desk -- a mesmerizing blend of ''Sunset Boulevard,'' ''The Last Supper'' and a ''Sopranos'' ad -- the former secretaries of state and defense had to make the most of their brief colloquy with W.</p>
+        <p>The spectral Robert McNamara might have enlightened Mr. Bush on Vietnam: ''Didn't understand the culture. Misjudged the opposition. Didn't know when to get out.'' If he was a fast talker, he could have added: ''It's the dominoes. If Iraq falls, then Syria falls, then Lebanon falls, and before you know it, all of Southeast Asia -- I mean, the Middle East -- will fall.''</p>
+        <p>Melvin Laird only needed to add: ''Ditto.''</p>
+        <p>Al Haig's summation would have been a cinch: ''I resign. I'm in charge here. I resign -- again.''</p>
+        <p>Instead of maintaining his good-soldier silence, Colin Powell could have redeemed himself with four words: ''I should have resigned.''</p>
+        <p>Madeleine Albright might have succinctly imparted some wisdom from Somalia and Rwanda: ''Didn't understand the culture. Misjudged the threat. Didn't know when to get in.''</p>
+        <p>James Baker, Svengali and Sphinx, must have been thinking: ''I told your dad not to let you in here. I could tell you how to get out of Iraq in 10 minutes, but you're too under the sway of that nutball Cheney to listen.''</p>
+        <p>George Shultz only needed to say: ''I have a tiger tattooed on my fanny,'' and Lawrence Eagleburger could have abridged his thoughts to ''I need a smoke -- bad.''</p>
+        <p>It may seem disturbing at first that with several hundreds of years' worth of foreign policy at his elbows, and a bloody, thorny mess in Iraq, Mr. Bush would devote mere moments to letting some fresh air into his House of Pain.</p>
+        <p>Sure, he has A.D.D. But he just spent six straight days mountain-biking and clearing brush in Crawford. He couldn't devote 60 minutes to getting our kids home, rather than just a few for a ''Message: I Care'' photo-op faking sincerity?</p>
+        <p>''We all went into the bubble and came out,'' one of the wise men noted.</p>
+        <p>Mr. Eagleburger explained their role as props, saying it was hard to volubly express yourself with a president. ''There was some criticism, but it was basically 'You haven't talked to the American people enough.' '' Lighting a cigarette on the way out -- he'd thrown one in the bushes on the way in -- he added a world-weary coda: ''We're all has-beens anyway.''</p>
+        <p>Mr. Eagleburger knows the truth. If W. had wanted to really reach out, rather than just pretend to reach out so his poll numbers would go up, he would have sought advice outside his warped inner circle long ago -- including from his own father.</p>
+        <p>Because W.'s mind is so closed to anybody except yes-men who tell him his policies and wars are slam-dunks, uneasy seasoned mandarins are forced to make a noisy stink. Brent Scowcroft, one of Bush Senior's closest friends, had to resort to the pages of The New Yorker to voice his objections. He ominously said Dick Cheney, his old colleague, was someone he no longer recognized.</p>
+        <p>You wonder whether the other contemporaries of Cheney and Rummy from Ford, Reagan and Bush I days were thinking the same thing at Thursday's meeting: Why have these guys gone so kooky?</p>
+        <p>W. is drunk on Cheney Kool-Aid. So he got testy when Ms. Albright pointed out that North Korea and Iran were going nuclear while the U.S. was bogged down in Baghdad. Then, after a quick photo in the Oval, he shooed the old-timers out, letting anyone who wanted to stay talk to the security factotum Stephen Hadley.</p>
+        <p>Still busy spreading fog over the war, W., Cheney, Rummy and Condi had no time to hear Mr. McNamara expound on the fog of war. In the picture, as Ms. Albright cringes, Mr. McNamara looks haunted, unable to escape second-guessing over Vietnam.</p>
+        <p>The only thing that would have made the photo even more utterly phony than it was would have been the presence of that vintage warmonger, Henry the K.</p>
+        <p>Op-Ed Columnist</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

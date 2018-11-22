@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Down-to-Earth Problems in a City of Trees and Hills</title>
+    <meta content="Y07BOI$02" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/02/07/national/07BOIS.html" name="alternate_url"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20040224T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1556854"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="BOISE LETTER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Population</classifier>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Transit Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <classifier class="indexing_service" type="descriptor">Area Planning and Renewal</classifier>
+        <location class="indexing_service">Boise (Idaho)</location>
+        <person class="indexing_service">Kershaw, Sarah</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Idaho</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Idaho</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Idaho/Boise</classifier>
+        <classifier class="online_producer" type="descriptor">Population</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Area Planning and Renewal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Population</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <location class="online_producer">Idaho</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040207T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E1D6113BF934A35751C0A9629C8B63" item-length="1117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Down-to-Earth Problems in a City of Trees and Hills</hl1>
+        <hl2 class="online_headline">Down-to-Earth Problems in a City of Trees and Hills</hl2>
+      </hedline>
+      <byline class="print_byline">By Sarah Kershaw</byline>
+      <byline class="normalized_byline">Kershaw, Sarah</byline>
+      <abstract>
+        <p>Boise, Idaho, grew by almost 70,000 people over last decade; sprawl and vast increase in vehicular traffic have caused huge concerns about congestion on roads, need for better public transit, air pollution and protecting environment; growth is topic everywhere, but unusual thing about what is happening in Boise is that city officials and other concerned citizens are examining problems of growth before they are full-blown problems; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On a recent afternoon on the top floor of the Boise State University student union, 30 people filed into a glass-walled room with a stark view of the Boise foothills, the city's magical mini-mountain range, steppingstones to the Salmon River Mountains, which eventually loop their way up to Idaho's eastern border and over to the Rockies.</p>
+        <p>It was a clear winter day -- and a city that is close enough to drizzly Seattle and Portland, Ore., to be considered a piece of the Northwest has every right to gloat about its 234 days of sunshine each year. Puffs of fog clung to the sharp, snowy foothills that rise a mile above the Treasure Valley floor, telegraphing the kind of shocking beauty that can make Idaho look like one big postcard.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An unusual thing is happening in Boise  city officials and concerned citizens are examining the dilemmas that come with growth before they are full-blown problems.</p>
+      </block>
+      <block class="full_text">
+        <p>On a recent afternoon on the top floor of the Boise State University student union, 30 people filed into a glass-walled room with a stark view of the Boise foothills, the city's magical mini-mountain range, steppingstones to the Salmon River Mountains, which eventually loop their way up to Idaho's eastern border and over to the Rockies.</p>
+        <p>It was a clear winter day -- and a city that is close enough to drizzly Seattle and Portland, Ore., to be considered a piece of the Northwest has every right to gloat about its 234 days of sunshine each year. Puffs of fog clung to the sharp, snowy foothills that rise a mile above the Treasure Valley floor, telegraphing the kind of shocking beauty that can make Idaho look like one big postcard.</p>
+        <p>The people in the room, who might be considered the political and economic movers and shakers in this city of 193,000 people, were assembled by Boise's new mayor to talk about his transition. They were not there to discuss the foothills per se. It seemed right, though, that the hills were there in full view, representing themselves as another character in the debate over the future of Boise, at a time when the questions have so much to do with the look and feel of this place.</p>
+        <p>The hills were a political battleground just a short time ago. But then a vocal group of people who wanted to keep developers out of the hills won what they consider a historic fight, persuading fellow residents to do something fairly unthinkable in Idaho: tax themselves, to the tune of $10 million, to buy open space.</p>
+        <p>''We can't afford to waste any time,'' the mayor, Dave Bieter, 44, told his advisers. ''People's expectations are quite high.''</p>
+        <p>Sometimes scandal does that to a city. And what happened with the last mayor, Brent Coles, was pretty earth-shattering for Boise, Idaho's capital, where city politics had largely been in the realm of the pure.</p>
+        <p>Mr. Coles resigned last February and in November pleaded guilty to two charges: presenting a fraudulent account or voucher for reimbursement from the city for tickets to ''Oklahoma!'' in New York City for himself and members of his staff; and misuse of public funds, for seeking reimbursement from the city for a trip he and a staff member took from New York City to Rochester. He was sentenced to 180 days in the county jail and three years' probation on those charges, both felonies.</p>
+        <p>The way this Republican-leaning city cleaned its political house, electing its first Democratic mayor in 20 years and replacing four longtime members of the six-member City Council, has allowed it to step back and dig into the bigger identity question.</p>
+        <p>''I think this could be seen as a watershed election,'' said Dr. Jim Weatherby, a professor of political science at Boise State. ''It was as much about maintaining our quality of life as it was about partisan politics.''</p>
+        <p>As isolated as Boise is, at the nexus of the high desert and the western edge of the Rockies and still close to the middle of nowhere, it became a migration magnet in the 1990's. It drew scores of jobless people from California and other depressed states to what was, until recently, an economic oasis.</p>
+        <p>Micron Technologies, now one of the world's leading manufacturers of superconductors and Idaho's largest private employer, was founded here in 1978. Hewlett-Packard is here, and Boise's other high-tech companies were spared much of the strangulation from the dot-com bust that left most of the Northwest in the dumps.</p>
+        <p>Recreation, the weather and the outdoor life are other big lures. Boise is known as the City of Trees, because the French-Canadian fur traders who came through the desert and discovered it in the early 1800's were delighted to find a cottonwood forest flanking what is now the Boise River. (''Les bois!'' they shouted. The woods!)</p>
+        <p>In the summer, people take tubing breaks at lunch, floating down the river through the city. There is serious hiking to be done here, skiing less than 16 miles from downtown, world-famous white-water rafting, bike trails everywhere and -- although maybe not for long -- a reasonable level of traffic.</p>
+        <p>At the same time that it seemed everyone was discovering Boise, Idaho's birthrate remained among the highest in the nation and the state's rural and urban populations flip-flopped, with a majority now living in or near cities and a minority living in the hinterlands.</p>
+        <p>Boise itself grew by almost 70,000 people over the last decade, according to the 2000 census. Sprawl and the vast increase in vehicular traffic have caused huge concerns -- not just about congestion on the roads and the increasingly obvious need for much better public transit, but also about protecting the environment, in the broadest sense -- the very thing that seems to be drawing all these people here.</p>
+        <p>The Treasure Valley has a growing air quality problem because of smog resulting from cars. And its temperate inversions, once beautiful, now troubling -- this happens when cold air gets trapped under warm air in the valley -- are trapping pollution with them.</p>
+        <p>Growth is a topic everywhere these days, especially in the West. But the unusual thing about what is happening in Boise is that city officials and other concerned citizens are examining the problems of growth before they are full-blown problems.</p>
+        <p>''It's a smaller scale at this point,'' Dr. Weatherby of Boise State said, ''but I remember when Phoenix was 400,000 and Mason, Tempe and Scottsdale were all distinct cities. It can happen, and it could happen here.''</p>
+        <p>Elaine Clegg, the co-executive director of Idaho Smart Growth, a nonprofit organization founded in 1997, and one of the new City Council members, said, ''In Boise, we have an opportunity to make some of these changes, to do some of these things before the worst of the damage is done, rather than after.''</p>
+        <p>At a noisy pub in the hip and busy downtown, Mayor Bieter seemed concerned about what Boise was facing.</p>
+        <p>''It's fair to say this is about the identity of Boise,'' he said. ''That's absolutely what the election was about, what the next six or eight years or going to be about: whether we have the guts to grow in a way that keeps the environmental natural resources that we have here and the livability of this city.''</p>
+        <p>BOISE LETTER  Correction:  February 24, 2004, Tuesday  An article on Feb. 7 on the growth of Boise, Idaho, misstated a place name in a quotation from Dr. Jim Weatherby, a professor of political science at Boise State, who commented on the phenomenon of sprawl. He said, ''I remember when Phoenix was 400,000 and Mesa, Tempe and Scottsdale were all distinct cities.'' He did not say Mason.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: February 24, 2004, Tuesday</p>
+        <p>An article on Feb. 7 on the growth of Boise, Idaho, misstated a place name in a quotation from Dr. Jim Weatherby, a professor of political science at Boise State, who commented on the phenomenon of sprawl. He said, ''I remember when Phoenix was 400,000 and Mesa, Tempe and Scottsdale were all distinct cities.'' He did not say Mason.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Notebook's Two Hard Drives Work Separately or as a Team</title>
+    <meta content="01laptop" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/technology/01laptop.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822932"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Toshiba Corp</org>
+        <person class="indexing_service">Biggs, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Toshiba Corporation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06EEDD153FF932A35751C0A9619C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Notebook's Two Hard Drives Work Separately or as a Team</hl1>
+        <hl2 class="online_headline">A Notebook’s Two Hard Drives Work Separately or as a Team</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+      <byline class="normalized_byline">Biggs, John</byline>
+      <abstract>
+        <p>Toshiba introduces entry level Satellite AI35-S4499 laptop with two hard drives for extra storage or automatic backup; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Toshiba Satellite A135-S4499 has a fairly forgettable name but promises to remember everything you throw at it. This $1,500 laptop is one of the first entry-level notebooks with two hard drives for extra storage or automatic backup.</p>
+        <p>The laptop has two gigabytes of memory and an Intel Core 2 Duo processor running at 1.66 gigahertz. The two 120-gigabyte hard drives can be configured in three ways: they can be used separately; both can be chained together to create one large drive; or one can be used to back up the other.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Toshiba Satellite A135-S4499 is one of the first entry-level notebooks with two hard drives for extra storage or automatic backup.</p>
+      </block>
+      <block class="full_text">
+        <p>The Toshiba Satellite A135-S4499 has a fairly forgettable name but promises to remember everything you throw at it. This $1,500 laptop is one of the first entry-level notebooks with two hard drives for extra storage or automatic backup.</p>
+        <p>The laptop has two gigabytes of memory and an Intel Core 2 Duo processor running at 1.66 gigahertz. The two 120-gigabyte hard drives can be configured in three ways: they can be used separately; both can be chained together to create one large drive; or one can be used to back up the other.</p>
+        <p>The 15.4-inch screen has a resolution of 1,280 by 800 pixels and includes a Mobile Intel graphics chipset along with a DVD writer, four U.S.B. ports, a FireWire port and a microphone. The laptop runs Windows Vista Ultimate -- the most advanced version of Microsoft's new operating system -- and has a 5-in-1 media card adapter.</p>
+        <p>If 240 gigabytes of hard drive space sounds like too much to carry around with you, remember that just a few years ago a 40-megabyte hard drive was a monster.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

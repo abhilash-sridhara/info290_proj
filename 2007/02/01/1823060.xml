@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Higher Bid For REIT Is Expected By Vornado</title>
+    <meta content="01buyout" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/business/01buyout.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1823060"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Real Estate Investment Trusts</classifier>
+        <org class="indexing_service">Vornado Realty</org>
+        <org class="indexing_service">Blackstone Group</org>
+        <org class="indexing_service">Equity Office Properties Trust</org>
+        <person class="indexing_service">Pristin, Terry</person>
+        <person class="indexing_service">Sorkin, Andrew Ross</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Real Estate</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Equity Office Properties Trust</org>
+        <org class="online_producer">Vornado Realty Trust</org>
+        <org class="online_producer">Blackstone Group</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E1DA153FF932A35751C0A9619C8B63" item-length="571" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Higher Bid For REIT Is Expected By Vornado</hl1>
+        <hl2 class="online_headline">A Higher Bid for REIT Is Expected by Vornado</hl2>
+      </hedline>
+      <byline class="print_byline">By TERRY PRISTIN and ANDREW ROSS SORKIN</byline>
+      <byline class="normalized_byline">Pristin, Terry; Sorkin, Andrew Ross</byline>
+      <abstract>
+        <p>Consortium of investors led by Vornado Realty Trust, escalating showdown with rival suitor Blackstone Group plans to raise its bid for Equity Office Properties Group to more than $40 billion (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A consortium of investors led by Vornado Realty Trust planned to raise its bid for Equity Office Properties Group to more than $40 billion, escalating a showdown with a rival suitor, the Blackstone Group, people involved in bidding said last night.</p>
+        <p>A bid by Vornado, expected to be about $57 a share in cash and stock, would top Blackstone's own increased bid last week of $54 a share in cash or $38.3 billion. No matter who wins, the buyer will be the largest buyout in history.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A consortium of investors led by Vornado Realty Trust planned to raise its bid for Equity Office Properties Group to more than $40 billion.</p>
+      </block>
+      <block class="full_text">
+        <p>A consortium of investors led by Vornado Realty Trust planned to raise its bid for Equity Office Properties Group to more than $40 billion, escalating a showdown with a rival suitor, the Blackstone Group, people involved in bidding said last night.</p>
+        <p>A bid by Vornado, expected to be about $57 a share in cash and stock, would top Blackstone's own increased bid last week of $54 a share in cash or $38.3 billion. No matter who wins, the buyer will be the largest buyout in history.</p>
+        <p>The contest has become intensely personal. The chairman of Vornado, Steven Roth, has missed out on the flurry of mergers that have swept through the real estate investment trust industry. Mr. Roth parlayed a stake in a discount appliance chain in New Jersey into a diversified real estate empire that includes prime office buildings in New York and Washington, the Merchandise Mart in Chicago and some of the toniest retail space on Madison Avenue in Manhattan.</p>
+        <p>Last fall, Mr. Roth proposed to Samuel Zell, the founder of Equity Office, that they merge their companies. But after a series of missteps, Blackstone swooped in and reached a deal to buy E.O.P. at $48.50 a share.</p>
+        <p>Outraged, Mr. Roth assembled a group of investors to make a counteroffer. Vornado and its partners, Starwood Capital Group and Walton Street Capital, both private equity firm, told Mr. Zell on Jan. 17 that they would top Blackstone's bid with a cash-and-stock offer of $52 a share.</p>
+        <p>Equity Office opened its books and gave the Vornado group until last night to make a formal offer. Anticipating that the deadline would be met, shares of E.O.P. rose yesterday by 89 cents, to $55.55. Vornado's fell $1.20, to $122.35.</p>
+        <p>Without waiting for the Vornado offer, Blackstone raised the stakes last week to $54 a share, an 11 percent premium over the price it had agreed to pay in November.</p>
+        <p>On Sunday, Institutional Shareholder Services, a proxy advisory company, recommended that the Blackstone bid be accepted. Though the Blackstone rejoinder was higher than expected, it seemed almost inevitable that the contest would not end easily.</p>
+        <p>If Vornado is successful, it plans to hold onto most of the Equity buildings on both coasts, giving the company a breadth it does not currently have. Equity Office owns 543 office buildings with 103.1 million square feet of space.</p>
+        <p>Both Blackstone and Equity Office have pointed out that the Vornado offer carries a risk for Equity Office shareholders since it would be subject to a vote by Vornado shareholders. Blackstone has said it could complete the transaction three days after Equity Office shareholders approve it. A shareholders vote is scheduled for Monday.</p>
+        <p>Only 6.7 percent of Equity Office's square footage is in Manhattan, the company reported yesterday.</p>
+        <p>But its Manhattan portfolio, which includes the office portion of 717 Fifth Avenue, at 56th Street, and WorldWide Plaza on Eighth Avenue and 50th Street, accounts for 9.1 percent of the company's net operating income.</p>
+        <p>The frenzy over Equity Office is the latest indication of how much capital is flowing into commercial real estate, especially office buildings. Many investors believe that vacancy rates will continue to decline in the next couple of years, with a corresponding rise in rents.</p>
+        <p>''Everybody's ratcheting up the numbers on these office companies, and Manhattan is the most visible market.'' the editor of REIT Wrap, Barry Vinocur, said yesterday.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

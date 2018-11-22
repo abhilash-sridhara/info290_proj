@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>RESIDENTIAL SALES</title>
+    <meta content="01nysale" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1822919"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E3DD153FF932A35751C0A9619C8B63" item-length="707" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>RESIDENTIAL SALES</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Manhattan</p>
+        <p>GREENWICH VILLAGE  $1.6 million  20 East Ninth Street  (Brevoort East)  3-bedroom, 3-bath, 1,850-sq.-ft. co-op in a postwar building; 24-hr. doormen, concierge; entry foyer, two kitchens; gym in building; maintenance $2,216, 50% tax deductible; listed at $1.75 million, 43 weeks on market (broker: Corcoran Group)</p>
+        <p>UPPER EAST SIDE  $860,000  188 East 64th Street  (Royale)  1-bedroom, 1-bath, 740-sq.-ft. condo in a postwar building; 24-hr. doormen, concierge; Central Park view, 3 exposures; terrace; gym and laundry facilities in building; common charge $633; taxes $7,560; listed at $920,000, 5 weeks on market (broker: Peter Ashe Real Estate)</p>
+        <p>MORNINGSIDE HEIGHTS  $399,000  993 Amsterdam Avenue (109th Street)  2-bedroom, 1-bath, 700-sq.-ft. co-op in a prewar building; maintenance $349, no tax deduction; listed at $399,000, 2 weeks on market (brokers: Corcoran Group; Manhattan Apartments)</p>
+        <p>HAMILTON HEIGHTS  $760,000  559 West 159th Street  3-family, 4-story prewar attached brick house; 2 bedrooms, eat-in kitchen in primary unit; 1 bedroom in upper-floor units; 1 bath in each; 15-by-99-ft. lot; taxes $1,476; listed at $775,000, 15 weeks on market (broker: Corcoran Group)</p>
+        <p>HUDSON HEIGHTS  $555,000  730 Fort Washington Avenue (Margaret Corbin Circle)  2-bedroom, 1-bath, 1,050-sq.-ft. co-op in a prewar Art Deco building; part-time doormen; sunken living room, marble bath; common gardens and exercise room in building; maintenance $940, 34% tax deductible; listed at $585,000, 6 weeks on market (broker: Simone Song Properties)</p>
+        <p>Bronx</p>
+        <p>RIVERDALE</p>
+        <p>$600,000  3816 Waldo Avenue  (Waterford)  3-bedroom, 2-bath, 1,238-sq.-ft. condo in a 2-year-old building; part-time doormen; dining area, laundry, south exposure; terrace; recreation room in building; common charge $564; taxes $154 (abated); listed at $615,000, 12 weeks on market (broker: Halstead Property)</p>
+        <p>Brooklyn</p>
+        <p>BROOKLYN HEIGHTS  $413,000  215 Adams Street  (Concord Village)  1-bedroom, 1-bath, 769-sq.-ft. co-op in a postwar building; 24-hr. doormen; dining area, renovated kitchen and marble bath, hardwood floors, north and west exposures, Manhattan skyline view; common roof deck and laundry in building; maintenance $841, 39% tax deductible; listed at $429,000, 12 weeks on market (broker: Bellmarc Realty)</p>
+        <p>FORT GREENE  $2.18 million  348 Carlton Avenue  2-family, 4-story prewar town house; 3 bedrooms, 3 baths, dining room, double parlor, library with fireplace, French doors, private deck in primary unit; 1 bedroom, 1 bath, rear patio in other unit; dining room, original molding and detail in each; 22-by-100-ft. lot; taxes $3,384; listed at $2.25 million, 19 weeks on market (broker: Brooklyn Properties of 7th Avenue)</p>
+        <p>Queens</p>
+        <p>BAYSIDE  $440,000  33-27 204th Street  3-bedroom, 1-bath, wood colonial; dining room, renovated eat-in kitchen with new countertops, family room, finished basement, hardwood floors, 3-zone heat; 18-by-95-ft. lot; taxes $1,316; listed at $459,888, 4 weeks on market (broker: ReMax Millennium)</p>
+        <p>HOLLIS  $585,000  190-18 89th Avenue  7-bedroom, 1 1/2-bath, 92-year-old vinyl-sided colonial; dining room, eat-in kitchen, living room, family room, hardwood floors; 1-car garage; 55-by-100-ft. lot; taxes $3,226; listed at $649,000, 3 weeks on market (broker: Goller &amp; Costi)</p>
+        <p>Indiana</p>
+        <p>INDIANAPOLIS</p>
+        <p>$142,000  1744 Crossman Drive  3-bedroom, 2-bath, 42-year-old 1-story brick- and vinyl-sided house; dining room, updated kitchen, family room, sunroom, new windows and roof; 2-car garage; 120-by-150-ft. lot; taxes $1,734; listed at $146,900, 14 weeks on market (broker: Prudential Ron Matthews Realtors)</p>
+        <p>INDIANAPOLIS</p>
+        <p>$296,000  6616 Tuxedo Lane  4-bedroom, 6-bath, 20-year-old 2-story brick- and wood-sided house; wraparound porch, renovated eat-in kitchen with breakfast room, bonus room above garage, 2 fireplaces; rear deck, in-ground pool; 100-by-114-ft. lot; taxes $2,404; listed at $309,900, 13 weeks on market (broker: Century 21 at the Crossing)</p>
+        <p>INDIANAPOLIS  $705,000  8656 Bay Colony Drive  3-bedroom, 3 1/2-bath, 10-year-old 1-story brick-sided house; entry foyer, dining room, eat-in kitchen with walk-in pantry, family room with fireplace, cathedral ceilings, wine cellar; in-ground pool, 3-car garage; 0.65-acre lot; taxes $9,340; listed at $769,500, 19 weeks on market (broker: Century 21 at the Crossing)</p>
+        <p>AVON  $166,350  992 Weeping Way  4-bedroom, 3-bath, 8-year-old 2-story brick- and vinyl-sided house; eat-in kitchen; gas fireplace, home office; 2-car garage; 70-by-135-ft. lot; taxes $1,770; listed at $169,450, 17 weeks on market (broker: Prudential Ron Matthews Realtors)</p>
+        <p>AVON</p>
+        <p>$315,000  6279 Red Alder Drive  4-bedroom, 3-bath, 14-year-old 2-story brick-sided house; foyer, oak staircase, den, sunroom; in-ground pool, 3-car garage; 121-by-217-ft. lot; taxes $4,190; listed at $324,500, 16 weeks on market (broker: Prudential Ron Matthews Realtors)</p>
+      </block>
+      <block class="full_text">
+        <p>Manhattan</p>
+        <p>GREENWICH VILLAGE  $1.6 million  20 East Ninth Street  (Brevoort East)  3-bedroom, 3-bath, 1,850-sq.-ft. co-op in a postwar building; 24-hr. doormen, concierge; entry foyer, two kitchens; gym in building; maintenance $2,216, 50% tax deductible; listed at $1.75 million, 43 weeks on market (broker: Corcoran Group)</p>
+        <p>UPPER EAST SIDE  $860,000  188 East 64th Street  (Royale)  1-bedroom, 1-bath, 740-sq.-ft. condo in a postwar building; 24-hr. doormen, concierge; Central Park view, 3 exposures; terrace; gym and laundry facilities in building; common charge $633; taxes $7,560; listed at $920,000, 5 weeks on market (broker: Peter Ashe Real Estate)</p>
+        <p>MORNINGSIDE HEIGHTS  $399,000  993 Amsterdam Avenue (109th Street)  2-bedroom, 1-bath, 700-sq.-ft. co-op in a prewar building; maintenance $349, no tax deduction; listed at $399,000, 2 weeks on market (brokers: Corcoran Group; Manhattan Apartments)</p>
+        <p>HAMILTON HEIGHTS  $760,000  559 West 159th Street  3-family, 4-story prewar attached brick house; 2 bedrooms, eat-in kitchen in primary unit; 1 bedroom in upper-floor units; 1 bath in each; 15-by-99-ft. lot; taxes $1,476; listed at $775,000, 15 weeks on market (broker: Corcoran Group)</p>
+        <p>HUDSON HEIGHTS  $555,000  730 Fort Washington Avenue (Margaret Corbin Circle)  2-bedroom, 1-bath, 1,050-sq.-ft. co-op in a prewar Art Deco building; part-time doormen; sunken living room, marble bath; common gardens and exercise room in building; maintenance $940, 34% tax deductible; listed at $585,000, 6 weeks on market (broker: Simone Song Properties)</p>
+        <p>Bronx</p>
+        <p>RIVERDALE</p>
+        <p>$600,000  3816 Waldo Avenue  (Waterford)  3-bedroom, 2-bath, 1,238-sq.-ft. condo in a 2-year-old building; part-time doormen; dining area, laundry, south exposure; terrace; recreation room in building; common charge $564; taxes $154 (abated); listed at $615,000, 12 weeks on market (broker: Halstead Property)</p>
+        <p>Brooklyn</p>
+        <p>BROOKLYN HEIGHTS  $413,000  215 Adams Street  (Concord Village)  1-bedroom, 1-bath, 769-sq.-ft. co-op in a postwar building; 24-hr. doormen; dining area, renovated kitchen and marble bath, hardwood floors, north and west exposures, Manhattan skyline view; common roof deck and laundry in building; maintenance $841, 39% tax deductible; listed at $429,000, 12 weeks on market (broker: Bellmarc Realty)</p>
+        <p>FORT GREENE  $2.18 million  348 Carlton Avenue  2-family, 4-story prewar town house; 3 bedrooms, 3 baths, dining room, double parlor, library with fireplace, French doors, private deck in primary unit; 1 bedroom, 1 bath, rear patio in other unit; dining room, original molding and detail in each; 22-by-100-ft. lot; taxes $3,384; listed at $2.25 million, 19 weeks on market (broker: Brooklyn Properties of 7th Avenue)</p>
+        <p>Queens</p>
+        <p>BAYSIDE  $440,000  33-27 204th Street  3-bedroom, 1-bath, wood colonial; dining room, renovated eat-in kitchen with new countertops, family room, finished basement, hardwood floors, 3-zone heat; 18-by-95-ft. lot; taxes $1,316; listed at $459,888, 4 weeks on market (broker: ReMax Millennium)</p>
+        <p>HOLLIS  $585,000  190-18 89th Avenue  7-bedroom, 1 1/2-bath, 92-year-old vinyl-sided colonial; dining room, eat-in kitchen, living room, family room, hardwood floors; 1-car garage; 55-by-100-ft. lot; taxes $3,226; listed at $649,000, 3 weeks on market (broker: Goller &amp; Costi)</p>
+        <p>Indiana</p>
+        <p>INDIANAPOLIS</p>
+        <p>$142,000  1744 Crossman Drive  3-bedroom, 2-bath, 42-year-old 1-story brick- and vinyl-sided house; dining room, updated kitchen, family room, sunroom, new windows and roof; 2-car garage; 120-by-150-ft. lot; taxes $1,734; listed at $146,900, 14 weeks on market (broker: Prudential Ron Matthews Realtors)</p>
+        <p>INDIANAPOLIS</p>
+        <p>$296,000  6616 Tuxedo Lane  4-bedroom, 6-bath, 20-year-old 2-story brick- and wood-sided house; wraparound porch, renovated eat-in kitchen with breakfast room, bonus room above garage, 2 fireplaces; rear deck, in-ground pool; 100-by-114-ft. lot; taxes $2,404; listed at $309,900, 13 weeks on market (broker: Century 21 at the Crossing)</p>
+        <p>INDIANAPOLIS  $705,000  8656 Bay Colony Drive  3-bedroom, 3 1/2-bath, 10-year-old 1-story brick-sided house; entry foyer, dining room, eat-in kitchen with walk-in pantry, family room with fireplace, cathedral ceilings, wine cellar; in-ground pool, 3-car garage; 0.65-acre lot; taxes $9,340; listed at $769,500, 19 weeks on market (broker: Century 21 at the Crossing)</p>
+        <p>AVON  $166,350  992 Weeping Way  4-bedroom, 3-bath, 8-year-old 2-story brick- and vinyl-sided house; eat-in kitchen; gas fireplace, home office; 2-car garage; 70-by-135-ft. lot; taxes $1,770; listed at $169,450, 17 weeks on market (broker: Prudential Ron Matthews Realtors)</p>
+        <p>AVON</p>
+        <p>$315,000  6279 Red Alder Drive  4-bedroom, 3-bath, 14-year-old 2-story brick-sided house; foyer, oak staircase, den, sunroom; in-ground pool, 3-car garage; 121-by-217-ft. lot; taxes $4,190; listed at $324,500, 16 weeks on market (broker: Prudential Ron Matthews Realtors)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

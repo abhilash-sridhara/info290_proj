@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Resurgence of E-Cards</title>
+    <meta content="30ecom" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/30/technology/30ecom.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1735849"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="E-COMMERCE REPORT"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/E-Commerce</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Operations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/E-Commerce Report</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Blue Mountain Arts</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E7DC1E3FF933A05752C0A9609C8B63" item-length="1175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Resurgence of E-Cards</hl1>
+        <hl2 class="online_headline">The Resurgence of E-Cards</hl2>
+      </hedline>
+      <byline class="print_byline">By Bob Tedeschi</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE online greeting card industry is starting to make some noise again. Just ask the screaming banshee.</p>
+        <p>The highly freaked-out woman, known by millions from an animated Halloween e-card from Hallmark.com, is back, this time in a Valentine's Day revival of her hair-raising neuroses.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The online greeting card industry, which was an icon of the dot-com boom and a quick victim of the bust, is starting to make some noise again.</p>
+      </block>
+      <block class="full_text">
+        <p>THE online greeting card industry is starting to make some noise again. Just ask the screaming banshee.</p>
+        <p>The highly freaked-out woman, known by millions from an animated Halloween e-card from Hallmark.com, is back, this time in a Valentine's Day revival of her hair-raising neuroses.</p>
+        <p>The character's return helps punctuate the quiet resurgence of the e-card category, which was an icon of the dot-com boom and a quick -- and for some, deserving -- victim of the bust. Companies are designing more heavily animated cards to circulate among high-speed Internet users, and despite the costs of creating and distributing these cards, businesses are generating profits, thanks to a healthy online ad market and a willingness among millions of consumers to pay for the cards.</p>
+        <p>Not that anyone will have to pay to hear the banshee scream: Hallmark, the behemoth of the greeting card industry, uses her as an Internet rainmaker of sorts. The company distributes all of its e-cards free, in exchange for the right to show short in-house commercials to senders and recipients.</p>
+        <p>Natalie Hartman, Hallmark.com's marketing manager, said the company had followed this approach since Blue Mountain Arts, the pioneer of free e-cards, forced most of its competitors to follow suit in the late 1990's.</p>
+        <p>Excite@Home, the ill-fated online portal and high-speed Internet service, bought Blue Mountain for $780 million in 1999, partly for its ability to give advertisers a way to reach a wide swath of the Internet audience. Excite sold Blue Mountain two years later for $35 million to American Greetings, Hallmark's chief competitor, and shortly thereafter the site began charging for subscriptions.</p>
+        <p>But Hallmark gains enough business from its cards that they are worth giving away, Ms. Hartman said. The company, which is privately held, does not disclose how much more money e-card senders and recipients spend with Hallmark, both online and off.</p>
+        <p>''But if you get customers to interact with you both online and in the stores, they're better customers,'' Ms. Hartman said. ''We're seeing that.''</p>
+        <p>Hallmark's e-card operation has also turned out to be an ad hoc business incubator. The company's e-card team dreamed up Hoops &amp; YoYo, a pair of talking dogs whose quick popularity prompted Hallmark to create T-shirts, dolls and a Christmas CD around the characters. ''It's in the midst of taking off,'' Ms. Hartman said.</p>
+        <p>The same can be true for the e-card unit of American Greetings. The business earlier this month announced it had reached 2.5 million subscribers, who pay $14 annually to send an unlimited number of cards, after stagnating at about 2.1 million for nearly two years.</p>
+        <p>According to Sally Babcock, the senior vice president of American Greetings' online division, the company will probably deliver three million e-cards this Valentine's Day, the peak day of the year. That's about 15 percent more than last year, she said. ''After settling for more than two years, the marketplace is now increasing,'' she said.</p>
+        <p>Ms. Babcock attributed the growth chiefly to an improvement in the quality of the cards. ''You can customize the cards more than ever,'' she said. ''There's better animation, better music, better captions.''</p>
+        <p>Of the roughly 8,000 e-cards available on the site, Ms. Babcock said 80 percent were animated, compared to 50 percent last year. By midyear, nearly 90 percent will be animated.</p>
+        <p>AmericanGreetings.com gives away a small number of those ''as kind of a sampling model,'' she said. ''But we also know some of those people won't subscribe, and we want them to stay with us.''</p>
+        <p>In addition to revenues gleaned from subscriptions, the company earns money from advertisements it sells on the site and on the e-cards when they play. The company does not say how much advertising revenue it generates, but Ms. Babcock said such revenues jumped by 25 percent last year.</p>
+        <p>Of course, none of this means much if the company cannot earn a profit. American Greetings will not release figures for its e-commerce division, but Ms. Babcock said its profits were ''incredibly strong,'' and growing.</p>
+        <p>That is a good thing for American Greetings -- the greeting card industry in general is in a bit of a slump, as consumers have migrated to cheaper cards sold by Wal-Mart and other mass market retailers in recent years.</p>
+        <p>According to Kathleen M. Reed, an analyst with Stanford Financial Group, an investment firm, AmericanGreetings.com is ''one of the company's two main growth drivers, with the other being licensing revenue.''</p>
+        <p>Ms. Reed pointed out that one of the company's signature cards of last year, featuring a Thanksgiving turkey singing ''I Will Survive,'' was sent to more than 30 million people. ''And even though you might have gotten it free, when you click on it, it brings you to the AmericanGreetings.com site,'' she said. ''It's a great strategy.''</p>
+        <p>The advent of paid subscriptions for e-cards, Ms. Reed said, may actually be a good thing for the market, in that the cards now receive more attention than when they were free.</p>
+        <p>''I remember when Blue Mountain came out. I got about three cards a day,'' Ms. Reed said. ''Happy Groundhog Day, happy purple day, happy being alive day. Enough! I enjoy getting them now, because I hardly get them and it's more of a treat.''</p>
+        <p>Perhaps the biggest surprise of the online greeting card market is that the most popular site is not Hallmark or American Greetings, but a five-person company in Britain, JacquieLawson.com.</p>
+        <p>According to the Internet consulting firm Nielsen/NetRatings, JacquieLawson.com had 22.7 million visitors in December, more than twice its closest competitor, AmericanGreetings.com.</p>
+        <p>The business started on a whim when Ms. Lawson, an artist working for a Web site developer, created a Christmas card in 2000 and sent it to a dozen friends while she was on vacation. Ms. Lawson returned from vacation to 1,600 e-mail messages from people who had seen the card, and a company was born.</p>
+        <p>Now, JacquieLawson.com has 527,000 subscribers who pay about $8 annually to choose from among about 60 cards Ms. Lawson and a colleague have created.</p>
+        <p>Andrew Dukes, the company's commercial manager, said that JacquieLawson.com had thrived in part because her cards had more sophisticated animation than others on the market. (A popular Fourth of July card, for instance, features marine creatures gathering into a patriotic mosaic, bracketed by the phrase ''From sea to shining sea.'')</p>
+        <p>''Two or three years ago, Jacquie said she wanted to raise the quality of e-cards,'' Mr. Dukes said. ''I said 'Are you being realistic?' But looking back, the quality has improved. She'd say that's because of her, and she's probably right.''</p>
+        <p>E-COMMERCE REPORT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

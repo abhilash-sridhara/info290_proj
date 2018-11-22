@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OPEC Plans Million-Barrel Cut in Output</title>
+    <meta content="11OIL" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/02/11/business/11oil.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1557987"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">International Trade and World Market</classifier>
+        <classifier class="indexing_service" type="descriptor">Production</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Quotas</classifier>
+        <org class="indexing_service">Organization of Petroleum Exporting Countries</org>
+        <person class="indexing_service">Romero, Simon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Production</classifier>
+        <classifier class="online_producer" type="general_descriptor">Quotas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Organization of Petroleum Exporting Countries</org>
+        <org class="online_producer">New York Mercantile Exchange</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE1D7153AF932A25751C0A9629C8B63" item-length="1290" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OPEC Plans Million-Barrel Cut in Output</hl1>
+        <hl2 class="online_headline">OPEC Plans Million-Barrel Cut in Output</hl2>
+      </hedline>
+      <byline class="print_byline">By SIMON ROMERO</byline>
+      <byline class="normalized_byline">Romero, Simon</byline>
+      <dateline>ALGIERS, Feb. 10</dateline>
+      <abstract>
+        <p>OPEC seeks to strengthen its grip on world oil markets with announcement of cuts in production, aggressively displaying its desire to maintain oil prices at their highest sustained level in two decades; prices rise in response, up more than 3 percent in New York, to $33.87 per barrel; formal reduction in output by OPEC, intended to withdraw one million barrels of crude oil per day from market beginning in April, would lower group's objective to 23.5 million barrels per day; OPEC members also call for stricter adherence to their own quotas in effort to reduce overproduction by further 1.5 million barrels per day; graphs; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>OPEC sought to strengthen its grip on world oil markets on Tuesday with an announcement of cuts in production, aggressively displaying its desire to maintain oil prices at their highest sustained level in two decades. Prices rose in response, up more than 3 percent in New York, to $33.87 a barrel.</p>
+        <p>The formal reduction in output by the Organization of the Petroleum Exporting Countries, intended to withdraw one million barrels of crude oil a day from the market starting in April and seen by some here as a surprise, would lower the group's production objective to 23.5 million barrels a day. OPEC members also called for stricter adherence to their own quotas in an effort to reduce overproduction by a further 1.5 million barrels a day.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>OPEC announced cuts in production, aggressively displaying its desire to maintain oil prices at their highest sustained level in two decades.</p>
+      </block>
+      <block class="full_text">
+        <p>OPEC sought to strengthen its grip on world oil markets on Tuesday with an announcement of cuts in production, aggressively displaying its desire to maintain oil prices at their highest sustained level in two decades. Prices rose in response, up more than 3 percent in New York, to $33.87 a barrel.</p>
+        <p>The formal reduction in output by the Organization of the Petroleum Exporting Countries, intended to withdraw one million barrels of crude oil a day from the market starting in April and seen by some here as a surprise, would lower the group's production objective to 23.5 million barrels a day. OPEC members also called for stricter adherence to their own quotas in an effort to reduce overproduction by a further 1.5 million barrels a day.</p>
+        <p>''We will do what it takes to keep the price stable,'' said Ali al-Naimi, the oil minister of Saudi Arabia, OPEC's pivotal and most productive member. ''Saudi Arabia could not countenance waiting until the next meeting to decide on a cut as that would be too late.''</p>
+        <p>OPEC's announcement emphasized a more forceful approach in its strategy to pre-empt developments that might cause oil prices to decline, like increased production by Russia, Norway or other producing nations that do not belong to OPEC.</p>
+        <p>Economists said that OPEC's production cut, while unlikely to push prices up enough to damage the American economy, could dampen the recovery somewhat.</p>
+        <p>''Generally, lower oil prices are better for the economy than higher prices,'' said Joel Prakker, chairman of Macroeconomic Advisers, a consulting firm in St. Louis. ''That said, oil at $33 a barrel is not the end of the economy. It just means it won't grow as fast as if prices were falling or were $20.''</p>
+        <p>A White House spokesman reacted to OPEC's move on Tuesday with apprehension. Shortly after the output reduction was announced, the spokesman, Trent Duffy, said, ''It is our hope that producers do not take actions that undermine the American economy and American workers, and American consumers for that matter.''</p>
+        <p>OPEC cited expectations of waning seasonal demand as the main justification for the production cuts, but some individual representatives cited other reasons. Libya's energy minister, Abdulhafid Mahmoud Zlitni, said ''excessive supply'' from growing production by non-OPEC members contributed to the group's decision. OPEC accounts for about a third of global production, down from 65 percent three decades ago.</p>
+        <p>It remains to be seen in the weeks and months ahead whether OPEC will actually reduce production as much as it says it intends. Together, the steps outlined on Tuesday would effectively cut OPEC output nearly 10 percent, an ambitious objective that was met with skepticism by energy industry executives and analysts who see little incentive for member nations to reduce production while oil prices remain relatively high.</p>
+        <p>On the New York Mercantile Exchange yesterday, benchmark crude oil for March delivery increased $1.04 a barrel, the biggest one-day gain in more than a week. It has traded above $30 a barrel for more than two months, and has sold at levels from $25 to $40 for almost two years. Five years ago, oil traded for $11.30 a barrel.</p>
+        <p>Prices have remained relatively high even though OPEC's 11 members have regularly surpassed production quotas. This has increased revenue significantly -- every OPEC nation relies on oil for a significant part of its budget, and most OPEC members remain under considerable fiscal pressure.</p>
+        <p>Venezuela, which has been incapable of meeting its production quota since a government purge last year of managers at the national oil company, devalued its currency by 17 percent this week to generate more revenue from international oil sales. About half of Venezuela's export revenue comes from oil, making production cuts particularly painful.</p>
+        <p>Officials here in Algeria, the host of Tuesday's gathering, said they were doing all they could to increase domestic oil production to finance antiterrorism efforts and the rebuilding of essential infrastructure wrecked by a decade of civil conflict that has resulted in more than 100,000 deaths.</p>
+        <p>The Algerian finance minister, Abdelatif Benachenhou, confirmed in an interview on Tuesday that his government intended to lobby with other OPEC members to increase Algeria'as production quota. Mr. Benachenhou also stressed a need for higher oil prices because of the decline of the dollar against the euro.</p>
+        <p>''Almost 95 percent of our exports are in dollars while more than 90 percent of our imports are in euros,'' he said. ''Algeria is like a household that earns its money in dollars and spends it in euros.''</p>
+        <p>Such sentiment appears to put much of the responsibility for any short-term cuts in OPEC production on Saudi Arabia, which has greater capacity to make rapid shifts in its output. Mr. Naimi, the Saudi minister, affirmed his goal of getting the commodity price of oil down to $25 a barrel, but he generated few believers that anyone in OPEC wanted lower prices.</p>
+        <p>''It remains to be seen whether the Saudis can do it,'' said Katherine Specter, an energy strategist at Deutsche Bank. ''For now, it's still mostly an empty statement.''</p>
+        <p>Even so, the psychological effect of OPEC's announcement and the prospect of higher oil prices evoked surprise and concern among several energy company representatives who came to Algiers to follow Tuesday's meeting. ''We will have to react to this right away,'' said Shigeru Kikuchi, an energy analyst at Idemitsu, a large Japanese refinery company. ''It was not something we had expected.''</p>
+        <p>OPEC would need to cut its output by only about a million barrels a day to keep prices at the higher end of its proposed trading range of $22 to $28 a barrel, said Jim Burkhard, director of oil market analysis at Cambridge Energy Research Associates.</p>
+        <p>OPEC's price, based on the average price of several types of crude produced by its members, has been above $28 since the beginning of December -- after the previous production cut of 900,000 barrels in September. The OPEC price is generally $2 to $3 a barrel below that of higher-quality West Texas intermediate crude oil traded in New York.</p>
+        <p>OPEC's price range is of keen interest to the oil markets as members continue to voice concern that the declining value of the dollar, the currency in which oil is priced, makes their trade in other currencies more expensive. In fact, OPEC seems prepared to allow oil prices to remain above $28 for some time.</p>
+        <p>''A sense of higher prices, whether stated policy or not, is what is happening in practice,'' Mr. Burkhard said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

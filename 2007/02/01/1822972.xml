@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Governor Spitzer's Pivotal Budget</title>
+    <meta content="01thu3" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/01/opinion/01thu3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1822972"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Spitzer, Eliot (Gov)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">New York State</location>
+        <person class="online_producer">Spitzer, Eliot L</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E0DC153FF932A35751C0A9619C8B63" item-length="389" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Governor Spitzer's Pivotal Budget</hl1>
+        <hl2 class="online_headline">Governor Spitzer’s Pivotal Budget</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial lauds Gov Eliot Spitzer's first New York State budget; urges state Legislature to vet budget with focus on interests of regular New Yorkers, not political supporters</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gov. Eliot Spitzer described his first New York State budget yesterday as a ''pivot'' from the old way of doing things. He wants to turn away from a financial system that rewards political favorites to one that focuses on what regular people -- students, patients, taxpayers, workers -- actually get when New York spends a stunning $120 billion. That emphasis has resulted in one of the boldest, bravest budget proposals in Albany in many years.</p>
+        <p>Mr. Spitzer's most innovative move throws out the calcified state education formula, which cheats poor, urban school districts, and directs substantially more money to the schools that need it most. He is proposing universal prekindergarten care, which is critical to helping the most disadvantaged children, and he wants to build in accountability to ensure the money is well spent.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mr. Spitzer wants to turn away from a financial system that rewards political favorites to one that focuses on what regular people actually get when New York spends a stunning $120 billion.</p>
+      </block>
+      <block class="full_text">
+        <p>Gov. Eliot Spitzer described his first New York State budget yesterday as a ''pivot'' from the old way of doing things. He wants to turn away from a financial system that rewards political favorites to one that focuses on what regular people -- students, patients, taxpayers, workers -- actually get when New York spends a stunning $120 billion. That emphasis has resulted in one of the boldest, bravest budget proposals in Albany in many years.</p>
+        <p>Mr. Spitzer's most innovative move throws out the calcified state education formula, which cheats poor, urban school districts, and directs substantially more money to the schools that need it most. He is proposing universal prekindergarten care, which is critical to helping the most disadvantaged children, and he wants to build in accountability to ensure the money is well spent.</p>
+        <p>It would be difficult to get the new formula through the Legislature without something to win over suburban and upstate lawmakers. Mr. Spitzer has offered to cut property taxes by $6 billion statewide over the next three years, with the biggest cuts going to the middle class.</p>
+        <p>He also wants to overhaul the $45 billion Medicaid system, which spends more per capita than any other state. The Spitzer solution would shift money away from hospitals and nursing homes and toward expanded health care, including health insurance for all New York children. Unions, hospital advocates and politicians have already begun to raise the alarm. But the governor is right to fight for a fairer, more cost-effective distribution of public funds.</p>
+        <p>Mr. Spitzer has chosen other worthwhile battles. He proposes pay increases for judges -- long overdue -- and rightly decouples them from raises for the Legislature.</p>
+        <p>The question now is whether legislators will join Mr. Spitzer in moving the state forward. The Assembly speaker, Sheldon Silver, and the Senate majority leader, Joseph Bruno, both rushed to offer some praise but also to note their ''concerns'' about the governor's health care proposals. Mr. Spitzer's budget will need a thorough vetting, but any wheedling from legislators should focus on the interests of regular New Yorkers, not political supporters.</p>
+        <p>This first budget makes good on Mr. Spitzer's promise to start upending the ailing culture in Albany. Legislators are integral to the budget process, and they should weigh in now with their own ideas -- but only the ones that really make the budget better.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

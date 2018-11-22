@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   MACDONALD, SHEILA GLEESON</title>
+    <meta content="dn020207" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1823106"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">MACDONALD, SHEILA GLEESON</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070202T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE3DE163AF931A35751C0A9619C8B63" item-length="90" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   MACDONALD, SHEILA GLEESON</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MacDONALD--Sheila Gleeson, February 1, formerly of Brooklyn, NY, and Southbury, CT. Born November 25, 1917, Bronx, NY. Beloved wife of the late Gordon. Sheila was a retired Vice President of Grolier Inc. and enjoyed a long and eventful life of travel and professional success. She is survived by her loving nieces and nephews. Reposing Law Funeral Home, 1 Jerusalem Avenue, Massapequa, NY, Sunday 2-5 and 7-9:30. Mass of Resurrection Monday, 9:45 am, at Maria Regina Church, Seaford, NY. Interment Holy Cross Cemetery, Brooklyn, NY. May she rest in peace.</p>
+      </block>
+      <block class="full_text">
+        <p>MacDONALD--Sheila Gleeson, February 1, formerly of Brooklyn, NY, and Southbury, CT. Born November 25, 1917, Bronx, NY. Beloved wife of the late Gordon. Sheila was a retired Vice President of Grolier Inc. and enjoyed a long and eventful life of travel and professional success. She is survived by her loving nieces and nephews. Reposing Law Funeral Home, 1 Jerusalem Avenue, Massapequa, NY, Sunday 2-5 and 7-9:30. Mass of Resurrection Monday, 9:45 am, at Maria Regina Church, Seaford, NY. Interment Holy Cross Cemetery, Brooklyn, NY. May she rest in peace.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

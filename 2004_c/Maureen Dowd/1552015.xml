@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dudgeons And Dragons</title>
+    <meta content="18DOWD" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/01/18/opinion/18DOWD.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1552015"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2004</classifier>
+        <person class="indexing_service">Dean, Howard (Dr)</person>
+        <person class="indexing_service">Dowd, Maureen</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Maureen Dowd</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Democratic Party</org>
+        <person class="online_producer">Dean, Howard</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E5D61F30F93BA25752C0A9629C8B63" item-length="791" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dudgeons And Dragons</hl1>
+        <hl2 class="online_headline">Dudgeons and Dragons</hl2>
+      </hedline>
+      <byline class="print_byline">By MAUREEN DOWD</byline>
+      <byline class="normalized_byline">Dowd, Maureen</byline>
+      <dateline>DES MOINES</dateline>
+      <abstract>
+        <p>Maureen Dowd Op-Ed column says Howard Dean appeals to Democrats who yearn for candidate tough enough to stand up to Bush family machine (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I went to Iowa hunting Howard Dean. His campaign said he might give me five minutes. On the phone.</p>
+        <p>At first, five minutes sounded pretty cursory. But I decided to be philosophical. Out of his 15 minutes of angry fame, Howard Dean was willing to devote a third of it to me.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>I never got my five-minute interview with Howard Dean. Which left me five minutes to think about why his candidacy was sputtering.</p>
+      </block>
+      <block class="full_text">
+        <p>I went to Iowa hunting Howard Dean. His campaign said he might give me five minutes. On the phone.</p>
+        <p>At first, five minutes sounded pretty cursory. But I decided to be philosophical. Out of his 15 minutes of angry fame, Howard Dean was willing to devote a third of it to me.</p>
+        <p>How best to figure out someone who comes out of nowhere and wants to lead the world in five minutes?</p>
+        <p>I quizzed Tom Harkin, Mr. Iowa, about why he had endorsed Dr. Dean, even though it infuriated his spurned Senate buddy John Kerry and disappointed fellow Midwesterner Dick Gephardt. Senator Harkin didn't seem especially close to the Vermont governor. At the 2002 Jefferson-Jackson Day dinner here, he twice called the Democrat John Dean (as Martin Sheen did in a speech here last week).</p>
+        <p>''He's a fire hydrant,'' Mr. Harkin said over dinner at Bambino's in Cumming. ''If you kick it, it's going to hurt you. But it's stable and secure and there when you need it.''</p>
+        <p>It wasn't the most glamorous metaphor. But I knew what he meant.</p>
+        <p>Democrats yearn for somebody tough enough to stand up to the Bush family machine. They're still smarting that Al Gore lost a presidency he won. They watched even a fellow as gritty as John McCain crumple during the 2000 South Carolina primary, stunned by the sulfurous personal attacks of Bush supporters.</p>
+        <p>A fire hydrant sprays back.</p>
+        <p>Dr. Dean has certainly proved he's tough. The press critiques on him -- ''hotheaded,'' ''arrogant,'' ''mercurial,'' ''a jerk'' -- echo the knocks on W., back before ''the Roman candle'' of the Bush family ran for Texas governor and transformed himself into a disciplined and genial campaigner.</p>
+        <p>After months of watching Dr. Dean's neck bulging, face churning, and sleeves rolled up tourniquet-tight, many of my colleagues were longing to ask the pugilistic pol, as one put it: ''Do you ever lighten up, dude?''</p>
+        <p>I decided to use my five minutes to find out if he has the sunny side Americans love in their leaders. I'd ask him what he'd want to do for fun on a Saturday night if he could play hooky. I'd ask him the last time he did something goofy and what made him really laugh.</p>
+        <p>While I was waiting for him to call, I grew more and more afraid that he'd get angry at me for wasting his time with piffle. I cowered by the phone, jumping when it rang.</p>
+        <p>I never got the five minutes with him. Which left me five minutes to think about why his candidacy was sputtering.</p>
+        <p>He has a problem with his mythic arc. Presidential campaigns trace the patterns of mythological adventure, as contenders strive to show they are superior in the knightly virtues of temperance, loyalty and courage.</p>
+        <p>Once candidates showed that they had completed the ''hero-task'' by highlighting their war exploits -- J.F.K. and PT 109, George Bush senior getting shot down as a young Navy pilot over Chichi Jima.</p>
+        <p>Candidates in the Vietnam War generation who chose not to go to Vietnam had to find more personal dragons and giants to slay. Bill Clinton told the story of confronting an abusive and alcoholic stepfather; George W. Bush recounted overcoming alcoholism and career drift by embracing Christ.</p>
+        <p>In Iowa, Mr. Gephardt talks about the transforming experience of his son's battle against cancer. Mr. Kerry describes the crucible of Vietnam. John Edwards's arc is going from the son of a millworker to a Grishamesque trial lawyer standing up against corporate malefactors.</p>
+        <p>Shunning personal storytelling, Dr. Dean has chosen to make his campaign arc about his campaign arc. He brags of facing down the dragon George W. Bush.</p>
+        <p>As he said at a rally here last week about his Democratic rivals: ''They weren't there when it was time to stand up to the president on the war in Iraq. . . . If you want someone to stand up to George Bush, I've done it.''</p>
+        <p>Personal history shouldn't be a substitute for policy. An overreliance on stories of dramatic heroism and physical suffering can overwhelm a campaign, as it did with Bob Kerrey and Bob Dole, devolving into the politics of self. And yuppie sagas of sin and redemption can become strained with repetition.</p>
+        <p>But a race rooted mainly in attacking the president may not take Dr. Dean far enough. Voters want someone who's been through the fire. They care about character. They want to know the evolution of the man, even if it's a myth.</p>
+        <p>Op-Ed Columnist E-mail: liberties@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: liberties@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>
