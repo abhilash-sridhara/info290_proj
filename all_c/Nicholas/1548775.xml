@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The God Gulf</title>
+    <meta content="07KRIS$01" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/01/07/opinion/07KRIS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1548775"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2004</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <classifier class="indexing_service" type="descriptor">Religion and Churches</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">Church-State Relations</classifier>
+        <person class="indexing_service">Cheney, Dick (Vice Pres)</person>
+        <person class="indexing_service">Lincoln, Abraham (1809-65)</person>
+        <person class="indexing_service">Kristof, Nicholas D</person>
+        <person class="indexing_service">Dean, Howard (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Nicholas D Kristof</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Church-State Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Church-State Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Republican Party</org>
+        <org class="online_producer">Democratic Party</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE0DD1031F934A35752C0A9629C8B63" item-length="826" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The God Gulf</hl1>
+        <hl2 class="online_headline">The God Gulf</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS D. KRISTOF</byline>
+      <byline class="normalized_byline">Kristof, Nicholas D</byline>
+      <abstract>
+        <p>Nicholas Kristof Op-Ed column on 'God gulf' that divides churchgoing Republicans from relatively secular Democrats, and prediction that Republicans will trot out God as new elephant in presidential race; points to Vice Pres Cheney's Christmas card, with quotation suggesting that US has become global superpower because God is on our side; adds that Democrat Howard Dean is now grasping for faith in way just as tasteless as Cheney's card; recommends as model Abraham Lincoln, who achieved moral clarity without santimony (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Religion may preach peace and tolerance, yet it's hard to think of anything that -- because of human malpractice -- has been more linked to violence and malice around the world. And now as we enter a new campaign year, it's time to brace ourselves for a new round of religious warfare and hypocrisy at home.</p>
+        <p>America is riven today by a ''God gulf'' of distrust, dividing churchgoing Republicans from relatively secular Democrats. A new Great Awakening is sweeping the country, with Americans increasingly telling pollsters that they believe in prayer and miracles, while only 28 percent say they believe in evolution. All this is good news for Bush Republicans, who are in tune with heartland religious values, and bad news for Dean Democrats who don't know John from Job.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>America is riven today by a "God gulf" of distrust, dividing churchgoing Republicans from relatively secular Democrats.</p>
+      </block>
+      <block class="full_text">
+        <p>Religion may preach peace and tolerance, yet it's hard to think of anything that -- because of human malpractice -- has been more linked to violence and malice around the world. And now as we enter a new campaign year, it's time to brace ourselves for a new round of religious warfare and hypocrisy at home.</p>
+        <p>America is riven today by a ''God gulf'' of distrust, dividing churchgoing Republicans from relatively secular Democrats. A new Great Awakening is sweeping the country, with Americans increasingly telling pollsters that they believe in prayer and miracles, while only 28 percent say they believe in evolution. All this is good news for Bush Republicans, who are in tune with heartland religious values, and bad news for Dean Democrats who don't know John from Job.</p>
+        <p>So expect Republicans to wage religious warfare by trotting out God as the new elephant in the race, and some Democrats to respond with hypocrisy, by affecting deep religious convictions. This campaign could end up as a tug of war over Jesus.</p>
+        <p>Over the holidays, Vice President Dick Cheney's Christmas card symbolized all that troubles me about the way politicians treat faith -- not as a source for spiritual improvement, but as a pedestal to strut upon. Mr. Cheney's card is dominated by a quotation by Benjamin Franklin: ''And if a sparrow cannot fall to the ground without His notice, is it probable that an empire can rise without His aid?''</p>
+        <p>It's hard not to see that as a boast that the U.S. has become the global superpower because God is on our side. And ''empire'' suggests Iraq: is Mr. Cheney contending that in the dispute over the latest gulf war, God was pulling for the White House and fulminating at Democrats and others in Beelzebub's camp?</p>
+        <p>Moreover, Mr. Cheney's card wrenches Ben Franklin's quotation from its context and upends the humility that Franklin stood for. If you read the full speeches Franklin gave to the Constitutional Convention, including the one with the sparrow line, you see that Franklin is not bragging that God is behind him but rather the opposite -- warning that the framers face so many difficulties they need all the help they can get, including prayer.</p>
+        <p>Meanwhile, Howard Dean is grasping for faith in a way that is just as tasteless as Mr. Cheney's Christmas card. Dr. Dean bragged to reporters that he knows much about the Bible -- and proceeded to say that his favorite New Testament book is Job. Anyone who cites Job as a New Testament book should be scolded not just for religious phoniness but also for appalling ignorance of Western civilization -- on a par with Mr. Bush's calling Greeks ''Grecians.''</p>
+        <p>After talking to Mr. Bush's longtime acquaintances, I'm convinced that his religious convictions are deeply felt and fairly typical in the U.S. Mr. Bush says the jury is still out on evolution, but he has also said that he doesn't take every word in the Bible as literally true. To me, nonetheless, it seems hypocritical of Mr. Bush to claim (as he did in the last campaign) that Jesus is his favorite philosopher and then to finance tax breaks for the rich by cutting services for the poor. If Dr. Dean should read up on Job, Mr. Bush should take a look at the Sermon on the Mount.</p>
+        <p>With Karl Rove's help, Mr. Bush has managed a careful balance, maintaining good ties with the Christian right without doing so publicly enough to terrify other voters. For example, Mr. Bush doesn't refer in his speeches to Jesus or Christ, but he sends reassuring messages to fellow evangelicals in code (''wonder-working power'' in his State of the Union address last year alluded to a hymn).</p>
+        <p>Republicans are in trouble when the debate moves to the issues because their policies often favor a wealthy elite. But they have the advantage when voters choose based on values, for here Republicans are populists and Democrats more elitist.</p>
+        <p>As we move into the religious wars, I wish we could recall how Abe Lincoln achieved moral clarity without moral sanctimony. Though often criticized for not being religious enough, Lincoln managed both of the key kinds of morality -- in personal behavior, which conservatives care about, and in seeking social justice, which liberals focus on. To me, each seems incomplete without the other.</p>
+        <p>Or there's the real Ben Franklin -- not the one counterfeited by Mr. Cheney -- who warned each of the framers of the Constitution to ''doubt a little of his own infallibility.'' That would be a useful text for Mr. Cheney's Christmas card next year.</p>
+        <p>Op-Ed Columnist E-mail: nicholas@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: nicholas@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Back From the Dead, a Secret Agent Is Ready to Save the World Again</title>
+    <meta content="13twen" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/13/arts/television/13twen.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1731572"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="TV WEEKEND"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <org class="indexing_service">Fox Broadcasting Co</org>
+        <person class="indexing_service">Stanley, Alessandra</person>
+        <person class="indexing_service">Sutherland, Kiefer</person>
+        <object.title class="indexing_service">24 (TV Program)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television/Reviews</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <org class="online_producer">Fox Inc</org>
+        <person class="online_producer">Sutherland, Kiefer</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5DE173FF930A25752C0A9609C8B63" item-length="1071" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Back From the Dead, a Secret Agent Is Ready to Save the World Again</hl1>
+        <hl2 class="online_headline">Back From the Dead, a Secret Agent Is Ready to Save the World Again</hl2>
+      </hedline>
+      <byline class="print_byline">By ALESSANDRA STANLEY</byline>
+      <byline class="normalized_byline">Stanley, Alessandra</byline>
+      <abstract>
+        <p>Alessandra Stanley TV Weekend column on four-hour season premiere of Fox drama 24, to be shown over two nights; perils facing star Kiefer Sutherland's character and history of show detailed; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There are a few shows that are sophisticated and also have a childish appeal. Even some of the most jaded television snobs look forward to the season premieres of ''The Sopranos'' or ''Curb Your Enthusiasm,'' as if those HBO shows were Christmas morning. On Fox, a new ''24'' also has the power to make grown men squeal.</p>
+        <p>And amazingly, the new season, which once again drags the special agent Jack Bauer (Kiefer Sutherland) back into the line of duty, does not disappoint. ''Sleeper Cell,'' a Showtime series about an undercover F.B.I. agent who infiltrates a Muslim terrorist cell in Los Angeles, is a spookier, subtler thriller. But ''24'' still provides an irresistible blend of iPodish computer wizardry and ''Perils of Pauline'' cliffhanger suspense.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The new season, which brings Jack Bauer back and includes iPodish computer wizardry and cliffhanger suspense, does not disappoint.</p>
+      </block>
+      <block class="full_text">
+        <p>There are a few shows that are sophisticated and also have a childish appeal. Even some of the most jaded television snobs look forward to the season premieres of ''The Sopranos'' or ''Curb Your Enthusiasm,'' as if those HBO shows were Christmas morning. On Fox, a new ''24'' also has the power to make grown men squeal.</p>
+        <p>And amazingly, the new season, which once again drags the special agent Jack Bauer (Kiefer Sutherland) back into the line of duty, does not disappoint. ''Sleeper Cell,'' a Showtime series about an undercover F.B.I. agent who infiltrates a Muslim terrorist cell in Los Angeles, is a spookier, subtler thriller. But ''24'' still provides an irresistible blend of iPodish computer wizardry and ''Perils of Pauline'' cliffhanger suspense.</p>
+        <p>Fox asked critics to swear a blood oath not to reveal the plot of the first 10 minutes of the four-hour premiere that will be shown in two parts on Sunday and Monday nights, and even most spoiler Web sites have shown admirable restraint. But obviously, dire things happen, leaving many lives and national security at stake. Bauer, who last season saved the nation from a cataclysmic nuclear attack and then had to fake his own death to avoid extradition to China, is the one man who can save the day, or in this case, Day 5.</p>
+        <p>This countdown clock begins ticking at 7 a.m., 18 months after the end of Day 4. (Each episode takes place over one hour of a 24-hour day that ends at the conclusion of the season.) Bauer, who is still officially dead, has assumed a new identity as Frank, an oil rig worker who lives in Mojave, Calif., with a girlfriend, Diane (Connie Britton), and her surly teenage son, Derek (Brady Corbet).</p>
+        <p>There has been considerable turnover at Bauer's old office in the Los Angeles branch of the counterterrorism unit, but fortunately, the best computer savant, Chloe (Mary Lynn Rajskub), is still hard at work in the unit, and she remains as delightfully irritable and awkward as ever. This season, she has a suitor, of sorts, yet even romance does not soften her demeanor. And she is still willing to break rules to decode and reroute all kinds of computer data to help Bauer.</p>
+        <p>Mr. Sutherland does the best he can to suggest the inner turmoil of Jack Bauer, a character who is too busy fleeing his friends and pursuing his enemies to reveal much personality. Haunted and hard-boiled, Bauer is a classic action-adventure hero: a man of few words but many tricky martial arts moves. So color on ''24'' is mainly provided by secondary characters. Unfortunately, Jack's annoying daughter, Kim (Elisha Cuthbert), is fated to make a return appearance. But at least there are a few, new enjoyable faces.</p>
+        <p>Charles Logan (Gregory Itzin) is still a Nixon-lite president of the United States -- vain, volatile and prone to panic. (He routinely lashes out at senior aides, who stare back at him with dismayed stoicism.) This time, however, the story includes his wife, Martha (Jean Smart), who appears to be mentally unstable and somewhat paranoid when off her medication -- a latter-day Martha Mitchell. The first lady suspects that a sinister plot is afoot, but her husband and his top aides keep assuring her that she is imagining things, like Ingrid Bergman in ''Gaslight.'' But they sometimes do have a point: no first lady in her right mind would wear plunging décolletage and thigh-high stockings to a summit meeting with the Russian president.</p>
+        <p>Well, maybe in a West Coast White House. ''24'' was created by Robert Cochran and Joel Surnow, both of whom worked on the hit series ''La Femme Nikita.'' Their latest endeavor has an indelible Los Angeles flair: the counterterrorism unit office looks more like the headquarters of Creative Artists Agency than the Central Intelligence Agency, and for some reason, all the villains, be they Islamic fundamentalists, drug smugglers, American oil brokers or Russian separatists, keep picking Los Angeles as a target for attack. This could be a signal that the world now views America as a superpower in show business alone, and that the epicenter of any first strike should be Hollywood. More likely, the show's creators preferred to keep location shoots close by.</p>
+        <p>It doesn't really matter; the series is not meant to be plausible, it is supposed to be cathartic -- a way of working out our worst fears of modern-day terrorism, be it bio, cyber or nuclear, in a fantasy that brings us right to the brink of destruction until one superhero prevails. It's the same scenario every season, and each one provides the same, ever-escalating brushes with catastrophe. Keeping any thriller going for 24 episodes is not an easy matter, however, and each season is over-packed with contorted plot twists, false leads and red herrings. Inevitably, there are moments when the series's creative verve starts to flag.</p>
+        <p>''24'' is a little like childbirth: by the end of each season, the process seems unbelievably long and painful, but once it is over, that is forgotten and most are ready to start all over again.</p>
+        <p>24  Fox, Sunday and Monday nights at 8, Eastern and Pacific times; 7, Central time.</p>
+        <p>Created by Joel Surnow and Robert Cochran; Brian Grazer, Mr. Surnow, Mr. Cochran, Howard Gordon and Evan Katz, executive producers; Kiefer Sutherland, co-executive producer. A production of Real Time Productions and Imagine Television in association with 20th Century Fox Television.</p>
+        <p>WITH: Kiefer Sutherland (Jack Bauer), Connie Britton (Diane), Brady Corbet (Derek), Gregory Itzin (President Logan), James Morrison (Bill Buchanan), Roger Cross (Curtis Manning), Louis Lombardi (Edgar Stiles), Mary Lynn Rajskub (Chloe O'Brian), Jean Smart (Martha Logan), Carlos Bernard (Tony Almeida), Kim Raver (Audrey Raines), Sean Astin (Lynn McGill) and Elisha Cuthbert (Kim).</p>
+        <p>TV WEEKEND</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Curtain Rises on New Act in Berlin's Opera Wars; Three Fiefs Must Learn How to Share, and to Live on Less</title>
+    <meta content="02BERL$01" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/03/02/arts/music/02BERL.html" name="alternate_url"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20040303T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1563097"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany/Berlin</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <location class="online_producer">Berlin (Germany)</location>
+        <org class="online_producer">Staatsoper Unter den Linden</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040302T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E6DD173FF931A35750C0A9629C8B63" item-length="1312" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Curtain Rises on New Act in Berlin's Opera Wars; Three Fiefs Must Learn How to Share, and to Live on Less</hl1>
+        <hl2 class="online_headline">A New Act in Berlins Opera Wars</hl2>
+      </hedline>
+      <byline class="print_byline">By ALAN RIDING</byline>
+      <dateline>BERLIN</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>From the start of the prolonged offstage drama that has been convulsing Berlin's opera world since the late 1990's, two inescapable and contradictory realities seemed likely to determine the outcome. Financially, the city government could no longer afford to maintain three opera houses in the style to which they had become accustomed. Politically, it could not afford to close any of them.</p>
+        <p>The solution that has now been imposed by the Berlin Senate, amid squeals of dismay and sighs of resignation, was predictable. The three opera houses -- the Deutsche Staatsoper Unter den Linden, the Deutsche Oper and the Komische Oper -- will remain open, but they must cut costs, including 220 jobs, and learn to live on smaller subsidies. They are also to share workshops, and will shortly merge their three ballet companies into a single Staatsballett Berlin.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Berlins three opera houses, once divided and coddled, will now have to learn to live with less and share resources under a united Berlin.</p>
+      </block>
+      <block class="full_text">
+        <p>From the start of the prolonged offstage drama that has been convulsing Berlin's opera world since the late 1990's, two inescapable and contradictory realities seemed likely to determine the outcome. Financially, the city government could no longer afford to maintain three opera houses in the style to which they had become accustomed. Politically, it could not afford to close any of them.</p>
+        <p>The solution that has now been imposed by the Berlin Senate, amid squeals of dismay and sighs of resignation, was predictable. The three opera houses -- the Deutsche Staatsoper Unter den Linden, the Deutsche Oper and the Komische Oper -- will remain open, but they must cut costs, including 220 jobs, and learn to live on smaller subsidies. They are also to share workshops, and will shortly merge their three ballet companies into a single Staatsballett Berlin.</p>
+        <p>''We are starting a new chapter,'' said Georg Vierthaler, the Staatsoper's managing director, in an interview last month. ''In time we will see if it is a comedy, drama or tragedy.''</p>
+        <p>With the German economy in a slump, traditionally generous cultural subsidies are being trimmed across the country. Berlin's situation, though, is special. During the cold war, governments on both sides of the divided city promoted culture for propaganda purposes. After 1990, a united Berlin inherited three opera houses, eight orchestras and 17 theaters, but it lost many of its financial privileges.</p>
+        <p>As its budget deficit mounted through the 1990's, the city's coddled opera houses became targets for austerity measures. The opera managements protested, with the Staatsoper's music director, Daniel Barenboim, threatening to resign. But dependent on city government subsidies for $142 million of their collective $196 million annual budget, the houses could not elude political pressure.</p>
+        <p>And as they came under the spotlight, something else was revealed: they were in need of a good shake-up. For 14 years the three houses -- the Deutsche Oper in former West Berlin and the Staatsoper and Komische Oper in former East Berlin -- have been operating as independent fiefs, mirroring the old divide. Now they will be expected to respond more faithfully to the interests of a united Berlin.</p>
+        <p>Though it is once again the federal capital, Berlin is a relatively poor city lacking an industrial or financial base. One of its principal assets is culture, not only its fine museums and the legendary Berlin Philharmonic but also its opera houses. Yet unlike, say, the Vienna State Opera, Berlin opera houses have never reached out to tourists, even though attendance by Berliners is falling. Now Berlin's politicians want more for their money.</p>
+        <p>The key is the creation of the new Berlin Opera Foundation. Headed by a general manager to be named by the city, the foundation will have control over the three opera houses, the new Staatsballett and the service company that will manage costume and décor workshops. The foundation's component parts are all represented on a 10-member executive board, and have collective responsibility for opera and ballet in Berlin.</p>
+        <p>''In the past when they were in debt they'd come to the Senate and hold out their hand and ask for help,'' said Barbara Kisseler, the city's under secretary for culture, who is overseeing the reform. ''Now this has to be sorted out by the foundation.''</p>
+        <p>This was also a condition laid down by the federal government when it offered to help resolve the crisis. Reluctant to be seen directly subsidizing opera, it took charge of four city museums, freeing up $21 million in city funds, which are to be used by the foundation. Without that money the annual opera and ballet subsidy would have fallen to $100 million from $142 million; now it will level off at $121 million in 2009.</p>
+        <p>But that still leaves the foundation with a projected shortfall of $21 million, which will be only partly covered by the savings -- about $12 million -- achieved through sharing workshops and cutting, among artists, 18 musicians from the opera orchestras, 7 singers from the choruses and 28 dancers from the ballet companies. With the subsidy being reduced in stages, the foundation will be in the red again in 2007.</p>
+        <p>This has persuaded Mr. Barenboim and Peter Mussbach, the Staatsoper's general manager and artistic director, to oppose the changes. ''From 2007 the foundation will be in trouble,'' Mr. Mussbach said. ''The politicians are ceding their responsibilities to those who are the victims. They know full well that three opera houses cannot survive. But if one of them closes, it will be the fault of the foundation, not the politicians. This is a political trick.''</p>
+        <p>Mr. Barenboim and Mr. Mussbach also complain that the Staatsoper and its renowned orchestra, the Staatskapelle, are victims of success. While the Deutsche Oper and the Komische Oper have been operating with a deficit, the Staatsoper has prospered. A recent sold-out performance of Wagner's ''Meistersinger von Nürnberg,'' conducted by Simone Young, with the German baritone Falk Struckmann as Hans Sachs, was evidence of its musical excellence.</p>
+        <p>The Staatsoper still receives a hefty subsidy, but it averages 80 percent attendance -- compared with 68 percent at the Deutsche Oper and 50 percent at the Komische Oper -- and has been more creative in its programming. There was an early-music festival last month, and at an Easter Festival in April Mr. Barenboim is to conduct new productions of Schoenberg's ''Moses und Aron,'' Tchaikovsky's ''Queen of Spades'' and three concerts by the Chicago Symphony Orchestra.</p>
+        <p>Mr. Barenboim's greatest fear is that the foundation will not respect the artistic independence of each house. ''If the foundation has a general manager who is responsible for all three houses,'' he said in a recent interview with the German weekly Die Zeit, ''it's not very credible that each house will keep its own identity. In the end, we won't have three different houses but only one house with three stages.''</p>
+        <p>Yet a common criticism has been that the houses lack clear identities. There was, for instance, frequent programming duplication, including one famous night when all three presented Mozart's ''Marriage of Figaro.'' It is therefore likely that the foundation will encourage the houses to develop different profiles. ''At the moment the repertories of the Deutsche Oper and the Staatsoper are interchangeable,'' Ms. Kisseler said.</p>
+        <p>If the Staatsoper feels victimized, the mood at the other two houses is more upbeat, if only because they started the year without a deficit. Still, each faces major problems. The Komische Oper's general manager and artistic director, Andreas Homoki, has lost some of the company's traditional East Berlin audience by modernizing productions.</p>
+        <p>The Deutsche Oper has been focusing on importing top singers -- the American tenor Robert Gambill recently sang the lead in Wagner's ''Tannhaüser'' -- but it has been without a general manager since Udo Zimmermann was forced out last year by the music director, Christian Thielemann. Ms. Kisseler said the house needed a general manager and a music director who work together.</p>
+        <p>As for the foundation's projected 2007 deficit, Ms. Kisseler said there was ample room for increasing efficiency in nonartistic areas and raising box office and other revenues. ''We need centralized artistic marketing to fill the houses,'' she said. ''At present there is not even central ticketing. Until now each house was interested only in itself. In future we have to serve the interests of all opera in Berlin.''</p>
+        <p>Correction:  March 3, 2004, Wednesday  A picture caption yesterday with an article about Berlin's three opera houses misspelled the name of a work heard recently at the Deutsche Staatsoper. It is ''Die Meistersinger von Nürnberg,'' not Miestersinger.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: March 3, 2004, Wednesday</p>
+        <p>A picture caption yesterday with an article about Berlin's three opera houses misspelled the name of a work heard recently at the Deutsche Staatsoper. It is ''Die Meistersinger von N�rnberg,'' not Miestersinger.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

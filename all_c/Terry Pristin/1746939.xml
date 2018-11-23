@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Trend for Public REIT's: Going Private</title>
+    <meta content="15reit" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/03/15/realestate/commercial/15reit.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1746939"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="SQUARE FEET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Real Estate</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Privatization</classifier>
+        <classifier class="indexing_service" type="descriptor">Real Estate Investment Trusts</classifier>
+        <classifier class="indexing_service" type="descriptor">Mortgages</classifier>
+        <classifier class="indexing_service" type="descriptor">Interest Rates</classifier>
+        <org class="indexing_service">Blackstone Group</org>
+        <org class="indexing_service">Carramerica Realty Corp</org>
+        <person class="indexing_service">Pristin, Terry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Real Estate</classifier>
+        <classifier class="online_producer" type="descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privatization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060315T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E7DE1131F936A25750C0A9609C8B63" item-length="987" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Trend for Public REIT's: Going Private</hl1>
+        <hl2 class="online_headline">A Trend for Public REIT's: Going Private</hl2>
+      </hedline>
+      <byline class="print_byline">By TERRY PRISTIN</byline>
+      <byline class="normalized_byline">Pristin, Terry</byline>
+      <abstract>
+        <p>12 real estate investment trusts, or REIT's, representing all commercial property sectors have been acquired by private companies since 2004, and two other buyout offers are pending, both involving Blackstone Group; Blackstone last week agreed to buy CarrAmerica Realty Corp, for $5.6 billion; real estate specialists say more REIT's can be expected to go private as long as interest rates remain low, investors are flush with capital and private buyers and Wall Street analysts have disparate views of how much underlying real estate is worth; as many as 10 other deals may be in pipeline; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CenterPoint Properties Trust, a leading developer of industrial property, has burnished its image over the last few years by transforming a former weapons factory in the Chicago suburb of Elwood into a successful intermodal railroad and warehouse complex.</p>
+        <p>CenterPoint had been a publicly traded real estate investment trust since 1993, but its solid reputation was not reflected in its share price. Analysts fretted when the company tried to spread its wings beyond its home base of Chicago. The sudden dismissal last year of a top executive also dragged down the stock.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Since 2004, 12 real estate investment trusts representing all commercial property sectors have been acquired by private companies.</p>
+      </block>
+      <block class="full_text">
+        <p>CenterPoint Properties Trust, a leading developer of industrial property, has burnished its image over the last few years by transforming a former weapons factory in the Chicago suburb of Elwood into a successful intermodal railroad and warehouse complex.</p>
+        <p>CenterPoint had been a publicly traded real estate investment trust since 1993, but its solid reputation was not reflected in its share price. Analysts fretted when the company tried to spread its wings beyond its home base of Chicago. The sudden dismissal last year of a top executive also dragged down the stock.</p>
+        <p>Fortunately for CenterPoint, executives at the California Public Employees' Retirement System, or CalPers, the nation's largest pension fund, saw things differently. CalPers, a joint venture partner with CenterPoint for the last five years, liked the company's plan to build additional intermodal centers -- where shipping containers from around the world are transferred from long freight trains to shorter trains or trucks. CalPers also had great confidence in CenterPoint's management, said José McNeil, who manages the pension fund's industrial portfolio.</p>
+        <p>So last fall, CalEast Industrial Investors, a joint venture between CalPers and LaSalle Investment Management, a division of Chicago-based Jones Lang LaSalle that invests in real estate for pension funds and other institutional investors, made the kind of move that is occurring with increasing frequency. It bought CenterPoint for $3.4 billion, or $50 a share. The sale, representing a 13.1 percent premium above the average stock price over the three months before the deal was announced on Dec. 9, was completed last week.</p>
+        <p>Since 2004, 12 real estate investment trusts, or REIT's, representing all commercial property sectors -- office, industrial, retail, hotels and apartments -- have been acquired by private companies, and two other buyout offers are pending, both involving the Blackstone Group, a private equity firm in New York. Last week, Blackstone agreed to buy the CarrAmerica Realty Corporation, a large national office REIT based in Washington, for $5.6 billion, the richest price so far. Shareholders are expected to approve the deal this summer.</p>
+        <p>Real estate specialists say more REIT's can be expected to go private as long as interest rates remain low, investors are flush with capital and private buyers and Wall Street analysts have disparate views of how much the underlying real estate is worth. ''I think it will continue as long as the stocks are cheap,'' said James S. Corl, the chief investment officer for real estate at Cohen &amp; Steers, CarrAmerica's largest shareholder.</p>
+        <p>As many as 10 other deals may be in the pipeline, said Richard D. Kincaid, the chief executive of Equity Office Properties Trust, a REIT based in Chicago that is almost certain to remain public because of its enormous size; it has interests in 615 office buildings, with 111.1 million square feet.</p>
+        <p>Jonathan L. Mechanic, the chairman of the real estate practice at Fried, Frank, Harris, Shriver &amp; Jacobson, said his firm was working on at least four possible deals.</p>
+        <p>The announcement by Town and Country Trust, an apartment REIT based in Baltimore, that it had accepted a buyout offer from an investor group made up of Morgan Stanley Real Estate and the Onex Corporation of Canada, unleashed a bidding war with two other suitors. Shareholders approved the deal with Morgan Stanley last week, but not before the bid was raised from $33.90 a share to $40.20 a share.</p>
+        <p>All this activity has helped to drive up share prices, even for REIT's that are not considered acquisition targets. ''The stocks are up another percent today,'' Chandler Spears, the portfolio manager for Davis Real Estate Fund of Santa Fe, a major shareholder in CenterPoint and other REIT stocks, said last week. ''It's almost getting a bit comical. It's like tech mania has hit REIT-land.''</p>
+        <p>Since Dec. 31, REIT shares have risen 11.6 percent, according to Keven Lindemann, the director of real estate for SNL Financial, a research company based in Charlottesville, Va. Helping to spur the privatization trend is the widespread availability of debt financing, giving private buyers an advantage over public companies, which have traditionally limited their borrowing. ''There isn't a lot of precedent for highly leveraged REIT's,'' said Cameron W. Clough, a managing director of North American banking for Morgan Stanley Real Estate, which advised CalEast on the CenterPoint deal. ''The market would have a little trouble accepting it.''</p>
+        <p>Blackstone, for example, is under no such constraints. The firm will borrow $4.25 billion to complete its purchase of CarrAmerica, the REIT said last week in a document filed with the Securities and Exchange Commission. Blackstone declined to discuss its plans for CarrAmerica, which has buildings in two of the strongest office markets, Washington and Southern California, but is also well represented in Northern California, a market that has yet to recover from the technology bust.</p>
+        <p>Mr. Kincaid, the Equity Office chief executive, however, speculated that Blackstone would sell CarrAmerica's trophy assets while holding onto its buildings in the Silicon Valley and San Francisco in anticipation of improvement in those markets.</p>
+        <p>At CenterPoint, the company president, Paul S. Fisher, said he was relieved to be free of the requirements of being a public company, including the more stringent accounting practices imposed by the Sarbanes-Oxley Act of 2002, which he described as a distraction. As a public company, CenterPoint had to disclose information before a transaction was completed, giving its competitors an advantage, Mr. Fisher said.</p>
+        <p>In addition, he and Michael M. Mullen, the chief executive, had to spend too much of their time explaining their business to Wall Street, Mr. Fisher said. ''I'm now back doing transactions,'' he said.</p>
+        <p>But Dale Anne Reiss, who directs the global real estate practice at Ernst &amp; Young, said that the availability of information had helped give the commercial real estate industry credibility. ''That's one of the things that's helped create the value in real estate,'' she said. ''Were we to lose that -- over a period of time, it could impact the values.''</p>
+        <p>SQUARE FEET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

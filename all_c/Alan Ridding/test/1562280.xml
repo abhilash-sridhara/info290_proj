@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Feuding Over Intelligence (That's IQ, Not G-2)</title>
+    <meta content="28INTE$02" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Arts &amp; Ideas/Cultural Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/02/28/arts/28INTE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1562280"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="descriptor">Culture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+        <location class="online_producer">France</location>
+        <person class="online_producer">Aillagon, Jean-Jacques</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040228T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE4D7113CF93BA15751C0A9629C8B63" item-length="789" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Feuding Over Intelligence (That's IQ, Not G-2)</hl1>
+        <hl2 class="online_headline">Feuding Over Intelligence (Thats IQ, Not G-2)</hl2>
+      </hedline>
+      <byline class="print_byline">By ALAN RIDING</byline>
+      <dateline>PARIS, Feb. 27</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It was an affair that could not last. One year after France's leftist intelligentsia and conservative government joined forces to oppose war in Iraq, the love fest has ended in fresh talk of war. Now some 40,000 members of the educated elite have signed a petition that accuses the government of waging ''war on intelligence'' -- brain power, that is, not spying.</p>
+        <p>Underneath the polemics, as usual, lie money and politics. The protesters say that President Jacques Chirac's government has been trimming cultural, educational and scientific budgets to the detriment of the country's ''intelligence.'' While the government has a solid majority in parliament and the Socialist opposition is in disarray, the intellectuals are using next month's nationwide regional elections to get attention.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>After a brief detente over the Iraq war, Frances leftist intelligentsia and conservative government are again at bitter odds.</p>
+      </block>
+      <block class="full_text">
+        <p>It was an affair that could not last. One year after France's leftist intelligentsia and conservative government joined forces to oppose war in Iraq, the love fest has ended in fresh talk of war. Now some 40,000 members of the educated elite have signed a petition that accuses the government of waging ''war on intelligence'' -- brain power, that is, not spying.</p>
+        <p>Underneath the polemics, as usual, lie money and politics. The protesters say that President Jacques Chirac's government has been trimming cultural, educational and scientific budgets to the detriment of the country's ''intelligence.'' While the government has a solid majority in parliament and the Socialist opposition is in disarray, the intellectuals are using next month's nationwide regional elections to get attention.</p>
+        <p>The squabble captured the spotlight at the awards ceremony for the Césars, the French Oscars, last Saturday. The actress and director Agnès Jaoui (''The Taste of Others'') led a verbal attack on Culture Minister Jean-Jacques Aillagon, accusing him of sponsoring ''absurd laws to eliminate the cultural exception.'' ''Cultural exception'' is used here to describe government support for French culture and protection of it.</p>
+        <p>Mr. Aillagon sat through the bombardment in uncomfortable silence, but he responded a few days later in a front-page article in Le Monde. ''What overwhelming conceit, this pretension to claim a monopoly over the defense of intelligence,'' he wrote of the petition's signers. And he added, ''The worst thing that intellectuals in this country can do is to enclose themselves in an immobilism and protectionism that will end up swallowing them.''</p>
+        <p>Patrick Devedjian, a junior government minister, was even more outspoken. ''In this country the intellectuals have a habit of signing petitions while in the United States they have Nobel Prizes,'' he told a radio station. ''Being an intellectual should not be considered a protected species. Being an intellectual includes demands, and results are often expected.''</p>
+        <p>Mr. Devedjian's remarks were considered inflammatory enough to merit opposition protests in Parliament, not least because many Socialist and Communist deputies, including a former Socialist prime minister, Michel Rocard, were among the petition's supporters.</p>
+        <p>The feud is rooted in a protest movement that sabotaged scores of arts festivals here last summer and then bubbled on through the winter, with the government refusing to restore cuts in unemployment benefits for self-employed actors and technicians. Now that dispute has become the spearhead of a much broader movement embracing teachers, scientists, psychiatrists, archaeologists, doctors, even lawyers.</p>
+        <p>All that they have in common, it seems, is a gripe against the government, usually over budget cuts, in some cases over recent law reforms: lawyers argue that increased police powers threaten human rights; psychotherapists are unhappy over a new bill requiring them to be formally qualified; archaeologists say the government has weakened their authority to supervise construction projects; and scientists complain that 550 postgraduate research jobs have been cut.</p>
+        <p>Thanks to the appeal against war on intelligence, made last week by Les Inrockuptibles, a rock and general-interest magazine modeled after Rolling Stone, these diverse sectors closed ranks. Thus the petition's signers include not only familiar faces like the philosopher Jacques Derrida, the movie directors Bertrand Tavernier and Claude Lanzmann, the theater directors Patrice Chereau and Ariane Mnouchkine and the former culture minister, Jack Lang, but also thousands of unknown intellectuals and professionals.</p>
+        <p>''All these sectors of learning, research, thought, social ties, producers of knowledge and public debate are today the target of massive attacks, evidence of a new government anti-intellectualism,'' said the petition, which was widely circulated by e-mail.</p>
+        <p>In the middle of this week, Prime Minister Jean-Pierre Raffarin stepped in to soothe tempers, saying he would have increased cultural subsidies if he had inherited a stronger economy from the Socialists two years ago. But he promised to work for solutions, then added a postscript: ''In your commentaries about Mr. Aillagon's presence at the Césars ceremony, you omitted one word: courage.''</p>
+        <p>Where this will lead is unclear, although the regional elections here on March 21 and 28 should help define the relative strengths of government and opposition. After that, if the past is any guide, the government and its vocal new foes will probably sit down and negotiate a truce. Despite the harsh words, they will continue to need each other.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Political Points</title>
+    <meta content="11POIN" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/01/11/politics/campaigns/11POIN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1549890"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="THE 2004 CAMPAIGN"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2004</classifier>
+        <classifier class="indexing_service" type="descriptor">Political Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <location class="indexing_service">Iowa</location>
+        <org class="indexing_service">Club For Growth</org>
+        <org class="indexing_service">New York Times</org>
+        <person class="indexing_service">Tierney, John</person>
+        <person class="indexing_service">Gephardt, Richard A (Rep)</person>
+        <person class="indexing_service">Dean, Howard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Iowa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Columns</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Columns/Political Points</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Issues/Taxation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/Howard Dean</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/Richard A Gephardt</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/States/Iowa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Iowa</classifier>
+        <classifier class="online_producer" type="descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Political Advertising</classifier>
+        <classifier class="online_producer" type="general_descriptor">Political Advertising</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Democratic Party</org>
+        <org class="online_producer">Club for Growth</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E5DA1730F932A25752C0A9629C8B63" item-length="1230" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Political Points</hl1>
+        <hl2 class="online_headline">All Tax Talk, No Action?</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN TIERNEY</byline>
+      <byline class="normalized_byline">Tierney, John</byline>
+      <abstract>
+        <p>John Tierney Political Points column predicts that Republican majority in Congress will make it impossible to undo tax cuts even if Democrat wins presidential election; notes conservative Club for Growth's $100,000 ad campaign in Iowa that targets New York Times readers as Democratic northeastern liberals; notes that surveys seek to categorize people as Democratic or Republican voters according to social behavior; notes Rep Richard A Gephardt campaign accuses Howard Dean workers of trying to sneak out-of-state voters into Iowa; drawing, table (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>All Tax Talk, No Action?</p>
+        <p>HOW many Democratic tax plans can dance on the head of a pin?</p>
+        <p>While the presidential candidates are out in Iowa passionately debating precisely which parts of the Bush tax cuts they will repeal, back in Washington some observers consider it an oddly hypothetical exercise. Virtually no one on Capitol Hill expects the Democrats to win control of Congress in November. So how much chance would any Democratic president have of persuading a Republican majority in either chamber to increase taxes next year?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The presidential candidates are out in Iowa debating precisely which parts of the Bush tax cuts they will repeal, an exercise some observers consider oddly hypothetical.</p>
+      </block>
+      <block class="full_text">
+        <p>All Tax Talk, No Action?</p>
+        <p>HOW many Democratic tax plans can dance on the head of a pin?</p>
+        <p>While the presidential candidates are out in Iowa passionately debating precisely which parts of the Bush tax cuts they will repeal, back in Washington some observers consider it an oddly hypothetical exercise. Virtually no one on Capitol Hill expects the Democrats to win control of Congress in November. So how much chance would any Democratic president have of persuading a Republican majority in either chamber to increase taxes next year?</p>
+        <p>''The answer is zero,'' said Senator Charles E. Grassley, the Iowa Republican who is chairman of the finance committee. ''Only 3 or 4 of the 10 Democrats on my committee would vote to get rid of the tax cuts. None of the Republicans would.''</p>
+        <p>''It's about as likely as Hillary Clinton becoming a Republican,'' replied John Feehery, a spokesman for Speaker J. Dennis Hastert of Illinois.</p>
+        <p>''No chance,'' said Grover G. Norquist, a leading Republican strategist and the president of Americans for Tax Reform, which has secured pledges from nearly half of the members of Congress not to raise taxes.</p>
+        <p>Like other conservatives, Mr. Norquist predicts that Democratic tax policy will play badly in the campaign, but he still does not forecast an easy Republican victory in November. No matter which Democrat is nominated, he said, the candidate can benefit from other pocketbook issues that a Democratic president could actually do something about: trade policy, tort reform and privatization of federal jobs.</p>
+        <p>''The Democrats could win because their base has more at stake economically than the Republican base,'' Mr. Norquist said. ''The unions know that four more years of Bush will mean a huge number of union jobs lost to new free-trade agreements and the outsourcing of the federal work force. Even modest tort reform could cost the trial lawyers tens of billions of dollars. It's perfectly reasonable to think that Democratic groups will spend $400 million on this election. If their team doesn't win, they don't eat.''</p>
+        <p>Ye Sushi-Eating Body Piercers!</p>
+        <p>IOWANS have just discovered your role in the vast left-wing conspiracy. They even know about your passions for eating sushi and sticking pins through your flesh. The Club for Growth, a conservative group, has put you in a $100,000 advertising campaign in Iowa. The group's attack advertisement, which made its debut on Des Moines television on Wednesday, shows a husband and wife talking about Howard Dean's proposal to repeal the Bush tax cuts.</p>
+        <p>''Howard Dean,'' the husband says, ''should take his tax-hiking, government-expanding, latte-drinking, sushi-eating, Volvo-driving, New-York-Times-reading'' -- at which point the wife interrupts to finish the sentence -- ''body-piercing, Hollywood-loving, left-wing freak show back to Vermont, where it belongs.''</p>
+        <p>Could this really be you, gentle reader? Given that about half of the Times's circulation is in the New York metropolitan area, a heavily Democratic region, it may be reasonable to guess that a majority of readers vote Democratic. But Catherine J. Mathis, a spokeswoman for The Times, said the newspaper itself did not know the political affiliation of its readers -- much less their preferences in coffee and Japanese food.</p>
+        <p>Stephen Moore, the president of the Club for Growth, said the commercial was not based on market research about Times readers. In fact, the original script had ''NPR-listening'' instead, he said, but he changed it to Times-reading to appeal to Iowans angered by a Times editorial suggesting the presidential campaign would improve if candidates skipped the Iowa's caucuses.</p>
+        <p>''We're trying to present an image of Northeast liberals,'' Mr. Moore said. But as a resident of Washington, doesn't he fit some of the stereotypes himself? What about sushi?</p>
+        <p>''I don't eat sushi,'' Mr. Moore said. ''I don't drive a Volvo. I don't read The Times -- except for the Political Points column, of course. I don't drink latte. I do have my navel pierced, though.''</p>
+        <p>Labels 'n' Labels For Red 'n' Blue</p>
+        <p>FOR a more scientific breakdown of America's electoral divide, you can choose from two new surveys identifying yet more groups for candidates to worry about.</p>
+        <p>Republicans can now break their base into categories like Country Folk (whites outside metropolitan areas), The Faithful (born-again Christian fundamentalists and other Protestants) and Privileged Men (white college graduates). Those labels come from ''The Two Americas,'' a new book by Stanley B. Greenberg, the pollster who guided Bill Clinton.</p>
+        <p>Mr. Greenberg breaks the Democratic base into categories like Secular Warriors (people who rarely attend church and do not own a gun) and Cosmopolitan States (New England, New York, New Jersey and California). While Super-Educated Women (those with postgraduate degrees) are reliable Democrats, men with postgraduate degrees are more fickle. Other groups up for grabs include Devout Catholics (white non-Hispanic Catholics who attend Mass weekly), Aging Blues (men or women over 50 without college degrees) and the Young and the Restless (whites under 30).</p>
+        <p>In a separate poll analyzing the blue-red divide, Zogby International has identified two other groups that vote Republican: people who attend high school sports events and people who attend Little League games. This was called the division between Hometown Values and Hollywood Values by The O'Leary Report, the conservative publication that conducted the poll along with Zogby and Southern Methodist University.</p>
+        <p>The poll also found that groups called the Defenders (people whose family includes a current or retired member of the military) and Wealth-Builders (those with stocks or 401(k) plans) are significantly more likely to vote Republican.</p>
+        <p>Like Mr. Greenberg's poll, the Zogby survey found that Democrats go to church a lot less often than Republicans do. If you believe that new commercial in Iowa, you might wonder if this is because Democrats are too busy on Sunday morning reading the paper. But that theory has not yet been investigated.</p>
+        <p>Purple Heart Award</p>
+        <p>Some might have relished the chance to snipe at a rival, but not Steve Murphy, the manager of Richard A. Gephardt's campaign. ''We have been friends a long time and it is with a heavy heart that I write this letter,'' he began a missive on Thursday to Joe Trippi, the manager of the Dean campaign, that accused him of trying to sneak out-of-staters into the Iowa caucuses. Mr. Trippi promptly replied with a letter of rebuttal telling how saddened he was by the ''sleazy tactics'' of Mr. Murphy, and concluding that ''it is with a particularly heavy heart that I send this letter.'' Whose heart tips the scales? Let them sadly share the honor.</p>
+        <p>THE 2004 CAMPAIGN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

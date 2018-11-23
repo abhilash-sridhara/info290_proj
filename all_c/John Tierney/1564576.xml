@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Political Points</title>
+    <meta content="07POIN$01" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/03/07/national/07POIN.html" name="alternate_url"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20040320T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1564576"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="Political Points"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Campaign of 2004</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Primaries</classifier>
+        <person class="indexing_service">Tierney, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Columns</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Columns/Political Points</classifier>
+        <classifier class="online_producer" type="descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="descriptor">Primaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Primaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Democratic Party</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040307T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E4DC1F3FF934A35750C0A9629C8B63" item-length="1197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Political Points</hl1>
+        <hl2 class="online_headline">Best and Worst of the Primaries</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN TIERNEY</byline>
+      <byline class="normalized_byline">Tierney, John</byline>
+      <abstract>
+        <p>John Tierney Political Points column makes humorous awards for best and worst photo ops, sound bites, questions and answers during primary season; drawings (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Best and Worst Of the Primaries</p>
+        <p>At the risk of disappointing Representative Dennis J. Kucinich and the Rev. Al Sharpton, we're going to assume that the peak of the Democratic Party's primary season is behind us. So let's present the Primary Honors.</p>
+        <p>WORST PHOTO OP -- Was it when Howard Dean put on a cheesehead in Wisconsin, or the moment he indulged some strange Iowa tradition by allowing a milkshake to be poured into a glass balanced on his head? Call it a tie. Either way, the political lesson is clear: Avoid dairy products.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>At the risk of disappointing Representative Dennis J. Kucinich and the Rev. Al Sharpton, were going to assume that the peak of the primary season is behind us.</p>
+      </block>
+      <block class="full_text">
+        <p>Best and Worst Of the Primaries</p>
+        <p>At the risk of disappointing Representative Dennis J. Kucinich and the Rev. Al Sharpton, we're going to assume that the peak of the Democratic Party's primary season is behind us. So let's present the Primary Honors.</p>
+        <p>WORST PHOTO OP -- Was it when Howard Dean put on a cheesehead in Wisconsin, or the moment he indulged some strange Iowa tradition by allowing a milkshake to be poured into a glass balanced on his head? Call it a tie. Either way, the political lesson is clear: Avoid dairy products.</p>
+        <p>BEST PHOTO OP -- Senator John Kerry's reunion in Iowa with a veteran who credited him for saving his life in Vietnam was the emotional high point of the Kerry primary campaign. But there was one even more valuable photo opportunity generously provided by the White House advance team. To rouse an audience, a Democratic candidate had merely to mention the scene of Mr. Bush ''playing dress-up'' while ''prancing'' on that aircraft carrier with the ''Mission Accomplished'' banner.</p>
+        <p>WORST SOUND BITE -- Dr. Dean took an early lead in this race and never gave it up. First, there was the line about pickups with Confederate flags, then the announcement that America was no safer after Saddam Hussein's capture. The award seemed assured at a town hall meeting when he told a 67-year-old Iowan: ''You sit down. You've had your say, and now I'm going to have my say.'' But then came the Scream, the standard against which all bad sound bites will henceforth be measured.</p>
+        <p>BEST SOUND BITE -- Another gift from Mr. Bush. Even at the most lackluster rally, Mr. Kerry could count on the crowd chanting along when he used the president's own words against him: ''Bring it on!''</p>
+        <p>WORST QUESTION -- John Edwards gave the same boring answer at every stop, but reporters never stopped asking it anyway: ''Are you running for vice president?''</p>
+        <p>BEST QUESTION -- When James P. Hoffa, the president of the Teamsters union, appeared on MSNBC's ''Hardball'' to explain his endorsement of Mr. Kerry, he said he was not troubled by Mr. Kerry's opposition to drilling for oil in the Arctic National Wildlife Refuge. Although the Teamsters had wanted those drilling jobs in Alaska, Mr. Hoffa said he had been assured there would be more jobs created by other drilling projects around the United States. He quoted Mr. Kerry telling him, ''We're going to drill like never before.''</p>
+        <p>What could possibly have caused a fervent environmentalist like Mr. Kerry to promise more drilling than the Bush administration allows now? Chris Matthews, the amused host, promptly raised one theory.</p>
+        <p>''What position was he in when he made all these promises?'' Mr. Matthews asked the Teamsters leader.</p>
+        <p>Mr. Hoffa, unfortunately, did not reply.</p>
+        <p>WORST ANSWER -- Before he entered the race in September, political veterans advised Gen. Wesley K. Clark to practice every day answering a barrage of questions from aides pretending to be reporters. But the day after he announced his candidacy, he was stumped when a reporter on his plane asked the most obvious question: Would he have voted in Congress to authorize the Iraq war? First, General Clark said he probably would have. Then he said he wouldn't have. Then he looked to the front of the plane, where his press secretary, Mary Jacoby, was sitting, and came up with the answer that probably expressed his true inner feelings: ''Mary, help!''</p>
+        <p>BEST ANSWER -- It came last Sunday in response to the trickiest question posed to the Democrats during their debates: Is God on America's side in the war against terror? The first respondent, Mr. Kerry, started out awkwardly -- ''Well, God will, look, I think, I believe in God'' -- and went on to dodge it. Then it was John Edwards's turn.</p>
+        <p>''Well, there's a wonderful story about Abraham Lincoln during the middle of the Civil War,'' Mr. Edwards said, going on to tell about a group of leaders who asked Lincoln to join them in praying that God was on the Union's side. ''Abraham Lincoln's response was, 'I won't join you in that prayer, but I'll join you in a prayer that we're on God's side.' ''</p>
+        <p>It's hard to recall the last presidential debate featuring such a perfect ad-lib, although other politicians (or at least their speechwriters) have previously borrowed Lincoln's line. President George Bush quoted it in a 1991 speech to Christian educators. In 1988, President Ronald Reagan told of a rally at Madison Square Garden during World War II at which various celebrities proclaimed God to be on America's side, whereupon the boxer Joe Louis proclaimed that America would win because it was on God's side.</p>
+        <p>''There was just a hushed moment of silence,'' Mr. Reagan said, ''and then that crowd came to their feet with just about the most heartfelt applause and ovation that anyone has ever heard. The master of ceremonies was the comedian George Jessel, and George said, 'Joe, you have just laid a rose on Abraham Lincoln's grave.' '' He would have been impressed with Mr. Edwards, too.</p>
+        <p>Political Points  Correction:  March 20, 2004, Saturday  A report in the Political Points column on March 7 about a response by Senator John Edwards during a presidential debate incorporated an anecdote in which President Ronald Reagan in 1988 misidentified the person who praised the boxer Joe Louis at an event during World War II. Louis proclaimed that America would win the war because it was on God's side. The master of ceremonies, who praised Louis, was the former mayor of New York, Jimmy Walker, not, as Mr. Reagan said, the comedian George Jessel.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: March 20, 2004, Saturday</p>
+        <p>A report in the Political Points column on March 7 about a response by Senator John Edwards during a presidential debate incorporated an anecdote in which President Ronald Reagan in 1988 misidentified the person who praised the boxer Joe Louis at an event during World War II. Louis proclaimed that America would win the war because it was on God's side. The master of ceremonies, who praised Louis, was the former mayor of New York, Jimmy Walker, not, as Mr. Reagan said, the comedian George Jessel.</p>
+        <p>&lt;br&gt;</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>
